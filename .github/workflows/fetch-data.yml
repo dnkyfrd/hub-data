@@ -9,6 +9,8 @@ on:
 jobs:
   fetch-and-save:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This line grants the necessary write permissions
 
     steps:
       - name: Checkout repository
@@ -23,7 +25,7 @@ jobs:
         run: |
           # This command executes the fetch-json.js file
           node fetch-json.js
-          
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
