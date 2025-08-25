@@ -155,7 +155,6 @@ const cities = [
 
 /**
  * Determines the correct HTTP headers based on the API endpoint URL.
- * This is crucial for successful requests to Donkey Republic APIs.
  * @param {string} url The API endpoint URL.
  * @returns {object} The headers object to be used in the request.
  */
@@ -168,13 +167,10 @@ function getRequestHeaders(url) {
     };
   } else if (url.includes('nearby?filter_type=account&account_id=')) {
     // Style 2: Nearby endpoint with account filter
-    const urlObj = new URL(url);
-    const accountId = urlObj.searchParams.get('account_id');
+    // Note: The filter parameters are in the URL, not the headers.
     return {
       'Accept': 'application/json',
-      'User-Agent': 'DonkeyHubProcessor/1.0',
-      'filter_type': 'account',
-      'account_id': accountId
+      'User-Agent': 'DonkeyHubProcessor/1.0'
     };
   } else {
     // Default fallback headers
