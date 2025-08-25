@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5681846,
+          46.5206921
+        ]
+      },
+      "properties": {
+        "id": 16548,
+        "name": "EPFL - Piccard",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5607173,
+          46.5171987
+        ]
+      },
+      "properties": {
+        "id": 3129,
+        "name": "EPFL Innovation Park cargobike (bât. QIH)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5662067,
+          46.5205049
+        ]
+      },
+      "properties": {
+        "id": 649,
+        "name": "EPFL Cargo - Parking Esplanade (underground)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5671437,
+          46.5199649
+        ]
+      },
+      "properties": {
+        "id": 16552,
+        "name": "EPFL - ME",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5621018,
+          46.5189477
+        ]
+      },
+      "properties": {
+        "id": 648,
+        "name": "EPFL Cargobike - Place Alan Turing",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5649568,
+          46.5200642
+        ]
+      },
+      "properties": {
+        "id": 16551,
+        "name": "EPFL - Diagonale",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5716092,
+          46.5206971
+        ]
+      },
+      "properties": {
+        "id": 16547,
+        "name": "EPFL - Forel",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5682427,
+          46.5206041
+        ]
+      },
+      "properties": {
+        "id": 650,
+        "name": "EPFL Cargobike - Av. Piccard",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5715833,
+          46.5206146
+        ]
+      },
+      "properties": {
+        "id": 3126,
+        "name": "EPFL Cargobike - Av. Forel (bât. BS)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567096,
+          46.519988
+        ]
+      },
+      "properties": {
+        "id": 3127,
+        "name": "EPFL Cargobike - Ch. des Machines (bât. ME)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564164,
+          46.5195796
+        ]
+      },
+      "properties": {
+        "id": 3128,
+        "name": "EPFL Cargobike - La Diagonale  (bât. MXC)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5607714,
+          46.5171929
+        ]
+      },
+      "properties": {
+        "id": 16549,
+        "name": "EPFL Innovation Park",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560731,
+          46.5172861
+        ]
+      },
+      "properties": {
+        "id": 16228,
+        "name": "EPFL Innovation Park cargobike (bât. QIH)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5621178,
+          46.5189597
+        ]
+      },
+      "properties": {
+        "id": 16550,
+        "name": "EPFL - BC",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    }
+  ],
+  "metadata": {
+    "city": "lausanne-epfl",
+    "total_hubs": 14,
+    "generated_at": "2025-08-25T14:18:27.886Z",
+    "endpoints": [
+      "https://stables.donkey.bike/api/public/cities/53/hubs/"
+    ]
+  }
+}

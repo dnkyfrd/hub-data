@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4674696,
+          51.9256995
+        ]
+      },
+      "properties": {
+        "id": 31916,
+        "name": "Rotterdam Centraal Noord",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5096,
+          51.9054896
+        ]
+      },
+      "properties": {
+        "id": 32276,
+        "name": "Rotterdam Zuid oostzijde ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5312133,
+          51.8808708
+        ]
+      },
+      "properties": {
+        "id": 31921,
+        "name": "Rotterdam Lombardijen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4817906,
+          51.9425145
+        ]
+      },
+      "properties": {
+        "id": 31919,
+        "name": "Rotterdam Noord",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2494087,
+          52.0645579
+        ]
+      },
+      "properties": {
+        "id": 26624,
+        "name": "Wandelgangen (point 34)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2226623,
+          52.0515099
+        ]
+      },
+      "properties": {
+        "id": 26608,
+        "name": "Parkingspace Ockenburgh (point 5)",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4117038,
+          51.8270781
+        ]
+      },
+      "properties": {
+        "id": 1371,
+        "name": "Bierkade - Oud-Beijerland",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    }
+  ],
+  "metadata": {
+    "city": "rotterdam",
+    "total_hubs": 7,
+    "generated_at": "2025-08-25T14:18:24.752Z",
+    "endpoints": [
+      "https://stables.donkey.bike/api/public/cities/21/hubs/"
+    ]
+  }
+}

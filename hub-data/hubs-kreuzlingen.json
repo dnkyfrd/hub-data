@@ -1,0 +1,413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1807834,
+          47.6512313
+        ]
+      },
+      "properties": {
+        "id": 22526,
+        "name": "Kursschifffahrtshafen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2462366,
+          47.6291062
+        ]
+      },
+      "properties": {
+        "id": 30492,
+        "name": "Bahnhof Landschlacht",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1761214,
+          47.6468718
+        ]
+      },
+      "properties": {
+        "id": 22524,
+        "name": "Bärenplatz/Festwiese",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1624843,
+          47.6424447
+        ]
+      },
+      "properties": {
+        "id": 22520,
+        "name": "Bahnhof Bernrain",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1816299,
+          47.649461
+        ]
+      },
+      "properties": {
+        "id": 22525,
+        "name": "Bahnhof Hafen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1900953,
+          47.6450885
+        ]
+      },
+      "properties": {
+        "id": 22527,
+        "name": "Sonnenwiesenstrasse",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1735334,
+          47.6502535
+        ]
+      },
+      "properties": {
+        "id": 22523,
+        "name": "Einkaufszentrum Karussell",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1394509,
+          47.6537621
+        ]
+      },
+      "properties": {
+        "id": 27221,
+        "name": "Bahnhof Tägerwilen-Dorf ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1981346,
+          47.6470182
+        ]
+      },
+      "properties": {
+        "id": 22528,
+        "name": "Camping Fischerhaus",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1773609,
+          47.654836
+        ]
+      },
+      "properties": {
+        "id": 27178,
+        "name": "Grenze Klein Venedig ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2126815,
+          47.6407932
+        ]
+      },
+      "properties": {
+        "id": 22529,
+        "name": "Bahnhof Bottighofen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2315046,
+          47.6337636
+        ]
+      },
+      "properties": {
+        "id": 22533,
+        "name": "Psychiatrische Klinik",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1677532,
+          47.6527784
+        ]
+      },
+      "properties": {
+        "id": 22522,
+        "name": "Bahnhof Kreuzlingen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22306,
+          47.6344818
+        ]
+      },
+      "properties": {
+        "id": 22532,
+        "name": "Parkplatz Hafenfeld",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1327185,
+          47.6596514
+        ]
+      },
+      "properties": {
+        "id": 27219,
+        "name": "Bahnhof Tägerwilen-Gottlieben",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2063484,
+          47.6165309
+        ]
+      },
+      "properties": {
+        "id": 31331,
+        "name": "Ekkharthof",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.227371,
+          47.6334751
+        ]
+      },
+      "properties": {
+        "id": 30174,
+        "name": "Bhf. Münsterlingen-Scherzingen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2364925,
+          47.6309082
+        ]
+      },
+      "properties": {
+        "id": 22535,
+        "name": "Haupteingang Kantonsspital",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1899964,
+          47.6261744
+        ]
+      },
+      "properties": {
+        "id": 22530,
+        "name": "Bahnhof Lengwil ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1988165,
+          47.6451281
+        ]
+      },
+      "properties": {
+        "id": 27276,
+        "name": "Schwimmbad Hörnli ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    }
+  ],
+  "metadata": {
+    "city": "kreuzlingen",
+    "total_hubs": 20,
+    "generated_at": "2025-08-25T14:18:27.538Z",
+    "endpoints": [
+      "https://stables.donkey.bike/api/public/cities/304/hubs/"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [],
+  "metadata": {
+    "city": "antwerp-mechelen-waasland",
+    "total_hubs": 0,
+    "generated_at": "2025-08-25T14:18:12.498Z",
+    "endpoints": [
+      "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803"
+    ]
+  }
+}
