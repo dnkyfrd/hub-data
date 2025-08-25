@@ -1,0 +1,33 @@
+name: Fetch City Hub Data
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Sunday
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run data fetching script
+        run: |
+          # This command executes the fetch-json.js file
+          node fetch-json.js
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add hub-data/
+          git commit -m '🤖 Auto-update hub data' || echo "No changes to commit"
+          git push
