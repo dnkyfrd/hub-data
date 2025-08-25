@@ -106,26 +106,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.2984177,
-          60.4430797
-        ]
-      },
-      "properties": {
-        "id": 23033,
-        "name": "Hippoksentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           22.2829965,
           60.4653384
         ]
@@ -286,26 +266,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.2729404,
-          60.4510958
-        ]
-      },
-      "properties": {
-        "id": 22480,
-        "name": "Vähätori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           22.2933979,
           60.4516064
         ]
@@ -353,6 +313,46 @@
       "properties": {
         "id": 22499,
         "name": "Puistokatu",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2729404,
+          60.4510958
+        ]
+      },
+      "properties": {
+        "id": 22480,
+        "name": "Vähätori",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2984177,
+          60.4430797
+        ]
+      },
+      "properties": {
+        "id": 23033,
+        "name": "Hippoksentie",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5465,7 +5465,7 @@
   "metadata": {
     "city": "turku",
     "total_hubs": 273,
-    "generated_at": "2025-08-25T14:18:18.540Z",
+    "generated_at": "2025-08-25T14:23:53.776Z",
     "endpoints": [
       "https://stables.donkey.bike/api/public/cities/345/hubs/"
     ]

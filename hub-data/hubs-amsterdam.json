@@ -86,26 +86,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8454602,
-          52.341955
-        ]
-      },
-      "properties": {
-        "id": 2436,
-        "name": "Hotel Jansen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.8002154,
           52.3577129
         ]
@@ -153,6 +133,26 @@
       "properties": {
         "id": 28890,
         "name": "Appeltjesmarkt",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8454602,
+          52.341955
+        ]
+      },
+      "properties": {
+        "id": 2436,
+        "name": "Hotel Jansen",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -1065,7 +1065,7 @@
   "metadata": {
     "city": "amsterdam",
     "total_hubs": 53,
-    "generated_at": "2025-08-25T14:18:21.314Z",
+    "generated_at": "2025-08-25T14:23:56.823Z",
     "endpoints": [
       "https://stables.donkey.bike/api/public/cities/5/hubs/"
     ]

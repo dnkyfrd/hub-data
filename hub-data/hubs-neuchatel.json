@@ -146,26 +146,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.9030986,
-          46.9825555
-        ]
-      },
-      "properties": {
-        "id": 17035,
-        "name": "Battieux",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.89676,
           46.9790096
         ]
@@ -193,6 +173,26 @@
       "properties": {
         "id": 18025,
         "name": "La Tène",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9030986,
+          46.9825555
+        ]
+      },
+      "properties": {
+        "id": 17035,
+        "name": "Battieux",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -1345,7 +1345,7 @@
   "metadata": {
     "city": "neuchatel",
     "total_hubs": 67,
-    "generated_at": "2025-08-25T14:18:28.244Z",
+    "generated_at": "2025-08-25T14:24:04.118Z",
     "endpoints": [
       "https://stables.donkey.bike/api/public/cities/142/hubs/"
     ]

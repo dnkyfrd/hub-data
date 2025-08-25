@@ -66,26 +66,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.2070257,
-          56.1666152
-        ]
-      },
-      "properties": {
-        "id": 4986,
-        "name": "AU, VAB",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.195747,
           56.1328741
         ]
@@ -253,26 +233,6 @@
       "properties": {
         "id": 3891,
         "name": "Aarhus BSS-Vestre Ringgade/Vibovej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.2098759,
-          56.1601301
-        ]
-      },
-      "properties": {
-        "id": 4520,
-        "name": "Paradisgade 6",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -966,6 +926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.2098759,
+          56.1601301
+        ]
+      },
+      "properties": {
+        "id": 4520,
+        "name": "Paradisgade 6",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.2070472,
           56.1673903
         ]
@@ -1513,6 +1493,26 @@
       "properties": {
         "id": 4982,
         "name": "Åkrogs Strand",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2070257,
+          56.1666152
+        ]
+      },
+      "properties": {
+        "id": 4986,
+        "name": "AU, VAB",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -8565,7 +8565,7 @@
   "metadata": {
     "city": "aarhus",
     "total_hubs": 428,
-    "generated_at": "2025-08-25T14:18:15.335Z",
+    "generated_at": "2025-08-25T14:23:51.049Z",
     "endpoints": [
       "https://stables.donkey.bike/api/public/cities/205/hubs/"
     ]

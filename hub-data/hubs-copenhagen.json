@@ -326,26 +326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5561085,
-          55.6909959
-        ]
-      },
-      "properties": {
-        "id": 9317,
-        "name": "Møllegade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5528542,
           55.6920983
         ]
@@ -1126,26 +1106,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5582056,
-          55.6690849
-        ]
-      },
-      "properties": {
-        "id": 7411,
-        "name": "Slagterboderne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5653429,
           55.6895148
         ]
@@ -1153,26 +1113,6 @@
       "properties": {
         "id": 6609,
         "name": "Schleppegrellsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5442973,
-          55.6957769
-        ]
-      },
-      "properties": {
-        "id": 1166,
-        "name": "Stefansgade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -1626,26 +1566,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5881464,
-          55.6919101
-        ]
-      },
-      "properties": {
-        "id": 2180,
-        "name": "Østerport St.",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5674504,
           55.6716699
         ]
@@ -2006,26 +1926,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5599574,
-          55.6879548
-        ]
-      },
-      "properties": {
-        "id": 3292,
-        "name": "Blågårdsgade II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.541548,
           55.6988334
         ]
@@ -2226,26 +2126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5546726,
-          55.6649612
-        ]
-      },
-      "properties": {
-        "id": 6117,
-        "name": "Esbern Snares Gade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5663107,
           55.6985166
         ]
@@ -2333,26 +2213,6 @@
       "properties": {
         "id": 1165,
         "name": "Den Sorte Plads",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5775904,
-          55.6675679
-        ]
-      },
-      "properties": {
-        "id": 2285,
-        "name": "Islands Brygge Kulturhuset",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -2626,26 +2486,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5652128,
-          55.6748893
-        ]
-      },
-      "properties": {
-        "id": 2164,
-        "name": "Tourist Information Office",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5785099,
           55.6682273
         ]
@@ -2753,26 +2593,6 @@
       "properties": {
         "id": 5883,
         "name": "Bornholmsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5988879,
-          55.6930783
-        ]
-      },
-      "properties": {
-        "id": 2220,
-        "name": "The Little Mermaid",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -3026,46 +2846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5513654,
-          55.6665145
-        ]
-      },
-      "properties": {
-        "id": 3515,
-        "name": "Arkonagade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5729024,
-          55.6840649
-        ]
-      },
-      "properties": {
-        "id": 26389,
-        "name": "Nørreport St. V",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5757184,
           55.6908135
         ]
@@ -3126,26 +2906,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6180166,
-          55.6838926
-        ]
-      },
-      "properties": {
-        "id": 16991,
-        "name": "Vindmøllevej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.6217193,
           55.6715717
         ]
@@ -3173,26 +2933,6 @@
       "properties": {
         "id": 31826,
         "name": "Griffenfeldsgade 20",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5840537,
-          55.6818678
-        ]
-      },
-      "properties": {
-        "id": 3749,
-        "name": "Bermuda Triangle",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -3506,26 +3246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5552572,
-          55.6721872
-        ]
-      },
-      "properties": {
-        "id": 2880,
-        "name": "Vesterbros Torv",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5781912,
           55.7151066
         ]
@@ -3573,26 +3293,6 @@
       "properties": {
         "id": 926,
         "name": "Balders Pl. - Nørrebro",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5460474,
-          55.6855257
-        ]
-      },
-      "properties": {
-        "id": 30488,
-        "name": "Åboulevard 59A",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -3673,46 +3373,6 @@
       "properties": {
         "id": 2184,
         "name": "Tycho Brahe Planetarium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5903736,
-          55.7060611
-        ]
-      },
-      "properties": {
-        "id": 2181,
-        "name": "Nordhavn St.",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5620351,
-          55.6809485
-        ]
-      },
-      "properties": {
-        "id": 5478,
-        "name": "Turesensgade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -3846,26 +3506,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6041025,
-          55.6648074
-        ]
-      },
-      "properties": {
-        "id": 2147,
-        "name": "Jemtelandsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5630992,
           55.6778115
         ]
@@ -3873,26 +3513,6 @@
       "properties": {
         "id": 2177,
         "name": "Staunings Plads",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5972665,
-          55.6742266
-        ]
-      },
-      "properties": {
-        "id": 20731,
-        "name": "Christiania",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -4286,86 +3906,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6018331,
-          55.6816274
-        ]
-      },
-      "properties": {
-        "id": 9105,
-        "name": "Ekvipagemestervej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5874544,
-          55.6805177
-        ]
-      },
-      "properties": {
-        "id": 2346,
-        "name": "Mindeankeret",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5298364,
-          55.6645761
-        ]
-      },
-      "properties": {
-        "id": 30252,
-        "name": "Home of Carlsberg ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5597435,
-          55.6681055
-        ]
-      },
-      "properties": {
-        "id": 31972,
-        "name": "Flæsketorvet 95K",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5739491,
           55.6810098
         ]
@@ -4586,13 +4126,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6102052,
-          55.6832869
+          12.5597435,
+          55.6681055
         ]
       },
       "properties": {
-        "id": 5513,
-        "name": "Krudtløbsvej",
+        "id": 31972,
+        "name": "Flæsketorvet 95K",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -4626,33 +4166,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5616684,
-          55.6790839
+          12.5738921,
+          55.6725808
         ]
       },
       "properties": {
-        "id": 2360,
-        "name": "Dahlerupsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5574156,
-          55.6919451
-        ]
-      },
-      "properties": {
-        "id": 9318,
-        "name": "Guldbergsgade II",
+        "id": 2227,
+        "name": "Ny Carlsberg Glyptotek",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -4786,6 +4306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5666817,
+          55.6538352
+        ]
+      },
+      "properties": {
+        "id": 2296,
+        "name": "Rundholtsvej II",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5883794,
           55.6763891
         ]
@@ -4813,6 +4353,26 @@
       "properties": {
         "id": 5813,
         "name": "Naboløs",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5972665,
+          55.6742266
+        ]
+      },
+      "properties": {
+        "id": 20731,
+        "name": "Christiania",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -4946,13 +4506,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5134845,
-          55.6499815
+          12.568187,
+          55.6781654
         ]
       },
       "properties": {
-        "id": 5595,
-        "name": "Gammel Valbyhal",
+        "id": 3026,
+        "name": "Jurahuset",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -4966,13 +4526,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5718583,
-          55.6781857
+          12.5134845,
+          55.6499815
         ]
       },
       "properties": {
-        "id": 2229,
-        "name": "Gammeltorv",
+        "id": 5595,
+        "name": "Gammel Valbyhal",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5006,6 +4566,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5729024,
+          55.6840649
+        ]
+      },
+      "properties": {
+        "id": 26389,
+        "name": "Nørreport St. V",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.600514,
+          55.7019984
+        ]
+      },
+      "properties": {
+        "id": 4601,
+        "name": "Langelinie Allé 47",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5820407,
           55.6866643
         ]
@@ -5013,6 +4613,46 @@
       "properties": {
         "id": 3246,
         "name": "Rigensgade",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6041025,
+          55.6648074
+        ]
+      },
+      "properties": {
+        "id": 2147,
+        "name": "Jemtelandsgade",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5513654,
+          55.6665145
+        ]
+      },
+      "properties": {
+        "id": 3515,
+        "name": "Arkonagade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5066,6 +4706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5909357,
+          55.6630518
+        ]
+      },
+      "properties": {
+        "id": 6320,
+        "name": "Karen Blixens Vej",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5439117,
           55.6903908
         ]
@@ -5086,13 +4746,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5810639,
-          55.6344135
+          12.5460474,
+          55.6855257
         ]
       },
       "properties": {
-        "id": 5560,
-        "name": "Ørestads Boulevard II ",
+        "id": 30488,
+        "name": "Åboulevard 59A",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5226,13 +4886,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5910043,
-          55.6939075
+          12.5574156,
+          55.6919451
         ]
       },
       "properties": {
-        "id": 4159,
-        "name": "Østerport Bike Parking",
+        "id": 9318,
+        "name": "Guldbergsgade II",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5346,6 +5006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5652128,
+          55.6748893
+        ]
+      },
+      "properties": {
+        "id": 2164,
+        "name": "Tourist Information Office",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5947624,
           55.696479
         ]
@@ -5366,13 +5046,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5738921,
-          55.6725808
+          12.5599574,
+          55.6879548
         ]
       },
       "properties": {
-        "id": 2227,
-        "name": "Ny Carlsberg Glyptotek",
+        "id": 3292,
+        "name": "Blågårdsgade II",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5466,26 +5146,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5909357,
-          55.6630518
-        ]
-      },
-      "properties": {
-        "id": 6320,
-        "name": "Karen Blixens Vej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5652929,
           55.6567896
         ]
@@ -5546,13 +5206,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5666817,
-          55.6538352
+          12.5988879,
+          55.6930783
         ]
       },
       "properties": {
-        "id": 2296,
-        "name": "Rundholtsvej II",
+        "id": 2220,
+        "name": "The Little Mermaid",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5593,6 +5253,26 @@
       "properties": {
         "id": 6503,
         "name": "Hauser Plads",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5552572,
+          55.6721872
+        ]
+      },
+      "properties": {
+        "id": 2880,
+        "name": "Vesterbros Torv",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5746,6 +5426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5810639,
+          55.6344135
+        ]
+      },
+      "properties": {
+        "id": 5560,
+        "name": "Ørestads Boulevard II ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5273906,
           55.6513253
         ]
@@ -5786,6 +5486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5582056,
+          55.6690849
+        ]
+      },
+      "properties": {
+        "id": 7411,
+        "name": "Slagterboderne",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5710763,
           55.7089552
         ]
@@ -5813,26 +5533,6 @@
       "properties": {
         "id": 1196,
         "name": "Folkets Park",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6375607,
-          55.645899
-        ]
-      },
-      "properties": {
-        "id": 22762,
-        "name": "Jorisvej",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5926,6 +5626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5683066,
+          55.6763609
+        ]
+      },
+      "properties": {
+        "id": 4778,
+        "name": "Rådhuspladsen Metro St.",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.553395,
           55.6917311
         ]
@@ -5946,6 +5666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5396054,
+          55.7012384
+        ]
+      },
+      "properties": {
+        "id": 3037,
+        "name": "Borgmestervangen",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5537292,
           55.6668426
         ]
@@ -5953,6 +5693,66 @@
       "properties": {
         "id": 11850,
         "name": "Sønder Boulevard V",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5531995,
+          55.6850911
+        ]
+      },
+      "properties": {
+        "id": 937,
+        "name": "Åboulevard",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5775904,
+          55.6675679
+        ]
+      },
+      "properties": {
+        "id": 2285,
+        "name": "Islands Brygge Kulturhuset",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5442973,
+          55.6957769
+        ]
+      },
+      "properties": {
+        "id": 1166,
+        "name": "Stefansgade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -5993,6 +5793,26 @@
       "properties": {
         "id": 6296,
         "name": "Under Elmene",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5561085,
+          55.6909959
+        ]
+      },
+      "properties": {
+        "id": 9317,
+        "name": "Møllegade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6126,6 +5946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5546726,
+          55.6649612
+        ]
+      },
+      "properties": {
+        "id": 6117,
+        "name": "Esbern Snares Gade",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5464581,
           55.7004004
         ]
@@ -6133,6 +5973,26 @@
       "properties": {
         "id": 32576,
         "name": "Baldersgade 44",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903736,
+          55.7060611
+        ]
+      },
+      "properties": {
+        "id": 2181,
+        "name": "Nordhavn St.",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6173,6 +6033,26 @@
       "properties": {
         "id": 87,
         "name": "Trianglen St.",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564479,
+          55.663689
+        ]
+      },
+      "properties": {
+        "id": 26767,
+        "name": "Kalvebod Brygge 47",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6306,26 +6186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5396054,
-          55.7012384
-        ]
-      },
-      "properties": {
-        "id": 3037,
-        "name": "Borgmestervangen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5577011,
           55.6687241
         ]
@@ -6373,26 +6233,6 @@
       "properties": {
         "id": 2821,
         "name": "A. F. Beyers Vej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5759058,
-          55.7125342
-        ]
-      },
-      "properties": {
-        "id": 1738,
-        "name": "Nygårdsvej",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6473,6 +6313,46 @@
       "properties": {
         "id": 9371,
         "name": "Refnæsgade 27",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881464,
+          55.6919101
+        ]
+      },
+      "properties": {
+        "id": 2180,
+        "name": "Østerport St.",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5910043,
+          55.6939075
+        ]
+      },
+      "properties": {
+        "id": 4159,
+        "name": "Østerport Bike Parking",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6606,6 +6486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.611315,
+          55.6890661
+        ]
+      },
+      "properties": {
+        "id": 2824,
+        "name": "Refshalevej",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5760875,
           55.6761873
         ]
@@ -6626,26 +6526,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.564479,
-          55.663689
-        ]
-      },
-      "properties": {
-        "id": 26767,
-        "name": "Kalvebod Brygge 47",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5542089,
           55.7050686
         ]
@@ -6653,26 +6533,6 @@
       "properties": {
         "id": 2798,
         "name": "Vermundsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6281336,
-          55.6445161
-        ]
-      },
-      "properties": {
-        "id": 6245,
-        "name": "Kastrupvej II",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6846,6 +6706,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5759058,
+          55.7125342
+        ]
+      },
+      "properties": {
+        "id": 1738,
+        "name": "Nygårdsvej",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5620351,
+          55.6809485
+        ]
+      },
+      "properties": {
+        "id": 5478,
+        "name": "Turesensgade",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.589073,
           55.6558272
         ]
@@ -6853,6 +6753,26 @@
       "properties": {
         "id": 6163,
         "name": "DR Byen Metro St. ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5718583,
+          55.6781857
+        ]
+      },
+      "properties": {
+        "id": 2229,
+        "name": "Gammeltorv",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6926,13 +6846,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5755651,
-          55.676013
+          12.5874544,
+          55.6805177
         ]
       },
       "properties": {
-        "id": 2171,
-        "name": "Stormbroen",
+        "id": 2346,
+        "name": "Mindeankeret",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7006,6 +6926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.6375607,
+          55.645899
+        ]
+      },
+      "properties": {
+        "id": 22762,
+        "name": "Jorisvej",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5804619,
           55.6825584
         ]
@@ -7033,6 +6973,46 @@
       "properties": {
         "id": 6008,
         "name": "Bartholinsgade",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5298364,
+          55.6645761
+        ]
+      },
+      "properties": {
+        "id": 30252,
+        "name": "Home of Carlsberg ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6102052,
+          55.6832869
+        ]
+      },
+      "properties": {
+        "id": 5513,
+        "name": "Krudtløbsvej",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7206,13 +7186,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.543468,
-          55.6962814
+          12.5616684,
+          55.6790839
         ]
       },
       "properties": {
-        "id": 5535,
-        "name": "Vedbækgade",
+        "id": 2360,
+        "name": "Dahlerupsgade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7446,6 +7426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5705055,
+          55.6838415
+        ]
+      },
+      "properties": {
+        "id": 4198,
+        "name": "Linnesgade 18",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5716065,
           55.6741618
         ]
@@ -7453,6 +7453,26 @@
       "properties": {
         "id": 31108,
         "name": "H. C. Andersens Blvd. 27",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6281336,
+          55.6445161
+        ]
+      },
+      "properties": {
+        "id": 6245,
+        "name": "Kastrupvej II",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7493,26 +7513,6 @@
       "properties": {
         "id": 3665,
         "name": "Refshalevej 163A",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5590146,
-          55.6652469
-        ]
-      },
-      "properties": {
-        "id": 2207,
-        "name": "Dybbølsbro St.",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7573,6 +7573,26 @@
       "properties": {
         "id": 32368,
         "name": "Dybbølsbro St. [test]",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6018331,
+          55.6816274
+        ]
+      },
+      "properties": {
+        "id": 9105,
+        "name": "Ekvipagemestervej",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7706,13 +7726,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5705055,
-          55.6838415
+          12.5840537,
+          55.6818678
         ]
       },
       "properties": {
-        "id": 4198,
-        "name": "Linnesgade 18",
+        "id": 3749,
+        "name": "Bermuda Triangle",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6180166,
+          55.6838926
+        ]
+      },
+      "properties": {
+        "id": 16991,
+        "name": "Vindmøllevej",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7766,13 +7806,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5751187,
-          55.6777973
+          12.5755651,
+          55.676013
         ]
       },
       "properties": {
-        "id": 5809,
-        "name": "Brolæggerstræde",
+        "id": 2171,
+        "name": "Stormbroen",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7786,13 +7826,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.600514,
-          55.7019984
+          12.5751187,
+          55.6777973
         ]
       },
       "properties": {
-        "id": 4601,
-        "name": "Langelinie Allé 47",
+        "id": 5809,
+        "name": "Brolæggerstræde",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7833,6 +7873,26 @@
       "properties": {
         "id": 12641,
         "name": "Nordre Frihavnsgade",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5590146,
+          55.6652469
+        ]
+      },
+      "properties": {
+        "id": 2207,
+        "name": "Dybbølsbro St.",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7966,13 +8026,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5440636,
-          55.668346
+          12.543468,
+          55.6962814
         ]
       },
       "properties": {
-        "id": 32550,
-        "name": "Rejsbygade 2",
+        "id": 5535,
+        "name": "Vedbækgade",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -7986,13 +8046,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5531995,
-          55.6850911
+          12.5440636,
+          55.668346
         ]
       },
       "properties": {
-        "id": 937,
-        "name": "Åboulevard",
+        "id": 32550,
+        "name": "Rejsbygade 2",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -8253,26 +8313,6 @@
       "properties": {
         "id": 15920,
         "name": "Gammel Strand St.",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.568187,
-          55.6781654
-        ]
-      },
-      "properties": {
-        "id": 3026,
-        "name": "Jurahuset",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -8753,26 +8793,6 @@
       "properties": {
         "id": 5338,
         "name": "Pilegård",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5683066,
-          55.6763609
-        ]
-      },
-      "properties": {
-        "id": 4778,
-        "name": "Rådhuspladsen Metro St.",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -10253,26 +10273,6 @@
       "properties": {
         "id": 6608,
         "name": "Farumgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.611315,
-          55.6890661
-        ]
-      },
-      "properties": {
-        "id": 2824,
-        "name": "Refshalevej",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -44065,7 +44065,7 @@
   "metadata": {
     "city": "copenhagen",
     "total_hubs": 2203,
-    "generated_at": "2025-08-25T14:18:16.886Z",
+    "generated_at": "2025-08-25T14:23:52.047Z",
     "endpoints": [
       "https://stables.donkey.bike/api/public/cities/1/hubs/"
     ]

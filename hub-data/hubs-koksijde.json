@@ -3126,6 +3126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1864729,
+          41.4067409
+        ]
+      },
+      "properties": {
+        "id": 376,
+        "name": "Consell de Cent 623",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1893206,
           41.3735663
         ]
@@ -3613,6 +3633,26 @@
       "properties": {
         "id": 15427,
         "name": "Cine Girona ",
+        "address": "",
+        "city": "",
+        "capacity": 0,
+        "available_bikes": 0,
+        "hub_type": "standard",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2089709,
+          41.3964786
+        ]
+      },
+      "properties": {
+        "id": 706,
+        "name": "Maritim Bogatell 111",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -6406,26 +6446,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1864729,
-          41.4067409
-        ]
-      },
-      "properties": {
-        "id": 376,
-        "name": "Consell de Cent 623",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.1350716,
           41.3978678
         ]
@@ -6433,26 +6453,6 @@
       "properties": {
         "id": 28624,
         "name": "Ganduxer",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2089709,
-          41.3964786
-        ]
-      },
-      "properties": {
-        "id": 706,
-        "name": "Maritim Bogatell 111",
         "address": "",
         "city": "",
         "capacity": 0,
@@ -29965,7 +29965,7 @@
   "metadata": {
     "city": "koksijde",
     "total_hubs": 1498,
-    "generated_at": "2025-08-25T14:18:14.453Z",
+    "generated_at": "2025-08-25T14:23:50.247Z",
     "endpoints": [
       "https://stables.donkey.bike/api/public/cities/8/hubs/"
     ]
