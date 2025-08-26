@@ -1,553 +1,191 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2577773,
-          57.1168945
-        ]
-      },
-      "properties": {
-        "id": 20455,
-        "name": "ICA Hajen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2418165,
-          57.1085424
-        ]
-      },
-      "properties": {
-        "id": 22565,
-        "name": "Kallbadhuset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2631786,
-          57.0772661
-        ]
-      },
-      "properties": {
-        "id": 19963,
-        "name": "Apelviken södra, Vikhyddan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2432809,
-          57.08981
-        ]
-      },
-      "properties": {
-        "id": 19964,
-        "name": "Kåsa, Lilla Apelviken",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2012102,
-          57.1194831
-        ]
-      },
-      "properties": {
-        "id": 19956,
-        "name": "Getterön 5:e vik",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2765769,
-          57.099626
-        ]
-      },
-      "properties": {
-        "id": 20618,
-        "name": "Sjukhuset, huvudentré",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.262551,
-          57.1000616
-        ]
-      },
-      "properties": {
-        "id": 30345,
-        "name": "Arena Varberg-Nöjeshallen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2495765,
-          57.0844212
-        ]
-      },
-      "properties": {
-        "id": 20177,
-        "name": "Solviken",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2793795,
-          57.1188857
-        ]
-      },
-      "properties": {
-        "id": 20710,
-        "name": "Pingvinen Is- och simarena",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2530372,
-          57.1264133
-        ]
-      },
-      "properties": {
-        "id": 20366,
-        "name": "Naturum Getterön",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2500476,
-          57.1058915
-        ]
-      },
-      "properties": {
-        "id": 19952,
-        "name": "Torget",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2708363,
-          57.0573904
-        ]
-      },
-      "properties": {
-        "id": 20454,
-        "name": "Träslövsläge, Joels Brygga",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.249721,
-          57.1062306
-        ]
-      },
-      "properties": {
-        "id": 20765,
-        "name": "Brunnsparken",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2508848,
-          57.1122827
-        ]
-      },
-      "properties": {
-        "id": 32278,
-        "name": "Nya stationen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2524679,
-          57.1054345
-        ]
-      },
-      "properties": {
-        "id": 19953,
-        "name": "Torggatan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2434885,
-          57.1081602
-        ]
-      },
-      "properties": {
-        "id": 19954,
-        "name": "Sjöallén",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2792548,
-          57.0821002
-        ]
-      },
-      "properties": {
-        "id": 20456,
-        "name": "Stora Coop",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2775492,
-          57.0618042
-        ]
-      },
-      "properties": {
-        "id": 19959,
-        "name": "Träslövsläge, Strandbackavägen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2435321,
-          57.0985213
-        ]
-      },
-      "properties": {
-        "id": 19955,
-        "name": "Ankaret",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.270601,
-          57.1066538
-        ]
-      },
-      "properties": {
-        "id": 21841,
-        "name": "Peder Skrivares skola huvudentrén ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2510151,
-          57.1082529
-        ]
-      },
-      "properties": {
-        "id": 19951,
-        "name": "Komedianten",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.252593,
-          57.0851988
-        ]
-      },
-      "properties": {
-        "id": 19961,
-        "name": "Apelviken, Manettorget",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2412533,
-          57.1033173
-        ]
-      },
-      "properties": {
-        "id": 20373,
-        "name": "Simstadion",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2612407,
-          57.0817015
-        ]
-      },
-      "properties": {
-        "id": 19962,
-        "name": "Apelviken, Surftorget",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2578923,
-          57.1205692
-        ]
-      },
-      "properties": {
-        "id": 19958,
-        "name": "Brukstorget",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2498276,
-          57.1096658
-        ]
-      },
-      "properties": {
-        "id": 27130,
-        "name": "Bussterminalen/Stationen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2252893,
-          57.1131485
-        ]
-      },
-      "properties": {
-        "id": 19957,
-        "name": "Getterön 1:a vik",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "varberg",
-    "total_hubs": 27,
-    "generated_at": "2025-08-25T14:24:02.401Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/315/hubs/"
-    ]
+[
+  {
+    "id": 20455,
+    "name": "ICA Hajen",
+    "latitude": "57.1168945",
+    "longitude": "12.2577773",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19963,
+    "name": "Apelviken södra, Vikhyddan",
+    "latitude": "57.0772661",
+    "longitude": "12.2631786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22565,
+    "name": "Kallbadhuset",
+    "latitude": "57.1085424",
+    "longitude": "12.2418165",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19964,
+    "name": "Kåsa, Lilla Apelviken",
+    "latitude": "57.08981",
+    "longitude": "12.2432809",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19956,
+    "name": "Getterön 5:e vik",
+    "latitude": "57.1194831",
+    "longitude": "12.2012102",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20618,
+    "name": "Sjukhuset, huvudentré",
+    "latitude": "57.099626",
+    "longitude": "12.2765769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30345,
+    "name": "Arena Varberg-Nöjeshallen",
+    "latitude": "57.1000616",
+    "longitude": "12.262551",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20177,
+    "name": "Solviken",
+    "latitude": "57.0844212",
+    "longitude": "12.2495765",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20710,
+    "name": "Pingvinen Is- och simarena",
+    "latitude": "57.1188857",
+    "longitude": "12.2793795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20366,
+    "name": "Naturum Getterön",
+    "latitude": "57.1264133",
+    "longitude": "12.2530372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19952,
+    "name": "Torget",
+    "latitude": "57.1058915",
+    "longitude": "12.2500476",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20454,
+    "name": "Träslövsläge, Joels Brygga",
+    "latitude": "57.0573904",
+    "longitude": "12.2708363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20765,
+    "name": "Brunnsparken",
+    "latitude": "57.1062306",
+    "longitude": "12.249721",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32278,
+    "name": "Nya stationen",
+    "latitude": "57.1122827",
+    "longitude": "12.2508848",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19953,
+    "name": "Torggatan",
+    "latitude": "57.1054345",
+    "longitude": "12.2524679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19954,
+    "name": "Sjöallén",
+    "latitude": "57.1081602",
+    "longitude": "12.2434885",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20456,
+    "name": "Stora Coop",
+    "latitude": "57.0821002",
+    "longitude": "12.2792548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19959,
+    "name": "Träslövsläge, Strandbackavägen",
+    "latitude": "57.0618042",
+    "longitude": "12.2775492",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19955,
+    "name": "Ankaret",
+    "latitude": "57.0985213",
+    "longitude": "12.2435321",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21841,
+    "name": "Peder Skrivares skola huvudentrén ",
+    "latitude": "57.1066538",
+    "longitude": "12.270601",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19951,
+    "name": "Komedianten",
+    "latitude": "57.1082529",
+    "longitude": "12.2510151",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19961,
+    "name": "Apelviken, Manettorget",
+    "latitude": "57.0851988",
+    "longitude": "12.252593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20373,
+    "name": "Simstadion",
+    "latitude": "57.1033173",
+    "longitude": "12.2412533",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19962,
+    "name": "Apelviken, Surftorget",
+    "latitude": "57.0817015",
+    "longitude": "12.2612407",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19958,
+    "name": "Brukstorget",
+    "latitude": "57.1205692",
+    "longitude": "12.2578923",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27130,
+    "name": "Bussterminalen/Stationen",
+    "latitude": "57.1096658",
+    "longitude": "12.2498276",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19957,
+    "name": "Getterön 1:a vik",
+    "latitude": "57.1131485",
+    "longitude": "12.2252893",
+    "thumbnail_url": ""
   }
-}
+]

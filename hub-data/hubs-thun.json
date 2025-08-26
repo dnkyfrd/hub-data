@@ -1,33 +1,9 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.9205747,
-          64.1419773
-        ]
-      },
-      "properties": {
-        "id": 15132,
-        "name": "Sundhöllin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "thun",
-    "total_hubs": 1,
-    "generated_at": "2025-08-25T14:24:04.483Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/242/hubs/"
-    ]
+[
+  {
+    "id": 15132,
+    "name": "Sundhöllin",
+    "latitude": "64.1419773",
+    "longitude": "-21.9205747",
+    "thumbnail_url": ""
   }
-}
+]

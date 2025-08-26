@@ -1,413 +1,142 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5692969,
-          51.0961625
-        ]
-      },
-      "properties": {
-        "id": 29960,
-        "name": "De Panne P Verhaerenlaan ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.586953,
-          51.0953003
-        ]
-      },
-      "properties": {
-        "id": 26512,
-        "name": "Koningsplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5984723,
-          51.1062184
-        ]
-      },
-      "properties": {
-        "id": 27328,
-        "name": "Canadezen Plein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5818994,
-          51.0973574
-        ]
-      },
-      "properties": {
-        "id": 24650,
-        "name": "Esplanade Dynastielaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5773609,
-          51.0970701
-        ]
-      },
-      "properties": {
-        "id": 29961,
-        "name": "De Panne Royal Sand Yacht Club ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6006668,
-          51.0867934
-        ]
-      },
-      "properties": {
-        "id": 29957,
-        "name": "De Panne Moeder Lambik",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5921114,
-          51.0988779
-        ]
-      },
-      "properties": {
-        "id": 24647,
-        "name": "Markt De Panne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6780179,
-          51.122525
-        ]
-      },
-      "properties": {
-        "id": 30497,
-        "name": "Oostduinkerke De Viking - fietsrek",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5953283,
-          51.0711044
-        ]
-      },
-      "properties": {
-        "id": 27569,
-        "name": "Vijverstraat Markey",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6029598,
-          51.0775382
-        ]
-      },
-      "properties": {
-        "id": 24646,
-        "name": "Station Adinkerke",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5904517,
-          51.1028358
-        ]
-      },
-      "properties": {
-        "id": 24653,
-        "name": "Zeelaan 167",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5924627,
-          51.1007128
-        ]
-      },
-      "properties": {
-        "id": 29959,
-        "name": "De Panne Zeelaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5923973,
-          51.0700779
-        ]
-      },
-      "properties": {
-        "id": 24679,
-        "name": "Vijvers Markey",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6122456,
-          51.0926795
-        ]
-      },
-      "properties": {
-        "id": 24648,
-        "name": "Sporthal De Panne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5899767,
-          51.0932361
-        ]
-      },
-      "properties": {
-        "id": 28093,
-        "name": "Kerkplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6011451,
-          51.0808268
-        ]
-      },
-      "properties": {
-        "id": 28097,
-        "name": "Plopsaland",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5886606,
-          51.0968455
-        ]
-      },
-      "properties": {
-        "id": 24649,
-        "name": "Gemeentehuis De Panne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5974532,
-          51.0914525
-        ]
-      },
-      "properties": {
-        "id": 29958,
-        "name": "De Panne Calmeynsbossen  - fietsrek",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5979729,
-          51.0969756
-        ]
-      },
-      "properties": {
-        "id": 26524,
-        "name": "Keesjesdreef ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5654219,
-          51.0932875
-        ]
-      },
-      "properties": {
-        "id": 29962,
-        "name": "De Panne Schuilhavenlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "de-panne",
-    "total_hubs": 20,
-    "generated_at": "2025-08-25T14:23:48.658Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/561/hubs/"
-    ]
+[
+  {
+    "id": 29960,
+    "name": "De Panne P Verhaerenlaan ",
+    "latitude": "51.0961625",
+    "longitude": "2.5692969",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26512,
+    "name": "Koningsplein",
+    "latitude": "51.0953003",
+    "longitude": "2.586953",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27328,
+    "name": "Canadezen Plein",
+    "latitude": "51.1062184",
+    "longitude": "2.5984723",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24650,
+    "name": "Esplanade Dynastielaan",
+    "latitude": "51.0973574",
+    "longitude": "2.5818994",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29961,
+    "name": "De Panne Royal Sand Yacht Club ",
+    "latitude": "51.0970701",
+    "longitude": "2.5773609",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29957,
+    "name": "De Panne Moeder Lambik",
+    "latitude": "51.0867934",
+    "longitude": "2.6006668",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24647,
+    "name": "Markt De Panne",
+    "latitude": "51.0988779",
+    "longitude": "2.5921114",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30497,
+    "name": "Oostduinkerke De Viking - fietsrek",
+    "latitude": "51.122525",
+    "longitude": "2.6780179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27569,
+    "name": "Vijverstraat Markey",
+    "latitude": "51.0711044",
+    "longitude": "2.5953283",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24646,
+    "name": "Station Adinkerke",
+    "latitude": "51.0775382",
+    "longitude": "2.6029598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24653,
+    "name": "Zeelaan 167",
+    "latitude": "51.1028358",
+    "longitude": "2.5904517",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29959,
+    "name": "De Panne Zeelaan",
+    "latitude": "51.1007128",
+    "longitude": "2.5924627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24679,
+    "name": "Vijvers Markey",
+    "latitude": "51.0700779",
+    "longitude": "2.5923973",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24648,
+    "name": "Sporthal De Panne",
+    "latitude": "51.0926795",
+    "longitude": "2.6122456",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28093,
+    "name": "Kerkplein",
+    "latitude": "51.0932361",
+    "longitude": "2.5899767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28097,
+    "name": "Plopsaland",
+    "latitude": "51.0808268",
+    "longitude": "2.6011451",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24649,
+    "name": "Gemeentehuis De Panne",
+    "latitude": "51.0968455",
+    "longitude": "2.5886606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29958,
+    "name": "De Panne Calmeynsbossen  - fietsrek",
+    "latitude": "51.0914525",
+    "longitude": "2.5974532",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26524,
+    "name": "Keesjesdreef ",
+    "latitude": "51.0969756",
+    "longitude": "2.5979729",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29962,
+    "name": "De Panne Schuilhavenlaan",
+    "latitude": "51.0932875",
+    "longitude": "2.5654219",
+    "thumbnail_url": ""
   }
-}
+]

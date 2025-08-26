@@ -1,2493 +1,870 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6923679,
-          51.8177062
-        ]
-      },
-      "properties": {
-        "id": 24163,
-        "name": "Maasstraat - Ijsselstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6673214,
-          51.818905
-        ]
-      },
-      "properties": {
-        "id": 29876,
-        "name": "Wolwevershaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6537275,
-          51.7908549
-        ]
-      },
-      "properties": {
-        "id": 29843,
-        "name": "Admiraal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6931692,
-          51.7772174
-        ]
-      },
-      "properties": {
-        "id": 29850,
-        "name": "Boxerclub Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6913484,
-          51.7801187
-        ]
-      },
-      "properties": {
-        "id": 29852,
-        "name": "Muziekvereniging",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6912843,
-          51.8052021
-        ]
-      },
-      "properties": {
-        "id": 27799,
-        "name": "Halmaheiraplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7013483,
-          51.8129811
-        ]
-      },
-      "properties": {
-        "id": 29869,
-        "name": "Thomas Estill",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6950887,
-          51.8162809
-        ]
-      },
-      "properties": {
-        "id": 29874,
-        "name": "Roeiclub",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6637901,
-          51.7916543
-        ]
-      },
-      "properties": {
-        "id": 29845,
-        "name": "Oldenbarneveltplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6868308,
-          51.7823557
-        ]
-      },
-      "properties": {
-        "id": 27548,
-        "name": "De Sterrenhoe",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6910687,
-          51.7815123
-        ]
-      },
-      "properties": {
-        "id": 29851,
-        "name": "EBOH",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7073535,
-          51.7929851
-        ]
-      },
-      "properties": {
-        "id": 29867,
-        "name": "Gymnastiekvereniging",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6590401,
-          51.8022766
-        ]
-      },
-      "properties": {
-        "id": 29856,
-        "name": "Dirk van den Broek",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6747819,
-          51.8090949
-        ]
-      },
-      "properties": {
-        "id": 24178,
-        "name": "Oranjepark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6683224,
-          51.8067461
-        ]
-      },
-      "properties": {
-        "id": 21120,
-        "name": "Q-Park P+R (Park Upstairs)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6715733,
-          51.7742267
-        ]
-      },
-      "properties": {
-        "id": 24135,
-        "name": "Hellenburg - Goudestein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7349256,
-          51.813947
-        ]
-      },
-      "properties": {
-        "id": 29890,
-        "name": "Windkracht**",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6716975,
-          51.7917066
-        ]
-      },
-      "properties": {
-        "id": 29858,
-        "name": "Orkest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6557258,
-          51.8082066
-        ]
-      },
-      "properties": {
-        "id": 22554,
-        "name": "Weeskinderendijk Stad",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6890783,
-          51.7777237
-        ]
-      },
-      "properties": {
-        "id": 29848,
-        "name": "Schendeldijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6799933,
-          51.8085082
-        ]
-      },
-      "properties": {
-        "id": 21123,
-        "name": "Reeweg Oost",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6644602,
-          51.8134367
-        ]
-      },
-      "properties": {
-        "id": 21141,
-        "name": "Lombardstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6935712,
-          51.7783935
-        ]
-      },
-      "properties": {
-        "id": 29849,
-        "name": "Volley Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6718814,
-          51.8072777
-        ]
-      },
-      "properties": {
-        "id": 30818,
-        "name": "CS Dordrecht II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6815434,
-          51.7988769
-        ]
-      },
-      "properties": {
-        "id": 22385,
-        "name": "*Leerpark*",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.692375,
-          51.8150205
-        ]
-      },
-      "properties": {
-        "id": 29873,
-        "name": "Wantijbad",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6976571,
-          51.8152804
-        ]
-      },
-      "properties": {
-        "id": 29872,
-        "name": "Wantijpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6609992,
-          51.7985054
-        ]
-      },
-      "properties": {
-        "id": 29857,
-        "name": "Wijkcentrum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7103409,
-          51.8168506
-        ]
-      },
-      "properties": {
-        "id": 29881,
-        "name": "Kerkeplaat Bus Stop",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6517581,
-          51.8025627
-        ]
-      },
-      "properties": {
-        "id": 31580,
-        "name": "Sweelinckplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7034856,
-          51.7941573
-        ]
-      },
-      "properties": {
-        "id": 29865,
-        "name": "Damplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6683432,
-          51.8091995
-        ]
-      },
-      "properties": {
-        "id": 30794,
-        "name": "Dental 365",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6892159,
-          51.7999612
-        ]
-      },
-      "properties": {
-        "id": 29862,
-        "name": "FC Dordrecht Amateurs",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6727862,
-          51.8070327
-        ]
-      },
-      "properties": {
-        "id": 29104,
-        "name": "4* Grill",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6797454,
-          51.8126412
-        ]
-      },
-      "properties": {
-        "id": 24172,
-        "name": "Groenendijk - Hallincqlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7042935,
-          51.8074872
-        ]
-      },
-      "properties": {
-        "id": 30186,
-        "name": "Amazone",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6678209,
-          51.8081166
-        ]
-      },
-      "properties": {
-        "id": 30784,
-        "name": "Asahai",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6677062,
-          51.8150675
-        ]
-      },
-      "properties": {
-        "id": 21140,
-        "name": "*Scheffersplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6479753,
-          51.7938591
-        ]
-      },
-      "properties": {
-        "id": 29841,
-        "name": "Leen Bakker Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6533239,
-          51.796718
-        ]
-      },
-      "properties": {
-        "id": 29844,
-        "name": "Sportplaza",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6685746,
-          51.8101874
-        ]
-      },
-      "properties": {
-        "id": 24175,
-        "name": "Johan de Wittstraat - Kon Wilhelminastraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6529349,
-          51.7915789
-        ]
-      },
-      "properties": {
-        "id": 21110,
-        "name": "Maarten Harpertsz Trompweg (ALDI)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6660087,
-          51.8110341
-        ]
-      },
-      "properties": {
-        "id": 27835,
-        "name": "JP Van Eesteren 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6964414,
-          51.8186282
-        ]
-      },
-      "properties": {
-        "id": 29877,
-        "name": "Jumbo Staart",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6959297,
-          51.8055678
-        ]
-      },
-      "properties": {
-        "id": 29871,
-        "name": "Fortiushal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6714432,
-          51.806099
-        ]
-      },
-      "properties": {
-        "id": 29915,
-        "name": "UWV",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7172712,
-          51.8020505
-        ]
-      },
-      "properties": {
-        "id": 21107,
-        "name": "Station Stadspolders",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.675859,
-          51.7864628
-        ]
-      },
-      "properties": {
-        "id": 29853,
-        "name": "Jumbo Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6614506,
-          51.8150152
-        ]
-      },
-      "properties": {
-        "id": 21157,
-        "name": "Houttuinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6667989,
-          51.8157166
-        ]
-      },
-      "properties": {
-        "id": 21159,
-        "name": "**De Waag",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6645559,
-          51.8010144
-        ]
-      },
-      "properties": {
-        "id": 30645,
-        "name": "J.P Heijeplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7144174,
-          51.7971903
-        ]
-      },
-      "properties": {
-        "id": 24145,
-        "name": "Recklinghausenweg - Provinciale weg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6742462,
-          51.816772
-        ]
-      },
-      "properties": {
-        "id": 24167,
-        "name": "Torenstraat - Torenplaats",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6768549,
-          51.812803
-        ]
-      },
-      "properties": {
-        "id": 24171,
-        "name": "Samuel van Hoogestratensingel ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6591543,
-          51.8136895
-        ]
-      },
-      "properties": {
-        "id": 21145,
-        "name": "Bomkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6930401,
-          51.8023712
-        ]
-      },
-      "properties": {
-        "id": 29864,
-        "name": "Reeweg Oost",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.699979,
-          51.8095253
-        ]
-      },
-      "properties": {
-        "id": 29870,
-        "name": "Oranje Withal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6753173,
-          51.8192037
-        ]
-      },
-      "properties": {
-        "id": 21133,
-        "name": "Merwekade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6865863,
-          51.807333
-        ]
-      },
-      "properties": {
-        "id": 21204,
-        "name": "Bankastraat 227",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7211835,
-          51.8155176
-        ]
-      },
-      "properties": {
-        "id": 21106,
-        "name": "Baanhoekweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.715357,
-          51.8145273
-        ]
-      },
-      "properties": {
-        "id": 24158,
-        "name": "Rivierenplien (rack inside)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.671405,
-          51.807327
-        ]
-      },
-      "properties": {
-        "id": 30817,
-        "name": "CS Dordrecht I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6644336,
-          51.8079746
-        ]
-      },
-      "properties": {
-        "id": 30819,
-        "name": "Burgemeester de Raadtsingel",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6815584,
-          51.8094726
-        ]
-      },
-      "properties": {
-        "id": 24187,
-        "name": "Celebesstraat - Javastraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.676877,
-          51.8140458
-        ]
-      },
-      "properties": {
-        "id": 21127,
-        "name": "Kunstmin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7180758,
-          51.8037596
-        ]
-      },
-      "properties": {
-        "id": 29868,
-        "name": "AH Stadspolders",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7150753,
-          51.8152302
-        ]
-      },
-      "properties": {
-        "id": 28942,
-        "name": "Rivierenplien Bike Rack",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6827067,
-          51.7769432
-        ]
-      },
-      "properties": {
-        "id": 27549,
-        "name": "Difference ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7093438,
-          51.7919822
-        ]
-      },
-      "properties": {
-        "id": 29866,
-        "name": "Zwembad De Dubbel",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6545733,
-          51.8118439
-        ]
-      },
-      "properties": {
-        "id": 24173,
-        "name": "Binnen Kalkhaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.668359,
-          51.8087702
-        ]
-      },
-      "properties": {
-        "id": 30793,
-        "name": "ABN-AMRO Stationweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6727139,
-          51.8160396
-        ]
-      },
-      "properties": {
-        "id": 30597,
-        "name": "Stek - Bike Sharing Hub",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6631912,
-          51.806614
-        ]
-      },
-      "properties": {
-        "id": 29860,
-        "name": "Duurzaamheidscentrum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6368625,
-          51.7689248
-        ]
-      },
-      "properties": {
-        "id": 21113,
-        "name": "Heliotroopring",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6639682,
-          51.8163349
-        ]
-      },
-      "properties": {
-        "id": 21147,
-        "name": "Huis van Gijn",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6738308,
-          51.81689
-        ]
-      },
-      "properties": {
-        "id": 21134,
-        "name": "Kromhout",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6588204,
-          51.8151128
-        ]
-      },
-      "properties": {
-        "id": 21146,
-        "name": "Hooikade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6717037,
-          51.8145174
-        ]
-      },
-      "properties": {
-        "id": 21187,
-        "name": "Dordrechts Museum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6901682,
-          51.8016893
-        ]
-      },
-      "properties": {
-        "id": 29863,
-        "name": "FC Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6821026,
-          51.793984
-        ]
-      },
-      "properties": {
-        "id": 22386,
-        "name": "Albert Schweitzer Ziekenhuis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.681587,
-          51.8035728
-        ]
-      },
-      "properties": {
-        "id": 24180,
-        "name": "Krommedijk - Hoekenessestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6679251,
-          51.8085289
-        ]
-      },
-      "properties": {
-        "id": 30792,
-        "name": "Stationweg II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6683556,
-          51.8080455
-        ]
-      },
-      "properties": {
-        "id": 21130,
-        "name": "Dordrecht Stationweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6814706,
-          51.8081434
-        ]
-      },
-      "properties": {
-        "id": 31175,
-        "name": "Riouwstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6689823,
-          51.819341
-        ]
-      },
-      "properties": {
-        "id": 21148,
-        "name": "Kuipershaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7252878,
-          51.7979985
-        ]
-      },
-      "properties": {
-        "id": 24149,
-        "name": "Pearl Buck-erf",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6771014,
-          51.7845427
-        ]
-      },
-      "properties": {
-        "id": 29854,
-        "name": "Winkelcentrum Sterrenburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6683275,
-          51.8121946
-        ]
-      },
-      "properties": {
-        "id": 21143,
-        "name": "Bagijnhof 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6747946,
-          51.8056236
-        ]
-      },
-      "properties": {
-        "id": 29861,
-        "name": "Dubbledamsweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6809241,
-          51.8156265
-        ]
-      },
-      "properties": {
-        "id": 21125,
-        "name": "Lijnbaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.675903,
-          51.817948
-        ]
-      },
-      "properties": {
-        "id": 21170,
-        "name": "Riedijkshaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6785923,
-          51.8076436
-        ]
-      },
-      "properties": {
-        "id": 24182,
-        "name": "Krommedijk - Paul Krugerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6808832,
-          51.7926633
-        ]
-      },
-      "properties": {
-        "id": 24141,
-        "name": "Karel Lotsyweg - Henri Dunantpromenade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6577073,
-          51.8131792
-        ]
-      },
-      "properties": {
-        "id": 21156,
-        "name": "Keizershof",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6530207,
-          51.7852905
-        ]
-      },
-      "properties": {
-        "id": 29842,
-        "name": "Harpertsz Trompweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6723565,
-          51.8072262
-        ]
-      },
-      "properties": {
-        "id": 21129,
-        "name": "Centraal Station Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7634679,
-          51.8076722
-        ]
-      },
-      "properties": {
-        "id": 21105,
-        "name": "Biesboschcentrum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6674826,
-          51.812866
-        ]
-      },
-      "properties": {
-        "id": 21142,
-        "name": "Bagijnhof",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.719507,
-          51.7940603
-        ]
-      },
-      "properties": {
-        "id": 24144,
-        "name": "5: Provincialeweg - De HooP GGZ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6696716,
-          51.8137635
-        ]
-      },
-      "properties": {
-        "id": 21139,
-        "name": "Korte Kolfstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6714482,
-          51.7907
-        ]
-      },
-      "properties": {
-        "id": 21108,
-        "name": "Dordrecht Zuid",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6609786,
-          51.8085203
-        ]
-      },
-      "properties": {
-        "id": 21131,
-        "name": "Nationaal Onderwijsmuseum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.644023,
-          51.7750982
-        ]
-      },
-      "properties": {
-        "id": 21112,
-        "name": "Rijksstraatweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6525683,
-          51.7755811
-        ]
-      },
-      "properties": {
-        "id": 21111,
-        "name": "Laan van Europa",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7512521,
-          51.8105189
-        ]
-      },
-      "properties": {
-        "id": 29878,
-        "name": "StayOkay Hostel",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6751899,
-          51.7747208
-        ]
-      },
-      "properties": {
-        "id": 29223,
-        "name": "Slangenburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6618067,
-          51.8118796
-        ]
-      },
-      "properties": {
-        "id": 21132,
-        "name": "Gemeente Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6885922,
-          51.8098672
-        ]
-      },
-      "properties": {
-        "id": 24185,
-        "name": "Adelaarstraat - Noordendijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6666959,
-          51.8117591
-        ]
-      },
-      "properties": {
-        "id": 21144,
-        "name": "VVV Dordrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6711203,
-          51.8120201
-        ]
-      },
-      "properties": {
-        "id": 21128,
-        "name": "Vrieseplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6837046,
-          51.8100573
-        ]
-      },
-      "properties": {
-        "id": 24186,
-        "name": "Vogelplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6708863,
-          51.8145286
-        ]
-      },
-      "properties": {
-        "id": 21138,
-        "name": "Cinema the Movies",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6552138,
-          51.8098857
-        ]
-      },
-      "properties": {
-        "id": 29875,
-        "name": "AH Parallelweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6809996,
-          51.7750693
-        ]
-      },
-      "properties": {
-        "id": 24136,
-        "name": "De Jagerweg - Bushalte Vredenburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6823491,
-          51.8112648
-        ]
-      },
-      "properties": {
-        "id": 21194,
-        "name": "Bankastraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6653737,
-          51.8015093
-        ]
-      },
-      "properties": {
-        "id": 29855,
-        "name": "Krispijnseweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.674339,
-          51.7963135
-        ]
-      },
-      "properties": {
-        "id": 29859,
-        "name": "DLTC Carpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.652366,
-          51.80907
-        ]
-      },
-      "properties": {
-        "id": 27886,
-        "name": "*Weeskinderendijk Water",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6773826,
-          51.7902817
-        ]
-      },
-      "properties": {
-        "id": 24140,
-        "name": "Elsingahof - Kapteynweg ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6698026,
-          51.8058082
-        ]
-      },
-      "properties": {
-        "id": 29916,
-        "name": "Thureborgh",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6746089,
-          51.8108583
-        ]
-      },
-      "properties": {
-        "id": 24177,
-        "name": "Vrieseweg - Singel (NR)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6692582,
-          51.8160257
-        ]
-      },
-      "properties": {
-        "id": 21136,
-        "name": "Voorstraat 233",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6641419,
-          51.7908153
-        ]
-      },
-      "properties": {
-        "id": 21109,
-        "name": "Van Oldenbarneveltplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6709986,
-          51.8155989
-        ]
-      },
-      "properties": {
-        "id": 21137,
-        "name": "Steegoversloot",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "dordrecht",
-    "total_hubs": 124,
-    "generated_at": "2025-08-25T14:23:57.351Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/355/hubs/"
-    ]
+[
+  {
+    "id": 29856,
+    "name": "Dirk van den Broek",
+    "latitude": "51.8022766",
+    "longitude": "4.6590401",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24163,
+    "name": "Maasstraat - Ijsselstraat",
+    "latitude": "51.8177062",
+    "longitude": "4.6923679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29876,
+    "name": "Wolwevershaven",
+    "latitude": "51.818905",
+    "longitude": "4.6673214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29843,
+    "name": "Admiraal",
+    "latitude": "51.7908549",
+    "longitude": "4.6537275",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29850,
+    "name": "Boxerclub Dordrecht",
+    "latitude": "51.7772174",
+    "longitude": "4.6931692",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29852,
+    "name": "Muziekvereniging",
+    "latitude": "51.7801187",
+    "longitude": "4.6913484",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27799,
+    "name": "Halmaheiraplein",
+    "latitude": "51.8052021",
+    "longitude": "4.6912843",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29869,
+    "name": "Thomas Estill",
+    "latitude": "51.8129811",
+    "longitude": "4.7013483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29874,
+    "name": "Roeiclub",
+    "latitude": "51.8162809",
+    "longitude": "4.6950887",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29845,
+    "name": "Oldenbarneveltplein",
+    "latitude": "51.7916543",
+    "longitude": "4.6637901",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27548,
+    "name": "De Sterrenhoe",
+    "latitude": "51.7823557",
+    "longitude": "4.6868308",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29851,
+    "name": "EBOH",
+    "latitude": "51.7815123",
+    "longitude": "4.6910687",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29867,
+    "name": "Gymnastiekvereniging",
+    "latitude": "51.7929851",
+    "longitude": "4.7073535",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24178,
+    "name": "Oranjepark",
+    "latitude": "51.8090949",
+    "longitude": "4.6747819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24135,
+    "name": "Hellenburg - Goudestein",
+    "latitude": "51.7742267",
+    "longitude": "4.6715733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29890,
+    "name": "Windkracht**",
+    "latitude": "51.813947",
+    "longitude": "4.7349256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29858,
+    "name": "Orkest",
+    "latitude": "51.7917066",
+    "longitude": "4.6716975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22554,
+    "name": "Weeskinderendijk Stad",
+    "latitude": "51.8082066",
+    "longitude": "4.6557258",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29848,
+    "name": "Schendeldijk",
+    "latitude": "51.7777237",
+    "longitude": "4.6890783",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21123,
+    "name": "Reeweg Oost",
+    "latitude": "51.8085082",
+    "longitude": "4.6799933",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21141,
+    "name": "Lombardstraat",
+    "latitude": "51.8134367",
+    "longitude": "4.6644602",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29849,
+    "name": "Volley Dordrecht",
+    "latitude": "51.7783935",
+    "longitude": "4.6935712",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30818,
+    "name": "CS Dordrecht II",
+    "latitude": "51.8072777",
+    "longitude": "4.6718814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22385,
+    "name": "*Leerpark*",
+    "latitude": "51.7988769",
+    "longitude": "4.6815434",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29873,
+    "name": "Wantijbad",
+    "latitude": "51.8150205",
+    "longitude": "4.692375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29872,
+    "name": "Wantijpark",
+    "latitude": "51.8152804",
+    "longitude": "4.6976571",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29857,
+    "name": "Wijkcentrum",
+    "latitude": "51.7985054",
+    "longitude": "4.6609992",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29881,
+    "name": "Kerkeplaat Bus Stop",
+    "latitude": "51.8168506",
+    "longitude": "4.7103409",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31580,
+    "name": "Sweelinckplein",
+    "latitude": "51.8025627",
+    "longitude": "4.6517581",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29865,
+    "name": "Damplein",
+    "latitude": "51.7941573",
+    "longitude": "4.7034856",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30794,
+    "name": "Dental 365",
+    "latitude": "51.8091995",
+    "longitude": "4.6683432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29862,
+    "name": "FC Dordrecht Amateurs",
+    "latitude": "51.7999612",
+    "longitude": "4.6892159",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29104,
+    "name": "4* Grill",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24172,
+    "name": "Groenendijk - Hallincqlaan",
+    "latitude": "51.8126412",
+    "longitude": "4.6797454",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30186,
+    "name": "Amazone",
+    "latitude": "51.8074872",
+    "longitude": "4.7042935",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30784,
+    "name": "Asahai",
+    "latitude": "51.8081166",
+    "longitude": "4.6678209",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21140,
+    "name": "*Scheffersplein",
+    "latitude": "51.8150675",
+    "longitude": "4.6677062",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29841,
+    "name": "Leen Bakker Dordrecht",
+    "latitude": "51.7938591",
+    "longitude": "4.6479753",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29844,
+    "name": "Sportplaza",
+    "latitude": "51.796718",
+    "longitude": "4.6533239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24175,
+    "name": "Johan de Wittstraat - Kon Wilhelminastraat",
+    "latitude": "51.8101874",
+    "longitude": "4.6685746",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21110,
+    "name": "Maarten Harpertsz Trompweg (ALDI)",
+    "latitude": "51.7915789",
+    "longitude": "4.6529349",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27835,
+    "name": "JP Van Eesteren 2",
+    "latitude": "51.8110341",
+    "longitude": "4.6660087",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29877,
+    "name": "Jumbo Staart",
+    "latitude": "51.8186282",
+    "longitude": "4.6964414",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29871,
+    "name": "Fortiushal",
+    "latitude": "51.8055678",
+    "longitude": "4.6959297",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29915,
+    "name": "UWV",
+    "latitude": "51.806099",
+    "longitude": "4.6714432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21107,
+    "name": "Station Stadspolders",
+    "latitude": "51.8020505",
+    "longitude": "4.7172712",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29853,
+    "name": "Jumbo Dordrecht",
+    "latitude": "51.7864628",
+    "longitude": "4.675859",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21157,
+    "name": "Houttuinen",
+    "latitude": "51.8150152",
+    "longitude": "4.6614506",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21159,
+    "name": "**De Waag",
+    "latitude": "51.8157166",
+    "longitude": "4.6667989",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30645,
+    "name": "J.P Heijeplein",
+    "latitude": "51.8010144",
+    "longitude": "4.6645559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24145,
+    "name": "Recklinghausenweg - Provinciale weg",
+    "latitude": "51.7971903",
+    "longitude": "4.7144174",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24167,
+    "name": "Torenstraat - Torenplaats",
+    "latitude": "51.816772",
+    "longitude": "4.6742462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24171,
+    "name": "Samuel van Hoogestratensingel ",
+    "latitude": "51.812803",
+    "longitude": "4.6768549",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21145,
+    "name": "Bomkade",
+    "latitude": "51.8136895",
+    "longitude": "4.6591543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29864,
+    "name": "Reeweg Oost",
+    "latitude": "51.8023712",
+    "longitude": "4.6930401",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29870,
+    "name": "Oranje Withal",
+    "latitude": "51.8095253",
+    "longitude": "4.699979",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21133,
+    "name": "Merwekade",
+    "latitude": "51.8192037",
+    "longitude": "4.6753173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21204,
+    "name": "Bankastraat 227",
+    "latitude": "51.807333",
+    "longitude": "4.6865863",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21106,
+    "name": "Baanhoekweg",
+    "latitude": "51.8155176",
+    "longitude": "4.7211835",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24158,
+    "name": "Rivierenplien (rack inside)",
+    "latitude": "51.8145273",
+    "longitude": "4.715357",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30817,
+    "name": "CS Dordrecht I",
+    "latitude": "51.807327",
+    "longitude": "4.671405",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30819,
+    "name": "Burgemeester de Raadtsingel",
+    "latitude": "51.8079746",
+    "longitude": "4.6644336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24187,
+    "name": "Celebesstraat - Javastraat",
+    "latitude": "51.8094726",
+    "longitude": "4.6815584",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21127,
+    "name": "Kunstmin",
+    "latitude": "51.8140458",
+    "longitude": "4.676877",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29868,
+    "name": "AH Stadspolders",
+    "latitude": "51.8037596",
+    "longitude": "4.7180758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28942,
+    "name": "Rivierenplien Bike Rack",
+    "latitude": "51.8152302",
+    "longitude": "4.7150753",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27549,
+    "name": "Difference ",
+    "latitude": "51.7769432",
+    "longitude": "4.6827067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29866,
+    "name": "Zwembad De Dubbel",
+    "latitude": "51.7919822",
+    "longitude": "4.7093438",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24173,
+    "name": "Binnen Kalkhaven",
+    "latitude": "51.8118439",
+    "longitude": "4.6545733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30793,
+    "name": "ABN-AMRO Stationweg",
+    "latitude": "51.8087702",
+    "longitude": "4.668359",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30597,
+    "name": "Stek - Bike Sharing Hub",
+    "latitude": "51.8160396",
+    "longitude": "4.6727139",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29860,
+    "name": "Duurzaamheidscentrum",
+    "latitude": "51.806614",
+    "longitude": "4.6631912",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21113,
+    "name": "Heliotroopring",
+    "latitude": "51.7689248",
+    "longitude": "4.6368625",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21147,
+    "name": "Huis van Gijn",
+    "latitude": "51.8163349",
+    "longitude": "4.6639682",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21134,
+    "name": "Kromhout",
+    "latitude": "51.81689",
+    "longitude": "4.6738308",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21146,
+    "name": "Hooikade",
+    "latitude": "51.8151128",
+    "longitude": "4.6588204",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21187,
+    "name": "Dordrechts Museum",
+    "latitude": "51.8145174",
+    "longitude": "4.6717037",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29863,
+    "name": "FC Dordrecht",
+    "latitude": "51.8016893",
+    "longitude": "4.6901682",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22386,
+    "name": "Albert Schweitzer Ziekenhuis",
+    "latitude": "51.793984",
+    "longitude": "4.6821026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24180,
+    "name": "Krommedijk - Hoekenessestraat",
+    "latitude": "51.8035728",
+    "longitude": "4.681587",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30792,
+    "name": "Stationweg II",
+    "latitude": "51.8085289",
+    "longitude": "4.6679251",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31175,
+    "name": "Riouwstraat",
+    "latitude": "51.8081434",
+    "longitude": "4.6814706",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21148,
+    "name": "Kuipershaven",
+    "latitude": "51.819341",
+    "longitude": "4.6689823",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24149,
+    "name": "Pearl Buck-erf",
+    "latitude": "51.7979985",
+    "longitude": "4.7252878",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29854,
+    "name": "Winkelcentrum Sterrenburg",
+    "latitude": "51.7845427",
+    "longitude": "4.6771014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21143,
+    "name": "Bagijnhof 2",
+    "latitude": "51.8121946",
+    "longitude": "4.6683275",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29861,
+    "name": "Dubbledamsweg",
+    "latitude": "51.8056236",
+    "longitude": "4.6747946",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21125,
+    "name": "Lijnbaan",
+    "latitude": "51.8156265",
+    "longitude": "4.6809241",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21170,
+    "name": "Riedijkshaven",
+    "latitude": "51.817948",
+    "longitude": "4.675903",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24182,
+    "name": "Krommedijk - Paul Krugerstraat",
+    "latitude": "51.8076436",
+    "longitude": "4.6785923",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24141,
+    "name": "Karel Lotsyweg - Henri Dunantpromenade",
+    "latitude": "51.7926633",
+    "longitude": "4.6808832",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21156,
+    "name": "Keizershof",
+    "latitude": "51.8131792",
+    "longitude": "4.6577073",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29842,
+    "name": "Harpertsz Trompweg",
+    "latitude": "51.7852905",
+    "longitude": "4.6530207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21129,
+    "name": "Centraal Station Dordrecht",
+    "latitude": "51.8072262",
+    "longitude": "4.6723565",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21105,
+    "name": "Biesboschcentrum",
+    "latitude": "51.8076722",
+    "longitude": "4.7634679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21142,
+    "name": "Bagijnhof",
+    "latitude": "51.812866",
+    "longitude": "4.6674826",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24144,
+    "name": "5: Provincialeweg - De HooP GGZ",
+    "latitude": "51.7940603",
+    "longitude": "4.719507",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21139,
+    "name": "Korte Kolfstraat",
+    "latitude": "51.8137635",
+    "longitude": "4.6696716",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21108,
+    "name": "Dordrecht Zuid",
+    "latitude": "51.7907",
+    "longitude": "4.6714482",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21131,
+    "name": "Nationaal Onderwijsmuseum",
+    "latitude": "51.8085203",
+    "longitude": "4.6609786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21112,
+    "name": "Rijksstraatweg",
+    "latitude": "51.7750982",
+    "longitude": "4.644023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21111,
+    "name": "Laan van Europa",
+    "latitude": "51.7755811",
+    "longitude": "4.6525683",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29878,
+    "name": "StayOkay Hostel",
+    "latitude": "51.8105189",
+    "longitude": "4.7512521",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29223,
+    "name": "Slangenburg",
+    "latitude": "51.7747208",
+    "longitude": "4.6751899",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21132,
+    "name": "Gemeente Dordrecht",
+    "latitude": "51.8118796",
+    "longitude": "4.6618067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24185,
+    "name": "Adelaarstraat - Noordendijk",
+    "latitude": "51.8098672",
+    "longitude": "4.6885922",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21144,
+    "name": "VVV Dordrecht",
+    "latitude": "51.8117591",
+    "longitude": "4.6666959",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21128,
+    "name": "Vrieseplein",
+    "latitude": "51.8120201",
+    "longitude": "4.6711203",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24186,
+    "name": "Vogelplein",
+    "latitude": "51.8100573",
+    "longitude": "4.6837046",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21138,
+    "name": "Cinema the Movies",
+    "latitude": "51.8145286",
+    "longitude": "4.6708863",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29875,
+    "name": "AH Parallelweg",
+    "latitude": "51.8098857",
+    "longitude": "4.6552138",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24136,
+    "name": "De Jagerweg - Bushalte Vredenburg",
+    "latitude": "51.7750693",
+    "longitude": "4.6809996",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21194,
+    "name": "Bankastraat",
+    "latitude": "51.8112648",
+    "longitude": "4.6823491",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29855,
+    "name": "Krispijnseweg",
+    "latitude": "51.8015093",
+    "longitude": "4.6653737",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29859,
+    "name": "DLTC Carpark",
+    "latitude": "51.7963135",
+    "longitude": "4.674339",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27886,
+    "name": "*Weeskinderendijk Water",
+    "latitude": "51.80907",
+    "longitude": "4.652366",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24140,
+    "name": "Elsingahof - Kapteynweg ",
+    "latitude": "51.7902817",
+    "longitude": "4.6773826",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29916,
+    "name": "Thureborgh",
+    "latitude": "51.8058082",
+    "longitude": "4.6698026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24177,
+    "name": "Vrieseweg - Singel (NR)",
+    "latitude": "51.8108583",
+    "longitude": "4.6746089",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21136,
+    "name": "Voorstraat 233",
+    "latitude": "51.8160257",
+    "longitude": "4.6692582",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21109,
+    "name": "Van Oldenbarneveltplein",
+    "latitude": "51.7908153",
+    "longitude": "4.6641419",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21137,
+    "name": "Steegoversloot",
+    "latitude": "51.8155989",
+    "longitude": "4.6709986",
+    "thumbnail_url": ""
   }
-}
+]

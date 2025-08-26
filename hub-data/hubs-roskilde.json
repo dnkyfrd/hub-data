@@ -1,1553 +1,541 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1156664,
-          55.6423147
-        ]
-      },
-      "properties": {
-        "id": 30850,
-        "name": "McDonald's Københavnsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0832409,
-          55.6376829
-        ]
-      },
-      "properties": {
-        "id": 21604,
-        "name": "Roskilde Station ved Føtex",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0819559,
-          55.6737912
-        ]
-      },
-      "properties": {
-        "id": 21942,
-        "name": "Vigen Strandpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0848259,
-          55.6410874
-        ]
-      },
-      "properties": {
-        "id": 21635,
-        "name": "Algade v. Hersegade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0595082,
-          55.634352
-        ]
-      },
-      "properties": {
-        "id": 21662,
-        "name": "Roskilde Katedralskole",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.066236,
-          55.6478411
-        ]
-      },
-      "properties": {
-        "id": 29991,
-        "name": "Møllehusvej v. Låddenhøj",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0787147,
-          55.649689
-        ]
-      },
-      "properties": {
-        "id": 21616,
-        "name": "Vindeboder",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0483221,
-          55.635487
-        ]
-      },
-      "properties": {
-        "id": 29992,
-        "name": "Kristiansminde Plejecenter",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0881065,
-          55.6394026
-        ]
-      },
-      "properties": {
-        "id": 21542,
-        "name": "Roskilde Station ved Kirkegården",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0976187,
-          55.6298444
-        ]
-      },
-      "properties": {
-        "id": 21627,
-        "name": "Østervangscentret",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0707117,
-          55.6374963
-        ]
-      },
-      "properties": {
-        "id": 21648,
-        "name": "Kildegaarden, Idrættens Hus",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.082961,
-          55.6254402
-        ]
-      },
-      "properties": {
-        "id": 21609,
-        "name": "Teknisk Skole, HTX",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0820942,
-          55.641105
-        ]
-      },
-      "properties": {
-        "id": 21632,
-        "name": "Algade v. Stændertorvet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0986029,
-          55.6411759
-        ]
-      },
-      "properties": {
-        "id": 23275,
-        "name": "RO's Torv vest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.08111,
-          55.6461588
-        ]
-      },
-      "properties": {
-        "id": 21630,
-        "name": "Byparken, Pipers Hus",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0794244,
-          55.6444271
-        ]
-      },
-      "properties": {
-        "id": 22562,
-        "name": "Tuttesti",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0904945,
-          55.636902
-        ]
-      },
-      "properties": {
-        "id": 21621,
-        "name": "Roskilde Sygehus, hovedindgang nord",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1092135,
-          55.6424211
-        ]
-      },
-      "properties": {
-        "id": 30849,
-        "name": "Københavnsvej v. Lidl",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0762947,
-          55.6406882
-        ]
-      },
-      "properties": {
-        "id": 21810,
-        "name": "Skomagergade - vest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0876918,
-          55.6376438
-        ]
-      },
-      "properties": {
-        "id": 21524,
-        "name": "Roskilde Station - syd",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0880172,
-          55.6416359
-        ]
-      },
-      "properties": {
-        "id": 21624,
-        "name": "Roskilde Bibliotek, Bibliotekshaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0538536,
-          55.6345597
-        ]
-      },
-      "properties": {
-        "id": 21663,
-        "name": "Hyrdehøj Centret",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.083025,
-          55.6279809
-        ]
-      },
-      "properties": {
-        "id": 21608,
-        "name": "Ragnarock",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0743741,
-          55.640074
-        ]
-      },
-      "properties": {
-        "id": 21641,
-        "name": "Absalon Skole",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0583146,
-          55.6549004
-        ]
-      },
-      "properties": {
-        "id": 29265,
-        "name": "Centralmagasinet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0757996,
-          55.6261063
-        ]
-      },
-      "properties": {
-        "id": 21611,
-        "name": "Roskilde Handelsskole",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0876621,
-          55.6346803
-        ]
-      },
-      "properties": {
-        "id": 21970,
-        "name": "Rådhuset, sundhedscentret",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0895626,
-          55.633969
-        ]
-      },
-      "properties": {
-        "id": 21619,
-        "name": "Rådhuset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1321158,
-          55.6476658
-        ]
-      },
-      "properties": {
-        "id": 28751,
-        "name": "Trekroner Station syd",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0847068,
-          55.6285757
-        ]
-      },
-      "properties": {
-        "id": 21618,
-        "name": "Rabalderstræde v. Containerstriben",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0475778,
-          55.6357475
-        ]
-      },
-      "properties": {
-        "id": 29993,
-        "name": "Kristiansminde Plejecenter nord",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0780754,
-          55.637014
-        ]
-      },
-      "properties": {
-        "id": 23545,
-        "name": "Politigården",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0877524,
-          55.6408603
-        ]
-      },
-      "properties": {
-        "id": 21809,
-        "name": "Algade 41",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0718639,
-          55.6378287
-        ]
-      },
-      "properties": {
-        "id": 28563,
-        "name": "Kildegården øst",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0783195,
-          55.6228863
-        ]
-      },
-      "properties": {
-        "id": 28740,
-        "name": "Festival North",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.080359,
-          55.6410671
-        ]
-      },
-      "properties": {
-        "id": 21806,
-        "name": "Stændertorvet v. Den Gamle Byrådssal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0882531,
-          55.6423699
-        ]
-      },
-      "properties": {
-        "id": 21622,
-        "name": "Roskilde Bibliotek, Dr. Margrethesvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0712763,
-          55.6391526
-        ]
-      },
-      "properties": {
-        "id": 21646,
-        "name": "Kildegården",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0777042,
-          55.6259352
-        ]
-      },
-      "properties": {
-        "id": 21808,
-        "name": "TiendeklasseCenter (TCR)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0905242,
-          55.6442213
-        ]
-      },
-      "properties": {
-        "id": 21633,
-        "name": "Folkeparken, Frøspringvandet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.068294,
-          55.6353079
-        ]
-      },
-      "properties": {
-        "id": 21640,
-        "name": "Roskilde Kongrescenter",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0809658,
-          55.6255774
-        ]
-      },
-      "properties": {
-        "id": 21610,
-        "name": "Teknisk Skole, EUD",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.083878,
-          55.6421406
-        ]
-      },
-      "properties": {
-        "id": 21628,
-        "name": "Sankt Ols Stræde",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0804095,
-          55.636346
-        ]
-      },
-      "properties": {
-        "id": 21644,
-        "name": "INSP",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0797947,
-          55.6373731
-        ]
-      },
-      "properties": {
-        "id": 21647,
-        "name": "Tinghuset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0825948,
-          55.6401677
-        ]
-      },
-      "properties": {
-        "id": 21657,
-        "name": "HF og VUC ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0879367,
-          55.6332803
-        ]
-      },
-      "properties": {
-        "id": 21665,
-        "name": "Jobcenter",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0869767,
-          55.6374272
-        ]
-      },
-      "properties": {
-        "id": 23062,
-        "name": "Roskilde station, syd 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1014461,
-          55.6423875
-        ]
-      },
-      "properties": {
-        "id": 23277,
-        "name": "Elisagårdsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0762005,
-          55.6502892
-        ]
-      },
-      "properties": {
-        "id": 23632,
-        "name": "Havnekontoret",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0635241,
-          55.6550768
-        ]
-      },
-      "properties": {
-        "id": 22068,
-        "name": "Sct. Hans Have",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0889464,
-          55.6406284
-        ]
-      },
-      "properties": {
-        "id": 21636,
-        "name": "Algade v. Hestetorvet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0814395,
-          55.6416079
-        ]
-      },
-      "properties": {
-        "id": 21631,
-        "name": "Stændertorvet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0728125,
-          55.6363363
-        ]
-      },
-      "properties": {
-        "id": 21654,
-        "name": "Roskilde Idrætspark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1314188,
-          55.6481927
-        ]
-      },
-      "properties": {
-        "id": 21943,
-        "name": "Trekroner Station",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0848411,
-          55.6266695
-        ]
-      },
-      "properties": {
-        "id": 21614,
-        "name": "Hal 12",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0763173,
-          55.6272519
-        ]
-      },
-      "properties": {
-        "id": 31380,
-        "name": "Skærehallernes konferencecenter",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1041729,
-          55.6387728
-        ]
-      },
-      "properties": {
-        "id": 21625,
-        "name": "Roskildebadet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0854925,
-          55.6323022
-        ]
-      },
-      "properties": {
-        "id": 21661,
-        "name": "Musiconstien",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0915099,
-          55.6274487
-        ]
-      },
-      "properties": {
-        "id": 21660,
-        "name": "Roskildevænget",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0853754,
-          55.6291883
-        ]
-      },
-      "properties": {
-        "id": 23225,
-        "name": "Rampelyset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.07148,
-          55.639841
-        ]
-      },
-      "properties": {
-        "id": 21643,
-        "name": "Gimle",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0699394,
-          55.6342032
-        ]
-      },
-      "properties": {
-        "id": 23224,
-        "name": "Holbækvej Øst",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.062779,
-          55.6353913
-        ]
-      },
-      "properties": {
-        "id": 22560,
-        "name": "Fælledvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0962601,
-          55.6298677
-        ]
-      },
-      "properties": {
-        "id": 23542,
-        "name": "Astersvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0573927,
-          55.6354372
-        ]
-      },
-      "properties": {
-        "id": 22561,
-        "name": "Holbækvej ved Katedralskolen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0768656,
-          55.6402249
-        ]
-      },
-      "properties": {
-        "id": 21642,
-        "name": "Schmeltz Plads",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0775291,
-          55.6409625
-        ]
-      },
-      "properties": {
-        "id": 21811,
-        "name": "Skomagergade ved Karen Olsdatters Stræde",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0799685,
-          55.6403527
-        ]
-      },
-      "properties": {
-        "id": 22642,
-        "name": "Gullandsstræde",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0784188,
-          55.6282999
-        ]
-      },
-      "properties": {
-        "id": 21612,
-        "name": "ZBC",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0818737,
-          55.6353813
-        ]
-      },
-      "properties": {
-        "id": 21666,
-        "name": "Roskilde Ring",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0847015,
-          55.6299726
-        ]
-      },
-      "properties": {
-        "id": 21807,
-        "name": "Rabalderstræde - nord",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0787448,
-          55.6327843
-        ]
-      },
-      "properties": {
-        "id": 23227,
-        "name": "Retten i Roskilde",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0612318,
-          55.6135448
-        ]
-      },
-      "properties": {
-        "id": 21937,
-        "name": "Himmelsøen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0786481,
-          55.6308364
-        ]
-      },
-      "properties": {
-        "id": 21656,
-        "name": "Zealand - Sjællands Erhvervsakademi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0896713,
-          55.6410039
-        ]
-      },
-      "properties": {
-        "id": 21658,
-        "name": "Sortebrødre Plads",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1007814,
-          55.6413555
-        ]
-      },
-      "properties": {
-        "id": 21623,
-        "name": "RO's Torv øst",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "roskilde",
-    "total_hubs": 77,
-    "generated_at": "2025-08-25T14:23:52.817Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/19/hubs/"
-    ]
+[
+  {
+    "id": 21942,
+    "name": "Vigen Strandpark",
+    "latitude": "55.6737912",
+    "longitude": "12.0819559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30850,
+    "name": "McDonald's Københavnsvej",
+    "latitude": "55.6423147",
+    "longitude": "12.1156664",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21604,
+    "name": "Roskilde Station ved Føtex",
+    "latitude": "55.6376829",
+    "longitude": "12.0832409",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21662,
+    "name": "Roskilde Katedralskole",
+    "latitude": "55.634352",
+    "longitude": "12.0595082",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21635,
+    "name": "Algade v. Hersegade",
+    "latitude": "55.6410874",
+    "longitude": "12.0848259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29991,
+    "name": "Møllehusvej v. Låddenhøj",
+    "latitude": "55.6478411",
+    "longitude": "12.066236",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21616,
+    "name": "Vindeboder",
+    "latitude": "55.649689",
+    "longitude": "12.0787147",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29992,
+    "name": "Kristiansminde Plejecenter",
+    "latitude": "55.635487",
+    "longitude": "12.0483221",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21542,
+    "name": "Roskilde Station ved Kirkegården",
+    "latitude": "55.6394026",
+    "longitude": "12.0881065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21627,
+    "name": "Østervangscentret",
+    "latitude": "55.6298444",
+    "longitude": "12.0976187",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21648,
+    "name": "Kildegaarden, Idrættens Hus",
+    "latitude": "55.6374963",
+    "longitude": "12.0707117",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21609,
+    "name": "Teknisk Skole, HTX",
+    "latitude": "55.6254402",
+    "longitude": "12.082961",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21632,
+    "name": "Algade v. Stændertorvet",
+    "latitude": "55.641105",
+    "longitude": "12.0820942",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23275,
+    "name": "RO's Torv vest",
+    "latitude": "55.6411759",
+    "longitude": "12.0986029",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21630,
+    "name": "Byparken, Pipers Hus",
+    "latitude": "55.6461588",
+    "longitude": "12.08111",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22562,
+    "name": "Tuttesti",
+    "latitude": "55.6444271",
+    "longitude": "12.0794244",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21621,
+    "name": "Roskilde Sygehus, hovedindgang nord",
+    "latitude": "55.636902",
+    "longitude": "12.0904945",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30849,
+    "name": "Københavnsvej v. Lidl",
+    "latitude": "55.6424211",
+    "longitude": "12.1092135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21810,
+    "name": "Skomagergade - vest",
+    "latitude": "55.6406882",
+    "longitude": "12.0762947",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21624,
+    "name": "Roskilde Bibliotek, Bibliotekshaven",
+    "latitude": "55.6416359",
+    "longitude": "12.0880172",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21663,
+    "name": "Hyrdehøj Centret",
+    "latitude": "55.6345597",
+    "longitude": "12.0538536",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21608,
+    "name": "Ragnarock",
+    "latitude": "55.6279809",
+    "longitude": "12.083025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21641,
+    "name": "Absalon Skole",
+    "latitude": "55.640074",
+    "longitude": "12.0743741",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29265,
+    "name": "Centralmagasinet",
+    "latitude": "55.6549004",
+    "longitude": "12.0583146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21611,
+    "name": "Roskilde Handelsskole",
+    "latitude": "55.6261063",
+    "longitude": "12.0757996",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21970,
+    "name": "Rådhuset, sundhedscentret",
+    "latitude": "55.6346803",
+    "longitude": "12.0876621",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21619,
+    "name": "Rådhuset",
+    "latitude": "55.633969",
+    "longitude": "12.0895626",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28751,
+    "name": "Trekroner Station syd",
+    "latitude": "55.6476658",
+    "longitude": "12.1321158",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21618,
+    "name": "Rabalderstræde v. Containerstriben",
+    "latitude": "55.6285757",
+    "longitude": "12.0847068",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29993,
+    "name": "Kristiansminde Plejecenter nord",
+    "latitude": "55.6357475",
+    "longitude": "12.0475778",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23545,
+    "name": "Politigården",
+    "latitude": "55.637014",
+    "longitude": "12.0780754",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21809,
+    "name": "Algade 41",
+    "latitude": "55.6408603",
+    "longitude": "12.0877524",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28563,
+    "name": "Kildegården øst",
+    "latitude": "55.6378287",
+    "longitude": "12.0718639",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28740,
+    "name": "Festival North",
+    "latitude": "55.6228863",
+    "longitude": "12.0783195",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21806,
+    "name": "Stændertorvet v. Den Gamle Byrådssal",
+    "latitude": "55.6410671",
+    "longitude": "12.080359",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21622,
+    "name": "Roskilde Bibliotek, Dr. Margrethesvej",
+    "latitude": "55.6423699",
+    "longitude": "12.0882531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21646,
+    "name": "Kildegården",
+    "latitude": "55.6391526",
+    "longitude": "12.0712763",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21808,
+    "name": "TiendeklasseCenter (TCR)",
+    "latitude": "55.6259352",
+    "longitude": "12.0777042",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21633,
+    "name": "Folkeparken, Frøspringvandet",
+    "latitude": "55.6442213",
+    "longitude": "12.0905242",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21640,
+    "name": "Roskilde Kongrescenter",
+    "latitude": "55.6353079",
+    "longitude": "12.068294",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21610,
+    "name": "Teknisk Skole, EUD",
+    "latitude": "55.6255774",
+    "longitude": "12.0809658",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21628,
+    "name": "Sankt Ols Stræde",
+    "latitude": "55.6421406",
+    "longitude": "12.083878",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21644,
+    "name": "INSP",
+    "latitude": "55.636346",
+    "longitude": "12.0804095",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21647,
+    "name": "Tinghuset",
+    "latitude": "55.6373731",
+    "longitude": "12.0797947",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21657,
+    "name": "HF og VUC ",
+    "latitude": "55.6401677",
+    "longitude": "12.0825948",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21665,
+    "name": "Jobcenter",
+    "latitude": "55.6332803",
+    "longitude": "12.0879367",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23062,
+    "name": "Roskilde station, syd 2",
+    "latitude": "55.6374272",
+    "longitude": "12.0869767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23277,
+    "name": "Elisagårdsvej",
+    "latitude": "55.6423875",
+    "longitude": "12.1014461",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23632,
+    "name": "Havnekontoret",
+    "latitude": "55.6502892",
+    "longitude": "12.0762005",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22068,
+    "name": "Sct. Hans Have",
+    "latitude": "55.6550768",
+    "longitude": "12.0635241",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21636,
+    "name": "Algade v. Hestetorvet",
+    "latitude": "55.6406284",
+    "longitude": "12.0889464",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21631,
+    "name": "Stændertorvet",
+    "latitude": "55.6416079",
+    "longitude": "12.0814395",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21654,
+    "name": "Roskilde Idrætspark",
+    "latitude": "55.6363363",
+    "longitude": "12.0728125",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21943,
+    "name": "Trekroner Station",
+    "latitude": "55.6481927",
+    "longitude": "12.1314188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21614,
+    "name": "Hal 12",
+    "latitude": "55.6266695",
+    "longitude": "12.0848411",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31380,
+    "name": "Skærehallernes konferencecenter",
+    "latitude": "55.6272519",
+    "longitude": "12.0763173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21625,
+    "name": "Roskildebadet",
+    "latitude": "55.6387728",
+    "longitude": "12.1041729",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21661,
+    "name": "Musiconstien",
+    "latitude": "55.6323022",
+    "longitude": "12.0854925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21660,
+    "name": "Roskildevænget",
+    "latitude": "55.6274487",
+    "longitude": "12.0915099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23225,
+    "name": "Rampelyset",
+    "latitude": "55.6291883",
+    "longitude": "12.0853754",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21643,
+    "name": "Gimle",
+    "latitude": "55.639841",
+    "longitude": "12.07148",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23224,
+    "name": "Holbækvej Øst",
+    "latitude": "55.6342032",
+    "longitude": "12.0699394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22560,
+    "name": "Fælledvej",
+    "latitude": "55.6353913",
+    "longitude": "12.062779",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23542,
+    "name": "Astersvej",
+    "latitude": "55.6298677",
+    "longitude": "12.0962601",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22561,
+    "name": "Holbækvej ved Katedralskolen",
+    "latitude": "55.6354372",
+    "longitude": "12.0573927",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21642,
+    "name": "Schmeltz Plads",
+    "latitude": "55.6402249",
+    "longitude": "12.0768656",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21811,
+    "name": "Skomagergade ved Karen Olsdatters Stræde",
+    "latitude": "55.6409625",
+    "longitude": "12.0775291",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22642,
+    "name": "Gullandsstræde",
+    "latitude": "55.6403527",
+    "longitude": "12.0799685",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21612,
+    "name": "ZBC",
+    "latitude": "55.6282999",
+    "longitude": "12.0784188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21666,
+    "name": "Roskilde Ring",
+    "latitude": "55.6353813",
+    "longitude": "12.0818737",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21807,
+    "name": "Rabalderstræde - nord",
+    "latitude": "55.6299726",
+    "longitude": "12.0847015",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23227,
+    "name": "Retten i Roskilde",
+    "latitude": "55.6327843",
+    "longitude": "12.0787448",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21937,
+    "name": "Himmelsøen",
+    "latitude": "55.6135448",
+    "longitude": "12.0612318",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21656,
+    "name": "Zealand - Sjællands Erhvervsakademi",
+    "latitude": "55.6308364",
+    "longitude": "12.0786481",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21658,
+    "name": "Sortebrødre Plads",
+    "latitude": "55.6410039",
+    "longitude": "12.0896713",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21623,
+    "name": "RO's Torv øst",
+    "latitude": "55.6413555",
+    "longitude": "12.1007814",
+    "thumbnail_url": ""
   }
-}
+]

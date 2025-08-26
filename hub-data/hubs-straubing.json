@@ -1,653 +1,226 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5624726,
-          48.8868628
-        ]
-      },
-      "properties": {
-        "id": 31069,
-        "name": "Am Hagen Straubing",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.590555,
-          48.8874557
-        ]
-      },
-      "properties": {
-        "id": 26808,
-        "name": "Klinikum (vor Parkhaus)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5686705,
-          48.8822361
-        ]
-      },
-      "properties": {
-        "id": 20433,
-        "name": "Seminargasse",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6576504,
-          48.8945392
-        ]
-      },
-      "properties": {
-        "id": 24035,
-        "name": "Europaring 4",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5737951,
-          48.8690376
-        ]
-      },
-      "properties": {
-        "id": 26513,
-        "name": "Landshuter Str. Netto (Laterne)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5740004,
-          48.8775773
-        ]
-      },
-      "properties": {
-        "id": 20434,
-        "name": "Bahnhof",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5379418,
-          48.8827695
-        ]
-      },
-      "properties": {
-        "id": 20436,
-        "name": "Tiergarten",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.564136,
-          48.8733045
-        ]
-      },
-      "properties": {
-        "id": 20438,
-        "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5889301,
-          48.8715442
-        ]
-      },
-      "properties": {
-        "id": 27296,
-        "name": "JVA (Hinter Pflanztrögen)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6086894,
-          48.8839832
-        ]
-      },
-      "properties": {
-        "id": 22160,
-        "name": "Ittlinger Strasse 192",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5549708,
-          48.8761121
-        ]
-      },
-      "properties": {
-        "id": 22536,
-        "name": "Westpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.564369,
-          48.8781558
-        ]
-      },
-      "properties": {
-        "id": 20935,
-        "name": "Alte Ziegelei - Boulderhalle",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5136484,
-          48.9024072
-        ]
-      },
-      "properties": {
-        "id": 26783,
-        "name": "Flugplatz Wallmühle",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5757808,
-          48.8932739
-        ]
-      },
-      "properties": {
-        "id": 20478,
-        "name": "Campingplatz",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6313375,
-          48.8797146
-        ]
-      },
-      "properties": {
-        "id": 23865,
-        "name": "Niederalteicher Str.",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6371181,
-          48.8848476
-        ]
-      },
-      "properties": {
-        "id": 24605,
-        "name": "Bahnhof Ittling (Fahrradabstellanlage)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5837345,
-          48.8838232
-        ]
-      },
-      "properties": {
-        "id": 20440,
-        "name": "Schulgasse (TFZ), Wallbox",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5751719,
-          48.8633673
-        ]
-      },
-      "properties": {
-        "id": 26233,
-        "name": "Landshuter Str. Aldi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5734564,
-          48.8819705
-        ]
-      },
-      "properties": {
-        "id": 20439,
-        "name": "Stetthaimer Platz, Wallbox",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6008593,
-          48.8853393
-        ]
-      },
-      "properties": {
-        "id": 26523,
-        "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5967173,
-          48.8864806
-        ]
-      },
-      "properties": {
-        "id": 22163,
-        "name": "Römerpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5827528,
-          48.8864081
-        ]
-      },
-      "properties": {
-        "id": 20856,
-        "name": "TUM Uferstrasse",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5499594,
-          48.8701578
-        ]
-      },
-      "properties": {
-        "id": 24219,
-        "name": "Beim Römerschatz",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5682731,
-          48.8688756
-        ]
-      },
-      "properties": {
-        "id": 23864,
-        "name": "Haydnstrasse",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5655164,
-          48.8811806
-        ]
-      },
-      "properties": {
-        "id": 24221,
-        "name": "Theresienplatz vor Pustet (Fahrradständer)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5423566,
-          48.8686911
-        ]
-      },
-      "properties": {
-        "id": 26572,
-        "name": "Alburg Bayerg. neben Schranke",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5710989,
-          48.8820179
-        ]
-      },
-      "properties": {
-        "id": 24220,
-        "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5603465,
-          48.8739041
-        ]
-      },
-      "properties": {
-        "id": 20435,
-        "name": "Aquatherm",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5453889,
-          48.8734229
-        ]
-      },
-      "properties": {
-        "id": 20441,
-        "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5858091,
-          48.8745709
-        ]
-      },
-      "properties": {
-        "id": 22162,
-        "name": "Äussere Passauer Strasse _ Antoniusberg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6049892,
-          48.8894663
-        ]
-      },
-      "properties": {
-        "id": 22161,
-        "name": "Schlesische Strasse 112 (Mangal)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.575624,
-          48.8686327
-        ]
-      },
-      "properties": {
-        "id": 26511,
-        "name": "Förderzentrum (gegenüber) an Laterne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "straubing",
-    "total_hubs": 32,
-    "generated_at": "2025-08-25T14:23:56.434Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/336/hubs/"
-    ]
+[
+  {
+    "id": 31069,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26808,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20433,
+    "name": "Seminargasse",
+    "latitude": "48.8822361",
+    "longitude": "12.5686705",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24035,
+    "name": "Europaring 4",
+    "latitude": "48.8945392",
+    "longitude": "12.6576504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26513,
+    "name": "Landshuter Str. Netto (Laterne)",
+    "latitude": "48.8690376",
+    "longitude": "12.5737951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20434,
+    "name": "Bahnhof",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20436,
+    "name": "Tiergarten",
+    "latitude": "48.8827695",
+    "longitude": "12.5379418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20438,
+    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
+    "latitude": "48.8733045",
+    "longitude": "12.564136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27296,
+    "name": "JVA (Hinter Pflanztrögen)",
+    "latitude": "48.8715442",
+    "longitude": "12.5889301",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22160,
+    "name": "Ittlinger Strasse 192",
+    "latitude": "48.8839832",
+    "longitude": "12.6086894",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22536,
+    "name": "Westpark",
+    "latitude": "48.8761121",
+    "longitude": "12.5549708",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20935,
+    "name": "Alte Ziegelei - Boulderhalle",
+    "latitude": "48.8781558",
+    "longitude": "12.564369",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26783,
+    "name": "Flugplatz Wallmühle",
+    "latitude": "48.9024072",
+    "longitude": "12.5136484",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20478,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23865,
+    "name": "Niederalteicher Str.",
+    "latitude": "48.8797146",
+    "longitude": "12.6313375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24605,
+    "name": "Bahnhof Ittling (Fahrradabstellanlage)",
+    "latitude": "48.8848476",
+    "longitude": "12.6371181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20440,
+    "name": "Schulgasse (TFZ), Wallbox",
+    "latitude": "48.8838232",
+    "longitude": "12.5837345",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26233,
+    "name": "Landshuter Str. Aldi",
+    "latitude": "48.8633673",
+    "longitude": "12.5751719",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20439,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26523,
+    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
+    "latitude": "48.8853393",
+    "longitude": "12.6008593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22163,
+    "name": "Römerpark",
+    "latitude": "48.8864806",
+    "longitude": "12.5967173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20856,
+    "name": "TUM Uferstrasse",
+    "latitude": "48.8864081",
+    "longitude": "12.5827528",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24219,
+    "name": "Beim Römerschatz",
+    "latitude": "48.8701578",
+    "longitude": "12.5499594",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23864,
+    "name": "Haydnstrasse",
+    "latitude": "48.8688756",
+    "longitude": "12.5682731",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24221,
+    "name": "Theresienplatz vor Pustet (Fahrradständer)",
+    "latitude": "48.8811806",
+    "longitude": "12.5655164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26572,
+    "name": "Alburg Bayerg. neben Schranke",
+    "latitude": "48.8686911",
+    "longitude": "12.5423566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24220,
+    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
+    "latitude": "48.8820179",
+    "longitude": "12.5710989",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20435,
+    "name": "Aquatherm",
+    "latitude": "48.8739041",
+    "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20441,
+    "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
+    "latitude": "48.8734229",
+    "longitude": "12.5453889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22162,
+    "name": "Äussere Passauer Strasse _ Antoniusberg",
+    "latitude": "48.8745709",
+    "longitude": "12.5858091",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22161,
+    "name": "Schlesische Strasse 112 (Mangal)",
+    "latitude": "48.8894663",
+    "longitude": "12.6049892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26511,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
+    "thumbnail_url": ""
   }
-}
+]

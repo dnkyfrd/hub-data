@@ -1,1073 +1,373 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8338295,
-          52.3455372
-        ]
-      },
-      "properties": {
-        "id": 23523,
-        "name": "Henk Sneevlietweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8054229,
-          52.4689875
-        ]
-      },
-      "properties": {
-        "id": 31760,
-        "name": "Station Zaandijk Zaanse Schans I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9532287,
-          52.3061406
-        ]
-      },
-      "properties": {
-        "id": 30416,
-        "name": "Bullewijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9598041,
-          52.2977903
-        ]
-      },
-      "properties": {
-        "id": 31054,
-        "name": "Holendrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8002154,
-          52.3577129
-        ]
-      },
-      "properties": {
-        "id": 26609,
-        "name": "Hoekenes",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9188123,
-          52.3468462
-        ]
-      },
-      "properties": {
-        "id": 20883,
-        "name": "!PARK INDOOR! Amstelstation",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8774985,
-          52.368809
-        ]
-      },
-      "properties": {
-        "id": 28890,
-        "name": "Appeltjesmarkt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8454602,
-          52.341955
-        ]
-      },
-      "properties": {
-        "id": 2436,
-        "name": "Hotel Jansen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9351717,
-          52.4967467
-        ]
-      },
-      "properties": {
-        "id": 31896,
-        "name": "Station Purmerend Weidevenne II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7553058,
-          52.4951634
-        ]
-      },
-      "properties": {
-        "id": 31768,
-        "name": "Station Krommenie Assendelft I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7557598,
-          52.494637
-        ]
-      },
-      "properties": {
-        "id": 31769,
-        "name": "Station Krommenie Assendelft II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8986146,
-          52.3801546
-        ]
-      },
-      "properties": {
-        "id": 27223,
-        "name": "!PARK INDOOR! CS River",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9668317,
-          52.3451733
-        ]
-      },
-      "properties": {
-        "id": 31837,
-        "name": "Station Diemen I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8677067,
-          52.3426983
-        ]
-      },
-      "properties": {
-        "id": 31540,
-        "name": "Parnassusweg 126-128",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8506925,
-          52.3949845
-        ]
-      },
-      "properties": {
-        "id": 23620,
-        "name": "Isolatorweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8977567,
-          52.3784261
-        ]
-      },
-      "properties": {
-        "id": 27812,
-        "name": "!PARK UNDERGROUND! Stationspleinstalling",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8059,
-          52.4568489
-        ]
-      },
-      "properties": {
-        "id": 31767,
-        "name": "Station Koog aan de Zaan II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8615548,
-          52.3803082
-        ]
-      },
-      "properties": {
-        "id": 2417,
-        "name": "Tetterode Parking",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9026312,
-          52.377613
-        ]
-      },
-      "properties": {
-        "id": 27226,
-        "name": "!PARK INDOOR! CS Center",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9546884,
-          52.5037628
-        ]
-      },
-      "properties": {
-        "id": 31762,
-        "name": "Station Purmerend",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8728958,
-          52.3399475
-        ]
-      },
-      "properties": {
-        "id": 21830,
-        "name": "!PARK UNDERGROUND! Station Zuidplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9671671,
-          52.3455106
-        ]
-      },
-      "properties": {
-        "id": 31838,
-        "name": "Station Diemen II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8775592,
-          52.4369425
-        ]
-      },
-      "properties": {
-        "id": 31828,
-        "name": "Halte Oostzaan Lisweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9670869,
-          52.5111173
-        ]
-      },
-      "properties": {
-        "id": 31772,
-        "name": "Station Purmerend Overwere",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9481016,
-          52.3136718
-        ]
-      },
-      "properties": {
-        "id": 30415,
-        "name": "Hoekenrodepad",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9363679,
-          52.3232396
-        ]
-      },
-      "properties": {
-        "id": 31756,
-        "name": "Station Duivendrecht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8070366,
-          52.3780553
-        ]
-      },
-      "properties": {
-        "id": 31367,
-        "name": "Lodewijk Deysselstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9349338,
-          52.4961526
-        ]
-      },
-      "properties": {
-        "id": 31771,
-        "name": "Station Purmerend Weidevenne I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6452648,
-          52.2591352
-        ]
-      },
-      "properties": {
-        "id": 31763,
-        "name": "Station Nieuw Vennep",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.0447229,
-          52.5102944
-        ]
-      },
-      "properties": {
-        "id": 31774,
-        "name": "Halte Edam Busstation",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8118099,
-          52.4991061
-        ]
-      },
-      "properties": {
-        "id": 31827,
-        "name": "Halte Wormer Talingstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9173944,
-          52.372797
-        ]
-      },
-      "properties": {
-        "id": 28747,
-        "name": "Marine Buurthub",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.890449,
-          52.3373397
-        ]
-      },
-      "properties": {
-        "id": 21829,
-        "name": "!PARK INDOOR! Station Rai",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8192717,
-          52.4569946
-        ]
-      },
-      "properties": {
-        "id": 31770,
-        "name": "Station Zaandam Kogerveld",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.0727965,
-          52.4938676
-        ]
-      },
-      "properties": {
-        "id": 31829,
-        "name": "Halte Edam Volendam",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8048231,
-          52.4690327
-        ]
-      },
-      "properties": {
-        "id": 31761,
-        "name": "Station Zaandijk Zaanse Schans II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9541849,
-          52.3302353
-        ]
-      },
-      "properties": {
-        "id": 31755,
-        "name": "Station Diemen Zuid",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8052612,
-          52.4576105
-        ]
-      },
-      "properties": {
-        "id": 31766,
-        "name": "Station Koog aan de Zaan I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6992054,
-          52.2921885
-        ]
-      },
-      "properties": {
-        "id": 31764,
-        "name": "Station Hoofddorp",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7453457,
-          52.3860205
-        ]
-      },
-      "properties": {
-        "id": 31765,
-        "name": "Station Halfweg Zwanenburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9428831,
-          52.3176092
-        ]
-      },
-      "properties": {
-        "id": 30414,
-        "name": "Strandvliet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8726444,
-          52.3348183
-        ]
-      },
-      "properties": {
-        "id": 26622,
-        "name": "De Boelelaan 771",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9558884,
-          52.3550805
-        ]
-      },
-      "properties": {
-        "id": 26619,
-        "name": "Science Park campus",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.942129,
-          52.3522011
-        ]
-      },
-      "properties": {
-        "id": 26612,
-        "name": "van der Waalsstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8615045,
-          52.3702551
-        ]
-      },
-      "properties": {
-        "id": 26614,
-        "name": "Chasséstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8565964,
-          52.3724046
-        ]
-      },
-      "properties": {
-        "id": 26615,
-        "name": "Admiralengracht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8613261,
-          52.3719619
-        ]
-      },
-      "properties": {
-        "id": 31539,
-        "name": "M. H. Trompstraat ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.947996,
-          52.3561877
-        ]
-      },
-      "properties": {
-        "id": 26617,
-        "name": "Carolina MacGillavrylaan II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8863163,
-          52.3351598
-        ]
-      },
-      "properties": {
-        "id": 26611,
-        "name": "De Boelelaan 30",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9462154,
-          52.351708
-        ]
-      },
-      "properties": {
-        "id": 26613,
-        "name": "Max Planckstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9175288,
-          52.4074635
-        ]
-      },
-      "properties": {
-        "id": 30192,
-        "name": "Banneplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9568245,
-          52.3931311
-        ]
-      },
-      "properties": {
-        "id": 30183,
-        "name": "Limmenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9459009,
-          52.357425
-        ]
-      },
-      "properties": {
-        "id": 26618,
-        "name": "Carolina MacGillavrylaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "amsterdam",
-    "total_hubs": 53,
-    "generated_at": "2025-08-25T14:23:56.823Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/5/hubs/"
-    ]
+[
+  {
+    "id": 31760,
+    "name": "Station Zaandijk Zaanse Schans I",
+    "latitude": "52.4689875",
+    "longitude": "4.8054229",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31540,
+    "name": "Parnassusweg 126-128",
+    "latitude": "52.3426983",
+    "longitude": "4.8677067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28747,
+    "name": "Marine Buurthub",
+    "latitude": "52.372797",
+    "longitude": "4.9173944",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23523,
+    "name": "Henk Sneevlietweg",
+    "latitude": "52.3455372",
+    "longitude": "4.8338295",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2417,
+    "name": "Tetterode Parking",
+    "latitude": "52.3803082",
+    "longitude": "4.8615548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26609,
+    "name": "Hoekenes",
+    "latitude": "52.3577129",
+    "longitude": "4.8002154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31827,
+    "name": "Halte Wormer Talingstraat",
+    "latitude": "52.4991061",
+    "longitude": "4.8118099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30416,
+    "name": "Bullewijk",
+    "latitude": "52.3061406",
+    "longitude": "4.9532287",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31054,
+    "name": "Holendrecht",
+    "latitude": "52.2977903",
+    "longitude": "4.9598041",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31896,
+    "name": "Station Purmerend Weidevenne II",
+    "latitude": "52.4967467",
+    "longitude": "4.9351717",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31768,
+    "name": "Station Krommenie Assendelft I",
+    "latitude": "52.4951634",
+    "longitude": "4.7553058",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31769,
+    "name": "Station Krommenie Assendelft II",
+    "latitude": "52.494637",
+    "longitude": "4.7557598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21830,
+    "name": "!PARK UNDERGROUND! Station Zuidplein",
+    "latitude": "52.3399475",
+    "longitude": "4.8728958",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784261",
+    "longitude": "4.8977567",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2436,
+    "name": "Hotel Jansen",
+    "latitude": "52.341955",
+    "longitude": "4.8454602",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31837,
+    "name": "Station Diemen I",
+    "latitude": "52.3451733",
+    "longitude": "4.9668317",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20883,
+    "name": "!PARK INDOOR! Amstelstation",
+    "latitude": "52.3468462",
+    "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23620,
+    "name": "Isolatorweg",
+    "latitude": "52.3949845",
+    "longitude": "4.8506925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31767,
+    "name": "Station Koog aan de Zaan II",
+    "latitude": "52.4568489",
+    "longitude": "4.8059",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31762,
+    "name": "Station Purmerend",
+    "latitude": "52.5037628",
+    "longitude": "4.9546884",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28890,
+    "name": "Appeltjesmarkt",
+    "latitude": "52.368809",
+    "longitude": "4.8774985",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31838,
+    "name": "Station Diemen II",
+    "latitude": "52.3455106",
+    "longitude": "4.9671671",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31828,
+    "name": "Halte Oostzaan Lisweg",
+    "latitude": "52.4369425",
+    "longitude": "4.8775592",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31772,
+    "name": "Station Purmerend Overwere",
+    "latitude": "52.5111173",
+    "longitude": "4.9670869",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30415,
+    "name": "Hoekenrodepad",
+    "latitude": "52.3136718",
+    "longitude": "4.9481016",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31756,
+    "name": "Station Duivendrecht",
+    "latitude": "52.3232396",
+    "longitude": "4.9363679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31367,
+    "name": "Lodewijk Deysselstraat",
+    "latitude": "52.3780553",
+    "longitude": "4.8070366",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31771,
+    "name": "Station Purmerend Weidevenne I",
+    "latitude": "52.4961526",
+    "longitude": "4.9349338",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31763,
+    "name": "Station Nieuw Vennep",
+    "latitude": "52.2591352",
+    "longitude": "4.6452648",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31774,
+    "name": "Halte Edam Busstation",
+    "latitude": "52.5102944",
+    "longitude": "5.0447229",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31770,
+    "name": "Station Zaandam Kogerveld",
+    "latitude": "52.4569946",
+    "longitude": "4.8192717",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31829,
+    "name": "Halte Edam Volendam",
+    "latitude": "52.4938676",
+    "longitude": "5.0727965",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31761,
+    "name": "Station Zaandijk Zaanse Schans II",
+    "latitude": "52.4690327",
+    "longitude": "4.8048231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31755,
+    "name": "Station Diemen Zuid",
+    "latitude": "52.3302353",
+    "longitude": "4.9541849",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31766,
+    "name": "Station Koog aan de Zaan I",
+    "latitude": "52.4576105",
+    "longitude": "4.8052612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31764,
+    "name": "Station Hoofddorp",
+    "latitude": "52.2921885",
+    "longitude": "4.6992054",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31765,
+    "name": "Station Halfweg Zwanenburg",
+    "latitude": "52.3860205",
+    "longitude": "4.7453457",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30414,
+    "name": "Strandvliet",
+    "latitude": "52.3176092",
+    "longitude": "4.9428831",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26622,
+    "name": "De Boelelaan 771",
+    "latitude": "52.3348183",
+    "longitude": "4.8726444",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26619,
+    "name": "Science Park campus",
+    "latitude": "52.3550805",
+    "longitude": "4.9558884",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26612,
+    "name": "van der Waalsstraat",
+    "latitude": "52.3522011",
+    "longitude": "4.942129",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26614,
+    "name": "Chasséstraat",
+    "latitude": "52.3702551",
+    "longitude": "4.8615045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26615,
+    "name": "Admiralengracht",
+    "latitude": "52.3724046",
+    "longitude": "4.8565964",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31539,
+    "name": "M. H. Trompstraat ",
+    "latitude": "52.3719619",
+    "longitude": "4.8613261",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26617,
+    "name": "Carolina MacGillavrylaan II",
+    "latitude": "52.3561877",
+    "longitude": "4.947996",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26611,
+    "name": "De Boelelaan 30",
+    "latitude": "52.3351598",
+    "longitude": "4.8863163",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26613,
+    "name": "Max Planckstraat",
+    "latitude": "52.351708",
+    "longitude": "4.9462154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30192,
+    "name": "Banneplein",
+    "latitude": "52.4074635",
+    "longitude": "4.9175288",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30183,
+    "name": "Limmenstraat",
+    "latitude": "52.3931311",
+    "longitude": "4.9568245",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26618,
+    "name": "Carolina MacGillavrylaan",
+    "latitude": "52.357425",
+    "longitude": "4.9459009",
+    "thumbnail_url": ""
   }
-}
+]

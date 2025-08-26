@@ -1,4835 +1,1689 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4888194,
-          52.1863824
-        ]
-      },
-      "properties": {
-        "id": 29495,
-        "name": "Ajax Sportman",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4854559,
-          52.1957475
-        ]
-      },
-      "properties": {
-        "id": 29486,
-        "name": "Zwemstrand",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4752606,
-          52.1923786
-        ]
-      },
-      "properties": {
-        "id": 29489,
-        "name": "Haaswijklaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.481723,
-          52.1836377
-        ]
-      },
-      "properties": {
-        "id": 29505,
-        "name": "Oegstgeest Tennis Club",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4826634,
-          52.1846709
-        ]
-      },
-      "properties": {
-        "id": 29504,
-        "name": "Hofbrouckenlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4667631,
-          52.1877514
-        ]
-      },
-      "properties": {
-        "id": 29512,
-        "name": "Wijttenbachweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4670869,
-          52.1775582
-        ]
-      },
-      "properties": {
-        "id": 29517,
-        "name": "De Kempenaerstraat ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4696242,
-          52.1857026
-        ]
-      },
-      "properties": {
-        "id": 29509,
-        "name": "Jumbo ommevoort",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4631013,
-          52.1749757
-        ]
-      },
-      "properties": {
-        "id": 29523,
-        "name": "Endegeest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.452271,
-          52.1826239
-        ]
-      },
-      "properties": {
-        "id": 29577,
-        "name": "Fietsenstalling VDS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4852704,
-          52.2000026
-        ]
-      },
-      "properties": {
-        "id": 29485,
-        "name": "Klinkenbergerplas",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4729593,
-          52.1897529
-        ]
-      },
-      "properties": {
-        "id": 29506,
-        "name": "Dahlialaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4686548,
-          52.1774412
-        ]
-      },
-      "properties": {
-        "id": 29518,
-        "name": "AH Oegstgeest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4725386,
-          52.1775055
-        ]
-      },
-      "properties": {
-        "id": 29521,
-        "name": "Mi Casa",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4660032,
-          52.1836898
-        ]
-      },
-      "properties": {
-        "id": 29515,
-        "name": "Duinzichtstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4824559,
-          52.1805772
-        ]
-      },
-      "properties": {
-        "id": 29497,
-        "name": "Poelgeest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4576832,
-          52.1721596
-        ]
-      },
-      "properties": {
-        "id": 29524,
-        "name": "Curium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4652174,
-          52.1795944
-        ]
-      },
-      "properties": {
-        "id": 29516,
-        "name": "Leidsebuurt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4624554,
-          52.1835317
-        ]
-      },
-      "properties": {
-        "id": 29514,
-        "name": "Sporthal de Cuyl",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4750943,
-          52.1768989
-        ]
-      },
-      "properties": {
-        "id": 29500,
-        "name": "Warmonderweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4810161,
-          52.1835941
-        ]
-      },
-      "properties": {
-        "id": 29594,
-        "name": "LOHC Hockey",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4571676,
-          52.1721083
-        ]
-      },
-      "properties": {
-        "id": 29525,
-        "name": "Curium 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4740031,
-          52.1966927
-        ]
-      },
-      "properties": {
-        "id": 29487,
-        "name": "Gerrit Rietveldlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4672374,
-          52.1896871
-        ]
-      },
-      "properties": {
-        "id": 29511,
-        "name": "Dorpstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4476155,
-          52.1671489
-        ]
-      },
-      "properties": {
-        "id": 29461,
-        "name": "Bio Science park West",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4865418,
-          52.1840542
-        ]
-      },
-      "properties": {
-        "id": 29496,
-        "name": "Zwembad Poelmeer",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.446155,
-          52.1670189
-        ]
-      },
-      "properties": {
-        "id": 29462,
-        "name": "McDonalds Leiden A44",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4518346,
-          52.1781305
-        ]
-      },
-      "properties": {
-        "id": 29572,
-        "name": "Oude Rijnsburgerweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4714044,
-          52.1870485
-        ]
-      },
-      "properties": {
-        "id": 29508,
-        "name": "AH Irislaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4714485,
-          52.1860488
-        ]
-      },
-      "properties": {
-        "id": 29510,
-        "name": "Lange Voort",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4768914,
-          52.1946936
-        ]
-      },
-      "properties": {
-        "id": 29488,
-        "name": "Morsbellalaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4767518,
-          52.1859207
-        ]
-      },
-      "properties": {
-        "id": 29503,
-        "name": "Hazenboslaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4505806,
-          52.1705606
-        ]
-      },
-      "properties": {
-        "id": 29570,
-        "name": "Bio Partner 5",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4756063,
-          52.1915051
-        ]
-      },
-      "properties": {
-        "id": 29490,
-        "name": "LIDL Boerhaaveplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4701588,
-          52.1776036
-        ]
-      },
-      "properties": {
-        "id": 29520,
-        "name": "Pauw",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4624947,
-          52.1780812
-        ]
-      },
-      "properties": {
-        "id": 29522,
-        "name": "Gemeentehuis Oegstgeest",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4710378,
-          52.1749247
-        ]
-      },
-      "properties": {
-        "id": 29519,
-        "name": "Hendrik Kramerpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4531188,
-          52.1702991
-        ]
-      },
-      "properties": {
-        "id": 29569,
-        "name": "Corpus Hilton",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4716739,
-          52.1724821
-        ]
-      },
-      "properties": {
-        "id": 31375,
-        "name": "Lijsterstraat III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.473183,
-          52.1734886
-        ]
-      },
-      "properties": {
-        "id": 31377,
-        "name": "Lijsterstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4722825,
-          52.1729283
-        ]
-      },
-      "properties": {
-        "id": 31376,
-        "name": "Lijsterstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4669025,
-          52.1689792
-        ]
-      },
-      "properties": {
-        "id": 29561,
-        "name": "Bio Partner 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4561504,
-          52.1475188
-        ]
-      },
-      "properties": {
-        "id": 32355,
-        "name": "De Vink Leiden",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.465361,
-          52.1662852
-        ]
-      },
-      "properties": {
-        "id": 29554,
-        "name": "Sanquin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.477841,
-          52.1681702
-        ]
-      },
-      "properties": {
-        "id": 31374,
-        "name": "Heurniusstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4765815,
-          52.1701244
-        ]
-      },
-      "properties": {
-        "id": 29535,
-        "name": "Albinusweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4718849,
-          52.1649948
-        ]
-      },
-      "properties": {
-        "id": 29664,
-        "name": "Naturalis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4648202,
-          52.1684053
-        ]
-      },
-      "properties": {
-        "id": 29559,
-        "name": "Hall Allergy",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4178164,
-          52.1747519
-        ]
-      },
-      "properties": {
-        "id": 29927,
-        "name": "Museum Marinevliegkamp",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.471373,
-          52.1664386
-        ]
-      },
-      "properties": {
-        "id": 29550,
-        "name": "VRIJ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4765765,
-          52.1693418
-        ]
-      },
-      "properties": {
-        "id": 29545,
-        "name": "Zaaijerplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4606197,
-          52.1651075
-        ]
-      },
-      "properties": {
-        "id": 29492,
-        "name": "Bio Science Park Oost",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4568115,
-          52.163774
-        ]
-      },
-      "properties": {
-        "id": 31362,
-        "name": "ECC Leiden",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4791441,
-          52.1734716
-        ]
-      },
-      "properties": {
-        "id": 29592,
-        "name": "Leiden Atlethiek",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4849702,
-          52.174634
-        ]
-      },
-      "properties": {
-        "id": 29502,
-        "name": "LVV Lugdunum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4817925,
-          52.1733071
-        ]
-      },
-      "properties": {
-        "id": 29526,
-        "name": "Alrijne Ziekenhuis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.468598,
-          52.1705307
-        ]
-      },
-      "properties": {
-        "id": 29533,
-        "name": "Basalt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4585543,
-          52.170238
-        ]
-      },
-      "properties": {
-        "id": 29537,
-        "name": "Corpus",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.456791,
-          52.1470365
-        ]
-      },
-      "properties": {
-        "id": 31005,
-        "name": "De Vink Voorschoten",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4584376,
-          52.1681574
-        ]
-      },
-      "properties": {
-        "id": 29564,
-        "name": "Uni Science",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.457715,
-          52.1679496
-        ]
-      },
-      "properties": {
-        "id": 29563,
-        "name": "LIS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4814157,
-          52.1664615
-        ]
-      },
-      "properties": {
-        "id": 30504,
-        "name": "!PARK IN LINE! Leiden Central Station",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4576705,
-          52.1691082
-        ]
-      },
-      "properties": {
-        "id": 29567,
-        "name": "SRON",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4656715,
-          52.1640996
-        ]
-      },
-      "properties": {
-        "id": 29493,
-        "name": "Verbeekstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4587112,
-          52.1688352
-        ]
-      },
-      "properties": {
-        "id": 29565,
-        "name": "oortgebouw",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4639314,
-          52.1697131
-        ]
-      },
-      "properties": {
-        "id": 29536,
-        "name": "Gorlaeus Laboratorium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4706043,
-          52.1723928
-        ]
-      },
-      "properties": {
-        "id": 29531,
-        "name": "Mezenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4647655,
-          52.1655613
-        ]
-      },
-      "properties": {
-        "id": 29555,
-        "name": "Uni van Steenis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4713879,
-          52.1687456
-        ]
-      },
-      "properties": {
-        "id": 31373,
-        "name": "Studentenhuisvesting",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.460464,
-          52.1668257
-        ]
-      },
-      "properties": {
-        "id": 29557,
-        "name": "Bio science park",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4742177,
-          52.1661817
-        ]
-      },
-      "properties": {
-        "id": 29544,
-        "name": "De Stal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4573057,
-          52.1696544
-        ]
-      },
-      "properties": {
-        "id": 29568,
-        "name": "Snellius",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4709798,
-          52.1694844
-        ]
-      },
-      "properties": {
-        "id": 29534,
-        "name": "Blauwe vogelweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4756002,
-          52.1681804
-        ]
-      },
-      "properties": {
-        "id": 29546,
-        "name": "Kolffpad",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.48704,
-          52.1726259
-        ]
-      },
-      "properties": {
-        "id": 29530,
-        "name": "Zweilandlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4776009,
-          52.1684641
-        ]
-      },
-      "properties": {
-        "id": 29539,
-        "name": "Rivierduinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.482458,
-          52.1763559
-        ]
-      },
-      "properties": {
-        "id": 29499,
-        "name": "UVS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4710305,
-          52.1686245
-        ]
-      },
-      "properties": {
-        "id": 29551,
-        "name": "Studentenflat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4762402,
-          52.1719997
-        ]
-      },
-      "properties": {
-        "id": 29595,
-        "name": "Nieuweroord",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4775795,
-          52.1695164
-        ]
-      },
-      "properties": {
-        "id": 29538,
-        "name": "Sociale Wetenschappen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4659557,
-          52.1690039
-        ]
-      },
-      "properties": {
-        "id": 29560,
-        "name": "Bio Partner",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4646814,
-          52.1652659
-        ]
-      },
-      "properties": {
-        "id": 29556,
-        "name": "Uni van Steenis 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4595188,
-          52.1678733
-        ]
-      },
-      "properties": {
-        "id": 31372,
-        "name": "Fietsenstalling Universiteit",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4694992,
-          52.1716295
-        ]
-      },
-      "properties": {
-        "id": 29532,
-        "name": "Mezenstraat 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4691697,
-          52.1667886
-        ]
-      },
-      "properties": {
-        "id": 29553,
-        "name": "Z Gebouw",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4616369,
-          52.1666784
-        ]
-      },
-      "properties": {
-        "id": 31371,
-        "name": "Sportcentrum Universiteit",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4723327,
-          52.1668436
-        ]
-      },
-      "properties": {
-        "id": 29549,
-        "name": "Leidsche Hogeschool",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4745487,
-          52.1676902
-        ]
-      },
-      "properties": {
-        "id": 29548,
-        "name": "Lab071 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.467999,
-          52.1679817
-        ]
-      },
-      "properties": {
-        "id": 29562,
-        "name": "Sylvius building",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4740713,
-          52.1677658
-        ]
-      },
-      "properties": {
-        "id": 29547,
-        "name": "Lab 071",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4409015,
-          52.1851982
-        ]
-      },
-      "properties": {
-        "id": 29599,
-        "name": "De Klink",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4154789,
-          52.2011005
-        ]
-      },
-      "properties": {
-        "id": 29398,
-        "name": "Piet Heinlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3957815,
-          52.2041409
-        ]
-      },
-      "properties": {
-        "id": 29439,
-        "name": "Voorstraat 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4253809,
-          52.1950572
-        ]
-      },
-      "properties": {
-        "id": 29465,
-        "name": "Wibra Rijnstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4185792,
-          52.2006492
-        ]
-      },
-      "properties": {
-        "id": 29395,
-        "name": "Cleijn Duinplein 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3941534,
-          52.2039059
-        ]
-      },
-      "properties": {
-        "id": 29441,
-        "name": "Princestraat 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.421205,
-          52.2066111
-        ]
-      },
-      "properties": {
-        "id": 29367,
-        "name": "Biltlaan ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4243578,
-          52.2051331
-        ]
-      },
-      "properties": {
-        "id": 29365,
-        "name": "Hoorneslaan 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3932325,
-          52.1977779
-        ]
-      },
-      "properties": {
-        "id": 29444,
-        "name": "Drieplassenweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.442766,
-          52.1775666
-        ]
-      },
-      "properties": {
-        "id": 29483,
-        "name": "Fietsenstalling Dorpsweide",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4084636,
-          52.2092702
-        ]
-      },
-      "properties": {
-        "id": 29370,
-        "name": "Katwijk Camping Noord",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3884498,
-          52.1990604
-        ]
-      },
-      "properties": {
-        "id": 29425,
-        "name": "Boulevard 12",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4107977,
-          52.2016355
-        ]
-      },
-      "properties": {
-        "id": 29401,
-        "name": "Aquamar",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4154404,
-          52.1994747
-        ]
-      },
-      "properties": {
-        "id": 29396,
-        "name": "Zeeweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3990495,
-          52.2040169
-        ]
-      },
-      "properties": {
-        "id": 29408,
-        "name": "Tramstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3944752,
-          52.2043185
-        ]
-      },
-      "properties": {
-        "id": 29440,
-        "name": "Princestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4221457,
-          52.2059222
-        ]
-      },
-      "properties": {
-        "id": 29366,
-        "name": "Hoorneslaan 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4179586,
-          52.2083207
-        ]
-      },
-      "properties": {
-        "id": 29388,
-        "name": "Sporthal Rijnsoever",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4356938,
-          52.2105463
-        ]
-      },
-      "properties": {
-        "id": 29384,
-        "name": "MVKV Tennisclub",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3981882,
-          52.2054429
-        ]
-      },
-      "properties": {
-        "id": 29431,
-        "name": "Havenstraat ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4076346,
-          52.2043703
-        ]
-      },
-      "properties": {
-        "id": 29404,
-        "name": "J. van der Vegt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.412657,
-          52.1791508
-        ]
-      },
-      "properties": {
-        "id": 29457,
-        "name": "Sportpark de Kooltuin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4168199,
-          52.1731931
-        ]
-      },
-      "properties": {
-        "id": 29463,
-        "name": "Unmanned Valley",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4296814,
-          52.2104424
-        ]
-      },
-      "properties": {
-        "id": 29381,
-        "name": "Katwijkse Lawn tennis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4541019,
-          52.1869212
-        ]
-      },
-      "properties": {
-        "id": 29574,
-        "name": "Laan van Verhof",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.454486,
-          52.1875691
-        ]
-      },
-      "properties": {
-        "id": 29575,
-        "name": "Laan van Verhof 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4547274,
-          52.1880131
-        ]
-      },
-      "properties": {
-        "id": 29576,
-        "name": "Laan van Verhof 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4596117,
-          52.1916755
-        ]
-      },
-      "properties": {
-        "id": 29600,
-        "name": "Heemskerk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.458159,
-          52.1873367
-        ]
-      },
-      "properties": {
-        "id": 29602,
-        "name": "Laan van Verhof 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4257038,
-          52.1919895
-        ]
-      },
-      "properties": {
-        "id": 29603,
-        "name": "De Wilbert",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4782432,
-          52.1792048
-        ]
-      },
-      "properties": {
-        "id": 29501,
-        "name": "Marelaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4095558,
-          52.2017539
-        ]
-      },
-      "properties": {
-        "id": 29402,
-        "name": "Marktplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4115806,
-          52.1971545
-        ]
-      },
-      "properties": {
-        "id": 29451,
-        "name": "Bosplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.44383,
-          52.2005695
-        ]
-      },
-      "properties": {
-        "id": 29353,
-        "name": "Rijnsburgse Ijsclub",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4309647,
-          52.2126994
-        ]
-      },
-      "properties": {
-        "id": 29383,
-        "name": "AV Rijnsoever",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4308294,
-          52.209737
-        ]
-      },
-      "properties": {
-        "id": 29382,
-        "name": "Voetbalvereniging Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4425133,
-          52.1923465
-        ]
-      },
-      "properties": {
-        "id": 29587,
-        "name": "Anjelierstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4257165,
-          52.1876345
-        ]
-      },
-      "properties": {
-        "id": 29476,
-        "name": "Zonnebloemstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4429728,
-          52.159775
-        ]
-      },
-      "properties": {
-        "id": 29460,
-        "name": "Brasserie Buitenhuis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4183196,
-          52.1758724
-        ]
-      },
-      "properties": {
-        "id": 29926,
-        "name": "de Verrekijker",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4432401,
-          52.1579228
-        ]
-      },
-      "properties": {
-        "id": 29591,
-        "name": "Valkenburg strand",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3872437,
-          52.1951895
-        ]
-      },
-      "properties": {
-        "id": 29429,
-        "name": "Sportlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4315984,
-          52.2093732
-        ]
-      },
-      "properties": {
-        "id": 29387,
-        "name": "De Krom",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4321791,
-          52.1805499
-        ]
-      },
-      "properties": {
-        "id": 29478,
-        "name": "Dorpshuis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4360904,
-          52.1779438
-        ]
-      },
-      "properties": {
-        "id": 29480,
-        "name": "Hoofdstraat ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4148336,
-          52.2015304
-        ]
-      },
-      "properties": {
-        "id": 29400,
-        "name": "Politiebureau Katwijk ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4045209,
-          52.2073615
-        ]
-      },
-      "properties": {
-        "id": 29430,
-        "name": "Rijnmond",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4459734,
-          52.2019547
-        ]
-      },
-      "properties": {
-        "id": 29351,
-        "name": "Rijnsburg Sportpark",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.423957,
-          52.1930748
-        ]
-      },
-      "properties": {
-        "id": 29473,
-        "name": "Rijnstraat 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4067841,
-          52.199707
-        ]
-      },
-      "properties": {
-        "id": 29449,
-        "name": "Meeuwenlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4074736,
-          52.2089783
-        ]
-      },
-      "properties": {
-        "id": 29371,
-        "name": "Camping Noord 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3975075,
-          52.2093116
-        ]
-      },
-      "properties": {
-        "id": 29411,
-        "name": "Boulevard",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3966864,
-          52.2052796
-        ]
-      },
-      "properties": {
-        "id": 29434,
-        "name": "Sluisweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4035973,
-          52.2123027
-        ]
-      },
-      "properties": {
-        "id": 29373,
-        "name": "Fietsparkeerplaats Noordduinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4371733,
-          52.1733893
-        ]
-      },
-      "properties": {
-        "id": 29484,
-        "name": "Valkenburg Oost",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4038555,
-          52.1974339
-        ]
-      },
-      "properties": {
-        "id": 29470,
-        "name": "Topaz Overduin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4148665,
-          52.171757
-        ]
-      },
-      "properties": {
-        "id": 29597,
-        "name": "Theaterhangaar",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4186604,
-          52.2065093
-        ]
-      },
-      "properties": {
-        "id": 29368,
-        "name": "Hoornespassage 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4100093,
-          52.2045935
-        ]
-      },
-      "properties": {
-        "id": 29403,
-        "name": "Rederijstraat ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3971253,
-          52.205099
-        ]
-      },
-      "properties": {
-        "id": 29432,
-        "name": "Tunnel",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3877545,
-          52.1922596
-        ]
-      },
-      "properties": {
-        "id": 29469,
-        "name": "Strandcamping Zuidduinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4233845,
-          52.2051046
-        ]
-      },
-      "properties": {
-        "id": 29364,
-        "name": "Strand",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3933729,
-          52.2029142
-        ]
-      },
-      "properties": {
-        "id": 29443,
-        "name": "Andreasplein 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4097443,
-          52.2116778
-        ]
-      },
-      "properties": {
-        "id": 29472,
-        "name": "Molecaten Park Noordduinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3995631,
-          52.2049552
-        ]
-      },
-      "properties": {
-        "id": 29407,
-        "name": "Zwaaikom 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4445967,
-          52.19456
-        ]
-      },
-      "properties": {
-        "id": 29578,
-        "name": "Noordeinde",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4019307,
-          52.1749486
-        ]
-      },
-      "properties": {
-        "id": 29458,
-        "name": "Fietsenstalling Panbos",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3965628,
-          52.196173
-        ]
-      },
-      "properties": {
-        "id": 29447,
-        "name": "Fietsenstalling Quickboys",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3939397,
-          52.2036272
-        ]
-      },
-      "properties": {
-        "id": 29442,
-        "name": "Princestraat 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4562499,
-          52.1918629
-        ]
-      },
-      "properties": {
-        "id": 29596,
-        "name": "Vianen Flowers",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4404774,
-          52.1745127
-        ]
-      },
-      "properties": {
-        "id": 29481,
-        "name": "Torenvlietslaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4314872,
-          52.1899121
-        ]
-      },
-      "properties": {
-        "id": 29583,
-        "name": "Boslaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3949773,
-          52.2061878
-        ]
-      },
-      "properties": {
-        "id": 29415,
-        "name": "Boulevard 5",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4224094,
-          52.2138324
-        ]
-      },
-      "properties": {
-        "id": 29378,
-        "name": "Biltlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4196907,
-          52.2055744
-        ]
-      },
-      "properties": {
-        "id": 29344,
-        "name": "Hoornespassage",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4376905,
-          52.2124822
-        ]
-      },
-      "properties": {
-        "id": 29386,
-        "name": "'s Gravendijck",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3959548,
-          52.2072153
-        ]
-      },
-      "properties": {
-        "id": 29414,
-        "name": "Boulevard 4",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4435179,
-          52.1593462
-        ]
-      },
-      "properties": {
-        "id": 29459,
-        "name": "Smalspoormuseum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3890104,
-          52.1996508
-        ]
-      },
-      "properties": {
-        "id": 29424,
-        "name": "Boulevard 11",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3967917,
-          52.2083832
-        ]
-      },
-      "properties": {
-        "id": 29412,
-        "name": "Boulevard 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4267241,
-          52.2108925
-        ]
-      },
-      "properties": {
-        "id": 29380,
-        "name": "Hockeyclub Catwyck",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4190797,
-          52.2011511
-        ]
-      },
-      "properties": {
-        "id": 29394,
-        "name": "Cleijn Duinplein ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4432543,
-          52.1751207
-        ]
-      },
-      "properties": {
-        "id": 29482,
-        "name": "Voetbalvereniging Valken",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4226525,
-          52.2080147
-        ]
-      },
-      "properties": {
-        "id": 29385,
-        "name": "Rijnsoever",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3874181,
-          52.1979421
-        ]
-      },
-      "properties": {
-        "id": 29426,
-        "name": "Boulevard 13",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4078392,
-          52.2047739
-        ]
-      },
-      "properties": {
-        "id": 29405,
-        "name": "Dirk van den Broek",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4193578,
-          52.1903185
-        ]
-      },
-      "properties": {
-        "id": 29453,
-        "name": "Duinvallei West",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4185147,
-          52.2073509
-        ]
-      },
-      "properties": {
-        "id": 29389,
-        "name": "'T Kwadrant",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4088854,
-          52.1808506
-        ]
-      },
-      "properties": {
-        "id": 29456,
-        "name": "1e Mientlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4257613,
-          52.1907982
-        ]
-      },
-      "properties": {
-        "id": 29474,
-        "name": "Sandtlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3921045,
-          52.20257
-        ]
-      },
-      "properties": {
-        "id": 29420,
-        "name": "Boulevard 8",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4170069,
-          52.1964196
-        ]
-      },
-      "properties": {
-        "id": 29468,
-        "name": "Vakcollege Rijnmond ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4158772,
-          52.2005305
-        ]
-      },
-      "properties": {
-        "id": 29392,
-        "name": "Koningin Julianalaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4207027,
-          52.1903801
-        ]
-      },
-      "properties": {
-        "id": 29454,
-        "name": "Duinvallei 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4269712,
-          52.2023129
-        ]
-      },
-      "properties": {
-        "id": 29356,
-        "name": "AH Rijnsoever",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3970837,
-          52.2035163
-        ]
-      },
-      "properties": {
-        "id": 29438,
-        "name": "Hoogvliet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4129011,
-          52.201637
-        ]
-      },
-      "properties": {
-        "id": 29399,
-        "name": "Zwembad Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4405839,
-          52.1913341
-        ]
-      },
-      "properties": {
-        "id": 29585,
-        "name": "Action Rijnsburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4127394,
-          52.2087155
-        ]
-      },
-      "properties": {
-        "id": 29391,
-        "name": "Dr Willem Dreesstraat 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4210941,
-          52.205846
-        ]
-      },
-      "properties": {
-        "id": 29362,
-        "name": "Hoornes",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3940062,
-          52.2049336
-        ]
-      },
-      "properties": {
-        "id": 29417,
-        "name": "Boulevard 6",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3944971,
-          52.197463
-        ]
-      },
-      "properties": {
-        "id": 29445,
-        "name": "Parklaan ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4007957,
-          52.2114276
-        ]
-      },
-      "properties": {
-        "id": 29374,
-        "name": "Buitensluis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4344351,
-          52.1831235
-        ]
-      },
-      "properties": {
-        "id": 29598,
-        "name": "Sporthal Het Waterbos",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3905781,
-          52.2009122
-        ]
-      },
-      "properties": {
-        "id": 29422,
-        "name": "Boulevard 10",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4344735,
-          52.2012387
-        ]
-      },
-      "properties": {
-        "id": 29359,
-        "name": "Lageweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3985669,
-          52.2042884
-        ]
-      },
-      "properties": {
-        "id": 29409,
-        "name": "Action",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4027877,
-          52.1999447
-        ]
-      },
-      "properties": {
-        "id": 29448,
-        "name": "Leeuweriklaan ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4245131,
-          52.1965083
-        ]
-      },
-      "properties": {
-        "id": 29464,
-        "name": "Rijnstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4479847,
-          52.1963953
-        ]
-      },
-      "properties": {
-        "id": 29355,
-        "name": "Bankijkerweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3964001,
-          52.2078851
-        ]
-      },
-      "properties": {
-        "id": 29413,
-        "name": "Boulevard 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.390998,
-          52.201373
-        ]
-      },
-      "properties": {
-        "id": 29421,
-        "name": "Boulevard 9",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4338814,
-          52.2035062
-        ]
-      },
-      "properties": {
-        "id": 29360,
-        "name": "Gemeentewerf Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4168481,
-          52.2002132
-        ]
-      },
-      "properties": {
-        "id": 29393,
-        "name": "Sporthal Cleijn Duin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3964852,
-          52.2050528
-        ]
-      },
-      "properties": {
-        "id": 29433,
-        "name": "Badstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3857413,
-          52.1960341
-        ]
-      },
-      "properties": {
-        "id": 29428,
-        "name": "Boulevard 15",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3944152,
-          52.2055013
-        ]
-      },
-      "properties": {
-        "id": 29416,
-        "name": "Boulevard 6",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4391815,
-          52.2079475
-        ]
-      },
-      "properties": {
-        "id": 29361,
-        "name": "Noordwijk Klei-Oost",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4209284,
-          52.2146331
-        ]
-      },
-      "properties": {
-        "id": 29377,
-        "name": "Space Expo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4178944,
-          52.2124697
-        ]
-      },
-      "properties": {
-        "id": 29375,
-        "name": "LIDL Melkweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4024537,
-          52.2039609
-        ]
-      },
-      "properties": {
-        "id": 29410,
-        "name": "Zwanenburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4183138,
-          52.1947691
-        ]
-      },
-      "properties": {
-        "id": 29455,
-        "name": "Fullbody Gym",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4219663,
-          52.1862902
-        ]
-      },
-      "properties": {
-        "id": 29475,
-        "name": "Dirk Asterstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4101326,
-          52.2084517
-        ]
-      },
-      "properties": {
-        "id": 29369,
-        "name": "Duinrand",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4518675,
-          52.1855182
-        ]
-      },
-      "properties": {
-        "id": 29601,
-        "name": "Royal Flora Holland",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3864713,
-          52.1969277
-        ]
-      },
-      "properties": {
-        "id": 29427,
-        "name": "Boulevard 14",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4298077,
-          52.2018461
-        ]
-      },
-      "properties": {
-        "id": 29357,
-        "name": "Basic Fit Katwijk Ambachtsweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3997318,
-          52.2045775
-        ]
-      },
-      "properties": {
-        "id": 29406,
-        "name": "Zwaaikom",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4499359,
-          52.1592728
-        ]
-      },
-      "properties": {
-        "id": 29590,
-        "name": "Valk Horeca",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3921886,
-          52.2028196
-        ]
-      },
-      "properties": {
-        "id": 30193,
-        "name": "boulevard",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4141536,
-          52.2079605
-        ]
-      },
-      "properties": {
-        "id": 29390,
-        "name": "Dr. Willem Dreesstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3969628,
-          52.2010344
-        ]
-      },
-      "properties": {
-        "id": 29436,
-        "name": "Bibliotheek Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3922092,
-          52.2032107
-        ]
-      },
-      "properties": {
-        "id": 29419,
-        "name": "Boulevard 7",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4121284,
-          52.2047708
-        ]
-      },
-      "properties": {
-        "id": 29471,
-        "name": "Jachthaven Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4140058,
-          52.1993054
-        ]
-      },
-      "properties": {
-        "id": 29343,
-        "name": "Gemeentehuis Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4311615,
-          52.1825154
-        ]
-      },
-      "properties": {
-        "id": 29477,
-        "name": "Katwijkerweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4161448,
-          52.2157301
-        ]
-      },
-      "properties": {
-        "id": 29376,
-        "name": "ESA Estec",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4247795,
-          52.194021
-        ]
-      },
-      "properties": {
-        "id": 29467,
-        "name": "Turfmarkt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3932137,
-          52.2024054
-        ]
-      },
-      "properties": {
-        "id": 29435,
-        "name": "Andreasplein ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4249701,
-          52.2110732
-        ]
-      },
-      "properties": {
-        "id": 29379,
-        "name": "Sportpark de Krom",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4479595,
-          52.1850524
-        ]
-      },
-      "properties": {
-        "id": 29491,
-        "name": "Frederiksoord",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4048915,
-          52.2105417
-        ]
-      },
-      "properties": {
-        "id": 29372,
-        "name": "Skatepark Katwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3909372,
-          52.2003938
-        ]
-      },
-      "properties": {
-        "id": 29423,
-        "name": "Vuurbaakplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.433768,
-          52.1896046
-        ]
-      },
-      "properties": {
-        "id": 29582,
-        "name": "Spinozalaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3977307,
-          52.2034907
-        ]
-      },
-      "properties": {
-        "id": 29437,
-        "name": "Voorstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3967207,
-          52.1984001
-        ]
-      },
-      "properties": {
-        "id": 29446,
-        "name": "Parklaan 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.394053,
-          52.204515
-        ]
-      },
-      "properties": {
-        "id": 29418,
-        "name": "Natuurcentrum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4472893,
-          52.189681
-        ]
-      },
-      "properties": {
-        "id": 29579,
-        "name": "Splitsing",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4429735,
-          52.1883678
-        ]
-      },
-      "properties": {
-        "id": 29584,
-        "name": "Oegstgeesterweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4160187,
-          52.1959607
-        ]
-      },
-      "properties": {
-        "id": 29452,
-        "name": "Welzijnskwartier",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4430435,
-          52.1897589
-        ]
-      },
-      "properties": {
-        "id": 29571,
-        "name": "de Burgt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "katwijk",
-    "total_hubs": 241,
-    "generated_at": "2025-08-25T14:23:58.093Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/645/hubs/",
-      "https://stables.donkey.bike/api/public/cities/644/hubs/",
-      "https://stables.donkey.bike/api/public/cities/643/hubs/"
-    ]
+[
+  {
+    "id": 29495,
+    "name": "Ajax Sportman",
+    "latitude": "52.1863824",
+    "longitude": "4.4888194",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29486,
+    "name": "Zwemstrand",
+    "latitude": "52.1957475",
+    "longitude": "4.4854559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29517,
+    "name": "De Kempenaerstraat ",
+    "latitude": "52.1775582",
+    "longitude": "4.4670869",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29489,
+    "name": "Haaswijklaan",
+    "latitude": "52.1923786",
+    "longitude": "4.4752606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29505,
+    "name": "Oegstgeest Tennis Club",
+    "latitude": "52.1836377",
+    "longitude": "4.481723",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29504,
+    "name": "Hofbrouckenlaan",
+    "latitude": "52.1846709",
+    "longitude": "4.4826634",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29512,
+    "name": "Wijttenbachweg",
+    "latitude": "52.1877514",
+    "longitude": "4.4667631",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29509,
+    "name": "Jumbo ommevoort",
+    "latitude": "52.1857026",
+    "longitude": "4.4696242",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29523,
+    "name": "Endegeest",
+    "latitude": "52.1749757",
+    "longitude": "4.4631013",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29577,
+    "name": "Fietsenstalling VDS",
+    "latitude": "52.1826239",
+    "longitude": "4.452271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29485,
+    "name": "Klinkenbergerplas",
+    "latitude": "52.2000026",
+    "longitude": "4.4852704",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29506,
+    "name": "Dahlialaan",
+    "latitude": "52.1897529",
+    "longitude": "4.4729593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29518,
+    "name": "AH Oegstgeest",
+    "latitude": "52.1774412",
+    "longitude": "4.4686548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29487,
+    "name": "Gerrit Rietveldlaan",
+    "latitude": "52.1966927",
+    "longitude": "4.4740031",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29521,
+    "name": "Mi Casa",
+    "latitude": "52.1775055",
+    "longitude": "4.4725386",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29515,
+    "name": "Duinzichtstraat",
+    "latitude": "52.1836898",
+    "longitude": "4.4660032",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29497,
+    "name": "Poelgeest",
+    "latitude": "52.1805772",
+    "longitude": "4.4824559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29524,
+    "name": "Curium",
+    "latitude": "52.1721596",
+    "longitude": "4.4576832",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29516,
+    "name": "Leidsebuurt",
+    "latitude": "52.1795944",
+    "longitude": "4.4652174",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29514,
+    "name": "Sporthal de Cuyl",
+    "latitude": "52.1835317",
+    "longitude": "4.4624554",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29500,
+    "name": "Warmonderweg",
+    "latitude": "52.1768989",
+    "longitude": "4.4750943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29594,
+    "name": "LOHC Hockey",
+    "latitude": "52.1835941",
+    "longitude": "4.4810161",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29525,
+    "name": "Curium 2",
+    "latitude": "52.1721083",
+    "longitude": "4.4571676",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29511,
+    "name": "Dorpstraat",
+    "latitude": "52.1896871",
+    "longitude": "4.4672374",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29461,
+    "name": "Bio Science park West",
+    "latitude": "52.1671489",
+    "longitude": "4.4476155",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29496,
+    "name": "Zwembad Poelmeer",
+    "latitude": "52.1840542",
+    "longitude": "4.4865418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29462,
+    "name": "McDonalds Leiden A44",
+    "latitude": "52.1670189",
+    "longitude": "4.446155",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29572,
+    "name": "Oude Rijnsburgerweg",
+    "latitude": "52.1781305",
+    "longitude": "4.4518346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29508,
+    "name": "AH Irislaan",
+    "latitude": "52.1870485",
+    "longitude": "4.4714044",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29510,
+    "name": "Lange Voort",
+    "latitude": "52.1860488",
+    "longitude": "4.4714485",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29488,
+    "name": "Morsbellalaan",
+    "latitude": "52.1946936",
+    "longitude": "4.4768914",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29503,
+    "name": "Hazenboslaan",
+    "latitude": "52.1859207",
+    "longitude": "4.4767518",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29570,
+    "name": "Bio Partner 5",
+    "latitude": "52.1705606",
+    "longitude": "4.4505806",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29490,
+    "name": "LIDL Boerhaaveplein",
+    "latitude": "52.1915051",
+    "longitude": "4.4756063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29520,
+    "name": "Pauw",
+    "latitude": "52.1776036",
+    "longitude": "4.4701588",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29522,
+    "name": "Gemeentehuis Oegstgeest",
+    "latitude": "52.1780812",
+    "longitude": "4.4624947",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29519,
+    "name": "Hendrik Kramerpark",
+    "latitude": "52.1749247",
+    "longitude": "4.4710378",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29569,
+    "name": "Corpus Hilton",
+    "latitude": "52.1702991",
+    "longitude": "4.4531188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31374,
+    "name": "Heurniusstraat",
+    "latitude": "52.1681702",
+    "longitude": "4.477841",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31375,
+    "name": "Lijsterstraat III",
+    "latitude": "52.1724821",
+    "longitude": "4.4716739",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31377,
+    "name": "Lijsterstraat I",
+    "latitude": "52.1734886",
+    "longitude": "4.473183",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31376,
+    "name": "Lijsterstraat II",
+    "latitude": "52.1729283",
+    "longitude": "4.4722825",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29561,
+    "name": "Bio Partner 2",
+    "latitude": "52.1689792",
+    "longitude": "4.4669025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32355,
+    "name": "De Vink Leiden",
+    "latitude": "52.1475188",
+    "longitude": "4.4561504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29554,
+    "name": "Sanquin",
+    "latitude": "52.1662852",
+    "longitude": "4.465361",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29535,
+    "name": "Albinusweg",
+    "latitude": "52.1701244",
+    "longitude": "4.4765815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29664,
+    "name": "Naturalis",
+    "latitude": "52.1649948",
+    "longitude": "4.4718849",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29559,
+    "name": "Hall Allergy",
+    "latitude": "52.1684053",
+    "longitude": "4.4648202",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29927,
+    "name": "Museum Marinevliegkamp",
+    "latitude": "52.1747519",
+    "longitude": "4.4178164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29550,
+    "name": "VRIJ",
+    "latitude": "52.1664386",
+    "longitude": "4.471373",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29545,
+    "name": "Zaaijerplein",
+    "latitude": "52.1693418",
+    "longitude": "4.4765765",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29492,
+    "name": "Bio Science Park Oost",
+    "latitude": "52.1651075",
+    "longitude": "4.4606197",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31362,
+    "name": "ECC Leiden",
+    "latitude": "52.163774",
+    "longitude": "4.4568115",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29592,
+    "name": "Leiden Atlethiek",
+    "latitude": "52.1734716",
+    "longitude": "4.4791441",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29502,
+    "name": "LVV Lugdunum",
+    "latitude": "52.174634",
+    "longitude": "4.4849702",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29526,
+    "name": "Alrijne Ziekenhuis",
+    "latitude": "52.1733071",
+    "longitude": "4.4817925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29533,
+    "name": "Basalt",
+    "latitude": "52.1705307",
+    "longitude": "4.468598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29537,
+    "name": "Corpus",
+    "latitude": "52.170238",
+    "longitude": "4.4585543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31005,
+    "name": "De Vink Voorschoten",
+    "latitude": "52.1470365",
+    "longitude": "4.456791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29564,
+    "name": "Uni Science",
+    "latitude": "52.1681574",
+    "longitude": "4.4584376",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29563,
+    "name": "LIS",
+    "latitude": "52.1679496",
+    "longitude": "4.457715",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29567,
+    "name": "SRON",
+    "latitude": "52.1691082",
+    "longitude": "4.4576705",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29493,
+    "name": "Verbeekstraat",
+    "latitude": "52.1640996",
+    "longitude": "4.4656715",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29565,
+    "name": "oortgebouw",
+    "latitude": "52.1688352",
+    "longitude": "4.4587112",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29536,
+    "name": "Gorlaeus Laboratorium",
+    "latitude": "52.1697131",
+    "longitude": "4.4639314",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29531,
+    "name": "Mezenstraat",
+    "latitude": "52.1723928",
+    "longitude": "4.4706043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29555,
+    "name": "Uni van Steenis",
+    "latitude": "52.1655613",
+    "longitude": "4.4647655",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31373,
+    "name": "Studentenhuisvesting",
+    "latitude": "52.1687456",
+    "longitude": "4.4713879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio science park",
+    "latitude": "52.1668257",
+    "longitude": "4.460464",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29544,
+    "name": "De Stal",
+    "latitude": "52.1661817",
+    "longitude": "4.4742177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29568,
+    "name": "Snellius",
+    "latitude": "52.1696544",
+    "longitude": "4.4573057",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29534,
+    "name": "Blauwe vogelweg",
+    "latitude": "52.1694844",
+    "longitude": "4.4709798",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29546,
+    "name": "Kolffpad",
+    "latitude": "52.1681804",
+    "longitude": "4.4756002",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29530,
+    "name": "Zweilandlaan",
+    "latitude": "52.1726259",
+    "longitude": "4.48704",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29539,
+    "name": "Rivierduinen",
+    "latitude": "52.1684641",
+    "longitude": "4.4776009",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29499,
+    "name": "UVS",
+    "latitude": "52.1763559",
+    "longitude": "4.482458",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29551,
+    "name": "Studentenflat",
+    "latitude": "52.1686245",
+    "longitude": "4.4710305",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29595,
+    "name": "Nieuweroord",
+    "latitude": "52.1719997",
+    "longitude": "4.4762402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29538,
+    "name": "Sociale Wetenschappen",
+    "latitude": "52.1695164",
+    "longitude": "4.4775795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29560,
+    "name": "Bio Partner",
+    "latitude": "52.1690039",
+    "longitude": "4.4659557",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29556,
+    "name": "Uni van Steenis 1",
+    "latitude": "52.1652659",
+    "longitude": "4.4646814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31372,
+    "name": "Fietsenstalling Universiteit",
+    "latitude": "52.1678733",
+    "longitude": "4.4595188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29532,
+    "name": "Mezenstraat 2",
+    "latitude": "52.1716295",
+    "longitude": "4.4694992",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29553,
+    "name": "Z Gebouw",
+    "latitude": "52.1667886",
+    "longitude": "4.4691697",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31371,
+    "name": "Sportcentrum Universiteit",
+    "latitude": "52.1666784",
+    "longitude": "4.4616369",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29549,
+    "name": "Leidsche Hogeschool",
+    "latitude": "52.1668436",
+    "longitude": "4.4723327",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29548,
+    "name": "Lab071 2",
+    "latitude": "52.1676902",
+    "longitude": "4.4745487",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29562,
+    "name": "Sylvius building",
+    "latitude": "52.1679817",
+    "longitude": "4.467999",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29547,
+    "name": "Lab 071",
+    "latitude": "52.1677658",
+    "longitude": "4.4740713",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29599,
+    "name": "De Klink",
+    "latitude": "52.1851982",
+    "longitude": "4.4409015",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29398,
+    "name": "Piet Heinlaan",
+    "latitude": "52.2011005",
+    "longitude": "4.4154789",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29439,
+    "name": "Voorstraat 2",
+    "latitude": "52.2041409",
+    "longitude": "4.3957815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29465,
+    "name": "Wibra Rijnstraat",
+    "latitude": "52.1950572",
+    "longitude": "4.4253809",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29395,
+    "name": "Cleijn Duinplein 2",
+    "latitude": "52.2006492",
+    "longitude": "4.4185792",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29441,
+    "name": "Princestraat 2",
+    "latitude": "52.2039059",
+    "longitude": "4.3941534",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29367,
+    "name": "Biltlaan ",
+    "latitude": "52.2066111",
+    "longitude": "4.421205",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29365,
+    "name": "Hoorneslaan 3",
+    "latitude": "52.2051331",
+    "longitude": "4.4243578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29444,
+    "name": "Drieplassenweg",
+    "latitude": "52.1977779",
+    "longitude": "4.3932325",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29483,
+    "name": "Fietsenstalling Dorpsweide",
+    "latitude": "52.1775666",
+    "longitude": "4.442766",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29370,
+    "name": "Katwijk Camping Noord",
+    "latitude": "52.2092702",
+    "longitude": "4.4084636",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29425,
+    "name": "Boulevard 12",
+    "latitude": "52.1990604",
+    "longitude": "4.3884498",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29401,
+    "name": "Aquamar",
+    "latitude": "52.2016355",
+    "longitude": "4.4107977",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29396,
+    "name": "Zeeweg",
+    "latitude": "52.1994747",
+    "longitude": "4.4154404",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29408,
+    "name": "Tramstraat",
+    "latitude": "52.2040169",
+    "longitude": "4.3990495",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29440,
+    "name": "Princestraat",
+    "latitude": "52.2043185",
+    "longitude": "4.3944752",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29366,
+    "name": "Hoorneslaan 1",
+    "latitude": "52.2059222",
+    "longitude": "4.4221457",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29388,
+    "name": "Sporthal Rijnsoever",
+    "latitude": "52.2083207",
+    "longitude": "4.4179586",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29384,
+    "name": "MVKV Tennisclub",
+    "latitude": "52.2105463",
+    "longitude": "4.4356938",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29431,
+    "name": "Havenstraat ",
+    "latitude": "52.2054429",
+    "longitude": "4.3981882",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29404,
+    "name": "J. van der Vegt",
+    "latitude": "52.2043703",
+    "longitude": "4.4076346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29457,
+    "name": "Sportpark de Kooltuin",
+    "latitude": "52.1791508",
+    "longitude": "4.412657",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29463,
+    "name": "Unmanned Valley",
+    "latitude": "52.1731931",
+    "longitude": "4.4168199",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29381,
+    "name": "Katwijkse Lawn tennis",
+    "latitude": "52.2104424",
+    "longitude": "4.4296814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29574,
+    "name": "Laan van Verhof",
+    "latitude": "52.1869212",
+    "longitude": "4.4541019",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29575,
+    "name": "Laan van Verhof 2",
+    "latitude": "52.1875691",
+    "longitude": "4.454486",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29576,
+    "name": "Laan van Verhof 3",
+    "latitude": "52.1880131",
+    "longitude": "4.4547274",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29600,
+    "name": "Heemskerk",
+    "latitude": "52.1916755",
+    "longitude": "4.4596117",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29602,
+    "name": "Laan van Verhof 3",
+    "latitude": "52.1873367",
+    "longitude": "4.458159",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29603,
+    "name": "De Wilbert",
+    "latitude": "52.1919895",
+    "longitude": "4.4257038",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29501,
+    "name": "Marelaan",
+    "latitude": "52.1792048",
+    "longitude": "4.4782432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29402,
+    "name": "Marktplein",
+    "latitude": "52.2017539",
+    "longitude": "4.4095558",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29451,
+    "name": "Bosplein",
+    "latitude": "52.1971545",
+    "longitude": "4.4115806",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29353,
+    "name": "Rijnsburgse Ijsclub",
+    "latitude": "52.2005695",
+    "longitude": "4.44383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29383,
+    "name": "AV Rijnsoever",
+    "latitude": "52.2126994",
+    "longitude": "4.4309647",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29382,
+    "name": "Voetbalvereniging Katwijk",
+    "latitude": "52.209737",
+    "longitude": "4.4308294",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29587,
+    "name": "Anjelierstraat",
+    "latitude": "52.1923465",
+    "longitude": "4.4425133",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29476,
+    "name": "Zonnebloemstraat",
+    "latitude": "52.1876345",
+    "longitude": "4.4257165",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29460,
+    "name": "Brasserie Buitenhuis",
+    "latitude": "52.159775",
+    "longitude": "4.4429728",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29926,
+    "name": "de Verrekijker",
+    "latitude": "52.1758724",
+    "longitude": "4.4183196",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29591,
+    "name": "Valkenburg strand",
+    "latitude": "52.1579228",
+    "longitude": "4.4432401",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29429,
+    "name": "Sportlaan",
+    "latitude": "52.1951895",
+    "longitude": "4.3872437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29387,
+    "name": "De Krom",
+    "latitude": "52.2093732",
+    "longitude": "4.4315984",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29478,
+    "name": "Dorpshuis",
+    "latitude": "52.1805499",
+    "longitude": "4.4321791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29480,
+    "name": "Hoofdstraat ",
+    "latitude": "52.1779438",
+    "longitude": "4.4360904",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29400,
+    "name": "Politiebureau Katwijk ",
+    "latitude": "52.2015304",
+    "longitude": "4.4148336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29430,
+    "name": "Rijnmond",
+    "latitude": "52.2073615",
+    "longitude": "4.4045209",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29351,
+    "name": "Rijnsburg Sportpark",
+    "latitude": "52.2019547",
+    "longitude": "4.4459734",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29473,
+    "name": "Rijnstraat 2",
+    "latitude": "52.1930748",
+    "longitude": "4.423957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29449,
+    "name": "Meeuwenlaan",
+    "latitude": "52.199707",
+    "longitude": "4.4067841",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29371,
+    "name": "Camping Noord 2",
+    "latitude": "52.2089783",
+    "longitude": "4.4074736",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29411,
+    "name": "Boulevard",
+    "latitude": "52.2093116",
+    "longitude": "4.3975075",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29434,
+    "name": "Sluisweg",
+    "latitude": "52.2052796",
+    "longitude": "4.3966864",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29373,
+    "name": "Fietsparkeerplaats Noordduinen",
+    "latitude": "52.2123027",
+    "longitude": "4.4035973",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29484,
+    "name": "Valkenburg Oost",
+    "latitude": "52.1733893",
+    "longitude": "4.4371733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29470,
+    "name": "Topaz Overduin",
+    "latitude": "52.1974339",
+    "longitude": "4.4038555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29597,
+    "name": "Theaterhangaar",
+    "latitude": "52.171757",
+    "longitude": "4.4148665",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29368,
+    "name": "Hoornespassage 2",
+    "latitude": "52.2065093",
+    "longitude": "4.4186604",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29403,
+    "name": "Rederijstraat ",
+    "latitude": "52.2045935",
+    "longitude": "4.4100093",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29432,
+    "name": "Tunnel",
+    "latitude": "52.205099",
+    "longitude": "4.3971253",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29469,
+    "name": "Strandcamping Zuidduinen",
+    "latitude": "52.1922596",
+    "longitude": "4.3877545",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29364,
+    "name": "Strand",
+    "latitude": "52.2051046",
+    "longitude": "4.4233845",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29443,
+    "name": "Andreasplein 2",
+    "latitude": "52.2029142",
+    "longitude": "4.3933729",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29472,
+    "name": "Molecaten Park Noordduinen",
+    "latitude": "52.2116778",
+    "longitude": "4.4097443",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29407,
+    "name": "Zwaaikom 2",
+    "latitude": "52.2049552",
+    "longitude": "4.3995631",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29578,
+    "name": "Noordeinde",
+    "latitude": "52.19456",
+    "longitude": "4.4445967",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29458,
+    "name": "Fietsenstalling Panbos",
+    "latitude": "52.1749486",
+    "longitude": "4.4019307",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29447,
+    "name": "Fietsenstalling Quickboys",
+    "latitude": "52.196173",
+    "longitude": "4.3965628",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29442,
+    "name": "Princestraat 3",
+    "latitude": "52.2036272",
+    "longitude": "4.3939397",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29596,
+    "name": "Vianen Flowers",
+    "latitude": "52.1918629",
+    "longitude": "4.4562499",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29481,
+    "name": "Torenvlietslaan",
+    "latitude": "52.1745127",
+    "longitude": "4.4404774",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29583,
+    "name": "Boslaan",
+    "latitude": "52.1899121",
+    "longitude": "4.4314872",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29415,
+    "name": "Boulevard 5",
+    "latitude": "52.2061878",
+    "longitude": "4.3949773",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29378,
+    "name": "Biltlaan",
+    "latitude": "52.2138324",
+    "longitude": "4.4224094",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29344,
+    "name": "Hoornespassage",
+    "latitude": "52.2055744",
+    "longitude": "4.4196907",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29386,
+    "name": "'s Gravendijck",
+    "latitude": "52.2124822",
+    "longitude": "4.4376905",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29414,
+    "name": "Boulevard 4",
+    "latitude": "52.2072153",
+    "longitude": "4.3959548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29459,
+    "name": "Smalspoormuseum",
+    "latitude": "52.1593462",
+    "longitude": "4.4435179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29424,
+    "name": "Boulevard 11",
+    "latitude": "52.1996508",
+    "longitude": "4.3890104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29412,
+    "name": "Boulevard 2",
+    "latitude": "52.2083832",
+    "longitude": "4.3967917",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29380,
+    "name": "Hockeyclub Catwyck",
+    "latitude": "52.2108925",
+    "longitude": "4.4267241",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29394,
+    "name": "Cleijn Duinplein ",
+    "latitude": "52.2011511",
+    "longitude": "4.4190797",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29482,
+    "name": "Voetbalvereniging Valken",
+    "latitude": "52.1751207",
+    "longitude": "4.4432543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29385,
+    "name": "Rijnsoever",
+    "latitude": "52.2080147",
+    "longitude": "4.4226525",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29426,
+    "name": "Boulevard 13",
+    "latitude": "52.1979421",
+    "longitude": "4.3874181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29405,
+    "name": "Dirk van den Broek",
+    "latitude": "52.2047739",
+    "longitude": "4.4078392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29453,
+    "name": "Duinvallei West",
+    "latitude": "52.1903185",
+    "longitude": "4.4193578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29389,
+    "name": "'T Kwadrant",
+    "latitude": "52.2073509",
+    "longitude": "4.4185147",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29456,
+    "name": "1e Mientlaan",
+    "latitude": "52.1808506",
+    "longitude": "4.4088854",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29474,
+    "name": "Sandtlaan",
+    "latitude": "52.1907982",
+    "longitude": "4.4257613",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29420,
+    "name": "Boulevard 8",
+    "latitude": "52.20257",
+    "longitude": "4.3921045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29468,
+    "name": "Vakcollege Rijnmond ",
+    "latitude": "52.1964196",
+    "longitude": "4.4170069",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29392,
+    "name": "Koningin Julianalaan",
+    "latitude": "52.2005305",
+    "longitude": "4.4158772",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29454,
+    "name": "Duinvallei 2",
+    "latitude": "52.1903801",
+    "longitude": "4.4207027",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29356,
+    "name": "AH Rijnsoever",
+    "latitude": "52.2023129",
+    "longitude": "4.4269712",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29438,
+    "name": "Hoogvliet",
+    "latitude": "52.2035163",
+    "longitude": "4.3970837",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29399,
+    "name": "Zwembad Katwijk",
+    "latitude": "52.201637",
+    "longitude": "4.4129011",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29585,
+    "name": "Action Rijnsburg",
+    "latitude": "52.1913341",
+    "longitude": "4.4405839",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29391,
+    "name": "Dr Willem Dreesstraat 2",
+    "latitude": "52.2087155",
+    "longitude": "4.4127394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29362,
+    "name": "Hoornes",
+    "latitude": "52.205846",
+    "longitude": "4.4210941",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29417,
+    "name": "Boulevard 6",
+    "latitude": "52.2049336",
+    "longitude": "4.3940062",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29445,
+    "name": "Parklaan ",
+    "latitude": "52.197463",
+    "longitude": "4.3944971",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29374,
+    "name": "Buitensluis",
+    "latitude": "52.2114276",
+    "longitude": "4.4007957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29598,
+    "name": "Sporthal Het Waterbos",
+    "latitude": "52.1831235",
+    "longitude": "4.4344351",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29422,
+    "name": "Boulevard 10",
+    "latitude": "52.2009122",
+    "longitude": "4.3905781",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29359,
+    "name": "Lageweg",
+    "latitude": "52.2012387",
+    "longitude": "4.4344735",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29409,
+    "name": "Action",
+    "latitude": "52.2042884",
+    "longitude": "4.3985669",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29448,
+    "name": "Leeuweriklaan ",
+    "latitude": "52.1999447",
+    "longitude": "4.4027877",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29464,
+    "name": "Rijnstraat",
+    "latitude": "52.1965083",
+    "longitude": "4.4245131",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29355,
+    "name": "Bankijkerweg",
+    "latitude": "52.1963953",
+    "longitude": "4.4479847",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29413,
+    "name": "Boulevard 3",
+    "latitude": "52.2078851",
+    "longitude": "4.3964001",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29421,
+    "name": "Boulevard 9",
+    "latitude": "52.201373",
+    "longitude": "4.390998",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29360,
+    "name": "Gemeentewerf Katwijk",
+    "latitude": "52.2035062",
+    "longitude": "4.4338814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29393,
+    "name": "Sporthal Cleijn Duin",
+    "latitude": "52.2002132",
+    "longitude": "4.4168481",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29433,
+    "name": "Badstraat",
+    "latitude": "52.2050528",
+    "longitude": "4.3964852",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29428,
+    "name": "Boulevard 15",
+    "latitude": "52.1960341",
+    "longitude": "4.3857413",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29416,
+    "name": "Boulevard 6",
+    "latitude": "52.2055013",
+    "longitude": "4.3944152",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29361,
+    "name": "Noordwijk Klei-Oost",
+    "latitude": "52.2079475",
+    "longitude": "4.4391815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29377,
+    "name": "Space Expo",
+    "latitude": "52.2146331",
+    "longitude": "4.4209284",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29375,
+    "name": "LIDL Melkweg",
+    "latitude": "52.2124697",
+    "longitude": "4.4178944",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29410,
+    "name": "Zwanenburg",
+    "latitude": "52.2039609",
+    "longitude": "4.4024537",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29455,
+    "name": "Fullbody Gym",
+    "latitude": "52.1947691",
+    "longitude": "4.4183138",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29475,
+    "name": "Dirk Asterstraat",
+    "latitude": "52.1862902",
+    "longitude": "4.4219663",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29369,
+    "name": "Duinrand",
+    "latitude": "52.2084517",
+    "longitude": "4.4101326",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29601,
+    "name": "Royal Flora Holland",
+    "latitude": "52.1855182",
+    "longitude": "4.4518675",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29427,
+    "name": "Boulevard 14",
+    "latitude": "52.1969277",
+    "longitude": "4.3864713",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29357,
+    "name": "Basic Fit Katwijk Ambachtsweg",
+    "latitude": "52.2018461",
+    "longitude": "4.4298077",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29406,
+    "name": "Zwaaikom",
+    "latitude": "52.2045775",
+    "longitude": "4.3997318",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29590,
+    "name": "Valk Horeca",
+    "latitude": "52.1592728",
+    "longitude": "4.4499359",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30193,
+    "name": "boulevard",
+    "latitude": "52.2028196",
+    "longitude": "4.3921886",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29390,
+    "name": "Dr. Willem Dreesstraat",
+    "latitude": "52.2079605",
+    "longitude": "4.4141536",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29436,
+    "name": "Bibliotheek Katwijk",
+    "latitude": "52.2010344",
+    "longitude": "4.3969628",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29419,
+    "name": "Boulevard 7",
+    "latitude": "52.2032107",
+    "longitude": "4.3922092",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29471,
+    "name": "Jachthaven Katwijk",
+    "latitude": "52.2047708",
+    "longitude": "4.4121284",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29343,
+    "name": "Gemeentehuis Katwijk",
+    "latitude": "52.1993054",
+    "longitude": "4.4140058",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29477,
+    "name": "Katwijkerweg",
+    "latitude": "52.1825154",
+    "longitude": "4.4311615",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29376,
+    "name": "ESA Estec",
+    "latitude": "52.2157301",
+    "longitude": "4.4161448",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29467,
+    "name": "Turfmarkt",
+    "latitude": "52.194021",
+    "longitude": "4.4247795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29435,
+    "name": "Andreasplein ",
+    "latitude": "52.2024054",
+    "longitude": "4.3932137",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29379,
+    "name": "Sportpark de Krom",
+    "latitude": "52.2110732",
+    "longitude": "4.4249701",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29372,
+    "name": "Skatepark Katwijk",
+    "latitude": "52.2105417",
+    "longitude": "4.4048915",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29423,
+    "name": "Vuurbaakplein",
+    "latitude": "52.2003938",
+    "longitude": "4.3909372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29582,
+    "name": "Spinozalaan",
+    "latitude": "52.1896046",
+    "longitude": "4.433768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29437,
+    "name": "Voorstraat",
+    "latitude": "52.2034907",
+    "longitude": "4.3977307",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29446,
+    "name": "Parklaan 2",
+    "latitude": "52.1984001",
+    "longitude": "4.3967207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29418,
+    "name": "Natuurcentrum",
+    "latitude": "52.204515",
+    "longitude": "4.394053",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29579,
+    "name": "Splitsing",
+    "latitude": "52.189681",
+    "longitude": "4.4472893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29584,
+    "name": "Oegstgeesterweg",
+    "latitude": "52.1883678",
+    "longitude": "4.4429735",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29452,
+    "name": "Welzijnskwartier",
+    "latitude": "52.1959607",
+    "longitude": "4.4160187",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29571,
+    "name": "de Burgt",
+    "latitude": "52.1897589",
+    "longitude": "4.4430435",
+    "thumbnail_url": ""
   }
-}
+]

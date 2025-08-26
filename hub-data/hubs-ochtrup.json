@@ -1,153 +1,51 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.18864,
-          52.21007
-        ]
-      },
-      "properties": {
-        "id": 31536,
-        "name": "Lambertikirche",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.188792,
-          52.2071636
-        ]
-      },
-      "properties": {
-        "id": 31537,
-        "name": "Pottbäckerplatz",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1997563,
-          52.2112086
-        ]
-      },
-      "properties": {
-        "id": 21786,
-        "name": "McArthurGlen Outlet Entry",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.18734,
-          52.20605
-        ]
-      },
-      "properties": {
-        "id": 31538,
-        "name": "Touristinfo OST",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1846185,
-          52.2018313
-        ]
-      },
-      "properties": {
-        "id": 21206,
-        "name": "Bahnhof Ochtrup ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.3287505,
-          52.1482415
-        ]
-      },
-      "properties": {
-        "id": 21747,
-        "name": "Werkstatt Dnl-Mobiel ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.2004081,
-          52.2115342
-        ]
-      },
-      "properties": {
-        "id": 21787,
-        "name": "McArthurGlen Outlet 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "ochtrup",
-    "total_hubs": 7,
-    "generated_at": "2025-08-25T14:23:55.472Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/350/hubs/"
-    ]
+[
+  {
+    "id": 31536,
+    "name": "Lambertikirche",
+    "latitude": "52.21007",
+    "longitude": "7.18864",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31537,
+    "name": "Pottbäckerplatz",
+    "latitude": "52.2071636",
+    "longitude": "7.188792",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21786,
+    "name": "McArthurGlen Outlet Entry",
+    "latitude": "52.2112086",
+    "longitude": "7.1997563",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31538,
+    "name": "Touristinfo OST",
+    "latitude": "52.20605",
+    "longitude": "7.18734",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21206,
+    "name": "Bahnhof Ochtrup ",
+    "latitude": "52.2018313",
+    "longitude": "7.1846185",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21747,
+    "name": "Werkstatt Dnl-Mobiel ",
+    "latitude": "52.1482415",
+    "longitude": "7.3287505",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21787,
+    "name": "McArthurGlen Outlet 2",
+    "latitude": "52.2115342",
+    "longitude": "7.2004081",
+    "thumbnail_url": ""
   }
-}
+]

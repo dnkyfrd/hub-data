@@ -1,273 +1,93 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6614065,
-          51.0700612
-        ]
-      },
-      "properties": {
-        "id": 24664,
-        "name": "Seylsteen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6617394,
-          51.0730738
-        ]
-      },
-      "properties": {
-        "id": 24663,
-        "name": "Stadspark Veurne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6820211,
-          51.0663855
-        ]
-      },
-      "properties": {
-        "id": 26510,
-        "name": "Furnevent",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6882259,
-          51.0732345
-        ]
-      },
-      "properties": {
-        "id": 24669,
-        "name": "Westpark - fietsenstalling",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6599553,
-          51.0817755
-        ]
-      },
-      "properties": {
-        "id": 27329,
-        "name": "Sportpark Veurne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6890307,
-          51.0575475
-        ]
-      },
-      "properties": {
-        "id": 29250,
-        "name": "Steenkerke Sint-Laurentius",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6614226,
-          51.0700471
-        ]
-      },
-      "properties": {
-        "id": 23133,
-        "name": "Sint-Denisplaats 16 Veurne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6567264,
-          51.0703022
-        ]
-      },
-      "properties": {
-        "id": 24668,
-        "name": "Randparking Duinkerkelaan(geen stalling)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6501954,
-          51.0433689
-        ]
-      },
-      "properties": {
-        "id": 24666,
-        "name": "Bulskamp Kerk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.666867,
-          51.0618241
-        ]
-      },
-      "properties": {
-        "id": 28099,
-        "name": "AZ West",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6671783,
-          51.0573178
-        ]
-      },
-      "properties": {
-        "id": 27327,
-        "name": "Bakkerijmuseum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6638738,
-          51.074943
-        ]
-      },
-      "properties": {
-        "id": 24667,
-        "name": "Randparking Oude Vesten - fietsenstalling",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6717122,
-          51.07313
-        ]
-      },
-      "properties": {
-        "id": 24662,
-        "name": "Station Veurne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "veurne",
-    "total_hubs": 13,
-    "generated_at": "2025-08-25T14:23:50.627Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/475/hubs/"
-    ]
+[
+  {
+    "id": 24664,
+    "name": "Seylsteen",
+    "latitude": "51.0700612",
+    "longitude": "2.6614065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24663,
+    "name": "Stadspark Veurne",
+    "latitude": "51.0730738",
+    "longitude": "2.6617394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26510,
+    "name": "Furnevent",
+    "latitude": "51.0663855",
+    "longitude": "2.6820211",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24669,
+    "name": "Westpark - fietsenstalling",
+    "latitude": "51.0732345",
+    "longitude": "2.6882259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27329,
+    "name": "Sportpark Veurne",
+    "latitude": "51.0817755",
+    "longitude": "2.6599553",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29250,
+    "name": "Steenkerke Sint-Laurentius",
+    "latitude": "51.0575475",
+    "longitude": "2.6890307",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23133,
+    "name": "Sint-Denisplaats 16 Veurne",
+    "latitude": "51.0700471",
+    "longitude": "2.6614226",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24668,
+    "name": "Randparking Duinkerkelaan(geen stalling)",
+    "latitude": "51.0703022",
+    "longitude": "2.6567264",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24666,
+    "name": "Bulskamp Kerk",
+    "latitude": "51.0433689",
+    "longitude": "2.6501954",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28099,
+    "name": "AZ West",
+    "latitude": "51.0618241",
+    "longitude": "2.666867",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27327,
+    "name": "Bakkerijmuseum",
+    "latitude": "51.0573178",
+    "longitude": "2.6671783",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24667,
+    "name": "Randparking Oude Vesten - fietsenstalling",
+    "latitude": "51.074943",
+    "longitude": "2.6638738",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24662,
+    "name": "Station Veurne",
+    "latitude": "51.07313",
+    "longitude": "2.6717122",
+    "thumbnail_url": ""
   }
-}
+]

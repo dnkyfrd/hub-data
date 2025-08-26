@@ -1,6133 +1,2144 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3229531,
-          52.0683252
-        ]
-      },
-      "properties": {
-        "id": 19433,
-        "name": "J. Westerdijkplein (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2907194,
-          52.0672283
-        ]
-      },
-      "properties": {
-        "id": 32465,
-        "name": "Scheepersstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2789706,
-          52.1117764
-        ]
-      },
-      "properties": {
-        "id": 27527,
-        "name": "Scheveningseslag (point 44)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3199492,
-          52.0752072
-        ]
-      },
-      "properties": {
-        "id": 18881,
-        "name": "Spui 300",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3046397,
-          52.0740517
-        ]
-      },
-      "properties": {
-        "id": 19084,
-        "name": "Brouwersgracht (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.292901,
-          52.0840634
-        ]
-      },
-      "properties": {
-        "id": 19135,
-        "name": "Zoutmanstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3143999,
-          52.0556446
-        ]
-      },
-      "properties": {
-        "id": 26652,
-        "name": "AH Goeverneurplein (point 40)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2739769,
-          52.1069984
-        ]
-      },
-      "properties": {
-        "id": 19218,
-        "name": "Werfstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3261949,
-          52.0722482
-        ]
-      },
-      "properties": {
-        "id": 18869,
-        "name": "Trekvietplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3444034,
-          52.0891537
-        ]
-      },
-      "properties": {
-        "id": 18919,
-        "name": "De Eerensplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3365402,
-          52.0860425
-        ]
-      },
-      "properties": {
-        "id": 18925,
-        "name": "Theresiastraat I (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2455446,
-          52.039241
-        ]
-      },
-      "properties": {
-        "id": 27499,
-        "name": "De Uithof (point 47)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3323984,
-          52.06269
-        ]
-      },
-      "properties": {
-        "id": 32422,
-        "name": "Tram Rijswijkse weg 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.316773,
-          52.052889
-        ]
-      },
-      "properties": {
-        "id": 32432,
-        "name": "Van Meursstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3167107,
-          52.0536968
-        ]
-      },
-      "properties": {
-        "id": 32431,
-        "name": "Moskee El Oemma",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3182908,
-          52.0837158
-        ]
-      },
-      "properties": {
-        "id": 18964,
-        "name": "Paviljoen Malieveld",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3327556,
-          52.0619105
-        ]
-      },
-      "properties": {
-        "id": 32421,
-        "name": "Tram Rijswijkseweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2749336,
-          52.0723306
-        ]
-      },
-      "properties": {
-        "id": 19110,
-        "name": "Weimarstraat III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2873334,
-          52.0672103
-        ]
-      },
-      "properties": {
-        "id": 32466,
-        "name": "Scheepersstraat 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3074949,
-          52.074915
-        ]
-      },
-      "properties": {
-        "id": 19082,
-        "name": "Grote Markt (tram stop Prinsengracht)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2935755,
-          52.0601915
-        ]
-      },
-      "properties": {
-        "id": 32459,
-        "name": "Schalk Burgerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3103424,
-          52.0746957
-        ]
-      },
-      "properties": {
-        "id": 21319,
-        "name": "Lutherse Burgwal (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3469328,
-          52.0701677
-        ]
-      },
-      "properties": {
-        "id": 32351,
-        "name": "Grote Beerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3374599,
-          52.0788986
-        ]
-      },
-      "properties": {
-        "id": 18891,
-        "name": "WTC The Hague I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2765179,
-          52.1038501
-        ]
-      },
-      "properties": {
-        "id": 19208,
-        "name": "Keizerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3228549,
-          52.0815393
-        ]
-      },
-      "properties": {
-        "id": 18962,
-        "name": "KJ Basement (Park underground)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3444116,
-          52.0836125
-        ]
-      },
-      "properties": {
-        "id": 18915,
-        "name": "De Vriesstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3555718,
-          52.0097662
-        ]
-      },
-      "properties": {
-        "id": 32335,
-        "name": "De Gist",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3167128,
-          52.076334
-        ]
-      },
-      "properties": {
-        "id": 18887,
-        "name": "Theater aan het Spui (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3180588,
-          52.0538076
-        ]
-      },
-      "properties": {
-        "id": 32433,
-        "name": "Ledeganckplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3004453,
-          52.0866226
-        ]
-      },
-      "properties": {
-        "id": 19060,
-        "name": "Laan van Meerdervoort I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3251777,
-          52.0794285
-        ]
-      },
-      "properties": {
-        "id": 27883,
-        "name": "Den Haag Centraal Deelfiets UNDER the bridge ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3156179,
-          52.0811044
-        ]
-      },
-      "properties": {
-        "id": 18969,
-        "name": "Lange Houtstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3226279,
-          52.0638441
-        ]
-      },
-      "properties": {
-        "id": 19670,
-        "name": "Stadsdeelkantoor Laak ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2801766,
-          52.0885021
-        ]
-      },
-      "properties": {
-        "id": 19168,
-        "name": "Museon",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2865217,
-          52.1172515
-        ]
-      },
-      "properties": {
-        "id": 20228,
-        "name": "Boulevard (Donkey inside)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3078686,
-          52.0808291
-        ]
-      },
-      "properties": {
-        "id": 18980,
-        "name": "Heulstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2832769,
-          52.0619751
-        ]
-      },
-      "properties": {
-        "id": 32463,
-        "name": "Schaarsbergerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3380654,
-          52.0651329
-        ]
-      },
-      "properties": {
-        "id": 32353,
-        "name": "Fokkerkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3024017,
-          52.085532
-        ]
-      },
-      "properties": {
-        "id": 19062,
-        "name": "Sophialaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3227935,
-          52.0693041
-        ]
-      },
-      "properties": {
-        "id": 19276,
-        "name": "Roof Station Den Haag HS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2787795,
-          52.0657002
-        ]
-      },
-      "properties": {
-        "id": 32464,
-        "name": "Zuiderparklaan 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3376818,
-          52.0681825
-        ]
-      },
-      "properties": {
-        "id": 27488,
-        "name": "Teleport hotel Den Haag (point 54)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3100395,
-          52.0782088
-        ]
-      },
-      "properties": {
-        "id": 18976,
-        "name": "Kettingstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2646794,
-          52.0965764
-        ]
-      },
-      "properties": {
-        "id": 19187,
-        "name": "Hellingweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2319153,
-          52.059552
-        ]
-      },
-      "properties": {
-        "id": 26616,
-        "name": "Alphons Diepenbrockhof (point 35)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2849661,
-          52.0953887
-        ]
-      },
-      "properties": {
-        "id": 19191,
-        "name": "Halte Johan de Wittlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2647023,
-          52.1025513
-        ]
-      },
-      "properties": {
-        "id": 19202,
-        "name": "Strandweg I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2916946,
-          52.0598754
-        ]
-      },
-      "properties": {
-        "id": 32458,
-        "name": "Soestdijksekade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.309999,
-          52.0715206
-        ]
-      },
-      "properties": {
-        "id": 20230,
-        "name": "Lange Beestenmarkt",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3064694,
-          52.0777587
-        ]
-      },
-      "properties": {
-        "id": 19081,
-        "name": "Kerkplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2648309,
-          52.0941307
-        ]
-      },
-      "properties": {
-        "id": 19185,
-        "name": "Dr. Lelykade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3299254,
-          52.0649112
-        ]
-      },
-      "properties": {
-        "id": 32417,
-        "name": "Rijswijkseweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2827236,
-          52.0900457
-        ]
-      },
-      "properties": {
-        "id": 20781,
-        "name": "Marriott ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3165014,
-          52.074111
-        ]
-      },
-      "properties": {
-        "id": 18949,
-        "name": "Wagenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2890804,
-          52.0605176
-        ]
-      },
-      "properties": {
-        "id": 32461,
-        "name": "Soestdijksekade 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3503429,
-          52.068964
-        ]
-      },
-      "properties": {
-        "id": 32349,
-        "name": "Regulusweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2952349,
-          52.1210083
-        ]
-      },
-      "properties": {
-        "id": 19351,
-        "name": "Noorderstrand (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.340515,
-          52.0667284
-        ]
-      },
-      "properties": {
-        "id": 32352,
-        "name": "Zonweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3431771,
-          52.0842277
-        ]
-      },
-      "properties": {
-        "id": 18917,
-        "name": "Stuyvesantplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3030612,
-          52.0576107
-        ]
-      },
-      "properties": {
-        "id": 31343,
-        "name": "the New Farm",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3215254,
-          52.0588278
-        ]
-      },
-      "properties": {
-        "id": 32426,
-        "name": "Goevernerlaan 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.330296,
-          52.0672253
-        ]
-      },
-      "properties": {
-        "id": 32418,
-        "name": "Laakweg ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3158681,
-          52.0755371
-        ]
-      },
-      "properties": {
-        "id": 27982,
-        "name": "Qpark mobility hub Veerkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3168959,
-          52.0873106
-        ]
-      },
-      "properties": {
-        "id": 28480,
-        "name": "Provinciehuis Den Haag",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2586038,
-          52.0673748
-        ]
-      },
-      "properties": {
-        "id": 26625,
-        "name": "Bus halte Perenstraat (point 36)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3296922,
-          52.0927728
-        ]
-      },
-      "properties": {
-        "id": 18987,
-        "name": "Willem Witsenplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3284534,
-          52.0746564
-        ]
-      },
-      "properties": {
-        "id": 19407,
-        "name": "Weteringkade under the bridge.",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3140632,
-          52.0884964
-        ]
-      },
-      "properties": {
-        "id": 19015,
-        "name": "Koningskade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.291639,
-          52.0731868
-        ]
-      },
-      "properties": {
-        "id": 19095,
-        "name": "Halte Loosduinseweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3524954,
-          52.067251
-        ]
-      },
-      "properties": {
-        "id": 32350,
-        "name": "Maanweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3133565,
-          52.0879374
-        ]
-      },
-      "properties": {
-        "id": 19018,
-        "name": "Koninginnegracht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3163807,
-          52.0775291
-        ]
-      },
-      "properties": {
-        "id": 19346,
-        "name": "Biesieklette Spuiplein bikeparking DOWNSTAIRS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2673704,
-          52.1021388
-        ]
-      },
-      "properties": {
-        "id": 19201,
-        "name": "Vissershavenweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2450625,
-          52.0667608
-        ]
-      },
-      "properties": {
-        "id": 26626,
-        "name": "Winkelcentrum de Savornin (point 17)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2375654,
-          52.0678417
-        ]
-      },
-      "properties": {
-        "id": 32257,
-        "name": "hoefbladlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2774285,
-          52.082508
-        ]
-      },
-      "properties": {
-        "id": 19150,
-        "name": "Groot Hertoginnelaan II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2918479,
-          52.118885
-        ]
-      },
-      "properties": {
-        "id": 19350,
-        "name": "Biesieklette Zwarte Pad (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3334431,
-          52.0672793
-        ]
-      },
-      "properties": {
-        "id": 32419,
-        "name": "Speeltuin Trekweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3351818,
-          52.0630911
-        ]
-      },
-      "properties": {
-        "id": 32420,
-        "name": "Schoeplaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2702815,
-          52.0621826
-        ]
-      },
-      "properties": {
-        "id": 27516,
-        "name": "AH Escamplaan (point 33)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3035242,
-          52.0834253
-        ]
-      },
-      "properties": {
-        "id": 32483,
-        "name": "Hogewal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3107433,
-          52.0806848
-        ]
-      },
-      "properties": {
-        "id": 18979,
-        "name": "Lange Vijverberg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2738319,
-          52.1015341
-        ]
-      },
-      "properties": {
-        "id": 19200,
-        "name": "Halte Duinstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3037014,
-          52.0880644
-        ]
-      },
-      "properties": {
-        "id": 19031,
-        "name": "Javastraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2893903,
-          52.1073006
-        ]
-      },
-      "properties": {
-        "id": 19234,
-        "name": "Nieuwe Duinweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.349042,
-          52.0677874
-        ]
-      },
-      "properties": {
-        "id": 31791,
-        "name": "Saturnussraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2600146,
-          52.0766461
-        ]
-      },
-      "properties": {
-        "id": 27515,
-        "name": "Goudsbloemlaan (point 18)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3155134,
-          52.032847
-        ]
-      },
-      "properties": {
-        "id": 32546,
-        "name": "Marshallplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.262415,
-          52.1011259
-        ]
-      },
-      "properties": {
-        "id": 19349,
-        "name": "Biesieklette Strandweg Haven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2836598,
-          52.0602251
-        ]
-      },
-      "properties": {
-        "id": 27507,
-        "name": "Zuiderpark  (point 24)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3158875,
-          52.080295
-        ]
-      },
-      "properties": {
-        "id": 18968,
-        "name": "Het Plein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3343346,
-          52.0129585
-        ]
-      },
-      "properties": {
-        "id": 32357,
-        "name": "Van der Lelijstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2787389,
-          52.1100299
-        ]
-      },
-      "properties": {
-        "id": 19222,
-        "name": "Gevers Deynootweg III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2372127,
-          52.0757778
-        ]
-      },
-      "properties": {
-        "id": 26627,
-        "name": "Westduinpark Bos van poot (point 7)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2503468,
-          52.054735
-        ]
-      },
-      "properties": {
-        "id": 30173,
-        "name": "Van Kempen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3044445,
-          52.0785462
-        ]
-      },
-      "properties": {
-        "id": 19087,
-        "name": "Torenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2926203,
-          52.0784854
-        ]
-      },
-      "properties": {
-        "id": 19126,
-        "name": "Elandstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2847115,
-          52.1027795
-        ]
-      },
-      "properties": {
-        "id": 19204,
-        "name": "Kanaalweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3188286,
-          52.0581326
-        ]
-      },
-      "properties": {
-        "id": 32428,
-        "name": "Capadosestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3396929,
-          52.0632005
-        ]
-      },
-      "properties": {
-        "id": 32354,
-        "name": "Jupiterkade ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3131101,
-          52.0783327
-        ]
-      },
-      "properties": {
-        "id": 18974,
-        "name": "Hofweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2828167,
-          52.0619788
-        ]
-      },
-      "properties": {
-        "id": 32462,
-        "name": "Zuiderparklaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2802046,
-          52.0985377
-        ]
-      },
-      "properties": {
-        "id": 19193,
-        "name": "Johan van Oldenbarneveltlaan I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3068089,
-          52.0783801
-        ]
-      },
-      "properties": {
-        "id": 19080,
-        "name": "Prinsestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2709699,
-          52.0911311
-        ]
-      },
-      "properties": {
-        "id": 19176,
-        "name": "Halte Willem de Zwijgerlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3263082,
-          52.0702538
-        ]
-      },
-      "properties": {
-        "id": 18863,
-        "name": "Bontoekstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3013135,
-          52.1016847
-        ]
-      },
-      "properties": {
-        "id": 20024,
-        "name": "Badhuisweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2965373,
-          52.0621402
-        ]
-      },
-      "properties": {
-        "id": 32460,
-        "name": "Kaapseplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3180796,
-          52.0783639
-        ]
-      },
-      "properties": {
-        "id": 20275,
-        "name": "International Centre (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3321903,
-          52.0864489
-        ]
-      },
-      "properties": {
-        "id": 18943,
-        "name": "Unicef (L)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3897127,
-          52.0556873
-        ]
-      },
-      "properties": {
-        "id": 31799,
-        "name": "Station Den Haag Ypenburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.265982,
-          52.1036843
-        ]
-      },
-      "properties": {
-        "id": 19203,
-        "name": "Strandweg II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2943367,
-          52.0828109
-        ]
-      },
-      "properties": {
-        "id": 19134,
-        "name": "Prins Hendrikplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3133663,
-          52.0760486
-        ]
-      },
-      "properties": {
-        "id": 18956,
-        "name": "Gedempte Gracht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2761259,
-          52.079972
-        ]
-      },
-      "properties": {
-        "id": 19159,
-        "name": "Beeklaan II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3225396,
-          52.0781024
-        ]
-      },
-      "properties": {
-        "id": 18889,
-        "name": "Ammunitiehaven II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.325112,
-          52.0714197
-        ]
-      },
-      "properties": {
-        "id": 18867,
-        "name": "Van Maanenkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2573235,
-          52.0970621
-        ]
-      },
-      "properties": {
-        "id": 19188,
-        "name": "Zuiderstrand",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.314154,
-          52.0559741
-        ]
-      },
-      "properties": {
-        "id": 32430,
-        "name": "Goeverneurlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3199426,
-          52.0603748
-        ]
-      },
-      "properties": {
-        "id": 32427,
-        "name": "De Genestetlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3213099,
-          52.0582238
-        ]
-      },
-      "properties": {
-        "id": 32425,
-        "name": "Goeverneurlaan 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3081323,
-          52.0549737
-        ]
-      },
-      "properties": {
-        "id": 28761,
-        "name": "Den Haag Moerwijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2845523,
-          52.0807293
-        ]
-      },
-      "properties": {
-        "id": 19148,
-        "name": "Reinkenstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3016585,
-          52.0862909
-        ]
-      },
-      "properties": {
-        "id": 19061,
-        "name": "Zeestraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3322031,
-          52.0838888
-        ]
-      },
-      "properties": {
-        "id": 18937,
-        "name": "Emmastraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2881928,
-          52.10993
-        ]
-      },
-      "properties": {
-        "id": 19233,
-        "name": "Stevinstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2697214,
-          52.0971599
-        ]
-      },
-      "properties": {
-        "id": 19198,
-        "name": "Van Bergenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2703483,
-          52.1066055
-        ]
-      },
-      "properties": {
-        "id": 19216,
-        "name": "Strandweg III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.297682,
-          52.0857222
-        ]
-      },
-      "properties": {
-        "id": 19069,
-        "name": "Trompstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3071451,
-          52.0785278
-        ]
-      },
-      "properties": {
-        "id": 19343,
-        "name": "Biesieklette Nobelstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3068075,
-          52.0748048
-        ]
-      },
-      "properties": {
-        "id": 19083,
-        "name": "Prinsegracht (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2789736,
-          52.102522
-        ]
-      },
-      "properties": {
-        "id": 19205,
-        "name": "Halte Duinstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3458531,
-          52.0857485
-        ]
-      },
-      "properties": {
-        "id": 18918,
-        "name": "Loudonstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2741272,
-          52.1086101
-        ]
-      },
-      "properties": {
-        "id": 19217,
-        "name": "Strandweg IV",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2749803,
-          52.0758783
-        ]
-      },
-      "properties": {
-        "id": 32467,
-        "name": "Copernicusplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3150282,
-          52.0876432
-        ]
-      },
-      "properties": {
-        "id": 28551,
-        "name": " ANVS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.310559,
-          52.0893786
-        ]
-      },
-      "properties": {
-        "id": 19026,
-        "name": "Balistraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3051167,
-          52.0752839
-        ]
-      },
-      "properties": {
-        "id": 19085,
-        "name": "Assendelftstraat (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4016968,
-          52.0655856
-        ]
-      },
-      "properties": {
-        "id": 27490,
-        "name": "Winkelcentrum Leidschenveen (point 50)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2880535,
-          52.1117964
-        ]
-      },
-      "properties": {
-        "id": 19231,
-        "name": "Bosschestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2351574,
-          52.0638278
-        ]
-      },
-      "properties": {
-        "id": 32326,
-        "name": "Muurbloemweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2949261,
-          52.1021168
-        ]
-      },
-      "properties": {
-        "id": 20025,
-        "name": "Jokje ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3204349,
-          52.0806941
-        ]
-      },
-      "properties": {
-        "id": 18959,
-        "name": "Muzenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2771249,
-          52.1082924
-        ]
-      },
-      "properties": {
-        "id": 19371,
-        "name": "Villa Fedora ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3285405,
-          52.06084
-        ]
-      },
-      "properties": {
-        "id": 27508,
-        "name": "AH Lorentzplein (point 41)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3088501,
-          52.0770706
-        ]
-      },
-      "properties": {
-        "id": 20328,
-        "name": "Hommerspn Casino ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2832575,
-          52.1129282
-        ]
-      },
-      "properties": {
-        "id": 19227,
-        "name": "Gevers Deynootweg I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2567234,
-          52.072516
-        ]
-      },
-      "properties": {
-        "id": 30647,
-        "name": "Chrysantplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3193878,
-          52.0394992
-        ]
-      },
-      "properties": {
-        "id": 31798,
-        "name": "Station Rijswijk",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2985568,
-          52.0815146
-        ]
-      },
-      "properties": {
-        "id": 19076,
-        "name": "2e de Riemerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3073497,
-          52.0870697
-        ]
-      },
-      "properties": {
-        "id": 32090,
-        "name": "Sophialaan ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3021265,
-          52.0834312
-        ]
-      },
-      "properties": {
-        "id": 19071,
-        "name": "De Ruijterstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2790195,
-          52.076179
-        ]
-      },
-      "properties": {
-        "id": 19140,
-        "name": "Edisonstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2738462,
-          52.0705042
-        ]
-      },
-      "properties": {
-        "id": 19099,
-        "name": "Valkenboskade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3184421,
-          52.0745643
-        ]
-      },
-      "properties": {
-        "id": 18882,
-        "name": "Bierkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2827824,
-          52.0935211
-        ]
-      },
-      "properties": {
-        "id": 19189,
-        "name": "Churchillplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3090442,
-          52.0852892
-        ]
-      },
-      "properties": {
-        "id": 19034,
-        "name": "Mauritskade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2818248,
-          52.1115651
-        ]
-      },
-      "properties": {
-        "id": 19225,
-        "name": "Gevers Deynootweg II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3048099,
-          52.0794112
-        ]
-      },
-      "properties": {
-        "id": 19079,
-        "name": "Molenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2838061,
-          52.1122161
-        ]
-      },
-      "properties": {
-        "id": 19226,
-        "name": "Kurhausweg I (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3537452,
-          52.0887793
-        ]
-      },
-      "properties": {
-        "id": 29684,
-        "name": "Tarwekamp",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2657198,
-          52.034981
-        ]
-      },
-      "properties": {
-        "id": 27498,
-        "name": "Ambachtsgaarde (point 26)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2905679,
-          52.11057
-        ]
-      },
-      "properties": {
-        "id": 19232,
-        "name": "Stevinstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2351313,
-          52.0532793
-        ]
-      },
-      "properties": {
-        "id": 26610,
-        "name": "Loosduinse Hoofdplein (point 30)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2768031,
-          52.0937964
-        ]
-      },
-      "properties": {
-        "id": 19194,
-        "name": "Frederik Hendriklaan II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3195256,
-          52.0817733
-        ]
-      },
-      "properties": {
-        "id": 18961,
-        "name": "KABK",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3224459,
-          52.0709063
-        ]
-      },
-      "properties": {
-        "id": 18865,
-        "name": "AH Zuylichemstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3358734,
-          52.0791561
-        ]
-      },
-      "properties": {
-        "id": 18893,
-        "name": "WTC The Hague III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3189954,
-          52.0873813
-        ]
-      },
-      "properties": {
-        "id": 28614,
-        "name": "Jan van Nassau",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2716488,
-          52.1001219
-        ]
-      },
-      "properties": {
-        "id": 19199,
-        "name": "Schokkerweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2970296,
-          52.0198238
-        ]
-      },
-      "properties": {
-        "id": 27495,
-        "name": "Parijsplein (point 20)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3022682,
-          52.0786004
-        ]
-      },
-      "properties": {
-        "id": 19088,
-        "name": "Snoekstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2606873,
-          52.0432348
-        ]
-      },
-      "properties": {
-        "id": 27501,
-        "name": "De stede (point 16)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3022427,
-          52.0797092
-        ]
-      },
-      "properties": {
-        "id": 19078,
-        "name": "Veenkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2938465,
-          52.1077113
-        ]
-      },
-      "properties": {
-        "id": 31216,
-        "name": "Hotelschool The Hague",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3434137,
-          52.0794269
-        ]
-      },
-      "properties": {
-        "id": 28615,
-        "name": "Laan van NOI HUB",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2974702,
-          52.0672406
-        ]
-      },
-      "properties": {
-        "id": 29676,
-        "name": "Hague Market II Bis.",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3231526,
-          52.0661547
-        ]
-      },
-      "properties": {
-        "id": 20378,
-        "name": "Duwo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3038493,
-          52.0903905
-        ]
-      },
-      "properties": {
-        "id": 19050,
-        "name": "Burgemeester Kolfschotenlaan I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2819162,
-          52.0660937
-        ]
-      },
-      "properties": {
-        "id": 27517,
-        "name": "AH Apeldoornselaan (point 45)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3108922,
-          52.0789563
-        ]
-      },
-      "properties": {
-        "id": 18975,
-        "name": "Buitenhof",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2756264,
-          52.0925356
-        ]
-      },
-      "properties": {
-        "id": 19177,
-        "name": "Halte Frederik Hendriklaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2807856,
-          52.0934529
-        ]
-      },
-      "properties": {
-        "id": 19190,
-        "name": "Halte World Forum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3125148,
-          52.0851569
-        ]
-      },
-      "properties": {
-        "id": 19021,
-        "name": "Denneweg II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3495288,
-          52.0496175
-        ]
-      },
-      "properties": {
-        "id": 27494,
-        "name": "Park and bike Den Haag ( point 52)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3197741,
-          52.0881269
-        ]
-      },
-      "properties": {
-        "id": 28754,
-        "name": "Spaces Mesdagstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2995375,
-          52.0991058
-        ]
-      },
-      "properties": {
-        "id": 19010,
-        "name": "Madurodam",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2845453,
-          52.1101989
-        ]
-      },
-      "properties": {
-        "id": 19228,
-        "name": "Circustheater",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2764168,
-          52.0956113
-        ]
-      },
-      "properties": {
-        "id": 19196,
-        "name": "Halte Prins Mauritslaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2668149,
-          52.0927644
-        ]
-      },
-      "properties": {
-        "id": 19183,
-        "name": "Ripperdastraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3695267,
-          52.0902249
-        ]
-      },
-      "properties": {
-        "id": 28767,
-        "name": "Den Haag Mariahoeve",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2839811,
-          52.085001
-        ]
-      },
-      "properties": {
-        "id": 19152,
-        "name": "Groot Hertoginnelaan I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3027213,
-          52.0797888
-        ]
-      },
-      "properties": {
-        "id": 31918,
-        "name": "veenkade bis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3060392,
-          52.0730023
-        ]
-      },
-      "properties": {
-        "id": 19272,
-        "name": "Hoge Zand",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.277656,
-          52.0654677
-        ]
-      },
-      "properties": {
-        "id": 32256,
-        "name": "Weesperstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2843917,
-          52.1137779
-        ]
-      },
-      "properties": {
-        "id": 19229,
-        "name": "Biesieklette Palaceplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.270115,
-          52.0742812
-        ]
-      },
-      "properties": {
-        "id": 19103,
-        "name": "Valkenboskade III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3274808,
-          52.084189
-        ]
-      },
-      "properties": {
-        "id": 28613,
-        "name": "Bezuidenhoutseweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2831016,
-          52.0769991
-        ]
-      },
-      "properties": {
-        "id": 19117,
-        "name": "Regentesseplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3348662,
-          52.0600181
-        ]
-      },
-      "properties": {
-        "id": 30187,
-        "name": "Honselersdijk bloemenveiling",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2877911,
-          52.0819367
-        ]
-      },
-      "properties": {
-        "id": 19137,
-        "name": "Van Speijkstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2506279,
-          52.0814877
-        ]
-      },
-      "properties": {
-        "id": 27526,
-        "name": "Westduinpark Bos van poot 1 (point 11)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3079689,
-          52.0770551
-        ]
-      },
-      "properties": {
-        "id": 18977,
-        "name": "Visbanken",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.319418,
-          52.0730832
-        ]
-      },
-      "properties": {
-        "id": 19602,
-        "name": "Stationweg I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3263549,
-          52.0839911
-        ]
-      },
-      "properties": {
-        "id": 18948,
-        "name": "Malietoren I (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3360611,
-          52.0786305
-        ]
-      },
-      "properties": {
-        "id": 18892,
-        "name": "WTC The Hague II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2921574,
-          52.0814804
-        ]
-      },
-      "properties": {
-        "id": 19130,
-        "name": "Prins Hendrikstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2969823,
-          52.0671306
-        ]
-      },
-      "properties": {
-        "id": 20391,
-        "name": "Hague Market II (point 46)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3204094,
-          52.0719633
-        ]
-      },
-      "properties": {
-        "id": 20269,
-        "name": "Stationweg II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2858063,
-          52.0782841
-        ]
-      },
-      "properties": {
-        "id": 19119,
-        "name": "Weimarstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3241447,
-          52.1049004
-        ]
-      },
-      "properties": {
-        "id": 19447,
-        "name": "Albert H. Theo Mann",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3585863,
-          52.0668404
-        ]
-      },
-      "properties": {
-        "id": 31816,
-        "name": "Station Voorburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2803402,
-          52.0452078
-        ]
-      },
-      "properties": {
-        "id": 27503,
-        "name": "Stadhuis Escamp ( point 29)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3103206,
-          52.0816365
-        ]
-      },
-      "properties": {
-        "id": 18981,
-        "name": "Lange Voorhout I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2706745,
-          52.0761655
-        ]
-      },
-      "properties": {
-        "id": 19153,
-        "name": "Anton Haenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3033975,
-          52.0770853
-        ]
-      },
-      "properties": {
-        "id": 19086,
-        "name": "Vleerstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3182925,
-          52.102911
-        ]
-      },
-      "properties": {
-        "id": 27511,
-        "name": "HMC Bronovo ( point 56)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2974077,
-          52.0841134
-        ]
-      },
-      "properties": {
-        "id": 19072,
-        "name": "Jacob van der Doesstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3080534,
-          52.0831823
-        ]
-      },
-      "properties": {
-        "id": 19038,
-        "name": "Parkstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3239685,
-          52.0744381
-        ]
-      },
-      "properties": {
-        "id": 18878,
-        "name": "Scheldestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2897573,
-          52.0783245
-        ]
-      },
-      "properties": {
-        "id": 19127,
-        "name": "De Perponcherstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2792467,
-          52.069657
-        ]
-      },
-      "properties": {
-        "id": 19097,
-        "name": "Fahrenheitstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3197895,
-          52.0879427
-        ]
-      },
-      "properties": {
-        "id": 18999,
-        "name": "Spaces",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3252678,
-          52.0918961
-        ]
-      },
-      "properties": {
-        "id": 18991,
-        "name": "Van Hoytemastraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.318849,
-          52.0668041
-        ]
-      },
-      "properties": {
-        "id": 20270,
-        "name": "Megastore DH",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2994067,
-          52.0734718
-        ]
-      },
-      "properties": {
-        "id": 28200,
-        "name": "HMC Westeinde ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2662137,
-          52.0865633
-        ]
-      },
-      "properties": {
-        "id": 26629,
-        "name": "Westduinpark Bos van poot 3 (point 15)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2818801,
-          52.073192
-        ]
-      },
-      "properties": {
-        "id": 19108,
-        "name": "Halte Cartesiusstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2635562,
-          52.0812679
-        ]
-      },
-      "properties": {
-        "id": 19165,
-        "name": "Haga Ziekenhuis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2939695,
-          52.0584755
-        ]
-      },
-      "properties": {
-        "id": 21800,
-        "name": "Moerweg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2974597,
-          52.0867759
-        ]
-      },
-      "properties": {
-        "id": 19068,
-        "name": "Vredespaleis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2758727,
-          52.0887408
-        ]
-      },
-      "properties": {
-        "id": 19812,
-        "name": "Speeltuin Freddy Hendrikplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3119103,
-          52.0928183
-        ]
-      },
-      "properties": {
-        "id": 19007,
-        "name": "Bachmanstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3215544,
-          52.0794551
-        ]
-      },
-      "properties": {
-        "id": 19601,
-        "name": "Turfmarkt ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3189241,
-          52.0806916
-        ]
-      },
-      "properties": {
-        "id": 18960,
-        "name": "Herengracht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.274283,
-          52.0967416
-        ]
-      },
-      "properties": {
-        "id": 19197,
-        "name": "Frankenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2684872,
-          52.0940236
-        ]
-      },
-      "properties": {
-        "id": 19184,
-        "name": "Douzastraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2371072,
-          52.0490652
-        ]
-      },
-      "properties": {
-        "id": 27522,
-        "name": "Kraiensteinlaan tram halte (point 31)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2929724,
-          52.0843788
-        ]
-      },
-      "properties": {
-        "id": 22409,
-        "name": "Groothertogin",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3049663,
-          52.0944885
-        ]
-      },
-      "properties": {
-        "id": 19044,
-        "name": "Batjanstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.319758,
-          52.0796179
-        ]
-      },
-      "properties": {
-        "id": 18958,
-        "name": "Muzenplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3453375,
-          52.0659659
-        ]
-      },
-      "properties": {
-        "id": 29740,
-        "name": "Titaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3220415,
-          52.0716342
-        ]
-      },
-      "properties": {
-        "id": 18868,
-        "name": "Oranjelaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2753289,
-          52.0739481
-        ]
-      },
-      "properties": {
-        "id": 19112,
-        "name": "Valkenboslaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3161285,
-          52.0823839
-        ]
-      },
-      "properties": {
-        "id": 18966,
-        "name": "Schouwburgstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2969738,
-          52.0803236
-        ]
-      },
-      "properties": {
-        "id": 19132,
-        "name": "Halte Elandstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2892641,
-          52.0836711
-        ]
-      },
-      "properties": {
-        "id": 19138,
-        "name": "Obrechtstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2998039,
-          52.0847924
-        ]
-      },
-      "properties": {
-        "id": 19070,
-        "name": "Anna Paulowna",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3266704,
-          52.0841365
-        ]
-      },
-      "properties": {
-        "id": 22638,
-        "name": "Malietoren II (Donkey in rack)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2506627,
-          52.0543161
-        ]
-      },
-      "properties": {
-        "id": 27523,
-        "name": "Winkelcentrum Houtwijk (point 32)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3232046,
-          52.108608
-        ]
-      },
-      "properties": {
-        "id": 27512,
-        "name": "Oostduinen (point 43)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2932587,
-          52.1128334
-        ]
-      },
-      "properties": {
-        "id": 19237,
-        "name": "Groningsestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2764698,
-          52.0782744
-        ]
-      },
-      "properties": {
-        "id": 19142,
-        "name": "Valkenbosplein",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3560798,
-          52.0918943
-        ]
-      },
-      "properties": {
-        "id": 27509,
-        "name": "AH Het Kleine Loo (point 42)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2742422,
-          52.0905872
-        ]
-      },
-      "properties": {
-        "id": 20514,
-        "name": "Hollywood ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2889328,
-          52.0797609
-        ]
-      },
-      "properties": {
-        "id": 19129,
-        "name": "Koningsplein I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.329004,
-          52.0848467
-        ]
-      },
-      "properties": {
-        "id": 18945,
-        "name": "Bezuidenhoutseweg II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.313725,
-          52.0729583
-        ]
-      },
-      "properties": {
-        "id": 19310,
-        "name": "Paviljoensgracht 139",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3130506,
-          52.0943835
-        ]
-      },
-      "properties": {
-        "id": 19004,
-        "name": "Groenhovenstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2691887,
-          52.0752238
-        ]
-      },
-      "properties": {
-        "id": 19105,
-        "name": "Valkenboskade IV",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3108949,
-          52.0745081
-        ]
-      },
-      "properties": {
-        "id": 18954,
-        "name": "Paviljoensgracht",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2229722,
-          52.0677939
-        ]
-      },
-      "properties": {
-        "id": 27514,
-        "name": "Fietsstalling Kijkduin (point 4)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3270418,
-          52.0800714
-        ]
-      },
-      "properties": {
-        "id": 19348,
-        "name": "Biesieklette Anna UNDER the bridge inside",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3053649,
-          52.0841165
-        ]
-      },
-      "properties": {
-        "id": 19064,
-        "name": "Mauritskade I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2727135,
-          52.0717273
-        ]
-      },
-      "properties": {
-        "id": 19101,
-        "name": "Valkenboskade II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2765784,
-          52.0690004
-        ]
-      },
-      "properties": {
-        "id": 19098,
-        "name": "Halte Valkenboslaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2171504,
-          52.0635434
-        ]
-      },
-      "properties": {
-        "id": 26605,
-        "name": "Celestial Vault (point 3)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2677801,
-          52.0802982
-        ]
-      },
-      "properties": {
-        "id": 19164,
-        "name": "Fahrenheitstraat V",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3111202,
-          52.0862835
-        ]
-      },
-      "properties": {
-        "id": 19022,
-        "name": "Denneweg I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3001892,
-          52.0819843
-        ]
-      },
-      "properties": {
-        "id": 19074,
-        "name": "Elandstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3272977,
-          52.073641
-        ]
-      },
-      "properties": {
-        "id": 23218,
-        "name": "Spaarnestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2744553,
-          52.1053801
-        ]
-      },
-      "properties": {
-        "id": 19209,
-        "name": "Jan Kistenstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.275297,
-          52.0865062
-        ]
-      },
-      "properties": {
-        "id": 19166,
-        "name": "Cornelis de Wittlaan",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2577497,
-          52.0899047
-        ]
-      },
-      "properties": {
-        "id": 26598,
-        "name": "Hoogvliet Tesselplein (point 14)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2887593,
-          52.0532259
-        ]
-      },
-      "properties": {
-        "id": 27506,
-        "name": "Zwembad Zuiderpark (point 23)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3028725,
-          52.0807188
-        ]
-      },
-      "properties": {
-        "id": 20329,
-        "name": "Simonicini",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2946248,
-          52.0768755
-        ]
-      },
-      "properties": {
-        "id": 19122,
-        "name": "Waldeck Pyrmontkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2803775,
-          52.0754445
-        ]
-      },
-      "properties": {
-        "id": 19115,
-        "name": "Weimarstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2939437,
-          52.0821399
-        ]
-      },
-      "properties": {
-        "id": 19131,
-        "name": "Prins Hendrikstraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3100457,
-          52.0882218
-        ]
-      },
-      "properties": {
-        "id": 19024,
-        "name": "Frederikstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3157072,
-          52.0734656
-        ]
-      },
-      "properties": {
-        "id": 18950,
-        "name": "Dunne Bierkade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3148488,
-          52.0744182
-        ]
-      },
-      "properties": {
-        "id": 18953,
-        "name": "Stille Veerkade I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.304062,
-          52.0916265
-        ]
-      },
-      "properties": {
-        "id": 19043,
-        "name": "Bankastraat I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2695323,
-          52.0714234
-        ]
-      },
-      "properties": {
-        "id": 19100,
-        "name": "Johnny Loco",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3060758,
-          52.0824277
-        ]
-      },
-      "properties": {
-        "id": 19066,
-        "name": "Oranjestraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3584116,
-          52.0664892
-        ]
-      },
-      "properties": {
-        "id": 28765,
-        "name": "Voorburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2908166,
-          52.0489186
-        ]
-      },
-      "properties": {
-        "id": 27505,
-        "name": "AH Betje Wolffstraat (point 22)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2790606,
-          52.0837978
-        ]
-      },
-      "properties": {
-        "id": 19151,
-        "name": "Halte Valeriusstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3823215,
-          52.0773209
-        ]
-      },
-      "properties": {
-        "id": 28766,
-        "name": "Leidschendam Voorburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3216707,
-          52.0676108
-        ]
-      },
-      "properties": {
-        "id": 18860,
-        "name": "Stamkartstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2742563,
-          52.0569442
-        ]
-      },
-      "properties": {
-        "id": 21846,
-        "name": "Driebergen ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2644383,
-          52.0564962
-        ]
-      },
-      "properties": {
-        "id": 27518,
-        "name": "Haga Ziekenhuis (point 49)",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2818828,
-          52.1084087
-        ]
-      },
-      "properties": {
-        "id": 19224,
-        "name": "Katwijkstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.296692,
-          52.0736445
-        ]
-      },
-      "properties": {
-        "id": 19094,
-        "name": "Zusterstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3122149,
-          52.0754489
-        ]
-      },
-      "properties": {
-        "id": 18955,
-        "name": "Gedempte Burgwal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.393399,
-          52.0850919
-        ]
-      },
-      "properties": {
-        "id": 29103,
-        "name": "Gemeente Leidschendam Voorburg",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.294557,
-          52.0793751
-        ]
-      },
-      "properties": {
-        "id": 19125,
-        "name": "Da Costastraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3045794,
-          52.0839001
-        ]
-      },
-      "properties": {
-        "id": 19065,
-        "name": "Scheveningseveer",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2785158,
-          52.0916582
-        ]
-      },
-      "properties": {
-        "id": 19171,
-        "name": "Statenplein I",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2786922,
-          52.110807
-        ]
-      },
-      "properties": {
-        "id": 19223,
-        "name": "Harteveltstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2718879,
-          52.0885333
-        ]
-      },
-      "properties": {
-        "id": 19174,
-        "name": "Halte Boreelstraat",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3153853,
-          52.0854396
-        ]
-      },
-      "properties": {
-        "id": 18973,
-        "name": "Prinsessengracht II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2703942,
-          52.0775829
-        ]
-      },
-      "properties": {
-        "id": 19154,
-        "name": "Fahrenheitstraat III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2829919,
-          52.0824837
-        ]
-      },
-      "properties": {
-        "id": 19149,
-        "name": "Reinkenstraat II",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2773546,
-          52.0944414
-        ]
-      },
-      "properties": {
-        "id": 19195,
-        "name": "Frederik Hendriklaan III",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "the-hague",
-    "total_hubs": 306,
-    "generated_at": "2025-08-25T14:24:00.633Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/306/hubs/"
-    ]
+[
+  {
+    "id": 32465,
+    "name": "Scheepersstraat",
+    "latitude": "52.0672283",
+    "longitude": "4.2907194",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19350,
+    "name": "Biesieklette Zwarte Pad (Donkey in rack)",
+    "latitude": "52.118885",
+    "longitude": "4.2918479",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18881,
+    "name": "Spui 300",
+    "latitude": "52.0752072",
+    "longitude": "4.3199492",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32349,
+    "name": "Regulusweg",
+    "latitude": "52.068964",
+    "longitude": "4.3503429",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19135,
+    "name": "Zoutmanstraat II",
+    "latitude": "52.0840634",
+    "longitude": "4.292901",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32466,
+    "name": "Scheepersstraat 2",
+    "latitude": "52.0672103",
+    "longitude": "4.2873334",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19218,
+    "name": "Werfstraat",
+    "latitude": "52.1069984",
+    "longitude": "4.2739769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18869,
+    "name": "Trekvietplein",
+    "latitude": "52.0722482",
+    "longitude": "4.3261949",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27515,
+    "name": "Goudsbloemlaan (point 18)",
+    "latitude": "52.0766461",
+    "longitude": "4.2600146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18949,
+    "name": "Wagenstraat",
+    "latitude": "52.074111",
+    "longitude": "4.3165014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27499,
+    "name": "De Uithof (point 47)",
+    "latitude": "52.039241",
+    "longitude": "4.2455446",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32422,
+    "name": "Tram Rijswijkse weg 2",
+    "latitude": "52.06269",
+    "longitude": "4.3323984",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19062,
+    "name": "Sophialaan",
+    "latitude": "52.085532",
+    "longitude": "4.3024017",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19433,
+    "name": "J. Westerdijkplein (Donkey in rack)",
+    "latitude": "52.0683252",
+    "longitude": "4.3229531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32432,
+    "name": "Van Meursstraat",
+    "latitude": "52.052889",
+    "longitude": "4.316773",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32431,
+    "name": "Moskee El Oemma",
+    "latitude": "52.0536968",
+    "longitude": "4.3167107",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18964,
+    "name": "Paviljoen Malieveld",
+    "latitude": "52.0837158",
+    "longitude": "4.3182908",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32459,
+    "name": "Schalk Burgerstraat",
+    "latitude": "52.0601915",
+    "longitude": "4.2935755",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20781,
+    "name": "Marriott ",
+    "latitude": "52.0900457",
+    "longitude": "4.2827236",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19081,
+    "name": "Kerkplein",
+    "latitude": "52.0777587",
+    "longitude": "4.3064694",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19208,
+    "name": "Keizerstraat",
+    "latitude": "52.1038501",
+    "longitude": "4.2765179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18975,
+    "name": "Buitenhof",
+    "latitude": "52.0789563",
+    "longitude": "4.3108922",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32351,
+    "name": "Grote Beerstraat",
+    "latitude": "52.0701677",
+    "longitude": "4.3469328",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29676,
+    "name": "Hague Market II Bis.",
+    "latitude": "52.0672406",
+    "longitude": "4.2974702",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18925,
+    "name": "Theresiastraat I (Donkey in rack)",
+    "latitude": "52.0860425",
+    "longitude": "4.3365402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18915,
+    "name": "De Vriesstraat",
+    "latitude": "52.0836125",
+    "longitude": "4.3444116",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19110,
+    "name": "Weimarstraat III",
+    "latitude": "52.0723306",
+    "longitude": "4.2749336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28767,
+    "name": "Den Haag Mariahoeve",
+    "latitude": "52.0902249",
+    "longitude": "4.3695267",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20228,
+    "name": "Boulevard (Donkey inside)",
+    "latitude": "52.1169983",
+    "longitude": "4.2862471",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19200,
+    "name": "Halte Duinstraat I",
+    "latitude": "52.1015341",
+    "longitude": "4.2738319",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19082,
+    "name": "Grote Markt (tram stop Prinsengracht)",
+    "latitude": "52.074915",
+    "longitude": "4.3074949",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32433,
+    "name": "Ledeganckplein",
+    "latitude": "52.0538076",
+    "longitude": "4.3180588",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19060,
+    "name": "Laan van Meerdervoort I",
+    "latitude": "52.0866226",
+    "longitude": "4.3004453",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18969,
+    "name": "Lange Houtstraat",
+    "latitude": "52.0811044",
+    "longitude": "4.3156179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19227,
+    "name": "Gevers Deynootweg I",
+    "latitude": "52.1129282",
+    "longitude": "4.2832575",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19670,
+    "name": "Stadsdeelkantoor Laak ",
+    "latitude": "52.0638441",
+    "longitude": "4.3226279",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32463,
+    "name": "Schaarsbergerstraat",
+    "latitude": "52.0619751",
+    "longitude": "4.2832769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32353,
+    "name": "Fokkerkade",
+    "latitude": "52.0651329",
+    "longitude": "4.3380654",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18919,
+    "name": "De Eerensplein",
+    "latitude": "52.0891537",
+    "longitude": "4.3444034",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19276,
+    "name": "Roof Station Den Haag HS",
+    "latitude": "52.0693041",
+    "longitude": "4.3227935",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32464,
+    "name": "Zuiderparklaan 2",
+    "latitude": "52.0657002",
+    "longitude": "4.2787795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18974,
+    "name": "Hofweg",
+    "latitude": "52.0783327",
+    "longitude": "4.3131101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26616,
+    "name": "Alphons Diepenbrockhof (point 35)",
+    "latitude": "52.059552",
+    "longitude": "4.2319153",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21319,
+    "name": "Lutherse Burgwal (Donkey in rack)",
+    "latitude": "52.0746957",
+    "longitude": "4.3103424",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32458,
+    "name": "Soestdijksekade",
+    "latitude": "52.0598754",
+    "longitude": "4.2916946",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26625,
+    "name": "Bus halte Perenstraat (point 36)",
+    "latitude": "52.0673748",
+    "longitude": "4.2586038",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27527,
+    "name": "Scheveningseslag (point 44)",
+    "latitude": "52.1117764",
+    "longitude": "4.2789706",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18891,
+    "name": "WTC The Hague I",
+    "latitude": "52.0788986",
+    "longitude": "4.3374599",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19084,
+    "name": "Brouwersgracht (Donkey in rack)",
+    "latitude": "52.0740517",
+    "longitude": "4.3046397",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19346,
+    "name": "Biesieklette Spuiplein bikeparking DOWNSTAIRS",
+    "latitude": "52.0775291",
+    "longitude": "4.3163807",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19187,
+    "name": "Hellingweg",
+    "latitude": "52.0965764",
+    "longitude": "4.2646794",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20230,
+    "name": "Lange Beestenmarkt",
+    "latitude": "52.0715206",
+    "longitude": "4.309999",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19185,
+    "name": "Dr. Lelykade",
+    "latitude": "52.0941307",
+    "longitude": "4.2648309",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32417,
+    "name": "Rijswijkseweg",
+    "latitude": "52.0649112",
+    "longitude": "4.3299254",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19202,
+    "name": "Strandweg I",
+    "latitude": "52.1025513",
+    "longitude": "4.2647023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32461,
+    "name": "Soestdijksekade 2",
+    "latitude": "52.0605176",
+    "longitude": "4.2890804",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27883,
+    "name": "Den Haag Centraal Deelfiets UNDER the bridge ",
+    "latitude": "52.0794285",
+    "longitude": "4.3251777",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19168,
+    "name": "Museon",
+    "latitude": "52.0885021",
+    "longitude": "4.2801766",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19351,
+    "name": "Noorderstrand (Donkey in rack)",
+    "latitude": "52.1210083",
+    "longitude": "4.2952349",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32352,
+    "name": "Zonweg",
+    "latitude": "52.0667284",
+    "longitude": "4.340515",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32460,
+    "name": "Kaapseplein",
+    "latitude": "52.0621402",
+    "longitude": "4.2965373",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18917,
+    "name": "Stuyvesantplein",
+    "latitude": "52.0842277",
+    "longitude": "4.3431771",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31343,
+    "name": "the New Farm",
+    "latitude": "52.0576107",
+    "longitude": "4.3030612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32426,
+    "name": "Goevernerlaan 2",
+    "latitude": "52.0588278",
+    "longitude": "4.3215254",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32418,
+    "name": "Laakweg ",
+    "latitude": "52.0672253",
+    "longitude": "4.330296",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27982,
+    "name": "Qpark mobility hub Veerkade",
+    "latitude": "52.0755371",
+    "longitude": "4.3158681",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28480,
+    "name": "Provinciehuis Den Haag",
+    "latitude": "52.0873106",
+    "longitude": "4.3168959",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18987,
+    "name": "Willem Witsenplein",
+    "latitude": "52.0927728",
+    "longitude": "4.3296922",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19188,
+    "name": "Zuiderstrand",
+    "latitude": "52.0970621",
+    "longitude": "4.2573235",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19015,
+    "name": "Koningskade",
+    "latitude": "52.0884964",
+    "longitude": "4.3140632",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32421,
+    "name": "Tram Rijswijkseweg",
+    "latitude": "52.0619105",
+    "longitude": "4.3327556",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19095,
+    "name": "Halte Loosduinseweg",
+    "latitude": "52.0731868",
+    "longitude": "4.291639",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18887,
+    "name": "Theater aan het Spui (Donkey in rack)",
+    "latitude": "52.076334",
+    "longitude": "4.3167128",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32350,
+    "name": "Maanweg",
+    "latitude": "52.067251",
+    "longitude": "4.3524954",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19407,
+    "name": "Weteringkade under the bridge.",
+    "latitude": "52.0746564",
+    "longitude": "4.3284534",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18980,
+    "name": "Heulstraat",
+    "latitude": "52.0808291",
+    "longitude": "4.3078686",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19018,
+    "name": "Koninginnegracht",
+    "latitude": "52.0879374",
+    "longitude": "4.3133565",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19201,
+    "name": "Vissershavenweg",
+    "latitude": "52.1021388",
+    "longitude": "4.2673704",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26652,
+    "name": "AH Goeverneurplein (point 40)",
+    "latitude": "52.0556446",
+    "longitude": "4.3143999",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26626,
+    "name": "Winkelcentrum de Savornin (point 17)",
+    "latitude": "52.0667608",
+    "longitude": "4.2450625",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32257,
+    "name": "hoefbladlaan",
+    "latitude": "52.0678417",
+    "longitude": "4.2375654",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19150,
+    "name": "Groot Hertoginnelaan II",
+    "latitude": "52.082508",
+    "longitude": "4.2774285",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32419,
+    "name": "Speeltuin Trekweg",
+    "latitude": "52.0672793",
+    "longitude": "4.3334431",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27488,
+    "name": "Teleport hotel Den Haag (point 54)",
+    "latitude": "52.0681825",
+    "longitude": "4.3376818",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18962,
+    "name": "KJ Basement (Park underground)",
+    "latitude": "52.0815393",
+    "longitude": "4.3228549",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32420,
+    "name": "Schoeplaan",
+    "latitude": "52.0630911",
+    "longitude": "4.3351818",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27516,
+    "name": "AH Escamplaan (point 33)",
+    "latitude": "52.0621826",
+    "longitude": "4.2702815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32483,
+    "name": "Hogewal",
+    "latitude": "52.0834253",
+    "longitude": "4.3035242",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18979,
+    "name": "Lange Vijverberg",
+    "latitude": "52.0806848",
+    "longitude": "4.3107433",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19031,
+    "name": "Javastraat I",
+    "latitude": "52.0880644",
+    "longitude": "4.3037014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19234,
+    "name": "Nieuwe Duinweg",
+    "latitude": "52.1073006",
+    "longitude": "4.2893903",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31791,
+    "name": "Saturnussraat",
+    "latitude": "52.0677874",
+    "longitude": "4.349042",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32546,
+    "name": "Marshallplein",
+    "latitude": "52.032847",
+    "longitude": "4.3155134",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19349,
+    "name": "Biesieklette Strandweg Haven",
+    "latitude": "52.1011259",
+    "longitude": "4.262415",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27507,
+    "name": "Zuiderpark  (point 24)",
+    "latitude": "52.0602251",
+    "longitude": "4.2836598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18968,
+    "name": "Het Plein",
+    "latitude": "52.080295",
+    "longitude": "4.3158875",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32357,
+    "name": "Van der Lelijstraat",
+    "latitude": "52.0129585",
+    "longitude": "4.3343346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19222,
+    "name": "Gevers Deynootweg III",
+    "latitude": "52.1100299",
+    "longitude": "4.2787389",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26627,
+    "name": "Westduinpark Bos van poot (point 7)",
+    "latitude": "52.0757778",
+    "longitude": "4.2372127",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30173,
+    "name": "Van Kempen",
+    "latitude": "52.054735",
+    "longitude": "4.2503468",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19140,
+    "name": "Edisonstraat",
+    "latitude": "52.076179",
+    "longitude": "4.2790195",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19087,
+    "name": "Torenstraat",
+    "latitude": "52.0785462",
+    "longitude": "4.3044445",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19126,
+    "name": "Elandstraat I",
+    "latitude": "52.0784854",
+    "longitude": "4.2926203",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19204,
+    "name": "Kanaalweg",
+    "latitude": "52.1027795",
+    "longitude": "4.2847115",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32428,
+    "name": "Capadosestraat",
+    "latitude": "52.0581326",
+    "longitude": "4.3188286",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32354,
+    "name": "Jupiterkade ",
+    "latitude": "52.0632005",
+    "longitude": "4.3396929",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32462,
+    "name": "Zuiderparklaan",
+    "latitude": "52.0619788",
+    "longitude": "4.2828167",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19193,
+    "name": "Johan van Oldenbarneveltlaan I",
+    "latitude": "52.0985377",
+    "longitude": "4.2802046",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18976,
+    "name": "Kettingstraat",
+    "latitude": "52.0782088",
+    "longitude": "4.3100395",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19080,
+    "name": "Prinsestraat",
+    "latitude": "52.0783801",
+    "longitude": "4.3068089",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19176,
+    "name": "Halte Willem de Zwijgerlaan",
+    "latitude": "52.0911311",
+    "longitude": "4.2709699",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18863,
+    "name": "Bontoekstraat",
+    "latitude": "52.0702538",
+    "longitude": "4.3263082",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20024,
+    "name": "Badhuisweg",
+    "latitude": "52.1016847",
+    "longitude": "4.3013135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20275,
+    "name": "International Centre (Donkey in rack)",
+    "latitude": "52.0783639",
+    "longitude": "4.3180796",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18943,
+    "name": "Unicef (L)",
+    "latitude": "52.0864489",
+    "longitude": "4.3321903",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31799,
+    "name": "Station Den Haag Ypenburg",
+    "latitude": "52.0556873",
+    "longitude": "4.3897127",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19203,
+    "name": "Strandweg II",
+    "latitude": "52.1036843",
+    "longitude": "4.265982",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19134,
+    "name": "Prins Hendrikplein",
+    "latitude": "52.0828109",
+    "longitude": "4.2943367",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18956,
+    "name": "Gedempte Gracht",
+    "latitude": "52.0760486",
+    "longitude": "4.3133663",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19159,
+    "name": "Beeklaan II",
+    "latitude": "52.079972",
+    "longitude": "4.2761259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18889,
+    "name": "Ammunitiehaven II",
+    "latitude": "52.0781024",
+    "longitude": "4.3225396",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18867,
+    "name": "Van Maanenkade",
+    "latitude": "52.0714197",
+    "longitude": "4.325112",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32430,
+    "name": "Goeverneurlaan",
+    "latitude": "52.0559741",
+    "longitude": "4.314154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19191,
+    "name": "Halte Johan de Wittlaan",
+    "latitude": "52.0953887",
+    "longitude": "4.2849661",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32427,
+    "name": "De Genestetlaan",
+    "latitude": "52.0603748",
+    "longitude": "4.3199426",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32425,
+    "name": "Goeverneurlaan 1",
+    "latitude": "52.0582238",
+    "longitude": "4.3213099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28761,
+    "name": "Den Haag Moerwijk",
+    "latitude": "52.0549737",
+    "longitude": "4.3081323",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19148,
+    "name": "Reinkenstraat I",
+    "latitude": "52.0807293",
+    "longitude": "4.2845523",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19061,
+    "name": "Zeestraat I",
+    "latitude": "52.0862909",
+    "longitude": "4.3016585",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18937,
+    "name": "Emmastraat I",
+    "latitude": "52.0838888",
+    "longitude": "4.3322031",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19233,
+    "name": "Stevinstraat I",
+    "latitude": "52.10993",
+    "longitude": "4.2881928",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19198,
+    "name": "Van Bergenstraat",
+    "latitude": "52.0971599",
+    "longitude": "4.2697214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19216,
+    "name": "Strandweg III",
+    "latitude": "52.1066055",
+    "longitude": "4.2703483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19069,
+    "name": "Trompstraat",
+    "latitude": "52.0857222",
+    "longitude": "4.297682",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19343,
+    "name": "Biesieklette Nobelstraat",
+    "latitude": "52.0785278",
+    "longitude": "4.3071451",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19083,
+    "name": "Prinsegracht (Donkey in rack)",
+    "latitude": "52.0748048",
+    "longitude": "4.3068075",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19205,
+    "name": "Halte Duinstraat II",
+    "latitude": "52.102522",
+    "longitude": "4.2789736",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18918,
+    "name": "Loudonstraat",
+    "latitude": "52.0857485",
+    "longitude": "4.3458531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19217,
+    "name": "Strandweg IV",
+    "latitude": "52.1086101",
+    "longitude": "4.2741272",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32467,
+    "name": "Copernicusplein",
+    "latitude": "52.0758783",
+    "longitude": "4.2749803",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28551,
+    "name": " ANVS",
+    "latitude": "52.0876432",
+    "longitude": "4.3150282",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19026,
+    "name": "Balistraat I",
+    "latitude": "52.0893786",
+    "longitude": "4.310559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19085,
+    "name": "Assendelftstraat (Donkey in rack)",
+    "latitude": "52.0752839",
+    "longitude": "4.3051167",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27490,
+    "name": "Winkelcentrum Leidschenveen (point 50)",
+    "latitude": "52.0655856",
+    "longitude": "4.4016968",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19231,
+    "name": "Bosschestraat",
+    "latitude": "52.1117964",
+    "longitude": "4.2880535",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32326,
+    "name": "Muurbloemweg",
+    "latitude": "52.0638278",
+    "longitude": "4.2351574",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20025,
+    "name": "Jokje ",
+    "latitude": "52.1021168",
+    "longitude": "4.2949261",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18959,
+    "name": "Muzenstraat",
+    "latitude": "52.0806941",
+    "longitude": "4.3204349",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19371,
+    "name": "Villa Fedora ",
+    "latitude": "52.1082924",
+    "longitude": "4.2771249",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27508,
+    "name": "AH Lorentzplein (point 41)",
+    "latitude": "52.06084",
+    "longitude": "4.3285405",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20328,
+    "name": "Hommerspn Casino ",
+    "latitude": "52.0770706",
+    "longitude": "4.3088501",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30647,
+    "name": "Chrysantplein",
+    "latitude": "52.072516",
+    "longitude": "4.2567234",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31798,
+    "name": "Station Rijswijk",
+    "latitude": "52.0394992",
+    "longitude": "4.3193878",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19076,
+    "name": "2e de Riemerstraat",
+    "latitude": "52.0815146",
+    "longitude": "4.2985568",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32090,
+    "name": "Sophialaan ",
+    "latitude": "52.0870697",
+    "longitude": "4.3073497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19071,
+    "name": "De Ruijterstraat",
+    "latitude": "52.0834312",
+    "longitude": "4.3021265",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19099,
+    "name": "Valkenboskade",
+    "latitude": "52.0705042",
+    "longitude": "4.2738462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18882,
+    "name": "Bierkade",
+    "latitude": "52.0745643",
+    "longitude": "4.3184421",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19189,
+    "name": "Churchillplein",
+    "latitude": "52.0935211",
+    "longitude": "4.2827824",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19034,
+    "name": "Mauritskade",
+    "latitude": "52.0852892",
+    "longitude": "4.3090442",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19225,
+    "name": "Gevers Deynootweg II",
+    "latitude": "52.1115651",
+    "longitude": "4.2818248",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19079,
+    "name": "Molenstraat",
+    "latitude": "52.0794112",
+    "longitude": "4.3048099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19226,
+    "name": "Kurhausweg I (Donkey in rack)",
+    "latitude": "52.1122161",
+    "longitude": "4.2838061",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29684,
+    "name": "Tarwekamp",
+    "latitude": "52.0887793",
+    "longitude": "4.3537452",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27498,
+    "name": "Ambachtsgaarde (point 26)",
+    "latitude": "52.034981",
+    "longitude": "4.2657198",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19232,
+    "name": "Stevinstraat II",
+    "latitude": "52.11057",
+    "longitude": "4.2905679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26610,
+    "name": "Loosduinse Hoofdplein (point 30)",
+    "latitude": "52.0532793",
+    "longitude": "4.2351313",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19194,
+    "name": "Frederik Hendriklaan II",
+    "latitude": "52.0937964",
+    "longitude": "4.2768031",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18961,
+    "name": "KABK",
+    "latitude": "52.0817733",
+    "longitude": "4.3195256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18865,
+    "name": "AH Zuylichemstraat",
+    "latitude": "52.0709063",
+    "longitude": "4.3224459",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18893,
+    "name": "WTC The Hague III",
+    "latitude": "52.0791561",
+    "longitude": "4.3358734",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28614,
+    "name": "Jan van Nassau",
+    "latitude": "52.0873813",
+    "longitude": "4.3189954",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19199,
+    "name": "Schokkerweg",
+    "latitude": "52.1001219",
+    "longitude": "4.2716488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27495,
+    "name": "Parijsplein (point 20)",
+    "latitude": "52.0198238",
+    "longitude": "4.2970296",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19088,
+    "name": "Snoekstraat",
+    "latitude": "52.0786004",
+    "longitude": "4.3022682",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27501,
+    "name": "De stede (point 16)",
+    "latitude": "52.0432348",
+    "longitude": "4.2606873",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19078,
+    "name": "Veenkade",
+    "latitude": "52.0797092",
+    "longitude": "4.3022427",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31216,
+    "name": "Hotelschool The Hague",
+    "latitude": "52.1077113",
+    "longitude": "4.2938465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28615,
+    "name": "Laan van NOI HUB",
+    "latitude": "52.0794269",
+    "longitude": "4.3434137",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20378,
+    "name": "Duwo",
+    "latitude": "52.0661547",
+    "longitude": "4.3231526",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19050,
+    "name": "Burgemeester Kolfschotenlaan I",
+    "latitude": "52.0903905",
+    "longitude": "4.3038493",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27517,
+    "name": "AH Apeldoornselaan (point 45)",
+    "latitude": "52.0660937",
+    "longitude": "4.2819162",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19177,
+    "name": "Halte Frederik Hendriklaan",
+    "latitude": "52.0925356",
+    "longitude": "4.2756264",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19190,
+    "name": "Halte World Forum",
+    "latitude": "52.0934529",
+    "longitude": "4.2807856",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19021,
+    "name": "Denneweg II",
+    "latitude": "52.0851569",
+    "longitude": "4.3125148",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27494,
+    "name": "Park and bike Den Haag ( point 52)",
+    "latitude": "52.0496175",
+    "longitude": "4.3495288",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28754,
+    "name": "Spaces Mesdagstraat",
+    "latitude": "52.0881269",
+    "longitude": "4.3197741",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19010,
+    "name": "Madurodam",
+    "latitude": "52.0991058",
+    "longitude": "4.2995375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19228,
+    "name": "Circustheater",
+    "latitude": "52.1101989",
+    "longitude": "4.2845453",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19196,
+    "name": "Halte Prins Mauritslaan",
+    "latitude": "52.0956113",
+    "longitude": "4.2764168",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19183,
+    "name": "Ripperdastraat",
+    "latitude": "52.0927644",
+    "longitude": "4.2668149",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19152,
+    "name": "Groot Hertoginnelaan I",
+    "latitude": "52.085001",
+    "longitude": "4.2839811",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31918,
+    "name": "veenkade bis",
+    "latitude": "52.0797888",
+    "longitude": "4.3027213",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19272,
+    "name": "Hoge Zand",
+    "latitude": "52.0730023",
+    "longitude": "4.3060392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32256,
+    "name": "Weesperstraat",
+    "latitude": "52.0654677",
+    "longitude": "4.277656",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19229,
+    "name": "Biesieklette Palaceplein",
+    "latitude": "52.1137779",
+    "longitude": "4.2843917",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19103,
+    "name": "Valkenboskade III",
+    "latitude": "52.0742812",
+    "longitude": "4.270115",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28613,
+    "name": "Bezuidenhoutseweg",
+    "latitude": "52.084189",
+    "longitude": "4.3274808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19117,
+    "name": "Regentesseplein",
+    "latitude": "52.0769991",
+    "longitude": "4.2831016",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30187,
+    "name": "Honselersdijk bloemenveiling",
+    "latitude": "52.0600181",
+    "longitude": "4.3348662",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19137,
+    "name": "Van Speijkstraat",
+    "latitude": "52.0819367",
+    "longitude": "4.2877911",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27526,
+    "name": "Westduinpark Bos van poot 1 (point 11)",
+    "latitude": "52.0814877",
+    "longitude": "4.2506279",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18977,
+    "name": "Visbanken",
+    "latitude": "52.0770551",
+    "longitude": "4.3079689",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19602,
+    "name": "Stationweg I",
+    "latitude": "52.0730832",
+    "longitude": "4.319418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18948,
+    "name": "Malietoren I (Donkey in rack)",
+    "latitude": "52.0839911",
+    "longitude": "4.3263549",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18892,
+    "name": "WTC The Hague II",
+    "latitude": "52.0786305",
+    "longitude": "4.3360611",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19130,
+    "name": "Prins Hendrikstraat II",
+    "latitude": "52.0814804",
+    "longitude": "4.2921574",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20391,
+    "name": "Hague Market II (point 46)",
+    "latitude": "52.0671306",
+    "longitude": "4.2969823",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20269,
+    "name": "Stationweg II",
+    "latitude": "52.0719633",
+    "longitude": "4.3204094",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19119,
+    "name": "Weimarstraat",
+    "latitude": "52.0782841",
+    "longitude": "4.2858063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19447,
+    "name": "Albert H. Theo Mann",
+    "latitude": "52.1049004",
+    "longitude": "4.3241447",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31816,
+    "name": "Station Voorburg",
+    "latitude": "52.0668404",
+    "longitude": "4.3585863",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27503,
+    "name": "Stadhuis Escamp ( point 29)",
+    "latitude": "52.0452078",
+    "longitude": "4.2803402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18981,
+    "name": "Lange Voorhout I",
+    "latitude": "52.0816365",
+    "longitude": "4.3103206",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19153,
+    "name": "Anton Haenstraat",
+    "latitude": "52.0761655",
+    "longitude": "4.2706745",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19086,
+    "name": "Vleerstraat",
+    "latitude": "52.0770853",
+    "longitude": "4.3033975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27511,
+    "name": "HMC Bronovo ( point 56)",
+    "latitude": "52.102911",
+    "longitude": "4.3182925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19072,
+    "name": "Jacob van der Doesstraat II",
+    "latitude": "52.0841134",
+    "longitude": "4.2974077",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19038,
+    "name": "Parkstraat",
+    "latitude": "52.0831823",
+    "longitude": "4.3080534",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18878,
+    "name": "Scheldestraat",
+    "latitude": "52.0744381",
+    "longitude": "4.3239685",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19127,
+    "name": "De Perponcherstraat",
+    "latitude": "52.0783245",
+    "longitude": "4.2897573",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19097,
+    "name": "Fahrenheitstraat I",
+    "latitude": "52.069657",
+    "longitude": "4.2792467",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18999,
+    "name": "Spaces",
+    "latitude": "52.0879427",
+    "longitude": "4.3197895",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18991,
+    "name": "Van Hoytemastraat I",
+    "latitude": "52.0918961",
+    "longitude": "4.3252678",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20270,
+    "name": "Megastore DH",
+    "latitude": "52.0668041",
+    "longitude": "4.318849",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28200,
+    "name": "HMC Westeinde ",
+    "latitude": "52.0734718",
+    "longitude": "4.2994067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26629,
+    "name": "Westduinpark Bos van poot 3 (point 15)",
+    "latitude": "52.0865633",
+    "longitude": "4.2662137",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19108,
+    "name": "Halte Cartesiusstraat",
+    "latitude": "52.073192",
+    "longitude": "4.2818801",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19165,
+    "name": "Haga Ziekenhuis",
+    "latitude": "52.0812679",
+    "longitude": "4.2635562",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21800,
+    "name": "Moerweg",
+    "latitude": "52.0584755",
+    "longitude": "4.2939695",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19068,
+    "name": "Vredespaleis",
+    "latitude": "52.0867759",
+    "longitude": "4.2974597",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19812,
+    "name": "Speeltuin Freddy Hendrikplein",
+    "latitude": "52.0887408",
+    "longitude": "4.2758727",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19007,
+    "name": "Bachmanstraat",
+    "latitude": "52.0928183",
+    "longitude": "4.3119103",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19601,
+    "name": "Turfmarkt ",
+    "latitude": "52.0794551",
+    "longitude": "4.3215544",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18960,
+    "name": "Herengracht",
+    "latitude": "52.0806916",
+    "longitude": "4.3189241",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19197,
+    "name": "Frankenstraat",
+    "latitude": "52.0967416",
+    "longitude": "4.274283",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19184,
+    "name": "Douzastraat",
+    "latitude": "52.0940236",
+    "longitude": "4.2684872",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27522,
+    "name": "Kraiensteinlaan tram halte (point 31)",
+    "latitude": "52.0490652",
+    "longitude": "4.2371072",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22409,
+    "name": "Groothertogin",
+    "latitude": "52.0843788",
+    "longitude": "4.2929724",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19044,
+    "name": "Batjanstraat",
+    "latitude": "52.0944885",
+    "longitude": "4.3049663",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18958,
+    "name": "Muzenplein",
+    "latitude": "52.0796179",
+    "longitude": "4.319758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29740,
+    "name": "Titaan",
+    "latitude": "52.0659659",
+    "longitude": "4.3453375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18868,
+    "name": "Oranjelaan",
+    "latitude": "52.0716342",
+    "longitude": "4.3220415",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19112,
+    "name": "Valkenboslaan",
+    "latitude": "52.0739481",
+    "longitude": "4.2753289",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18966,
+    "name": "Schouwburgstraat",
+    "latitude": "52.0823839",
+    "longitude": "4.3161285",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19132,
+    "name": "Halte Elandstraat",
+    "latitude": "52.0803236",
+    "longitude": "4.2969738",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19138,
+    "name": "Obrechtstraat",
+    "latitude": "52.0836711",
+    "longitude": "4.2892641",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19070,
+    "name": "Anna Paulowna",
+    "latitude": "52.0847924",
+    "longitude": "4.2998039",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22638,
+    "name": "Malietoren II (Donkey in rack)",
+    "latitude": "52.0841365",
+    "longitude": "4.3266704",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27523,
+    "name": "Winkelcentrum Houtwijk (point 32)",
+    "latitude": "52.0543161",
+    "longitude": "4.2506627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27512,
+    "name": "Oostduinen (point 43)",
+    "latitude": "52.108608",
+    "longitude": "4.3232046",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19237,
+    "name": "Groningsestraat",
+    "latitude": "52.1128334",
+    "longitude": "4.2932587",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19142,
+    "name": "Valkenbosplein",
+    "latitude": "52.0782744",
+    "longitude": "4.2764698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27509,
+    "name": "AH Het Kleine Loo (point 42)",
+    "latitude": "52.0918943",
+    "longitude": "4.3560798",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20514,
+    "name": "Hollywood ",
+    "latitude": "52.0905872",
+    "longitude": "4.2742422",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19129,
+    "name": "Koningsplein I",
+    "latitude": "52.0797609",
+    "longitude": "4.2889328",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18945,
+    "name": "Bezuidenhoutseweg II",
+    "latitude": "52.0848467",
+    "longitude": "4.329004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19310,
+    "name": "Paviljoensgracht 139",
+    "latitude": "52.0729583",
+    "longitude": "4.313725",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19004,
+    "name": "Groenhovenstraat I",
+    "latitude": "52.0943835",
+    "longitude": "4.3130506",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19105,
+    "name": "Valkenboskade IV",
+    "latitude": "52.0752238",
+    "longitude": "4.2691887",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18954,
+    "name": "Paviljoensgracht",
+    "latitude": "52.0745081",
+    "longitude": "4.3108949",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27514,
+    "name": "Fietsstalling Kijkduin (point 4)",
+    "latitude": "52.0677939",
+    "longitude": "4.2229722",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19348,
+    "name": "Biesieklette Anna UNDER the bridge inside",
+    "latitude": "52.0800714",
+    "longitude": "4.3270418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19064,
+    "name": "Mauritskade I",
+    "latitude": "52.0841165",
+    "longitude": "4.3053649",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19101,
+    "name": "Valkenboskade II",
+    "latitude": "52.0717273",
+    "longitude": "4.2727135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19098,
+    "name": "Halte Valkenboslaan",
+    "latitude": "52.0690004",
+    "longitude": "4.2765784",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26605,
+    "name": "Celestial Vault (point 3)",
+    "latitude": "52.0635434",
+    "longitude": "4.2171504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19164,
+    "name": "Fahrenheitstraat V",
+    "latitude": "52.0802982",
+    "longitude": "4.2677801",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19022,
+    "name": "Denneweg I",
+    "latitude": "52.0862835",
+    "longitude": "4.3111202",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19074,
+    "name": "Elandstraat II",
+    "latitude": "52.0819843",
+    "longitude": "4.3001892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23218,
+    "name": "Spaarnestraat",
+    "latitude": "52.073641",
+    "longitude": "4.3272977",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19209,
+    "name": "Jan Kistenstraat",
+    "latitude": "52.1053801",
+    "longitude": "4.2744553",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19166,
+    "name": "Cornelis de Wittlaan",
+    "latitude": "52.0865062",
+    "longitude": "4.275297",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26598,
+    "name": "Hoogvliet Tesselplein (point 14)",
+    "latitude": "52.0899047",
+    "longitude": "4.2577497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27506,
+    "name": "Zwembad Zuiderpark (point 23)",
+    "latitude": "52.0532259",
+    "longitude": "4.2887593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20329,
+    "name": "Simonicini",
+    "latitude": "52.0807188",
+    "longitude": "4.3028725",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19122,
+    "name": "Waldeck Pyrmontkade",
+    "latitude": "52.0768755",
+    "longitude": "4.2946248",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19115,
+    "name": "Weimarstraat II",
+    "latitude": "52.0754445",
+    "longitude": "4.2803775",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19131,
+    "name": "Prins Hendrikstraat I",
+    "latitude": "52.0821399",
+    "longitude": "4.2939437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19024,
+    "name": "Frederikstraat II",
+    "latitude": "52.0882218",
+    "longitude": "4.3100457",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18950,
+    "name": "Dunne Bierkade",
+    "latitude": "52.0734656",
+    "longitude": "4.3157072",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18953,
+    "name": "Stille Veerkade I",
+    "latitude": "52.0744182",
+    "longitude": "4.3148488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19043,
+    "name": "Bankastraat I",
+    "latitude": "52.0916265",
+    "longitude": "4.304062",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19100,
+    "name": "Johnny Loco",
+    "latitude": "52.0714234",
+    "longitude": "4.2695323",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19066,
+    "name": "Oranjestraat",
+    "latitude": "52.0824277",
+    "longitude": "4.3060758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28765,
+    "name": "Voorburg",
+    "latitude": "52.0664892",
+    "longitude": "4.3584116",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27505,
+    "name": "AH Betje Wolffstraat (point 22)",
+    "latitude": "52.0489186",
+    "longitude": "4.2908166",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19151,
+    "name": "Halte Valeriusstraat",
+    "latitude": "52.0837978",
+    "longitude": "4.2790606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28766,
+    "name": "Leidschendam Voorburg",
+    "latitude": "52.0773209",
+    "longitude": "4.3823215",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18860,
+    "name": "Stamkartstraat",
+    "latitude": "52.0676108",
+    "longitude": "4.3216707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21846,
+    "name": "Driebergen ",
+    "latitude": "52.0569442",
+    "longitude": "4.2742563",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27518,
+    "name": "Haga Ziekenhuis (point 49)",
+    "latitude": "52.0564962",
+    "longitude": "4.2644383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19224,
+    "name": "Katwijkstraat",
+    "latitude": "52.1084087",
+    "longitude": "4.2818828",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19094,
+    "name": "Zusterstraat",
+    "latitude": "52.0736445",
+    "longitude": "4.296692",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18955,
+    "name": "Gedempte Burgwal",
+    "latitude": "52.0754489",
+    "longitude": "4.3122149",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29103,
+    "name": "Gemeente Leidschendam Voorburg",
+    "latitude": "52.0850919",
+    "longitude": "4.393399",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19125,
+    "name": "Da Costastraat",
+    "latitude": "52.0793751",
+    "longitude": "4.294557",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19065,
+    "name": "Scheveningseveer",
+    "latitude": "52.0839001",
+    "longitude": "4.3045794",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19171,
+    "name": "Statenplein I",
+    "latitude": "52.0916582",
+    "longitude": "4.2785158",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19223,
+    "name": "Harteveltstraat",
+    "latitude": "52.110807",
+    "longitude": "4.2786922",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19174,
+    "name": "Halte Boreelstraat",
+    "latitude": "52.0885333",
+    "longitude": "4.2718879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18973,
+    "name": "Prinsessengracht II",
+    "latitude": "52.0854396",
+    "longitude": "4.3153853",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19154,
+    "name": "Fahrenheitstraat III",
+    "latitude": "52.0775829",
+    "longitude": "4.2703942",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19149,
+    "name": "Reinkenstraat II",
+    "latitude": "52.0824837",
+    "longitude": "4.2829919",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19195,
+    "name": "Frederik Hendriklaan III",
+    "latitude": "52.0944414",
+    "longitude": "4.2773546",
+    "thumbnail_url": ""
   }
-}
+]

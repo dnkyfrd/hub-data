@@ -1,2673 +1,933 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0342598,
-          56.4566977
-        ]
-      },
-      "properties": {
-        "id": 19528,
-        "name": "Randers Regnskov Circle",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0338247,
-          56.479765
-        ]
-      },
-      "properties": {
-        "id": 27427,
-        "name": "Glarbjergvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0547969,
-          56.429333
-        ]
-      },
-      "properties": {
-        "id": 22291,
-        "name": "Aarhusvej/Stålvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0630781,
-          56.4636237
-        ]
-      },
-      "properties": {
-        "id": 20310,
-        "name": "Haveforeningen Venezuela",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0261291,
-          56.4807406
-        ]
-      },
-      "properties": {
-        "id": 24008,
-        "name": "Netto Mariagervej ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0361508,
-          56.4612772
-        ]
-      },
-      "properties": {
-        "id": 19504,
-        "name": "Rådhustorvet 7",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0386913,
-          56.4446312
-        ]
-      },
-      "properties": {
-        "id": 19644,
-        "name": "Bøsbrovej 47",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0550662,
-          56.4299285
-        ]
-      },
-      "properties": {
-        "id": 19662,
-        "name": "Århusvej/Paderup blvd",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0324434,
-          56.4649314
-        ]
-      },
-      "properties": {
-        "id": 19656,
-        "name": "Randers Musikskole",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0514539,
-          56.4675757
-        ]
-      },
-      "properties": {
-        "id": 19588,
-        "name": "Stadfeldtsvej 31",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0363073,
-          56.4594141
-        ]
-      },
-      "properties": {
-        "id": 19558,
-        "name": "Torvegade 19",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0557186,
-          56.4660879
-        ]
-      },
-      "properties": {
-        "id": 20982,
-        "name": "Udbyhøjvej 62",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0353067,
-          56.4607416
-        ]
-      },
-      "properties": {
-        "id": 19509,
-        "name": "Snaregade 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.065513,
-          56.4677443
-        ]
-      },
-      "properties": {
-        "id": 27743,
-        "name": "Toldbodgade 8",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0162673,
-          56.4713474
-        ]
-      },
-      "properties": {
-        "id": 30714,
-        "name": "Gunhildsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.041975,
-          56.4595444
-        ]
-      },
-      "properties": {
-        "id": 23206,
-        "name": "P-Huset City",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0390379,
-          56.4587035
-        ]
-      },
-      "properties": {
-        "id": 19524,
-        "name": "Randers Busterminalen 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0440104,
-          56.4833223
-        ]
-      },
-      "properties": {
-        "id": 23118,
-        "name": "Klatre Automaten",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0461659,
-          56.48479
-        ]
-      },
-      "properties": {
-        "id": 24201,
-        "name": "Mirabellevej 9",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0409655,
-          56.4774609
-        ]
-      },
-      "properties": {
-        "id": 24011,
-        "name": "Co-op 365 Hadsundvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0400243,
-          56.4782847
-        ]
-      },
-      "properties": {
-        "id": 24010,
-        "name": "Falkevej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.042305,
-          56.4503908
-        ]
-      },
-      "properties": {
-        "id": 19575,
-        "name": "Bøsbrovej 16",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.090006,
-          56.4491502
-        ]
-      },
-      "properties": {
-        "id": 22738,
-        "name": "Romalt Aktivitetshal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0407893,
-          56.4711583
-        ]
-      },
-      "properties": {
-        "id": 19582,
-        "name": "Spurvevej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0082489,
-          56.4735483
-        ]
-      },
-      "properties": {
-        "id": 32499,
-        "name": "Randers HF & VUC",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0448761,
-          56.4676204
-        ]
-      },
-      "properties": {
-        "id": 30459,
-        "name": "Schaldemosevej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0362733,
-          56.4679673
-        ]
-      },
-      "properties": {
-        "id": 19657,
-        "name": "Spindervej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0416139,
-          56.4573729
-        ]
-      },
-      "properties": {
-        "id": 19557,
-        "name": "Randers Street Food",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0033465,
-          56.4653428
-        ]
-      },
-      "properties": {
-        "id": 19806,
-        "name": "Viborgvejens Børnehave",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9781892,
-          56.4681563
-        ]
-      },
-      "properties": {
-        "id": 30118,
-        "name": "Kombardo Expressen Randers",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9616472,
-          56.4460012
-        ]
-      },
-      "properties": {
-        "id": 27971,
-        "name": "Randersvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0386772,
-          56.4641138
-        ]
-      },
-      "properties": {
-        "id": 27091,
-        "name": "Thorsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0292496,
-          56.473385
-        ]
-      },
-      "properties": {
-        "id": 24006,
-        "name": "Mariagervej 89",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9758833,
-          56.4633946
-        ]
-      },
-      "properties": {
-        "id": 26892,
-        "name": "Volkswagen Park Randers",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.067205,
-          56.431705
-        ]
-      },
-      "properties": {
-        "id": 32050,
-        "name": "bilka to go",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0359216,
-          56.4293843
-        ]
-      },
-      "properties": {
-        "id": 20619,
-        "name": "Randers S Pendlerparkering",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0378246,
-          56.4832198
-        ]
-      },
-      "properties": {
-        "id": 24009,
-        "name": "Mad Mad",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0092061,
-          56.4648342
-        ]
-      },
-      "properties": {
-        "id": 19658,
-        "name": "Randers water and wellness",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0376959,
-          56.4548316
-        ]
-      },
-      "properties": {
-        "id": 19569,
-        "name": "Støberigade ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0396767,
-          56.4581239
-        ]
-      },
-      "properties": {
-        "id": 19525,
-        "name": "Randers Busterminalen 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0498271,
-          56.4634219
-        ]
-      },
-      "properties": {
-        "id": 19576,
-        "name": "J. V. Martines Pl",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0456978,
-          56.4617246
-        ]
-      },
-      "properties": {
-        "id": 20432,
-        "name": "GAIA museum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0719086,
-          56.4311509
-        ]
-      },
-      "properties": {
-        "id": 24029,
-        "name": "Tradium 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0684403,
-          56.4311061
-        ]
-      },
-      "properties": {
-        "id": 19663,
-        "name": "Randers social and sundhedsskole",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0499522,
-          56.4387473
-        ]
-      },
-      "properties": {
-        "id": 19660,
-        "name": "Netto haraldsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0527487,
-          56.4670435
-        ]
-      },
-      "properties": {
-        "id": 19648,
-        "name": "Stadfeldtsvej 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0119959,
-          56.4655395
-        ]
-      },
-      "properties": {
-        "id": 19654,
-        "name": "Vester boulevard arena 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0350221,
-          56.4582965
-        ]
-      },
-      "properties": {
-        "id": 19531,
-        "name": "Laksetorvet 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0907817,
-          56.4739117
-        ]
-      },
-      "properties": {
-        "id": 22473,
-        "name": "Torup Dal",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0511548,
-          56.4726729
-        ]
-      },
-      "properties": {
-        "id": 28611,
-        "name": "Østervangsskolen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0435215,
-          56.4649171
-        ]
-      },
-      "properties": {
-        "id": 19580,
-        "name": "Gammel Hadsundvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0326837,
-          56.4574448
-        ]
-      },
-      "properties": {
-        "id": 19556,
-        "name": "Randers Regnskov Front",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0409785,
-          56.4584286
-        ]
-      },
-      "properties": {
-        "id": 19651,
-        "name": "Havnegade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0113793,
-          56.4743436
-        ]
-      },
-      "properties": {
-        "id": 24002,
-        "name": "ABC Lavpris",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9985416,
-          56.4803568
-        ]
-      },
-      "properties": {
-        "id": 24001,
-        "name": "Rema 1000 Hobrovej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9904407,
-          56.4803858
-        ]
-      },
-      "properties": {
-        "id": 23832,
-        "name": "Quickpoint Park",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0409681,
-          56.4605853
-        ]
-      },
-      "properties": {
-        "id": 19520,
-        "name": "Kulturhuset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9971918,
-          56.4663017
-        ]
-      },
-      "properties": {
-        "id": 20981,
-        "name": "Parkboulevarden",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0446652,
-          56.4484377
-        ]
-      },
-      "properties": {
-        "id": 32502,
-        "name": "Mølletoften 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0404682,
-          56.4860942
-        ]
-      },
-      "properties": {
-        "id": 28051,
-        "name": "Garnisonsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0438864,
-          56.4494074
-        ]
-      },
-      "properties": {
-        "id": 19584,
-        "name": "Mølletoften 10",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.063957,
-          56.4693748
-        ]
-      },
-      "properties": {
-        "id": 20524,
-        "name": "Scandiasporet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0368784,
-          56.4597777
-        ]
-      },
-      "properties": {
-        "id": 19506,
-        "name": "2 Sankt Mortens Gade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.071725,
-          56.4295992
-        ]
-      },
-      "properties": {
-        "id": 19665,
-        "name": "Dania",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0368216,
-          56.4574444
-        ]
-      },
-      "properties": {
-        "id": 19560,
-        "name": "Lille Rosengård",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.022199,
-          56.4467872
-        ]
-      },
-      "properties": {
-        "id": 32501,
-        "name": "Dronningborg dart klub/Skyttekreds",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.016265,
-          56.4160135
-        ]
-      },
-      "properties": {
-        "id": 30457,
-        "name": "Møllevangsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0706545,
-          56.4309103
-        ]
-      },
-      "properties": {
-        "id": 19664,
-        "name": "Tradium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.053026,
-          56.4626479
-        ]
-      },
-      "properties": {
-        "id": 19649,
-        "name": "Randers Sejlklubben",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0382226,
-          56.4523042
-        ]
-      },
-      "properties": {
-        "id": 27869,
-        "name": "Blegen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0338497,
-          56.4598707
-        ]
-      },
-      "properties": {
-        "id": 19562,
-        "name": "Kirkegade 15",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0295278,
-          56.460371
-        ]
-      },
-      "properties": {
-        "id": 19652,
-        "name": "Jernbanegade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0144612,
-          56.4638743
-        ]
-      },
-      "properties": {
-        "id": 21174,
-        "name": "Fyensgade 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.028973,
-          56.4740672
-        ]
-      },
-      "properties": {
-        "id": 24007,
-        "name": "Mariagervej 99",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0339602,
-          56.4614284
-        ]
-      },
-      "properties": {
-        "id": 19503,
-        "name": "Borgergade 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.024788,
-          56.4826244
-        ]
-      },
-      "properties": {
-        "id": 23920,
-        "name": "Mariagervej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0362981,
-          56.4587937
-        ]
-      },
-      "properties": {
-        "id": 19587,
-        "name": "Apotekerstræde 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0343079,
-          56.4607198
-        ]
-      },
-      "properties": {
-        "id": 19510,
-        "name": "St. Voldgade 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0355235,
-          56.4599519
-        ]
-      },
-      "properties": {
-        "id": 19508,
-        "name": " Kirketorvet",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0416065,
-          56.4530425
-        ]
-      },
-      "properties": {
-        "id": 19573,
-        "name": "GI. Stationvej parkering",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0338769,
-          56.4591426
-        ]
-      },
-      "properties": {
-        "id": 19530,
-        "name": "Vestergrave 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.041028,
-          56.4543486
-        ]
-      },
-      "properties": {
-        "id": 19527,
-        "name": "Århusvej 4",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0312606,
-          56.4719735
-        ]
-      },
-      "properties": {
-        "id": 24005,
-        "name": "Aldi Mariagervej ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0503032,
-          56.4442124
-        ]
-      },
-      "properties": {
-        "id": 19646,
-        "name": "Kristrup Stadion",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0302225,
-          56.4710801
-        ]
-      },
-      "properties": {
-        "id": 24004,
-        "name": "Co-op 365 Mariagervej ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0084677,
-          56.4793389
-        ]
-      },
-      "properties": {
-        "id": 30303,
-        "name": "Bambushaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0291418,
-          56.4663279
-        ]
-      },
-      "properties": {
-        "id": 19516,
-        "name": "Borgmestervangen 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0420919,
-          56.4686475
-        ]
-      },
-      "properties": {
-        "id": 22472,
-        "name": "Bakkegården",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0376619,
-          56.4631648
-        ]
-      },
-      "properties": {
-        "id": 19514,
-        "name": "Filmhuset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0640516,
-          56.4397595
-        ]
-      },
-      "properties": {
-        "id": 29819,
-        "name": "Tirsdalens Skole",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0091303,
-          56.4666443
-        ]
-      },
-      "properties": {
-        "id": 19659,
-        "name": "Cepheus Park",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0273948,
-          56.4678249
-        ]
-      },
-      "properties": {
-        "id": 19517,
-        "name": "Vester Alle 35",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0395028,
-          56.4611337
-        ]
-      },
-      "properties": {
-        "id": 19511,
-        "name": "Slotsgade 7",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0401565,
-          56.4603333
-        ]
-      },
-      "properties": {
-        "id": 19522,
-        "name": "Stemannsgade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.023177,
-          56.4618859
-        ]
-      },
-      "properties": {
-        "id": 19502,
-        "name": "Central Station ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0369821,
-          56.4579037
-        ]
-      },
-      "properties": {
-        "id": 19586,
-        "name": "Vestergrave 31",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0634021,
-          56.4746081
-        ]
-      },
-      "properties": {
-        "id": 30245,
-        "name": "Bjellerupparken",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0356278,
-          56.4618473
-        ]
-      },
-      "properties": {
-        "id": 19585,
-        "name": "Nørregade 7",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0106488,
-          56.4673733
-        ]
-      },
-      "properties": {
-        "id": 19655,
-        "name": "Vester boulevard arena 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0479627,
-          56.4698671
-        ]
-      },
-      "properties": {
-        "id": 19519,
-        "name": "Skovlyvej 9",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0149023,
-          56.4648476
-        ]
-      },
-      "properties": {
-        "id": 19589,
-        "name": "Arena Randers",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0419512,
-          56.4612348
-        ]
-      },
-      "properties": {
-        "id": 19521,
-        "name": "Stemannsgade 11",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0214531,
-          56.4620012
-        ]
-      },
-      "properties": {
-        "id": 19536,
-        "name": "Donkey Republic-DSB",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0348499,
-          56.4641787
-        ]
-      },
-      "properties": {
-        "id": 19574,
-        "name": "Fakta O 10",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.062973,
-          56.4463305
-        ]
-      },
-      "properties": {
-        "id": 30712,
-        "name": "Præstegårdsvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0449808,
-          56.455439
-        ]
-      },
-      "properties": {
-        "id": 19571,
-        "name": "Dansk Revision",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0309605,
-          56.4648162
-        ]
-      },
-      "properties": {
-        "id": 19796,
-        "name": "Netto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0297979,
-          56.4609845
-        ]
-      },
-      "properties": {
-        "id": 19535,
-        "name": "Vestergade 15",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0670915,
-          56.4724659
-        ]
-      },
-      "properties": {
-        "id": 28547,
-        "name": "Udbyhøjvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0225231,
-          56.4689545
-        ]
-      },
-      "properties": {
-        "id": 19572,
-        "name": "Nyvej 19",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0386386,
-          56.4527413
-        ]
-      },
-      "properties": {
-        "id": 28517,
-        "name": "Blegen 17",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0219855,
-          56.4675211
-        ]
-      },
-      "properties": {
-        "id": 24003,
-        "name": "Netto Hobrovej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0367039,
-          56.4604578
-        ]
-      },
-      "properties": {
-        "id": 19505,
-        "name": "Torvegade 3",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0301039,
-          56.4672044
-        ]
-      },
-      "properties": {
-        "id": 19515,
-        "name": "Teknisk Gymnasium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0739885,
-          56.4317898
-        ]
-      },
-      "properties": {
-        "id": 24030,
-        "name": "Paderup Gymnasium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0631581,
-          56.4303945
-        ]
-      },
-      "properties": {
-        "id": 19666,
-        "name": "Bilka 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0069902,
-          56.4777874
-        ]
-      },
-      "properties": {
-        "id": 30399,
-        "name": "Græshaven",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0393172,
-          56.4441818
-        ]
-      },
-      "properties": {
-        "id": 23665,
-        "name": "Vorup Blvd",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0548372,
-          56.4471889
-        ]
-      },
-      "properties": {
-        "id": 19578,
-        "name": "Valdemarsvej 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.039171,
-          56.4463278
-        ]
-      },
-      "properties": {
-        "id": 19581,
-        "name": "Bøsbrovej 35",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0230718,
-          56.4671581
-        ]
-      },
-      "properties": {
-        "id": 19570,
-        "name": "Skolevej 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0499207,
-          56.4704269
-        ]
-      },
-      "properties": {
-        "id": 19518,
-        "name": "16 Skovlyvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.065339,
-          56.4298843
-        ]
-      },
-      "properties": {
-        "id": 23923,
-        "name": "Bilka 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9528548,
-          56.4497585
-        ]
-      },
-      "properties": {
-        "id": 20442,
-        "name": "Randers City Camp",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0389269,
-          56.4604086
-        ]
-      },
-      "properties": {
-        "id": 19561,
-        "name": "Slotspladsen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0381189,
-          56.4623325
-        ]
-      },
-      "properties": {
-        "id": 19513,
-        "name": "Nordregrave Parking Lot",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0291788,
-          56.4612285
-        ]
-      },
-      "properties": {
-        "id": 19653,
-        "name": "sprogcenter vestergade",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0395476,
-          56.4469495
-        ]
-      },
-      "properties": {
-        "id": 19645,
-        "name": "Løgstørvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0307623,
-          56.4608148
-        ]
-      },
-      "properties": {
-        "id": 19568,
-        "name": "Vestertorv 4",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0552301,
-          56.4482031
-        ]
-      },
-      "properties": {
-        "id": 19647,
-        "name": "Coop 365 Kristrup",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0388191,
-          56.4616698
-        ]
-      },
-      "properties": {
-        "id": 19512,
-        "name": "Ved Volden",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0409484,
-          56.4448909
-        ]
-      },
-      "properties": {
-        "id": 23666,
-        "name": "Nørresundbyvej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.04876,
-          56.4422779
-        ]
-      },
-      "properties": {
-        "id": 19661,
-        "name": "Vorup kirkevej",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "randers",
-    "total_hubs": 133,
-    "generated_at": "2025-08-25T14:23:52.443Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/308/hubs/"
-    ]
+[
+  {
+    "id": 19528,
+    "name": "Randers Regnskov Circle",
+    "latitude": "56.4566977",
+    "longitude": "10.0342598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22291,
+    "name": "Aarhusvej/Stålvej",
+    "latitude": "56.429333",
+    "longitude": "10.0547969",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20310,
+    "name": "Haveforeningen Venezuela",
+    "latitude": "56.4636237",
+    "longitude": "10.0630781",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19504,
+    "name": "Rådhustorvet 7",
+    "latitude": "56.4612772",
+    "longitude": "10.0361508",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19644,
+    "name": "Bøsbrovej 47",
+    "latitude": "56.4446312",
+    "longitude": "10.0386913",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19662,
+    "name": "Århusvej/Paderup blvd",
+    "latitude": "56.4299285",
+    "longitude": "10.0550662",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19656,
+    "name": "Randers Musikskole",
+    "latitude": "56.4649314",
+    "longitude": "10.0324434",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19588,
+    "name": "Stadfeldtsvej 31",
+    "latitude": "56.4675757",
+    "longitude": "10.0514539",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19558,
+    "name": "Torvegade 19",
+    "latitude": "56.4594141",
+    "longitude": "10.0363073",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19509,
+    "name": "Snaregade 1",
+    "latitude": "56.4607416",
+    "longitude": "10.0353067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27743,
+    "name": "Toldbodgade 8",
+    "latitude": "56.4677443",
+    "longitude": "10.065513",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20982,
+    "name": "Udbyhøjvej 62",
+    "latitude": "56.4660879",
+    "longitude": "10.0557186",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30714,
+    "name": "Gunhildsvej",
+    "latitude": "56.4713474",
+    "longitude": "10.0162673",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23206,
+    "name": "P-Huset City",
+    "latitude": "56.4595444",
+    "longitude": "10.041975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23118,
+    "name": "Klatre Automaten",
+    "latitude": "56.4833223",
+    "longitude": "10.0440104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24201,
+    "name": "Mirabellevej 9",
+    "latitude": "56.48479",
+    "longitude": "10.0461659",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24011,
+    "name": "Co-op 365 Hadsundvej",
+    "latitude": "56.4774609",
+    "longitude": "10.0409655",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24010,
+    "name": "Falkevej",
+    "latitude": "56.4782847",
+    "longitude": "10.0400243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19575,
+    "name": "Bøsbrovej 16",
+    "latitude": "56.4503908",
+    "longitude": "10.042305",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22738,
+    "name": "Romalt Aktivitetshal",
+    "latitude": "56.4491502",
+    "longitude": "10.090006",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32499,
+    "name": "Randers HF & VUC",
+    "latitude": "56.4735483",
+    "longitude": "10.0082489",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30459,
+    "name": "Schaldemosevej",
+    "latitude": "56.4676204",
+    "longitude": "10.0448761",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19657,
+    "name": "Spindervej",
+    "latitude": "56.4679673",
+    "longitude": "10.0362733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19557,
+    "name": "Randers Street Food",
+    "latitude": "56.4573729",
+    "longitude": "10.0416139",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27427,
+    "name": "Glarbjergvej",
+    "latitude": "56.479765",
+    "longitude": "10.0338247",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19806,
+    "name": "Viborgvejens Børnehave",
+    "latitude": "56.4653428",
+    "longitude": "10.0033465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30118,
+    "name": "Kombardo Expressen Randers",
+    "latitude": "56.4681563",
+    "longitude": "9.9781892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27971,
+    "name": "Randersvej",
+    "latitude": "56.4460012",
+    "longitude": "9.9616472",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27091,
+    "name": "Thorsgade",
+    "latitude": "56.4641138",
+    "longitude": "10.0386772",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24006,
+    "name": "Mariagervej 89",
+    "latitude": "56.473385",
+    "longitude": "10.0292496",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32050,
+    "name": "bilka to go",
+    "latitude": "56.431705",
+    "longitude": "10.067205",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20619,
+    "name": "Randers S Pendlerparkering",
+    "latitude": "56.4293843",
+    "longitude": "10.0359216",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24009,
+    "name": "Mad Mad",
+    "latitude": "56.4832198",
+    "longitude": "10.0378246",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19658,
+    "name": "Randers water and wellness",
+    "latitude": "56.4648342",
+    "longitude": "10.0092061",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19569,
+    "name": "Støberigade ",
+    "latitude": "56.4548316",
+    "longitude": "10.0376959",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19576,
+    "name": "J. V. Martines Pl",
+    "latitude": "56.4634219",
+    "longitude": "10.0498271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20432,
+    "name": "GAIA museum",
+    "latitude": "56.4617246",
+    "longitude": "10.0456978",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24029,
+    "name": "Tradium 2",
+    "latitude": "56.4311509",
+    "longitude": "10.0719086",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19663,
+    "name": "Randers social and sundhedsskole",
+    "latitude": "56.4311061",
+    "longitude": "10.0684403",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19660,
+    "name": "Netto haraldsvej",
+    "latitude": "56.4387473",
+    "longitude": "10.0499522",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19648,
+    "name": "Stadfeldtsvej 1",
+    "latitude": "56.4670435",
+    "longitude": "10.0527487",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19654,
+    "name": "Vester boulevard arena 1",
+    "latitude": "56.4655395",
+    "longitude": "10.0119959",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19531,
+    "name": "Laksetorvet 1",
+    "latitude": "56.4582965",
+    "longitude": "10.0350221",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28611,
+    "name": "Østervangsskolen",
+    "latitude": "56.4726729",
+    "longitude": "10.0511548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19580,
+    "name": "Gammel Hadsundvej",
+    "latitude": "56.4649171",
+    "longitude": "10.0435215",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19556,
+    "name": "Randers Regnskov Front",
+    "latitude": "56.4574448",
+    "longitude": "10.0326837",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19651,
+    "name": "Havnegade",
+    "latitude": "56.4584286",
+    "longitude": "10.0409785",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24002,
+    "name": "ABC Lavpris",
+    "latitude": "56.4743436",
+    "longitude": "10.0113793",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24001,
+    "name": "Rema 1000 Hobrovej",
+    "latitude": "56.4803568",
+    "longitude": "9.9985416",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23832,
+    "name": "Quickpoint Park",
+    "latitude": "56.4803858",
+    "longitude": "9.9904407",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19520,
+    "name": "Kulturhuset",
+    "latitude": "56.4605853",
+    "longitude": "10.0409681",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20981,
+    "name": "Parkboulevarden",
+    "latitude": "56.4663017",
+    "longitude": "9.9971918",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32502,
+    "name": "Mølletoften 2",
+    "latitude": "56.4484377",
+    "longitude": "10.0446652",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28051,
+    "name": "Garnisonsvej",
+    "latitude": "56.4860942",
+    "longitude": "10.0404682",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19584,
+    "name": "Mølletoften 10",
+    "latitude": "56.4494074",
+    "longitude": "10.0438864",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20524,
+    "name": "Scandiasporet",
+    "latitude": "56.4693748",
+    "longitude": "10.063957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19506,
+    "name": "2 Sankt Mortens Gade",
+    "latitude": "56.4597777",
+    "longitude": "10.0368784",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19665,
+    "name": "Dania",
+    "latitude": "56.4295992",
+    "longitude": "10.071725",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19560,
+    "name": "Lille Rosengård",
+    "latitude": "56.4574444",
+    "longitude": "10.0368216",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32501,
+    "name": "Dronningborg dart klub/Skyttekreds",
+    "latitude": "56.4467872",
+    "longitude": "10.022199",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30457,
+    "name": "Møllevangsvej",
+    "latitude": "56.4160135",
+    "longitude": "10.016265",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19664,
+    "name": "Tradium",
+    "latitude": "56.4309103",
+    "longitude": "10.0706545",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19649,
+    "name": "Randers Sejlklubben",
+    "latitude": "56.4626479",
+    "longitude": "10.053026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27869,
+    "name": "Blegen",
+    "latitude": "56.4523042",
+    "longitude": "10.0382226",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19562,
+    "name": "Kirkegade 15",
+    "latitude": "56.4598707",
+    "longitude": "10.0338497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19652,
+    "name": "Jernbanegade",
+    "latitude": "56.460371",
+    "longitude": "10.0295278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21174,
+    "name": "Fyensgade 1",
+    "latitude": "56.4638743",
+    "longitude": "10.0144612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24007,
+    "name": "Mariagervej 99",
+    "latitude": "56.4740672",
+    "longitude": "10.028973",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19503,
+    "name": "Borgergade 1",
+    "latitude": "56.4614284",
+    "longitude": "10.0339602",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23920,
+    "name": "Mariagervej",
+    "latitude": "56.4826244",
+    "longitude": "10.024788",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19587,
+    "name": "Apotekerstræde 3",
+    "latitude": "56.4587937",
+    "longitude": "10.0362981",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19510,
+    "name": "St. Voldgade 1",
+    "latitude": "56.4607198",
+    "longitude": "10.0343079",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19508,
+    "name": " Kirketorvet",
+    "latitude": "56.4599519",
+    "longitude": "10.0355235",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19573,
+    "name": "GI. Stationvej parkering",
+    "latitude": "56.4530425",
+    "longitude": "10.0416065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19530,
+    "name": "Vestergrave 2",
+    "latitude": "56.4591426",
+    "longitude": "10.0338769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19527,
+    "name": "Århusvej 4",
+    "latitude": "56.4543486",
+    "longitude": "10.041028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24005,
+    "name": "Aldi Mariagervej ",
+    "latitude": "56.4719735",
+    "longitude": "10.0312606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19646,
+    "name": "Kristrup Stadion",
+    "latitude": "56.4442124",
+    "longitude": "10.0503032",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24004,
+    "name": "Co-op 365 Mariagervej ",
+    "latitude": "56.4710801",
+    "longitude": "10.0302225",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30303,
+    "name": "Bambushaven",
+    "latitude": "56.4793389",
+    "longitude": "10.0084677",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19516,
+    "name": "Borgmestervangen 2",
+    "latitude": "56.4663279",
+    "longitude": "10.0291418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22472,
+    "name": "Bakkegården",
+    "latitude": "56.4686475",
+    "longitude": "10.0420919",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19514,
+    "name": "Filmhuset",
+    "latitude": "56.4631648",
+    "longitude": "10.0376619",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29819,
+    "name": "Tirsdalens Skole",
+    "latitude": "56.4397595",
+    "longitude": "10.0640516",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19659,
+    "name": "Cepheus Park",
+    "latitude": "56.4666443",
+    "longitude": "10.0091303",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19517,
+    "name": "Vester Alle 35",
+    "latitude": "56.4678249",
+    "longitude": "10.0273948",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19511,
+    "name": "Slotsgade 7",
+    "latitude": "56.4611337",
+    "longitude": "10.0395028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19522,
+    "name": "Stemannsgade",
+    "latitude": "56.4603333",
+    "longitude": "10.0401565",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19586,
+    "name": "Vestergrave 31",
+    "latitude": "56.4579037",
+    "longitude": "10.0369821",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30245,
+    "name": "Bjellerupparken",
+    "latitude": "56.4746081",
+    "longitude": "10.0634021",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19585,
+    "name": "Nørregade 7",
+    "latitude": "56.4618473",
+    "longitude": "10.0356278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19655,
+    "name": "Vester boulevard arena 2",
+    "latitude": "56.4673733",
+    "longitude": "10.0106488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19519,
+    "name": "Skovlyvej 9",
+    "latitude": "56.4698671",
+    "longitude": "10.0479627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19589,
+    "name": "Arena Randers",
+    "latitude": "56.4648476",
+    "longitude": "10.0149023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19521,
+    "name": "Stemannsgade 11",
+    "latitude": "56.4612348",
+    "longitude": "10.0419512",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19574,
+    "name": "Fakta O 10",
+    "latitude": "56.4641787",
+    "longitude": "10.0348499",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30712,
+    "name": "Præstegårdsvej",
+    "latitude": "56.4463305",
+    "longitude": "10.062973",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19571,
+    "name": "Dansk Revision",
+    "latitude": "56.455439",
+    "longitude": "10.0449808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19796,
+    "name": "Netto",
+    "latitude": "56.4648162",
+    "longitude": "10.0309605",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19535,
+    "name": "Vestergade 15",
+    "latitude": "56.4609845",
+    "longitude": "10.0297979",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28547,
+    "name": "Udbyhøjvej",
+    "latitude": "56.4724659",
+    "longitude": "10.0670915",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19572,
+    "name": "Nyvej 19",
+    "latitude": "56.4689545",
+    "longitude": "10.0225231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28517,
+    "name": "Blegen 17",
+    "latitude": "56.4527413",
+    "longitude": "10.0386386",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19505,
+    "name": "Torvegade 3",
+    "latitude": "56.4604578",
+    "longitude": "10.0367039",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19515,
+    "name": "Teknisk Gymnasium",
+    "latitude": "56.4672044",
+    "longitude": "10.0301039",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24030,
+    "name": "Paderup Gymnasium",
+    "latitude": "56.4317898",
+    "longitude": "10.0739885",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19666,
+    "name": "Bilka 1",
+    "latitude": "56.4303945",
+    "longitude": "10.0631581",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30399,
+    "name": "Græshaven",
+    "latitude": "56.4777874",
+    "longitude": "10.0069902",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23665,
+    "name": "Vorup Blvd",
+    "latitude": "56.4441818",
+    "longitude": "10.0393172",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19581,
+    "name": "Bøsbrovej 35",
+    "latitude": "56.4463278",
+    "longitude": "10.039171",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19570,
+    "name": "Skolevej 1",
+    "latitude": "56.4671581",
+    "longitude": "10.0230718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19518,
+    "name": "16 Skovlyvej",
+    "latitude": "56.4704269",
+    "longitude": "10.0499207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23923,
+    "name": "Bilka 2",
+    "latitude": "56.4298843",
+    "longitude": "10.065339",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20442,
+    "name": "Randers City Camp",
+    "latitude": "56.4497585",
+    "longitude": "9.9528548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19561,
+    "name": "Slotspladsen",
+    "latitude": "56.4604086",
+    "longitude": "10.0389269",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19513,
+    "name": "Nordregrave Parking Lot",
+    "latitude": "56.4623325",
+    "longitude": "10.0381189",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19653,
+    "name": "sprogcenter vestergade",
+    "latitude": "56.4612285",
+    "longitude": "10.0291788",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19645,
+    "name": "Løgstørvej",
+    "latitude": "56.4469495",
+    "longitude": "10.0395476",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19568,
+    "name": "Vestertorv 4",
+    "latitude": "56.4608148",
+    "longitude": "10.0307623",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19647,
+    "name": "Coop 365 Kristrup",
+    "latitude": "56.4482031",
+    "longitude": "10.0552301",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19512,
+    "name": "Ved Volden",
+    "latitude": "56.4616698",
+    "longitude": "10.0388191",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23666,
+    "name": "Nørresundbyvej",
+    "latitude": "56.4448909",
+    "longitude": "10.0409484",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19661,
+    "name": "Vorup kirkevej",
+    "latitude": "56.4422779",
+    "longitude": "10.04876",
+    "thumbnail_url": ""
   }
-}
+]

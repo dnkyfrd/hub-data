@@ -1,5473 +1,1913 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2722278,
-          60.4578976
-        ]
-      },
-      "properties": {
-        "id": 22960,
-        "name": "Verkahovi ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.264509,
-          60.4463597
-        ]
-      },
-      "properties": {
-        "id": 23084,
-        "name": "Teatteri",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3062225,
-          60.4759684
-        ]
-      },
-      "properties": {
-        "id": 23818,
-        "name": "Hamaronkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2741024,
-          60.4546486
-        ]
-      },
-      "properties": {
-        "id": 23000,
-        "name": "Multavierunkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2866745,
-          60.4535403
-        ]
-      },
-      "properties": {
-        "id": 22478,
-        "name": "Kiinamyllynkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2829965,
-          60.4653384
-        ]
-      },
-      "properties": {
-        "id": 22497,
-        "name": "Liikuntakeskus Alfa",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2956887,
-          60.4495126
-        ]
-      },
-      "properties": {
-        "id": 22970,
-        "name": "Joukahaisenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2865381,
-          60.4738782
-        ]
-      },
-      "properties": {
-        "id": 26557,
-        "name": "Prisma Tampereentie ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2683004,
-          60.4517292
-        ]
-      },
-      "properties": {
-        "id": 26586,
-        "name": "Kauppatori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2808656,
-          60.4538963
-        ]
-      },
-      "properties": {
-        "id": 23041,
-        "name": "Porthaninkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2848181,
-          60.4781012
-        ]
-      },
-      "properties": {
-        "id": 23645,
-        "name": "Kärsämäentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2329593,
-          60.4726414
-        ]
-      },
-      "properties": {
-        "id": 26547,
-        "name": "Citymarket Länsikeskus",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2685796,
-          60.4573291
-        ]
-      },
-      "properties": {
-        "id": 22482,
-        "name": "Linja-autoasema",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2933979,
-          60.4516064
-        ]
-      },
-      "properties": {
-        "id": 22476,
-        "name": "Kätilöpolku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.340951,
-          60.442327
-        ]
-      },
-      "properties": {
-        "id": 31569,
-        "name": "Kotkankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2500941,
-          60.4481579
-        ]
-      },
-      "properties": {
-        "id": 22499,
-        "name": "Puistokatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2729404,
-          60.4510958
-        ]
-      },
-      "properties": {
-        "id": 22480,
-        "name": "Vähätori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2984177,
-          60.4430797
-        ]
-      },
-      "properties": {
-        "id": 23033,
-        "name": "Hippoksentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2610145,
-          60.4503029
-        ]
-      },
-      "properties": {
-        "id": 26542,
-        "name": "Kävelykatu länsi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2686566,
-          60.4546684
-        ]
-      },
-      "properties": {
-        "id": 22481,
-        "name": "Puutori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2744768,
-          60.4589127
-        ]
-      },
-      "properties": {
-        "id": 22987,
-        "name": "Lonttinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2680492,
-          60.4494001
-        ]
-      },
-      "properties": {
-        "id": 22507,
-        "name": "Kaupungintalo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.275022,
-          60.4354815
-        ]
-      },
-      "properties": {
-        "id": 23018,
-        "name": "Lylynpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2593708,
-          60.4463908
-        ]
-      },
-      "properties": {
-        "id": 22500,
-        "name": "Ursininkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2714027,
-          60.4495967
-        ]
-      },
-      "properties": {
-        "id": 22931,
-        "name": "Kirjastosilta",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2369527,
-          60.4490862
-        ]
-      },
-      "properties": {
-        "id": 27923,
-        "name": "Kirstinpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2325328,
-          60.4440464
-        ]
-      },
-      "properties": {
-        "id": 26573,
-        "name": "Nosturinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2176428,
-          60.4631376
-        ]
-      },
-      "properties": {
-        "id": 22910,
-        "name": "Suikkila",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2975243,
-          60.4550184
-        ]
-      },
-      "properties": {
-        "id": 22489,
-        "name": "T-sairaala",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2233336,
-          60.4350687
-        ]
-      },
-      "properties": {
-        "id": 22487,
-        "name": "Satama",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3235686,
-          60.4456908
-        ]
-      },
-      "properties": {
-        "id": 26552,
-        "name": "Prisma Itäharju",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2941139,
-          60.4503126
-        ]
-      },
-      "properties": {
-        "id": 22477,
-        "name": "Tykistökatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3066902,
-          60.4672166
-        ]
-      },
-      "properties": {
-        "id": 22897,
-        "name": "Kuohukuja",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2524026,
-          60.4442444
-        ]
-      },
-      "properties": {
-        "id": 22950,
-        "name": "Sairashuoneenpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2488758,
-          60.4407376
-        ]
-      },
-      "properties": {
-        "id": 26859,
-        "name": "Tervahovinkatu / Föri",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2843581,
-          60.4524047
-        ]
-      },
-      "properties": {
-        "id": 22975,
-        "name": "Kaivokatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3082867,
-          60.457509
-        ]
-      },
-      "properties": {
-        "id": 22967,
-        "name": "K-Supermarket Nummenpakka",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2256995,
-          60.4458938
-        ]
-      },
-      "properties": {
-        "id": 22966,
-        "name": "Patterinhaka",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2886919,
-          60.4471981
-        ]
-      },
-      "properties": {
-        "id": 23027,
-        "name": "Seikkailupuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.28813,
-          60.4625973
-        ]
-      },
-      "properties": {
-        "id": 22932,
-        "name": "Tyyssija",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2463791,
-          60.4544378
-        ]
-      },
-      "properties": {
-        "id": 22996,
-        "name": "ABC Koulukatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2660458,
-          60.4480771
-        ]
-      },
-      "properties": {
-        "id": 22484,
-        "name": "Kristiinankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2610209,
-          60.4889396
-        ]
-      },
-      "properties": {
-        "id": 23577,
-        "name": "Runosmäki center",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2862437,
-          60.4610987
-        ]
-      },
-      "properties": {
-        "id": 22475,
-        "name": "Ikituuri",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2435433,
-          60.4464851
-        ]
-      },
-      "properties": {
-        "id": 22488,
-        "name": "Port Arthur",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2645611,
-          60.4546088
-        ]
-      },
-      "properties": {
-        "id": 22986,
-        "name": "Tuureporinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2890536,
-          60.4515382
-        ]
-      },
-      "properties": {
-        "id": 22964,
-        "name": "Kurjenkaivonkenttä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2048852,
-          60.4268833
-        ]
-      },
-      "properties": {
-        "id": 32288,
-        "name": "Pikisaarentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2921065,
-          60.4491759
-        ]
-      },
-      "properties": {
-        "id": 23026,
-        "name": "Pharmacity",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2887898,
-          60.4602396
-        ]
-      },
-      "properties": {
-        "id": 27855,
-        "name": "Turun Caribia",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3215573,
-          60.4466734
-        ]
-      },
-      "properties": {
-        "id": 26733,
-        "name": "Prisma Itäharju 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3066694,
-          60.4652564
-        ]
-      },
-      "properties": {
-        "id": 28892,
-        "name": "Halistenkoski",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2443646,
-          60.4404481
-        ]
-      },
-      "properties": {
-        "id": 22939,
-        "name": "Auranhelmi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2696915,
-          60.413296
-        ]
-      },
-      "properties": {
-        "id": 28905,
-        "name": "Katariinanlaakso",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.270383,
-          60.4476969
-        ]
-      },
-      "properties": {
-        "id": 28894,
-        "name": "Mantun grilli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2482898,
-          60.4360532
-        ]
-      },
-      "properties": {
-        "id": 23010,
-        "name": "Daniel Hjortin katu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2761904,
-          60.4509304
-        ]
-      },
-      "properties": {
-        "id": 22976,
-        "name": "Suurtori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2339126,
-          60.4286732
-        ]
-      },
-      "properties": {
-        "id": 23034,
-        "name": "Täkkiaukio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2671618,
-          60.4690371
-        ]
-      },
-      "properties": {
-        "id": 23653,
-        "name": "Leipäläntie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2511,
-          60.4318602
-        ]
-      },
-      "properties": {
-        "id": 23013,
-        "name": "Laivamiehenpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3001617,
-          60.4404118
-        ]
-      },
-      "properties": {
-        "id": 23032,
-        "name": "Poppelitie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2925783,
-          60.4568295
-        ]
-      },
-      "properties": {
-        "id": 30653,
-        "name": "Kirkkotie YTHS",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.196899,
-          60.4250716
-        ]
-      },
-      "properties": {
-        "id": 27192,
-        "name": "Pikisaari",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.271318,
-          60.4570501
-        ]
-      },
-      "properties": {
-        "id": 22988,
-        "name": "Parkin kenttä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.184642,
-          60.4272298
-        ]
-      },
-      "properties": {
-        "id": 22956,
-        "name": "Ruissalon Kansanpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3300569,
-          60.4354088
-        ]
-      },
-      "properties": {
-        "id": 32266,
-        "name": "Fiskarsinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2475919,
-          60.4664294
-        ]
-      },
-      "properties": {
-        "id": 22994,
-        "name": "Paalupaikka",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2382966,
-          60.4354308
-        ]
-      },
-      "properties": {
-        "id": 31897,
-        "name": "Boxi Turku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.207086,
-          60.448443
-        ]
-      },
-      "properties": {
-        "id": 29672,
-        "name": "Vitkalankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2948835,
-          60.4296505
-        ]
-      },
-      "properties": {
-        "id": 22920,
-        "name": "Petreliuksenpolku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2563723,
-          60.4387745
-        ]
-      },
-      "properties": {
-        "id": 22504,
-        "name": "Stålarminkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2344187,
-          60.434088
-        ]
-      },
-      "properties": {
-        "id": 22927,
-        "name": "Turun Kutteri",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2363093,
-          60.4506271
-        ]
-      },
-      "properties": {
-        "id": 23099,
-        "name": "Nuutintie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2397104,
-          60.4298381
-        ]
-      },
-      "properties": {
-        "id": 23015,
-        "name": "S-Market Majakkaranta",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.297521,
-          60.4516432
-        ]
-      },
-      "properties": {
-        "id": 24039,
-        "name": "savitehtaankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2274966,
-          60.4396995
-        ]
-      },
-      "properties": {
-        "id": 26527,
-        "name": "Auriga",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.156061,
-          60.4527926
-        ]
-      },
-      "properties": {
-        "id": 26545,
-        "name": "S-market Pansio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2992561,
-          60.4463931
-        ]
-      },
-      "properties": {
-        "id": 22914,
-        "name": "Lemminkäisenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3380626,
-          60.4484111
-        ]
-      },
-      "properties": {
-        "id": 31359,
-        "name": "Pääskynlento",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2826643,
-          60.4477071
-        ]
-      },
-      "properties": {
-        "id": 27171,
-        "name": "Sport Sirkka",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.237924,
-          60.4420482
-        ]
-      },
-      "properties": {
-        "id": 22949,
-        "name": "Hansakatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3626756,
-          60.4432978
-        ]
-      },
-      "properties": {
-        "id": 22930,
-        "name": "Varissuo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3210477,
-          60.4375922
-        ]
-      },
-      "properties": {
-        "id": 31687,
-        "name": "K-Rauta Skanssi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2589086,
-          60.4557036
-        ]
-      },
-      "properties": {
-        "id": 23268,
-        "name": "Päärautatieasema",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1755304,
-          60.4333241
-        ]
-      },
-      "properties": {
-        "id": 22974,
-        "name": "Kasvitieteellinen puutarha",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2300739,
-          60.4513173
-        ]
-      },
-      "properties": {
-        "id": 22958,
-        "name": "Iso-Heikkilä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3296428,
-          60.4510918
-        ]
-      },
-      "properties": {
-        "id": 22968,
-        "name": "Jaanintie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2981711,
-          60.4609008
-        ]
-      },
-      "properties": {
-        "id": 22937,
-        "name": "Yo-kylä 82-84",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2593841,
-          60.4484071
-        ]
-      },
-      "properties": {
-        "id": 28893,
-        "name": "Käsityöläiskatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1784028,
-          60.4583309
-        ]
-      },
-      "properties": {
-        "id": 29232,
-        "name": "Turun AKK",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2923332,
-          60.4485093
-        ]
-      },
-      "properties": {
-        "id": 22951,
-        "name": "Lenkkipolku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2365246,
-          60.4571084
-        ]
-      },
-      "properties": {
-        "id": 23148,
-        "name": "Kaakelitehdas",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2400497,
-          60.442365
-        ]
-      },
-      "properties": {
-        "id": 27151,
-        "name": "Malminkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2714496,
-          60.452086
-        ]
-      },
-      "properties": {
-        "id": 26561,
-        "name": "Brahenkatu / Eerikinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2683215,
-          60.4857766
-        ]
-      },
-      "properties": {
-        "id": 23575,
-        "name": "Runosmäki Signalistinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2715937,
-          60.4510608
-        ]
-      },
-      "properties": {
-        "id": 23644,
-        "name": "Linnankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2431651,
-          60.4493627
-        ]
-      },
-      "properties": {
-        "id": 29166,
-        "name": "Ratakatu / Tukholmankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2741285,
-          60.4531612
-        ]
-      },
-      "properties": {
-        "id": 22501,
-        "name": "Lönnrothinpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2509975,
-          60.4560401
-        ]
-      },
-      "properties": {
-        "id": 31504,
-        "name": "Köydenpunojankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2932654,
-          60.4358893
-        ]
-      },
-      "properties": {
-        "id": 22494,
-        "name": "Kivikartiontie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2575887,
-          60.4512486
-        ]
-      },
-      "properties": {
-        "id": 22502,
-        "name": "Puutarhakatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.259611,
-          60.4415705
-        ]
-      },
-      "properties": {
-        "id": 23005,
-        "name": "Urheilupuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3024989,
-          60.4360939
-        ]
-      },
-      "properties": {
-        "id": 23660,
-        "name": "Rakuunatie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2617171,
-          60.4468271
-        ]
-      },
-      "properties": {
-        "id": 23652,
-        "name": "Marina",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2935802,
-          60.4304781
-        ]
-      },
-      "properties": {
-        "id": 22954,
-        "name": "Sale Petrelius",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2801175,
-          60.4564251
-        ]
-      },
-      "properties": {
-        "id": 22491,
-        "name": "Piispankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2966164,
-          60.4633348
-        ]
-      },
-      "properties": {
-        "id": 22938,
-        "name": "Yo-kylä 15-16",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2603312,
-          60.4779378
-        ]
-      },
-      "properties": {
-        "id": 22905,
-        "name": "Impivaaran uimahalli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.0951554,
-          60.422424
-        ]
-      },
-      "properties": {
-        "id": 22957,
-        "name": "Ruissalon Saaronniemi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2617502,
-          60.4490394
-        ]
-      },
-      "properties": {
-        "id": 23097,
-        "name": "Humalistonkatu 1",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2540359,
-          60.4481207
-        ]
-      },
-      "properties": {
-        "id": 22984,
-        "name": "Yliopistonkatu länsi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2688482,
-          60.4478206
-        ]
-      },
-      "properties": {
-        "id": 22505,
-        "name": "Itäinen Rantakatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.307733,
-          60.4756893
-        ]
-      },
-      "properties": {
-        "id": 22902,
-        "name": "Vuorensyrjänkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3331385,
-          60.4620071
-        ]
-      },
-      "properties": {
-        "id": 32100,
-        "name": "Kuralan kylämäki",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2940543,
-          60.4642606
-        ]
-      },
-      "properties": {
-        "id": 22934,
-        "name": "Yo-kylä 24-28",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2355456,
-          60.4116386
-        ]
-      },
-      "properties": {
-        "id": 23581,
-        "name": "Hirvensalo Moikoinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3603542,
-          60.4465318
-        ]
-      },
-      "properties": {
-        "id": 23087,
-        "name": "Krööpilänkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3003524,
-          60.4461602
-        ]
-      },
-      "properties": {
-        "id": 23042,
-        "name": "Kupittaan palloiluhalli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2759765,
-          60.4496769
-        ]
-      },
-      "properties": {
-        "id": 30385,
-        "name": "Kåren",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2873736,
-          60.4538963
-        ]
-      },
-      "properties": {
-        "id": 23634,
-        "name": "Assari",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2865716,
-          60.4217771
-        ]
-      },
-      "properties": {
-        "id": 27117,
-        "name": "Lauklähteenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2268056,
-          60.4739496
-        ]
-      },
-      "properties": {
-        "id": 26548,
-        "name": "Prisma Länsikeskus",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2671211,
-          60.4526712
-        ]
-      },
-      "properties": {
-        "id": 22997,
-        "name": "Kauppiaskatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3013666,
-          60.4624938
-        ]
-      },
-      "properties": {
-        "id": 22936,
-        "name": "Yo-kylä 62-64",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3467429,
-          60.4336901
-        ]
-      },
-      "properties": {
-        "id": 22918,
-        "name": "Kirjurinaukio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2641104,
-          60.4496953
-        ]
-      },
-      "properties": {
-        "id": 22989,
-        "name": "Koulu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3223871,
-          60.4588339
-        ]
-      },
-      "properties": {
-        "id": 27604,
-        "name": "K-market Hanski",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2791829,
-          60.4510956
-        ]
-      },
-      "properties": {
-        "id": 22490,
-        "name": "Akatemiatalo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2698839,
-          60.4533114
-        ]
-      },
-      "properties": {
-        "id": 22495,
-        "name": "Brahenkatu / Yliopistonkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2517094,
-          60.4505506
-        ]
-      },
-      "properties": {
-        "id": 22977,
-        "name": "Rauhankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3239934,
-          60.4455813
-        ]
-      },
-      "properties": {
-        "id": 30544,
-        "name": "eCargo bikes: Prisma Itäharju",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2677286,
-          60.4376844
-        ]
-      },
-      "properties": {
-        "id": 23006,
-        "name": "Toivolankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3220651,
-          60.4295521
-        ]
-      },
-      "properties": {
-        "id": 28198,
-        "name": "eCargo bikes: Skanssi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2024341,
-          60.4375713
-        ]
-      },
-      "properties": {
-        "id": 22955,
-        "name": "Ruissalon telakka",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2715508,
-          60.4426967
-        ]
-      },
-      "properties": {
-        "id": 23659,
-        "name": "Sepänkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2453578,
-          60.4364546
-        ]
-      },
-      "properties": {
-        "id": 22928,
-        "name": "Kaasukello",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2787,
-          60.4629101
-        ]
-      },
-      "properties": {
-        "id": 22903,
-        "name": "Ramstedtinkatu ",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3195309,
-          60.4300413
-        ]
-      },
-      "properties": {
-        "id": 23088,
-        "name": "Skanssinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.236256,
-          60.4388333
-        ]
-      },
-      "properties": {
-        "id": 23650,
-        "name": "Linnanmalmi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3287966,
-          60.4311445
-        ]
-      },
-      "properties": {
-        "id": 30175,
-        "name": "Biolinja",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3120653,
-          60.4672992
-        ]
-      },
-      "properties": {
-        "id": 28951,
-        "name": "Kreulankuja",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.197815,
-          60.4897837
-        ]
-      },
-      "properties": {
-        "id": 23264,
-        "name": "Mylly Länsipääty",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2655089,
-          60.459961
-        ]
-      },
-      "properties": {
-        "id": 22496,
-        "name": "Raunistulanportti",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2533649,
-          60.4532626
-        ]
-      },
-      "properties": {
-        "id": 22995,
-        "name": "Rautatientori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2705702,
-          60.4503024
-        ]
-      },
-      "properties": {
-        "id": 26665,
-        "name": "Pääkirjasto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2960616,
-          60.4508082
-        ]
-      },
-      "properties": {
-        "id": 26574,
-        "name": "Kupittaa",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2947026,
-          60.4494337
-        ]
-      },
-      "properties": {
-        "id": 22971,
-        "name": "Turun AMK",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2460303,
-          60.4383518
-        ]
-      },
-      "properties": {
-        "id": 27747,
-        "name": "Sale Laivurinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3007598,
-          60.4179283
-        ]
-      },
-      "properties": {
-        "id": 26850,
-        "name": "Koivula",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2383185,
-          60.4281772
-        ]
-      },
-      "properties": {
-        "id": 23016,
-        "name": "Klyyvari",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2962501,
-          60.4473198
-        ]
-      },
-      "properties": {
-        "id": 28897,
-        "name": "Kupittaan pesäpallostadion",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2887619,
-          60.4867811
-        ]
-      },
-      "properties": {
-        "id": 30101,
-        "name": "Leaf Areena",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3460619,
-          60.4288866
-        ]
-      },
-      "properties": {
-        "id": 29165,
-        "name": "Lausteen frisbeegolfpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2251792,
-          60.4613253
-        ]
-      },
-      "properties": {
-        "id": 26894,
-        "name": "Bratislavankatu / Isotalonkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.253913,
-          60.4433794
-        ]
-      },
-      "properties": {
-        "id": 22485,
-        "name": "Vesibussi",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2629893,
-          60.4509919
-        ]
-      },
-      "properties": {
-        "id": 26543,
-        "name": "Kävelykatu Itä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2926972,
-          60.4580167
-        ]
-      },
-      "properties": {
-        "id": 22492,
-        "name": "Kirkkotie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2310881,
-          60.3979984
-        ]
-      },
-      "properties": {
-        "id": 26855,
-        "name": "Friskala",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2755189,
-          60.4402143
-        ]
-      },
-      "properties": {
-        "id": 23019,
-        "name": "Kaupunginsairaala",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2612626,
-          60.4391034
-        ]
-      },
-      "properties": {
-        "id": 22929,
-        "name": "Jarkko Laineen puistikko",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2884639,
-          60.4285731
-        ]
-      },
-      "properties": {
-        "id": 29164,
-        "name": "Luolavuoren frisbeegolf",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2682669,
-          60.4517639
-        ]
-      },
-      "properties": {
-        "id": 28057,
-        "name": "eCargo bikes: Kauppatori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2517622,
-          60.4372612
-        ]
-      },
-      "properties": {
-        "id": 23009,
-        "name": "Nokiankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2757176,
-          60.4521354
-        ]
-      },
-      "properties": {
-        "id": 26974,
-        "name": "Tuomiokirkkotori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2902452,
-          60.4637327
-        ]
-      },
-      "properties": {
-        "id": 22933,
-        "name": "Yo-kylä 13",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3091826,
-          60.4505537
-        ]
-      },
-      "properties": {
-        "id": 27845,
-        "name": "Kalevanpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2856822,
-          60.4568824
-        ]
-      },
-      "properties": {
-        "id": 22953,
-        "name": "Calonia",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2497267,
-          60.4466009
-        ]
-      },
-      "properties": {
-        "id": 22983,
-        "name": "Mikonkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2932631,
-          60.4462399
-        ]
-      },
-      "properties": {
-        "id": 22962,
-        "name": "Kupittaan urheiluhalli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2822777,
-          60.4520827
-        ]
-      },
-      "properties": {
-        "id": 23023,
-        "name": "Portti",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2947205,
-          60.4505805
-        ]
-      },
-      "properties": {
-        "id": 27260,
-        "name": "eCargo bikes: Kupittaa",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2658579,
-          60.440779
-        ]
-      },
-      "properties": {
-        "id": 23004,
-        "name": "Sale Martti",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2981758,
-          60.4641088
-        ]
-      },
-      "properties": {
-        "id": 22935,
-        "name": "Yo-kylä 44-48",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.23659,
-          60.4443001
-        ]
-      },
-      "properties": {
-        "id": 22981,
-        "name": "Ratavahdinrinne",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.30274,
-          60.4246343
-        ]
-      },
-      "properties": {
-        "id": 31731,
-        "name": "Peltola",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2304077,
-          60.4359031
-        ]
-      },
-      "properties": {
-        "id": 22498,
-        "name": "Turun linna",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2981196,
-          60.4600009
-        ]
-      },
-      "properties": {
-        "id": 22896,
-        "name": "Q-talo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2474311,
-          60.4415606
-        ]
-      },
-      "properties": {
-        "id": 27074,
-        "name": "eCargo bikes: Föri",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2884669,
-          60.4426254
-        ]
-      },
-      "properties": {
-        "id": 22493,
-        "name": "Rajupaja Areena",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2417827,
-          60.4389488
-        ]
-      },
-      "properties": {
-        "id": 22948,
-        "name": "Varvintori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2811926,
-          60.4529637
-        ]
-      },
-      "properties": {
-        "id": 22940,
-        "name": "Koskenniemenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2598486,
-          60.4570242
-        ]
-      },
-      "properties": {
-        "id": 23267,
-        "name": "Logomo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3013425,
-          60.4558148
-        ]
-      },
-      "properties": {
-        "id": 26807,
-        "name": "Tavasti",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2570542,
-          60.4524043
-        ]
-      },
-      "properties": {
-        "id": 23113,
-        "name": "Humaliston apteekki",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3053856,
-          60.4555104
-        ]
-      },
-      "properties": {
-        "id": 27844,
-        "name": "T-talo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2868648,
-          60.4488564
-        ]
-      },
-      "properties": {
-        "id": 23024,
-        "name": "Kerttuli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2607054,
-          60.4147645
-        ]
-      },
-      "properties": {
-        "id": 22923,
-        "name": "Ispoisten uimaranta",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2840595,
-          60.4464348
-        ]
-      },
-      "properties": {
-        "id": 22479,
-        "name": "Uudenmaantulli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2632488,
-          60.4212612
-        ]
-      },
-      "properties": {
-        "id": 22963,
-        "name": "Uittamo",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2683829,
-          60.4428549
-        ]
-      },
-      "properties": {
-        "id": 28865,
-        "name": "Neitsytpolku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2475143,
-          60.441643
-        ]
-      },
-      "properties": {
-        "id": 22486,
-        "name": "Föri",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2842143,
-          60.4224321
-        ]
-      },
-      "properties": {
-        "id": 22922,
-        "name": "Ilpoinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2881082,
-          60.4595887
-        ]
-      },
-      "properties": {
-        "id": 23663,
-        "name": "Uraputki",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2437063,
-          60.4380762
-        ]
-      },
-      "properties": {
-        "id": 22947,
-        "name": "Purserinpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2832417,
-          60.4542162
-        ]
-      },
-      "properties": {
-        "id": 23039,
-        "name": "Aurumin pyöräparkki",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.233405,
-          60.4858648
-        ]
-      },
-      "properties": {
-        "id": 22907,
-        "name": "Rautalankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2830877,
-          60.475316
-        ]
-      },
-      "properties": {
-        "id": 26896,
-        "name": "Trampolin park",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2634874,
-          60.4627935
-        ]
-      },
-      "properties": {
-        "id": 22913,
-        "name": "Rauninaukio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3077165,
-          60.468963
-        ]
-      },
-      "properties": {
-        "id": 22898,
-        "name": "Haliskylä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2644157,
-          60.4181145
-        ]
-      },
-      "properties": {
-        "id": 22924,
-        "name": "Rustholli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2858212,
-          60.4516108
-        ]
-      },
-      "properties": {
-        "id": 23025,
-        "name": "Vähä Hämeenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2369289,
-          60.4369299
-        ]
-      },
-      "properties": {
-        "id": 22973,
-        "name": "Forum Marinum",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2657382,
-          60.4501595
-        ]
-      },
-      "properties": {
-        "id": 28896,
-        "name": "Kauppahalli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2455018,
-          60.4460426
-        ]
-      },
-      "properties": {
-        "id": 22979,
-        "name": "Sofiankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2967089,
-          60.448696
-        ]
-      },
-      "properties": {
-        "id": 22972,
-        "name": "Turun AMK 2",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.272836,
-          60.4832271
-        ]
-      },
-      "properties": {
-        "id": 23574,
-        "name": "Runosmäki  Pohjoiskaari",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3057786,
-          60.470072
-        ]
-      },
-      "properties": {
-        "id": 26556,
-        "name": "S-market Halinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2861068,
-          60.4580762
-        ]
-      },
-      "properties": {
-        "id": 22952,
-        "name": "Educarium",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2817708,
-          60.4546991
-        ]
-      },
-      "properties": {
-        "id": 23040,
-        "name": "Henrikinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3249641,
-          60.4705085
-        ]
-      },
-      "properties": {
-        "id": 22899,
-        "name": "Paavinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2466531,
-          60.4814733
-        ]
-      },
-      "properties": {
-        "id": 23655,
-        "name": "Eskonkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2821704,
-          60.4559366
-        ]
-      },
-      "properties": {
-        "id": 27900,
-        "name": "ASA-Huset",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.229911,
-          60.4182092
-        ]
-      },
-      "properties": {
-        "id": 23579,
-        "name": "Hirvensalo Kakskerrantie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3080625,
-          60.4135608
-        ]
-      },
-      "properties": {
-        "id": 26848,
-        "name": "Auringonnousu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2715258,
-          60.4404091
-        ]
-      },
-      "properties": {
-        "id": 22946,
-        "name": "Puropellonpolku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1902997,
-          60.4458755
-        ]
-      },
-      "properties": {
-        "id": 29225,
-        "name": "Pansiontie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.26184,
-          60.4525341
-        ]
-      },
-      "properties": {
-        "id": 22506,
-        "name": "Puolalankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2886024,
-          60.4480014
-        ]
-      },
-      "properties": {
-        "id": 23038,
-        "name": "Sale Kupittaanpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2590096,
-          60.4354174
-        ]
-      },
-      "properties": {
-        "id": 23007,
-        "name": "Vähä-Heikkilä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2685931,
-          60.4572304
-        ]
-      },
-      "properties": {
-        "id": 26839,
-        "name": "eCargo bikes: Linja-autoasema",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2884917,
-          60.4549145
-        ]
-      },
-      "properties": {
-        "id": 30321,
-        "name": "Kauppakorkeakoulu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2465707,
-          60.4608463
-        ]
-      },
-      "properties": {
-        "id": 29135,
-        "name": "Kylänalustanpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2624569,
-          60.4506232
-        ]
-      },
-      "properties": {
-        "id": 22483,
-        "name": "Kävelykatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2857206,
-          60.4317012
-        ]
-      },
-      "properties": {
-        "id": 22921,
-        "name": "Luolavuori",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2460223,
-          60.4307775
-        ]
-      },
-      "properties": {
-        "id": 30320,
-        "name": "Boost",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2734523,
-          60.4457232
-        ]
-      },
-      "properties": {
-        "id": 23002,
-        "name": "Sale Kaskenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.213915,
-          60.4718918
-        ]
-      },
-      "properties": {
-        "id": 22944,
-        "name": "Mälikkälä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2392436,
-          60.4468478
-        ]
-      },
-      "properties": {
-        "id": 22980,
-        "name": "Annanpuisto",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2037895,
-          60.4912293
-        ]
-      },
-      "properties": {
-        "id": 23263,
-        "name": "Mylly Prisman pääty",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3565227,
-          60.4507284
-        ]
-      },
-      "properties": {
-        "id": 22916,
-        "name": "Talpiankuja",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3150473,
-          60.471183
-        ]
-      },
-      "properties": {
-        "id": 29697,
-        "name": "Halisten koulu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2839467,
-          60.4395461
-        ]
-      },
-      "properties": {
-        "id": 23020,
-        "name": "Kurjenmäenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2661114,
-          60.4319644
-        ]
-      },
-      "properties": {
-        "id": 23017,
-        "name": "Ispoisten puistotie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.27537,
-          60.4559797
-        ]
-      },
-      "properties": {
-        "id": 22961,
-        "name": "Nahkurinpiha",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2872011,
-          60.4377613
-        ]
-      },
-      "properties": {
-        "id": 23029,
-        "name": "Kivikartiontie B",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3352674,
-          60.4515481
-        ]
-      },
-      "properties": {
-        "id": 28033,
-        "name": "Pääskysilta",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2765141,
-          60.443378
-        ]
-      },
-      "properties": {
-        "id": 23022,
-        "name": "Kupittaankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2296303,
-          60.4500129
-        ]
-      },
-      "properties": {
-        "id": 23132,
-        "name": "Otavanaukio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2515509,
-          60.4386861
-        ]
-      },
-      "properties": {
-        "id": 23654,
-        "name": "Tapulikatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2565895,
-          60.441012
-        ]
-      },
-      "properties": {
-        "id": 24038,
-        "name": "Asesepänkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2594514,
-          60.4374266
-        ]
-      },
-      "properties": {
-        "id": 23035,
-        "name": "Askaistentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.279277,
-          60.4422129
-        ]
-      },
-      "properties": {
-        "id": 23021,
-        "name": "Kaskentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2584685,
-          60.4494107
-        ]
-      },
-      "properties": {
-        "id": 23001,
-        "name": "Yliopistonkatu 30",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2361444,
-          60.470405
-        ]
-      },
-      "properties": {
-        "id": 22503,
-        "name": "Nuijamaankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3096339,
-          60.4453909
-        ]
-      },
-      "properties": {
-        "id": 31358,
-        "name": "Sammontakojankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3050745,
-          60.4739872
-        ]
-      },
-      "properties": {
-        "id": 22992,
-        "name": "Jarkko Haavion polku",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2226023,
-          60.4682967
-        ]
-      },
-      "properties": {
-        "id": 22911,
-        "name": "Kustavintie / Kaitaistentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3605353,
-          60.4426831
-        ]
-      },
-      "properties": {
-        "id": 23030,
-        "name": "Varissuon terveysasema",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2411061,
-          60.4336438
-        ]
-      },
-      "properties": {
-        "id": 23014,
-        "name": "Unioninkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2217722,
-          60.4718548
-        ]
-      },
-      "properties": {
-        "id": 22912,
-        "name": "Pryssinkuja",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2212136,
-          60.4917264
-        ]
-      },
-      "properties": {
-        "id": 22990,
-        "name": "Kuninkoja center",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1983286,
-          60.4595566
-        ]
-      },
-      "properties": {
-        "id": 28866,
-        "name": "Jyrkkälä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3362253,
-          60.4308268
-        ]
-      },
-      "properties": {
-        "id": 22919,
-        "name": "Karhunaukio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2437293,
-          60.4895691
-        ]
-      },
-      "properties": {
-        "id": 28933,
-        "name": "Laureuksenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2463542,
-          60.4489608
-        ]
-      },
-      "properties": {
-        "id": 22978,
-        "name": "Sairashuoneenkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2358504,
-          60.477176
-        ]
-      },
-      "properties": {
-        "id": 22991,
-        "name": "Teräsrautela",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2376249,
-          60.4858236
-        ]
-      },
-      "properties": {
-        "id": 22908,
-        "name": "Haartmaninkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2877432,
-          60.472543
-        ]
-      },
-      "properties": {
-        "id": 23664,
-        "name": "Vanha Tampereentie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2648735,
-          60.4450647
-        ]
-      },
-      "properties": {
-        "id": 23003,
-        "name": "Samppis",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1606641,
-          60.45228
-        ]
-      },
-      "properties": {
-        "id": 26544,
-        "name": "K-Market Perno",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1675412,
-          60.4496069
-        ]
-      },
-      "properties": {
-        "id": 26546,
-        "name": "Pansio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2524177,
-          60.4779948
-        ]
-      },
-      "properties": {
-        "id": 29082,
-        "name": "Impivaaran jalkapallohalli",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2861461,
-          60.460982
-        ]
-      },
-      "properties": {
-        "id": 26840,
-        "name": "eCargo bikes: Yo-kylä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.221586,
-          60.4088583
-        ]
-      },
-      "properties": {
-        "id": 23582,
-        "name": "Kukolantie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2652346,
-          60.4385695
-        ]
-      },
-      "properties": {
-        "id": 23036,
-        "name": "Mäntymäenaukio",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2496104,
-          60.4733676
-        ]
-      },
-      "properties": {
-        "id": 23891,
-        "name": "Hepokulta",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2224925,
-          60.3944436
-        ]
-      },
-      "properties": {
-        "id": 23583,
-        "name": "Haarla",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3545212,
-          60.4332935
-        ]
-      },
-      "properties": {
-        "id": 22917,
-        "name": "Raadinkatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2686891,
-          60.427216
-        ]
-      },
-      "properties": {
-        "id": 22925,
-        "name": "Ispoinen",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.280856,
-          60.4312212
-        ]
-      },
-      "properties": {
-        "id": 23648,
-        "name": "Luolavuoren tenniskenttä",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2402485,
-          60.4442086
-        ]
-      },
-      "properties": {
-        "id": 23585,
-        "name": "Annankatu",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.269896,
-          60.4634574
-        ]
-      },
-      "properties": {
-        "id": 22999,
-        "name": "Oskarinkuja",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.2730749,
-          60.4712725
-        ]
-      },
-      "properties": {
-        "id": 22904,
-        "name": "Mullintie",
-        "address": "",
-        "city": "",
-        "capacity": 0,
-        "available_bikes": 0,
-        "hub_type": "standard",
-        "status": "active"
-      }
-    }
-  ],
-  "metadata": {
-    "city": "turku",
-    "total_hubs": 273,
-    "generated_at": "2025-08-25T14:23:53.776Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/cities/345/hubs/"
-    ]
+[
+  {
+    "id": 26573,
+    "name": "Nosturinkatu",
+    "latitude": "60.4440464",
+    "longitude": "22.2325328",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30653,
+    "name": "Kirkkotie YTHS",
+    "latitude": "60.4568295",
+    "longitude": "22.2925783",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23818,
+    "name": "Hamaronkatu",
+    "latitude": "60.4759684",
+    "longitude": "22.3062225",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22897,
+    "name": "Kuohukuja",
+    "latitude": "60.4672166",
+    "longitude": "22.3066902",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22499,
+    "name": "Puistokatu",
+    "latitude": "60.4481579",
+    "longitude": "22.2500941",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22970,
+    "name": "Joukahaisenkatu",
+    "latitude": "60.4495126",
+    "longitude": "22.2956887",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26859,
+    "name": "Tervahovinkatu / Föri",
+    "latitude": "60.4407376",
+    "longitude": "22.2488758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22507,
+    "name": "Kaupungintalo",
+    "latitude": "60.4494001",
+    "longitude": "22.2680492",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23027,
+    "name": "Seikkailupuisto",
+    "latitude": "60.4471981",
+    "longitude": "22.2886919",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22932,
+    "name": "Tyyssija",
+    "latitude": "60.4625973",
+    "longitude": "22.28813",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31504,
+    "name": "Köydenpunojankatu",
+    "latitude": "60.4560401",
+    "longitude": "22.2509975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23645,
+    "name": "Kärsämäentie",
+    "latitude": "60.4781012",
+    "longitude": "22.2848181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22497,
+    "name": "Liikuntakeskus Alfa",
+    "latitude": "60.4653384",
+    "longitude": "22.2829965",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22477,
+    "name": "Tykistökatu",
+    "latitude": "60.4503126",
+    "longitude": "22.2941139",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22975,
+    "name": "Kaivokatu",
+    "latitude": "60.4524047",
+    "longitude": "22.2843581",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22487,
+    "name": "Satama",
+    "latitude": "60.4350687",
+    "longitude": "22.2233336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22964,
+    "name": "Kurjenkaivonkenttä",
+    "latitude": "60.4515382",
+    "longitude": "22.2890536",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22489,
+    "name": "T-sairaala",
+    "latitude": "60.4550184",
+    "longitude": "22.2975243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26557,
+    "name": "Prisma Tampereentie ",
+    "latitude": "60.4738782",
+    "longitude": "22.2865381",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23041,
+    "name": "Porthaninkatu",
+    "latitude": "60.4538963",
+    "longitude": "22.2808656",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26552,
+    "name": "Prisma Itäharju",
+    "latitude": "60.4456908",
+    "longitude": "22.3235686",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22504,
+    "name": "Stålarminkatu",
+    "latitude": "60.4387745",
+    "longitude": "22.2563723",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23033,
+    "name": "Hippoksentie",
+    "latitude": "60.4430797",
+    "longitude": "22.2984177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22977,
+    "name": "Rauhankatu",
+    "latitude": "60.4505506",
+    "longitude": "22.2517094",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22500,
+    "name": "Ursininkatu",
+    "latitude": "60.4463908",
+    "longitude": "22.2593708",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23084,
+    "name": "Teatteri",
+    "latitude": "60.4463597",
+    "longitude": "22.264509",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23026,
+    "name": "Pharmacity",
+    "latitude": "60.4491759",
+    "longitude": "22.2921065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22987,
+    "name": "Lonttinen",
+    "latitude": "60.4589127",
+    "longitude": "22.2744768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22966,
+    "name": "Patterinhaka",
+    "latitude": "60.4458938",
+    "longitude": "22.2256995",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22910,
+    "name": "Suikkila",
+    "latitude": "60.4631376",
+    "longitude": "22.2176428",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23018,
+    "name": "Lylynpuisto",
+    "latitude": "60.4354815",
+    "longitude": "22.275022",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22480,
+    "name": "Vähätori",
+    "latitude": "60.4510958",
+    "longitude": "22.2729404",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26543,
+    "name": "Kävelykatu Itä",
+    "latitude": "60.4509919",
+    "longitude": "22.2629893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22960,
+    "name": "Verkahovi ",
+    "latitude": "60.4578976",
+    "longitude": "22.2722278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26547,
+    "name": "Citymarket Länsikeskus",
+    "latitude": "60.4726414",
+    "longitude": "22.2329593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22478,
+    "name": "Kiinamyllynkatu",
+    "latitude": "60.4535403",
+    "longitude": "22.2866745",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22967,
+    "name": "K-Supermarket Nummenpakka",
+    "latitude": "60.457509",
+    "longitude": "22.3082867",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31569,
+    "name": "Kotkankatu",
+    "latitude": "60.442327",
+    "longitude": "22.340951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23000,
+    "name": "Multavierunkatu",
+    "latitude": "60.4546486",
+    "longitude": "22.2741024",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22996,
+    "name": "ABC Koulukatu",
+    "latitude": "60.4544378",
+    "longitude": "22.2463791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22484,
+    "name": "Kristiinankatu",
+    "latitude": "60.4480771",
+    "longitude": "22.2660458",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22950,
+    "name": "Sairashuoneenpuisto",
+    "latitude": "60.4442444",
+    "longitude": "22.2524026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23577,
+    "name": "Runosmäki center",
+    "latitude": "60.4889396",
+    "longitude": "22.2610209",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22931,
+    "name": "Kirjastosilta",
+    "latitude": "60.4495967",
+    "longitude": "22.2714027",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22986,
+    "name": "Tuureporinkatu",
+    "latitude": "60.4546088",
+    "longitude": "22.2645611",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27923,
+    "name": "Kirstinpuisto",
+    "latitude": "60.4490862",
+    "longitude": "22.2369527",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22481,
+    "name": "Puutori",
+    "latitude": "60.4546684",
+    "longitude": "22.2686566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26586,
+    "name": "Kauppatori",
+    "latitude": "60.4517292",
+    "longitude": "22.2683004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26542,
+    "name": "Kävelykatu länsi",
+    "latitude": "60.4503029",
+    "longitude": "22.2610145",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32288,
+    "name": "Pikisaarentie",
+    "latitude": "60.4268833",
+    "longitude": "22.2048852",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22475,
+    "name": "Ikituuri",
+    "latitude": "60.4610987",
+    "longitude": "22.2862437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27855,
+    "name": "Turun Caribia",
+    "latitude": "60.4602396",
+    "longitude": "22.2887898",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26733,
+    "name": "Prisma Itäharju 2",
+    "latitude": "60.4466734",
+    "longitude": "22.3215573",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28892,
+    "name": "Halistenkoski",
+    "latitude": "60.4652564",
+    "longitude": "22.3066694",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22939,
+    "name": "Auranhelmi",
+    "latitude": "60.4404481",
+    "longitude": "22.2443646",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28905,
+    "name": "Katariinanlaakso",
+    "latitude": "60.413296",
+    "longitude": "22.2696915",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28894,
+    "name": "Mantun grilli",
+    "latitude": "60.4476969",
+    "longitude": "22.270383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23010,
+    "name": "Daniel Hjortin katu",
+    "latitude": "60.4360532",
+    "longitude": "22.2482898",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22976,
+    "name": "Suurtori",
+    "latitude": "60.4509304",
+    "longitude": "22.2761904",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22476,
+    "name": "Kätilöpolku",
+    "latitude": "60.4516064",
+    "longitude": "22.2933979",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23034,
+    "name": "Täkkiaukio",
+    "latitude": "60.4286732",
+    "longitude": "22.2339126",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23653,
+    "name": "Leipäläntie",
+    "latitude": "60.4690371",
+    "longitude": "22.2671618",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23013,
+    "name": "Laivamiehenpuisto",
+    "latitude": "60.4318602",
+    "longitude": "22.2511",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23032,
+    "name": "Poppelitie",
+    "latitude": "60.4404118",
+    "longitude": "22.3001617",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22934,
+    "name": "Yo-kylä 24-28",
+    "latitude": "60.4642606",
+    "longitude": "22.2940543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22488,
+    "name": "Port Arthur",
+    "latitude": "60.4464851",
+    "longitude": "22.2435433",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26561,
+    "name": "Brahenkatu / Eerikinkatu",
+    "latitude": "60.452086",
+    "longitude": "22.2714496",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27192,
+    "name": "Pikisaari",
+    "latitude": "60.4250716",
+    "longitude": "22.196899",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22988,
+    "name": "Parkin kenttä",
+    "latitude": "60.4570501",
+    "longitude": "22.271318",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22482,
+    "name": "Linja-autoasema",
+    "latitude": "60.4573291",
+    "longitude": "22.2685796",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22956,
+    "name": "Ruissalon Kansanpuisto",
+    "latitude": "60.4272298",
+    "longitude": "22.184642",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32266,
+    "name": "Fiskarsinkatu",
+    "latitude": "60.4354088",
+    "longitude": "22.3300569",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22994,
+    "name": "Paalupaikka",
+    "latitude": "60.4664294",
+    "longitude": "22.2475919",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31897,
+    "name": "Boxi Turku",
+    "latitude": "60.4354308",
+    "longitude": "22.2382966",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29672,
+    "name": "Vitkalankatu",
+    "latitude": "60.448443",
+    "longitude": "22.207086",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22920,
+    "name": "Petreliuksenpolku",
+    "latitude": "60.4296505",
+    "longitude": "22.2948835",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22927,
+    "name": "Turun Kutteri",
+    "latitude": "60.434088",
+    "longitude": "22.2344187",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23099,
+    "name": "Nuutintie",
+    "latitude": "60.4506271",
+    "longitude": "22.2363093",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23015,
+    "name": "S-Market Majakkaranta",
+    "latitude": "60.4298381",
+    "longitude": "22.2397104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24039,
+    "name": "savitehtaankatu",
+    "latitude": "60.4516432",
+    "longitude": "22.297521",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26527,
+    "name": "Auriga",
+    "latitude": "60.4396995",
+    "longitude": "22.2274966",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26545,
+    "name": "S-market Pansio",
+    "latitude": "60.4527926",
+    "longitude": "22.156061",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22914,
+    "name": "Lemminkäisenkatu",
+    "latitude": "60.4463931",
+    "longitude": "22.2992561",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31359,
+    "name": "Pääskynlento",
+    "latitude": "60.4484111",
+    "longitude": "22.3380626",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27171,
+    "name": "Sport Sirkka",
+    "latitude": "60.4477071",
+    "longitude": "22.2826643",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22949,
+    "name": "Hansakatu",
+    "latitude": "60.4420482",
+    "longitude": "22.237924",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22930,
+    "name": "Varissuo",
+    "latitude": "60.4432978",
+    "longitude": "22.3626756",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31687,
+    "name": "K-Rauta Skanssi",
+    "latitude": "60.4375922",
+    "longitude": "22.3210477",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23268,
+    "name": "Päärautatieasema",
+    "latitude": "60.4557036",
+    "longitude": "22.2589086",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22974,
+    "name": "Kasvitieteellinen puutarha",
+    "latitude": "60.4333241",
+    "longitude": "22.1755304",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22958,
+    "name": "Iso-Heikkilä",
+    "latitude": "60.4513173",
+    "longitude": "22.2300739",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22968,
+    "name": "Jaanintie",
+    "latitude": "60.4510918",
+    "longitude": "22.3296428",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22937,
+    "name": "Yo-kylä 82-84",
+    "latitude": "60.4609008",
+    "longitude": "22.2981711",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28893,
+    "name": "Käsityöläiskatu",
+    "latitude": "60.4484071",
+    "longitude": "22.2593841",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29232,
+    "name": "Turun AKK",
+    "latitude": "60.4583309",
+    "longitude": "22.1784028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22951,
+    "name": "Lenkkipolku",
+    "latitude": "60.4485093",
+    "longitude": "22.2923332",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23148,
+    "name": "Kaakelitehdas",
+    "latitude": "60.4571084",
+    "longitude": "22.2365246",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27151,
+    "name": "Malminkatu",
+    "latitude": "60.442365",
+    "longitude": "22.2400497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23575,
+    "name": "Runosmäki Signalistinkatu",
+    "latitude": "60.4857766",
+    "longitude": "22.2683215",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23644,
+    "name": "Linnankatu",
+    "latitude": "60.4510608",
+    "longitude": "22.2715937",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29166,
+    "name": "Ratakatu / Tukholmankatu",
+    "latitude": "60.4493627",
+    "longitude": "22.2431651",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22501,
+    "name": "Lönnrothinpuisto",
+    "latitude": "60.4531612",
+    "longitude": "22.2741285",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22494,
+    "name": "Kivikartiontie",
+    "latitude": "60.4358893",
+    "longitude": "22.2932654",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22502,
+    "name": "Puutarhakatu",
+    "latitude": "60.4512486",
+    "longitude": "22.2575887",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23005,
+    "name": "Urheilupuisto",
+    "latitude": "60.4415705",
+    "longitude": "22.259611",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23660,
+    "name": "Rakuunatie",
+    "latitude": "60.4360939",
+    "longitude": "22.3024989",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23652,
+    "name": "Marina",
+    "latitude": "60.4468271",
+    "longitude": "22.2617171",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22954,
+    "name": "Sale Petrelius",
+    "latitude": "60.4304781",
+    "longitude": "22.2935802",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22491,
+    "name": "Piispankatu",
+    "latitude": "60.4564251",
+    "longitude": "22.2801175",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22938,
+    "name": "Yo-kylä 15-16",
+    "latitude": "60.4633348",
+    "longitude": "22.2966164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22905,
+    "name": "Impivaaran uimahalli",
+    "latitude": "60.4779378",
+    "longitude": "22.2603312",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22957,
+    "name": "Ruissalon Saaronniemi",
+    "latitude": "60.422424",
+    "longitude": "22.0951554",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23097,
+    "name": "Humalistonkatu 1",
+    "latitude": "60.4490394",
+    "longitude": "22.2617502",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22984,
+    "name": "Yliopistonkatu länsi",
+    "latitude": "60.4481207",
+    "longitude": "22.2540359",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22505,
+    "name": "Itäinen Rantakatu",
+    "latitude": "60.4478206",
+    "longitude": "22.2688482",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22902,
+    "name": "Vuorensyrjänkatu",
+    "latitude": "60.4756893",
+    "longitude": "22.307733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32100,
+    "name": "Kuralan kylämäki",
+    "latitude": "60.4620071",
+    "longitude": "22.3331385",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23581,
+    "name": "Hirvensalo Moikoinen",
+    "latitude": "60.4116386",
+    "longitude": "22.2355456",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23087,
+    "name": "Krööpilänkatu",
+    "latitude": "60.4465318",
+    "longitude": "22.3603542",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23042,
+    "name": "Kupittaan palloiluhalli",
+    "latitude": "60.4461602",
+    "longitude": "22.3003524",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30385,
+    "name": "Kåren",
+    "latitude": "60.4496769",
+    "longitude": "22.2759765",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23634,
+    "name": "Assari",
+    "latitude": "60.4538963",
+    "longitude": "22.2873736",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27117,
+    "name": "Lauklähteenkatu",
+    "latitude": "60.4217771",
+    "longitude": "22.2865716",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26548,
+    "name": "Prisma Länsikeskus",
+    "latitude": "60.4739496",
+    "longitude": "22.2268056",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22997,
+    "name": "Kauppiaskatu",
+    "latitude": "60.4526712",
+    "longitude": "22.2671211",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22936,
+    "name": "Yo-kylä 62-64",
+    "latitude": "60.4624938",
+    "longitude": "22.3013666",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22918,
+    "name": "Kirjurinaukio",
+    "latitude": "60.4336901",
+    "longitude": "22.3467429",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22989,
+    "name": "Koulu",
+    "latitude": "60.4496953",
+    "longitude": "22.2641104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27604,
+    "name": "K-market Hanski",
+    "latitude": "60.4588339",
+    "longitude": "22.3223871",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22490,
+    "name": "Akatemiatalo",
+    "latitude": "60.4510956",
+    "longitude": "22.2791829",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22495,
+    "name": "Brahenkatu / Yliopistonkatu",
+    "latitude": "60.4533114",
+    "longitude": "22.2698839",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30544,
+    "name": "eCargo bikes: Prisma Itäharju",
+    "latitude": "60.4455813",
+    "longitude": "22.3239934",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23006,
+    "name": "Toivolankatu",
+    "latitude": "60.4376844",
+    "longitude": "22.2677286",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28198,
+    "name": "eCargo bikes: Skanssi",
+    "latitude": "60.4295521",
+    "longitude": "22.3220651",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22955,
+    "name": "Ruissalon telakka",
+    "latitude": "60.4375713",
+    "longitude": "22.2024341",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23659,
+    "name": "Sepänkatu",
+    "latitude": "60.4426967",
+    "longitude": "22.2715508",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22928,
+    "name": "Kaasukello",
+    "latitude": "60.4364546",
+    "longitude": "22.2453578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22903,
+    "name": "Ramstedtinkatu ",
+    "latitude": "60.4629101",
+    "longitude": "22.2787",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23088,
+    "name": "Skanssinkatu",
+    "latitude": "60.4300413",
+    "longitude": "22.3195309",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23650,
+    "name": "Linnanmalmi",
+    "latitude": "60.4388333",
+    "longitude": "22.236256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30175,
+    "name": "Biolinja",
+    "latitude": "60.4311445",
+    "longitude": "22.3287966",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28951,
+    "name": "Kreulankuja",
+    "latitude": "60.4672992",
+    "longitude": "22.3120653",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23264,
+    "name": "Mylly Länsipääty",
+    "latitude": "60.4897837",
+    "longitude": "22.197815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22496,
+    "name": "Raunistulanportti",
+    "latitude": "60.459961",
+    "longitude": "22.2655089",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22995,
+    "name": "Rautatientori",
+    "latitude": "60.4532626",
+    "longitude": "22.2533649",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26665,
+    "name": "Pääkirjasto",
+    "latitude": "60.4503024",
+    "longitude": "22.2705702",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26574,
+    "name": "Kupittaa",
+    "latitude": "60.4508082",
+    "longitude": "22.2960616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22971,
+    "name": "Turun AMK",
+    "latitude": "60.4494337",
+    "longitude": "22.2947026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27747,
+    "name": "Sale Laivurinkatu",
+    "latitude": "60.4383518",
+    "longitude": "22.2460303",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26850,
+    "name": "Koivula",
+    "latitude": "60.4179283",
+    "longitude": "22.3007598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23016,
+    "name": "Klyyvari",
+    "latitude": "60.4281772",
+    "longitude": "22.2383185",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28897,
+    "name": "Kupittaan pesäpallostadion",
+    "latitude": "60.4473198",
+    "longitude": "22.2962501",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30101,
+    "name": "Leaf Areena",
+    "latitude": "60.4867811",
+    "longitude": "22.2887619",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29165,
+    "name": "Lausteen frisbeegolfpuisto",
+    "latitude": "60.4288866",
+    "longitude": "22.3460619",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26894,
+    "name": "Bratislavankatu / Isotalonkatu",
+    "latitude": "60.4613253",
+    "longitude": "22.2251792",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22485,
+    "name": "Vesibussi",
+    "latitude": "60.4433794",
+    "longitude": "22.253913",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22492,
+    "name": "Kirkkotie",
+    "latitude": "60.4580167",
+    "longitude": "22.2926972",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26855,
+    "name": "Friskala",
+    "latitude": "60.3979984",
+    "longitude": "22.2310881",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23019,
+    "name": "Kaupunginsairaala",
+    "latitude": "60.4402143",
+    "longitude": "22.2755189",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22929,
+    "name": "Jarkko Laineen puistikko",
+    "latitude": "60.4391034",
+    "longitude": "22.2612626",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29164,
+    "name": "Luolavuoren frisbeegolf",
+    "latitude": "60.4285731",
+    "longitude": "22.2884639",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28057,
+    "name": "eCargo bikes: Kauppatori",
+    "latitude": "60.4517639",
+    "longitude": "22.2682669",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23009,
+    "name": "Nokiankatu",
+    "latitude": "60.4372612",
+    "longitude": "22.2517622",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26974,
+    "name": "Tuomiokirkkotori",
+    "latitude": "60.4521354",
+    "longitude": "22.2757176",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22933,
+    "name": "Yo-kylä 13",
+    "latitude": "60.4637327",
+    "longitude": "22.2902452",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27845,
+    "name": "Kalevanpuisto",
+    "latitude": "60.4505537",
+    "longitude": "22.3091826",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22953,
+    "name": "Calonia",
+    "latitude": "60.4568824",
+    "longitude": "22.2856822",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22983,
+    "name": "Mikonkatu",
+    "latitude": "60.4466009",
+    "longitude": "22.2497267",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22962,
+    "name": "Kupittaan urheiluhalli",
+    "latitude": "60.4462399",
+    "longitude": "22.2932631",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23023,
+    "name": "Portti",
+    "latitude": "60.4520827",
+    "longitude": "22.2822777",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27260,
+    "name": "eCargo bikes: Kupittaa",
+    "latitude": "60.4505805",
+    "longitude": "22.2947205",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23004,
+    "name": "Sale Martti",
+    "latitude": "60.440779",
+    "longitude": "22.2658579",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22935,
+    "name": "Yo-kylä 44-48",
+    "latitude": "60.4641088",
+    "longitude": "22.2981758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22981,
+    "name": "Ratavahdinrinne",
+    "latitude": "60.4443001",
+    "longitude": "22.23659",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31731,
+    "name": "Peltola",
+    "latitude": "60.4246343",
+    "longitude": "22.30274",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22498,
+    "name": "Turun linna",
+    "latitude": "60.4359031",
+    "longitude": "22.2304077",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22896,
+    "name": "Q-talo",
+    "latitude": "60.4600009",
+    "longitude": "22.2981196",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27074,
+    "name": "eCargo bikes: Föri",
+    "latitude": "60.4415606",
+    "longitude": "22.2474311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22493,
+    "name": "Rajupaja Areena",
+    "latitude": "60.4426254",
+    "longitude": "22.2884669",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22948,
+    "name": "Varvintori",
+    "latitude": "60.4389488",
+    "longitude": "22.2417827",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22940,
+    "name": "Koskenniemenkatu",
+    "latitude": "60.4529637",
+    "longitude": "22.2811926",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23267,
+    "name": "Logomo",
+    "latitude": "60.4570242",
+    "longitude": "22.2598486",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26807,
+    "name": "Tavasti",
+    "latitude": "60.4558148",
+    "longitude": "22.3013425",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23113,
+    "name": "Humaliston apteekki",
+    "latitude": "60.4524043",
+    "longitude": "22.2570542",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27844,
+    "name": "T-talo",
+    "latitude": "60.4555104",
+    "longitude": "22.3053856",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23024,
+    "name": "Kerttuli",
+    "latitude": "60.4488564",
+    "longitude": "22.2868648",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22923,
+    "name": "Ispoisten uimaranta",
+    "latitude": "60.4147645",
+    "longitude": "22.2607054",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22479,
+    "name": "Uudenmaantulli",
+    "latitude": "60.4464348",
+    "longitude": "22.2840595",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22963,
+    "name": "Uittamo",
+    "latitude": "60.4212612",
+    "longitude": "22.2632488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28865,
+    "name": "Neitsytpolku",
+    "latitude": "60.4428549",
+    "longitude": "22.2683829",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22486,
+    "name": "Föri",
+    "latitude": "60.441643",
+    "longitude": "22.2475143",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22922,
+    "name": "Ilpoinen",
+    "latitude": "60.4224321",
+    "longitude": "22.2842143",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23663,
+    "name": "Uraputki",
+    "latitude": "60.4595887",
+    "longitude": "22.2881082",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22947,
+    "name": "Purserinpuisto",
+    "latitude": "60.4380762",
+    "longitude": "22.2437063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23039,
+    "name": "Aurumin pyöräparkki",
+    "latitude": "60.4542162",
+    "longitude": "22.2832417",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22907,
+    "name": "Rautalankatu",
+    "latitude": "60.4858648",
+    "longitude": "22.233405",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26896,
+    "name": "Trampolin park",
+    "latitude": "60.475316",
+    "longitude": "22.2830877",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22913,
+    "name": "Rauninaukio",
+    "latitude": "60.4627935",
+    "longitude": "22.2634874",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22898,
+    "name": "Haliskylä",
+    "latitude": "60.468963",
+    "longitude": "22.3077165",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22924,
+    "name": "Rustholli",
+    "latitude": "60.4181145",
+    "longitude": "22.2644157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23025,
+    "name": "Vähä Hämeenkatu",
+    "latitude": "60.4516108",
+    "longitude": "22.2858212",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22973,
+    "name": "Forum Marinum",
+    "latitude": "60.4369299",
+    "longitude": "22.2369289",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28896,
+    "name": "Kauppahalli",
+    "latitude": "60.4501595",
+    "longitude": "22.2657382",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22979,
+    "name": "Sofiankatu",
+    "latitude": "60.4460426",
+    "longitude": "22.2455018",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22972,
+    "name": "Turun AMK 2",
+    "latitude": "60.448696",
+    "longitude": "22.2967089",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23574,
+    "name": "Runosmäki  Pohjoiskaari",
+    "latitude": "60.4832271",
+    "longitude": "22.272836",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26556,
+    "name": "S-market Halinen",
+    "latitude": "60.470072",
+    "longitude": "22.3057786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22952,
+    "name": "Educarium",
+    "latitude": "60.4580762",
+    "longitude": "22.2861068",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23040,
+    "name": "Henrikinkatu",
+    "latitude": "60.4546991",
+    "longitude": "22.2817708",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22899,
+    "name": "Paavinkatu",
+    "latitude": "60.4705085",
+    "longitude": "22.3249641",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23655,
+    "name": "Eskonkatu",
+    "latitude": "60.4814733",
+    "longitude": "22.2466531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27900,
+    "name": "ASA-Huset",
+    "latitude": "60.4559366",
+    "longitude": "22.2821704",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23579,
+    "name": "Hirvensalo Kakskerrantie",
+    "latitude": "60.4182092",
+    "longitude": "22.229911",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26848,
+    "name": "Auringonnousu",
+    "latitude": "60.4135608",
+    "longitude": "22.3080625",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22946,
+    "name": "Puropellonpolku",
+    "latitude": "60.4404091",
+    "longitude": "22.2715258",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29225,
+    "name": "Pansiontie",
+    "latitude": "60.4458755",
+    "longitude": "22.1902997",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22506,
+    "name": "Puolalankatu",
+    "latitude": "60.4525341",
+    "longitude": "22.26184",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23038,
+    "name": "Sale Kupittaanpuisto",
+    "latitude": "60.4480014",
+    "longitude": "22.2886024",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23007,
+    "name": "Vähä-Heikkilä",
+    "latitude": "60.4354174",
+    "longitude": "22.2590096",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26839,
+    "name": "eCargo bikes: Linja-autoasema",
+    "latitude": "60.4572304",
+    "longitude": "22.2685931",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30321,
+    "name": "Kauppakorkeakoulu",
+    "latitude": "60.4549145",
+    "longitude": "22.2884917",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29135,
+    "name": "Kylänalustanpuisto",
+    "latitude": "60.4608463",
+    "longitude": "22.2465707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22483,
+    "name": "Kävelykatu",
+    "latitude": "60.4506232",
+    "longitude": "22.2624569",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22921,
+    "name": "Luolavuori",
+    "latitude": "60.4317012",
+    "longitude": "22.2857206",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30320,
+    "name": "Boost",
+    "latitude": "60.4307775",
+    "longitude": "22.2460223",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23002,
+    "name": "Sale Kaskenkatu",
+    "latitude": "60.4457232",
+    "longitude": "22.2734523",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22944,
+    "name": "Mälikkälä",
+    "latitude": "60.4718918",
+    "longitude": "22.213915",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22980,
+    "name": "Annanpuisto",
+    "latitude": "60.4468478",
+    "longitude": "22.2392436",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23263,
+    "name": "Mylly Prisman pääty",
+    "latitude": "60.4912293",
+    "longitude": "22.2037895",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22916,
+    "name": "Talpiankuja",
+    "latitude": "60.4507284",
+    "longitude": "22.3565227",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29697,
+    "name": "Halisten koulu",
+    "latitude": "60.471183",
+    "longitude": "22.3150473",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23020,
+    "name": "Kurjenmäenkatu",
+    "latitude": "60.4395461",
+    "longitude": "22.2839467",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23017,
+    "name": "Ispoisten puistotie",
+    "latitude": "60.4319644",
+    "longitude": "22.2661114",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22961,
+    "name": "Nahkurinpiha",
+    "latitude": "60.4559797",
+    "longitude": "22.27537",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23029,
+    "name": "Kivikartiontie B",
+    "latitude": "60.4377613",
+    "longitude": "22.2872011",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28033,
+    "name": "Pääskysilta",
+    "latitude": "60.4515481",
+    "longitude": "22.3352674",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23022,
+    "name": "Kupittaankatu",
+    "latitude": "60.443378",
+    "longitude": "22.2765141",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23132,
+    "name": "Otavanaukio",
+    "latitude": "60.4500129",
+    "longitude": "22.2296303",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23654,
+    "name": "Tapulikatu",
+    "latitude": "60.4386861",
+    "longitude": "22.2515509",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24038,
+    "name": "Asesepänkatu",
+    "latitude": "60.441012",
+    "longitude": "22.2565895",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23035,
+    "name": "Askaistentie",
+    "latitude": "60.4374266",
+    "longitude": "22.2594514",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23021,
+    "name": "Kaskentie",
+    "latitude": "60.4422129",
+    "longitude": "22.279277",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23001,
+    "name": "Yliopistonkatu 30",
+    "latitude": "60.4494107",
+    "longitude": "22.2584685",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22503,
+    "name": "Nuijamaankatu",
+    "latitude": "60.470405",
+    "longitude": "22.2361444",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31358,
+    "name": "Sammontakojankatu",
+    "latitude": "60.4453909",
+    "longitude": "22.3096339",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22992,
+    "name": "Jarkko Haavion polku",
+    "latitude": "60.4739872",
+    "longitude": "22.3050745",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22911,
+    "name": "Kustavintie / Kaitaistentie",
+    "latitude": "60.4682967",
+    "longitude": "22.2226023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23030,
+    "name": "Varissuon terveysasema",
+    "latitude": "60.4426831",
+    "longitude": "22.3605353",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23014,
+    "name": "Unioninkatu",
+    "latitude": "60.4336438",
+    "longitude": "22.2411061",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22912,
+    "name": "Pryssinkuja",
+    "latitude": "60.4718548",
+    "longitude": "22.2217722",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22990,
+    "name": "Kuninkoja center",
+    "latitude": "60.4917264",
+    "longitude": "22.2212136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28866,
+    "name": "Jyrkkälä",
+    "latitude": "60.4595566",
+    "longitude": "22.1983286",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22919,
+    "name": "Karhunaukio",
+    "latitude": "60.4308268",
+    "longitude": "22.3362253",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28933,
+    "name": "Laureuksenkatu",
+    "latitude": "60.4895691",
+    "longitude": "22.2437293",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22978,
+    "name": "Sairashuoneenkatu",
+    "latitude": "60.4489608",
+    "longitude": "22.2463542",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22991,
+    "name": "Teräsrautela",
+    "latitude": "60.477176",
+    "longitude": "22.2358504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22908,
+    "name": "Haartmaninkatu",
+    "latitude": "60.4858236",
+    "longitude": "22.2376249",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23664,
+    "name": "Vanha Tampereentie",
+    "latitude": "60.472543",
+    "longitude": "22.2877432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23003,
+    "name": "Samppis",
+    "latitude": "60.4450647",
+    "longitude": "22.2648735",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26544,
+    "name": "K-Market Perno",
+    "latitude": "60.45228",
+    "longitude": "22.1606641",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26546,
+    "name": "Pansio",
+    "latitude": "60.4496069",
+    "longitude": "22.1675412",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29082,
+    "name": "Impivaaran jalkapallohalli",
+    "latitude": "60.4779948",
+    "longitude": "22.2524177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26840,
+    "name": "eCargo bikes: Yo-kylä",
+    "latitude": "60.460982",
+    "longitude": "22.2861461",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23582,
+    "name": "Kukolantie",
+    "latitude": "60.4088583",
+    "longitude": "22.221586",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23036,
+    "name": "Mäntymäenaukio",
+    "latitude": "60.4385695",
+    "longitude": "22.2652346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23891,
+    "name": "Hepokulta",
+    "latitude": "60.4733676",
+    "longitude": "22.2496104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23583,
+    "name": "Haarla",
+    "latitude": "60.3944436",
+    "longitude": "22.2224925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22917,
+    "name": "Raadinkatu",
+    "latitude": "60.4332935",
+    "longitude": "22.3545212",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22925,
+    "name": "Ispoinen",
+    "latitude": "60.427216",
+    "longitude": "22.2686891",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23648,
+    "name": "Luolavuoren tenniskenttä",
+    "latitude": "60.4312212",
+    "longitude": "22.280856",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23585,
+    "name": "Annankatu",
+    "latitude": "60.4442086",
+    "longitude": "22.2402485",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22999,
+    "name": "Oskarinkuja",
+    "latitude": "60.4634574",
+    "longitude": "22.269896",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22904,
+    "name": "Mullintie",
+    "latitude": "60.4712725",
+    "longitude": "22.2730749",
+    "thumbnail_url": ""
   }
-}
+]
