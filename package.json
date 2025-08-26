@@ -1,0 +1,13 @@
+{
+  "name": "hub-data-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches hub data from APIs for Donkey Republic cities.",
+  "main": "fetch-json.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fetch-json.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
