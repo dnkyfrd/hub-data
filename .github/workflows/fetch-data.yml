@@ -1,35 +1,41 @@
-name: Fetch City Hub Data
+name: Fetch Hub Data
 
 on:
+  workflow_dispatch: # Allows manual triggering
   schedule:
-    # Runs at 00:00 UTC every Sunday
-    - cron: '0 0 * * 0'
-  workflow_dispatch:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight UTC
 
 jobs:
-  fetch-and-save:
+  fetch-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # This line grants the necessary write permissions
+      contents: write # Give the job permission to write to the repo
 
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '20' # Use a current LTS version of Node.js
 
-      - name: Run data fetching script
-        run: |
-          # This command executes the fetch-json.js file
-          node fetch-json.js
+      # This is the new step to install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch and save data
+        run: node fetch-json.js
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add hub-data/
-          git commit -m '🤖 Auto-update hub data' || echo "No changes to commit"
-          git push
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add hub-data/*.json
+          # Check if there are changes to commit to avoid empty commits
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Auto-update hub data"
+            git push
+          else
+            echo "No changes to commit."
+          fi
