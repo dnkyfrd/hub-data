@@ -75,14 +75,29 @@ const cities = [
 ];
 
 /**
- * Returns the necessary headers for the API request.
- * The `filter_type` and `account_id` are query parameters already in the URL,
- * so we don't need to handle them here. We can send the same 'Accept' header for all requests.
+ * Returns the necessary headers for the API request based on the URL.
  * @param {string} url - The URL being fetched.
  * @returns {object} - The headers object.
  */
 function getHeaders(url) {
-  return { "Accept": "application/com.donkeyrepublic.v8" };
+  // Handle /cities endpoints, which require a specific 'Accept' header.
+  if (url.includes("/api/public/cities/")) {
+    return { "Accept": "application/com.donkeyrepublic.v8" };
+  }
+
+  // Handle /nearby endpoints, which require filter_type and account_id as headers.
+  if (url.includes("/api/public/nearby")) {
+    // Extract account_id from the URL query parameters to use in the header.
+    const match = url.match(/account_id=(\d+)/);
+    const accountId = match ? match[1] : "";
+    return {
+      "filter_type": "account",
+      "account_id": accountId
+    };
+  }
+
+  // Fallback for any other URLs.
+  return {};
 }
 
 /**
