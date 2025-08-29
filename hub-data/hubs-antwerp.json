@@ -1,12 +1,6086 @@
-{
-  "type": "FeatureCollection",
-  "features": [],
-  "metadata": {
-    "city": "antwerp",
-    "total_hubs": 0,
-    "generated_at": "2025-08-25T14:23:48.280Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803"
-    ]
-  }
-}
+[
+    {
+        "id": "hub_26795",
+        "name": "Antwerp Ossenmarkt",
+        "latitude": "51.2220094",
+        "longitude": "4.4133097"
+    },
+    {
+        "id": "hub_29305",
+        "name": "Duffel Gemeentehuis 3E2P - fietsenrek",
+        "latitude": "51.0951375",
+        "longitude": "4.5061719"
+    },
+    {
+        "id": "hub_23351",
+        "name": "Wilrijk Jules Moretuslei dropzone ",
+        "latitude": "51.172219",
+        "longitude": "4.3886944"
+    },
+    {
+        "id": "hub_26862",
+        "name": "Antwerp Schengenplein",
+        "latitude": "51.2332895",
+        "longitude": "4.4110163"
+    },
+    {
+        "id": "hub_24320",
+        "name": "Stabroek 's Hertogendijk",
+        "latitude": "51.3264223",
+        "longitude": "4.3844368"
+    },
+    {
+        "id": "hub_29632",
+        "name": "Mechelen Buurtparking Hamerstraat",
+        "latitude": "51.0207625",
+        "longitude": "4.4927656"
+    },
+    {
+        "id": "inrental_31959",
+        "name": "Veronique",
+        "latitude": "51.173888",
+        "longitude": "4.375745"
+    },
+    {
+        "id": "hub_28860",
+        "name": "Antwerp Park Spoor Noord",
+        "latitude": "51.2299882",
+        "longitude": "4.4210038"
+    },
+    {
+        "id": "hub_26823",
+        "name": "Deurne Venneborglaan",
+        "latitude": "51.2198801",
+        "longitude": "4.4704934"
+    },
+    {
+        "id": "misplaced_35110",
+        "name": "Kenzo",
+        "latitude": "51.2033426",
+        "longitude": "4.069358"
+    },
+    {
+        "id": "hub_24045",
+        "name": "Borgerhout Kwekerijstraat",
+        "latitude": "51.2204387",
+        "longitude": "4.4417214"
+    },
+    {
+        "id": "inrental_35196",
+        "name": "Felicity",
+        "latitude": "51.2839578",
+        "longitude": "4.4160542"
+    },
+    {
+        "id": "hub_28210",
+        "name": "Hoboken Alfred Cool fietsenrek",
+        "latitude": "51.188172",
+        "longitude": "4.3909847"
+    },
+    {
+        "id": "inrental_36350",
+        "name": "Jean-Yves",
+        "latitude": "51.062261",
+        "longitude": "4.555545"
+    },
+    {
+        "id": "hub_26843",
+        "name": "Borgerhout Mars",
+        "latitude": "51.2014238",
+        "longitude": "4.442068"
+    },
+    {
+        "id": "hub_26270",
+        "name": "Antwerp Schoenmarkt",
+        "latitude": "51.2184202",
+        "longitude": "4.4028246"
+    },
+    {
+        "id": "inrental_34699",
+        "name": "Loukas",
+        "latitude": "51.23126",
+        "longitude": "4.456578"
+    },
+    {
+        "id": "hub_28256",
+        "name": "Zwijndrecht Sportpark - fietsrek",
+        "latitude": "51.2155675",
+        "longitude": "4.3266259"
+    },
+    {
+        "id": "hub_28278",
+        "name": "Antwerp Vlierstraat",
+        "latitude": "51.2140492",
+        "longitude": "4.3980771"
+    },
+    {
+        "id": "hub_28576",
+        "name": "Lokeren Markt 3E 3P",
+        "latitude": "51.1056625",
+        "longitude": "3.9886094"
+    },
+    {
+        "id": "hub_28188",
+        "name": "Antwerp Rubenslei",
+        "latitude": "51.2129805",
+        "longitude": "4.4125544"
+    },
+    {
+        "id": "hub_26906",
+        "name": "Antwerp Falconplein",
+        "latitude": "51.226194",
+        "longitude": "4.4050184"
+    },
+    {
+        "id": "hub_27736",
+        "name": "Berchem UA Middelheim",
+        "latitude": "51.1839408",
+        "longitude": "4.4212406"
+    },
+    {
+        "id": "inrental_35221",
+        "name": "Boom",
+        "latitude": "51.210575",
+        "longitude": "4.438053"
+    },
+    {
+        "id": "hub_23539",
+        "name": "Merksem P+R Keisershoek",
+        "latitude": "51.2582688",
+        "longitude": "4.4617089"
+    },
+    {
+        "id": "hub_32555",
+        "name": "Schoten Elshout - fietsrek",
+        "latitude": "51.2790875",
+        "longitude": "4.5193281"
+    },
+    {
+        "id": "inrental_31847",
+        "name": "Fransico",
+        "latitude": "51.094706",
+        "longitude": "4.372665"
+    },
+    {
+        "id": "hub_23467",
+        "name": "Lint Centrum / Oudstrijdersplein",
+        "latitude": "51.1270004",
+        "longitude": "4.498664"
+    },
+    {
+        "id": "hub_31351",
+        "name": "Beveren Katoennatie WH15/22",
+        "latitude": "51.2731875",
+        "longitude": "4.2859844"
+    },
+    {
+        "id": "hub_26967",
+        "name": "Antwerp Kinderpark",
+        "latitude": "51.2086793",
+        "longitude": "4.3849417"
+    },
+    {
+        "id": "hub_27741",
+        "name": "Borgerhout Terloplein",
+        "latitude": "51.2196122",
+        "longitude": "4.443908"
+    },
+    {
+        "id": "hub_23290",
+        "name": "Antwerp Kempisch dok",
+        "latitude": "51.2311714",
+        "longitude": "4.4129597"
+    },
+    {
+        "id": "hub_24097",
+        "name": "Zoersel P+R De Haan - fietsrek",
+        "latitude": "51.2458737",
+        "longitude": "4.7037676"
+    },
+    {
+        "id": "hub_29334",
+        "name": "Klein-Willebroek Sasplein 2E2P - fietsrek",
+        "latitude": "51.0807957",
+        "longitude": "4.366648"
+    },
+    {
+        "id": "hub_29727",
+        "name": "Beveren Bushalte N70 Parein",
+        "latitude": "51.2179375",
+        "longitude": "4.2719531"
+    },
+    {
+        "id": "hub_29171",
+        "name": "Kalmthout Zwarte Hond - fietsrek",
+        "latitude": "51.3727621",
+        "longitude": "4.5023902"
+    },
+    {
+        "id": "hub_24104",
+        "name": "Berendrecht Steenovenstraat 2E4P",
+        "latitude": "51.3540569",
+        "longitude": "4.3343867"
+    },
+    {
+        "id": "hub_27863",
+        "name": "Mortsel Kerkstraat fietsenrek ",
+        "latitude": "51.1658262",
+        "longitude": "4.4635658"
+    },
+    {
+        "id": "hub_30599",
+        "name": "Reet Rumstsestraat - fietsrek",
+        "latitude": "51.1005274",
+        "longitude": "4.4137935"
+    },
+    {
+        "id": "hub_27027",
+        "name": "Merksem Districtshuis",
+        "latitude": "51.2425174",
+        "longitude": "4.4420315"
+    },
+    {
+        "id": "hub_23453",
+        "name": "Kalmthout NMBS - fietsrek",
+        "latitude": "51.3908889",
+        "longitude": "4.4668466"
+    },
+    {
+        "id": "misplaced_33153",
+        "name": "Raquel",
+        "latitude": "51.0317993",
+        "longitude": "4.4994711"
+    },
+    {
+        "id": "hub_24107",
+        "name": "Berendrecht Molengeest 2E4P",
+        "latitude": "51.3525729",
+        "longitude": "4.3230867"
+    },
+    {
+        "id": "hub_30859",
+        "name": "Mechelen Hanswijkdries - fietsrek",
+        "latitude": "51.0164858",
+        "longitude": "4.4977467"
+    },
+    {
+        "id": "hub_24101",
+        "name": "Wommelgem Kerk 6E",
+        "latitude": "51.2033151",
+        "longitude": "4.5223774"
+    },
+    {
+        "id": "hub_26976",
+        "name": "Wilrijk Neerland fietsenrek ",
+        "latitude": "51.1625075",
+        "longitude": "4.3893821"
+    },
+    {
+        "id": "hub_28187",
+        "name": "Zoersel De Pier - fietsrek",
+        "latitude": "51.2410117",
+        "longitude": "4.6395107"
+    },
+    {
+        "id": "hub_27044",
+        "name": "Deurne Alfons",
+        "latitude": "51.2287706",
+        "longitude": "4.4698091"
+    },
+    {
+        "id": "inrental_33987",
+        "name": "Alessia",
+        "latitude": "51.24612",
+        "longitude": "4.484966"
+    },
+    {
+        "id": "hub_23313",
+        "name": "Antwerp St-Andriesplaats",
+        "latitude": "51.2149155",
+        "longitude": "4.3961442"
+    },
+    {
+        "id": "hub_24329",
+        "name": "Essen Industrie Rijkmaker - fietsrek",
+        "latitude": "51.4470525",
+        "longitude": "4.4958655"
+    },
+    {
+        "id": "hub_29705",
+        "name": "Zandhoven Sportcomplex 't Veld - fietsrek",
+        "latitude": "51.2165625",
+        "longitude": "4.6541094"
+    },
+    {
+        "id": "hub_23877",
+        "name": "Brasschaat Mariaburg 6E4P - Tussen paaltjes",
+        "latitude": "51.2911554",
+        "longitude": "4.4450472"
+    },
+    {
+        "id": "hub_29619",
+        "name": "Mechelen Battel Dorp 2E2P",
+        "latitude": "51.0400625",
+        "longitude": "4.4443906"
+    },
+    {
+        "id": "hub_29988",
+        "name": "Live is live - Parking",
+        "latitude": "51.2206333",
+        "longitude": "4.3614892"
+    },
+    {
+        "id": "misplaced_31838",
+        "name": "Gustav",
+        "latitude": "51.2582904",
+        "longitude": "4.4534299"
+    },
+    {
+        "id": "hub_29332",
+        "name": "Blaasveld Kerk 2E2P - fietsrek",
+        "latitude": "51.0566375",
+        "longitude": "4.3717344"
+    },
+    {
+        "id": "hub_30595",
+        "name": "Reet Processieweg - fietsrek",
+        "latitude": "51.1033976",
+        "longitude": "4.4097529"
+    },
+    {
+        "id": "hub_29313",
+        "name": "Booischot Station 1 2E1P - fietsrek",
+        "latitude": "51.0372625",
+        "longitude": "4.7738281"
+    },
+    {
+        "id": "hub_28155",
+        "name": "Brasschaat jeugdhuis Hob nob - fietsrek",
+        "latitude": "51.3012286",
+        "longitude": "4.5126366"
+    },
+    {
+        "id": "hub_30858",
+        "name": "Mechelen Guido Gezellelaan - fietsrek",
+        "latitude": "51.0317961",
+        "longitude": "4.4728394"
+    },
+    {
+        "id": "hub_30601",
+        "name": "Sint-Niklaas Heidebaan",
+        "latitude": "51.1779108",
+        "longitude": "4.191212"
+    },
+    {
+        "id": "misplaced_35202",
+        "name": "Ibrahim",
+        "latitude": "51.3431311",
+        "longitude": "4.327304"
+    },
+    {
+        "id": "hub_23489",
+        "name": "Ranst Oelegem Kerk - fietsrek",
+        "latitude": "51.2111608",
+        "longitude": "4.5972153"
+    },
+    {
+        "id": "inrental_31915",
+        "name": "Mona",
+        "latitude": "51.16994",
+        "longitude": "4.395198"
+    },
+    {
+        "id": "hub_27766",
+        "name": "Antwerp Lindeboom",
+        "latitude": "51.2200122",
+        "longitude": "4.4360076"
+    },
+    {
+        "id": "hub_27864",
+        "name": "Wilrijk Frans Nagelsplein fietsenrek ",
+        "latitude": "51.174031",
+        "longitude": "4.3916083"
+    },
+    {
+        "id": "hub_32560",
+        "name": "Schoten De Lek - fietsrek",
+        "latitude": "51.2461375",
+        "longitude": "4.4756719"
+    },
+    {
+        "id": "misplaced_33388",
+        "name": "Keoni",
+        "latitude": "51.2992885",
+        "longitude": "4.3568477"
+    },
+    {
+        "id": "hub_23367",
+        "name": "Beveren Gevangenis - vooraan parking",
+        "latitude": "51.1964753",
+        "longitude": "4.3094717"
+    },
+    {
+        "id": "hub_27938",
+        "name": "Merksem Campinia",
+        "latitude": "51.2404779",
+        "longitude": "4.4362017"
+    },
+    {
+        "id": "hub_27047",
+        "name": "Deurne Sint Rochus",
+        "latitude": "51.2049717",
+        "longitude": "4.4644675"
+    },
+    {
+        "id": "hub_28600",
+        "name": "Temse Tielrode Kerkstraat 4E",
+        "latitude": "51.1131832",
+        "longitude": "4.1754225"
+    },
+    {
+        "id": "misplaced_39801",
+        "name": "Nami",
+        "latitude": "51.2223805",
+        "longitude": "4.1232012"
+    },
+    {
+        "id": "inrental_35086",
+        "name": "Maisy",
+        "latitude": "51.164293",
+        "longitude": "4.454658"
+    },
+    {
+        "id": "hub_26838",
+        "name": "Antwerp Boudewijns",
+        "latitude": "51.2050155",
+        "longitude": "4.4002486"
+    },
+    {
+        "id": "hub_26849",
+        "name": "Wilrijk Crowne Plaza rode fietsenrek ",
+        "latitude": "51.1901779",
+        "longitude": "4.4048477"
+    },
+    {
+        "id": "hub_23504",
+        "name": "Temse Elversele N41 4E",
+        "latitude": "51.1138909",
+        "longitude": "4.1427063"
+    },
+    {
+        "id": "hub_23284",
+        "name": "Antwerp CS - Astridplein A",
+        "latitude": "51.2180143",
+        "longitude": "4.4207458"
+    },
+    {
+        "id": "hub_27225",
+        "name": "Luchtbal Tampicoplein",
+        "latitude": "51.2514743",
+        "longitude": "4.4229841"
+    },
+    {
+        "id": "hub_29628",
+        "name": "Mechelen Technopolis - fietsrek",
+        "latitude": "51.0019625",
+        "longitude": "4.4709844"
+    },
+    {
+        "id": "hub_29614",
+        "name": "Mechelen Sint-Libertuskerk 3E3P - fietsrek",
+        "latitude": "51.0330255",
+        "longitude": "4.5050963"
+    },
+    {
+        "id": "hub_23410",
+        "name": "Brasschaat Boskapellei 4P",
+        "latitude": "51.2951408",
+        "longitude": "4.4422746"
+    },
+    {
+        "id": "hub_26847",
+        "name": "Wilrijk Nachtegalenpark fietsenrek ",
+        "latitude": "51.1832076",
+        "longitude": "4.4072717"
+    },
+    {
+        "id": "hub_26905",
+        "name": "Antwerp Tunnelplaats",
+        "latitude": "51.2264657",
+        "longitude": "4.4137945"
+    },
+    {
+        "id": "hub_28169",
+        "name": "Wommelgem P+R - fietsrek oud fruitmarkt 6E",
+        "latitude": "51.2119694",
+        "longitude": "4.4920916"
+    },
+    {
+        "id": "misplaced_35207",
+        "name": "Kylian",
+        "latitude": "51.059628",
+        "longitude": "4.038506"
+    },
+    {
+        "id": "hub_27698",
+        "name": "Linkeroever Verhaeren",
+        "latitude": "51.2233277",
+        "longitude": "4.3862412"
+    },
+    {
+        "id": "hub_30868",
+        "name": "Mechelen Parking Indigo Hoogstraat - fietsrek",
+        "latitude": "51.0234576",
+        "longitude": "4.4745146"
+    },
+    {
+        "id": "hub_23378",
+        "name": "Brasschaat - Oud Gemeentehuis 3E2P - fietsrek",
+        "latitude": "51.2884648",
+        "longitude": "4.485111"
+    },
+    {
+        "id": "hub_23484",
+        "name": "Niel Hellegat fietsenrek ",
+        "latitude": "51.0995077",
+        "longitude": "4.3398469"
+    },
+    {
+        "id": "inrental_38290",
+        "name": "Thyl",
+        "latitude": "51.295638",
+        "longitude": "4.49815"
+    },
+    {
+        "id": "misplaced_40178",
+        "name": "Octave",
+        "latitude": "51.0902226",
+        "longitude": "4.3108648"
+    },
+    {
+        "id": "hub_23302",
+        "name": "Antwerp Nationale Bank",
+        "latitude": "51.2117706",
+        "longitude": "4.4076612"
+    },
+    {
+        "id": "misplaced_42667",
+        "name": "Albi",
+        "latitude": "51.1707448",
+        "longitude": "4.3124187"
+    },
+    {
+        "id": "hub_23282",
+        "name": "Antwerp Belgielei",
+        "latitude": "51.2065263",
+        "longitude": "4.4197926"
+    },
+    {
+        "id": "hub_23432",
+        "name": "Ekeren Rozemaai",
+        "latitude": "51.2688559",
+        "longitude": "4.4175914"
+    },
+    {
+        "id": "hub_30888",
+        "name": "Mechelen Brusselpoort 2",
+        "latitude": "51.0222875",
+        "longitude": "4.4726719"
+    },
+    {
+        "id": "hub_28585",
+        "name": "Kruibeke Dulpop",
+        "latitude": "51.1481208",
+        "longitude": "4.3053719"
+    },
+    {
+        "id": "inrental_33344",
+        "name": "Santiago",
+        "latitude": "51.348601",
+        "longitude": "4.400963"
+    },
+    {
+        "id": "inrental_34681",
+        "name": "Wail",
+        "latitude": "51.2652824",
+        "longitude": "4.6358878"
+    },
+    {
+        "id": "hub_30287",
+        "name": "Beveren Gravenplein - overdekt",
+        "latitude": "51.2129058",
+        "longitude": "4.2605943"
+    },
+    {
+        "id": "hub_24316",
+        "name": "Lillo Parking Jachthaven",
+        "latitude": "51.3039512",
+        "longitude": "4.2888445"
+    },
+    {
+        "id": "hub_26852",
+        "name": "Berchem Vredestraat",
+        "latitude": "51.196181",
+        "longitude": "4.4261575"
+    },
+    {
+        "id": "hub_24326",
+        "name": "Wuustwezel Sociaal Huis - fietsrek",
+        "latitude": "51.3608177",
+        "longitude": "4.5560229"
+    },
+    {
+        "id": "hub_26898",
+        "name": "Antwerp Hondenweide",
+        "latitude": "51.2004112",
+        "longitude": "4.3898075"
+    },
+    {
+        "id": "hub_23353",
+        "name": "Wilrijk UA Universiteitsplein fietsenrek ",
+        "latitude": "51.1636647",
+        "longitude": "4.401212"
+    },
+    {
+        "id": "hub_30604",
+        "name": "Sint-Niklaas Welzijnshuis",
+        "latitude": "51.1581301",
+        "longitude": "4.1424795"
+    },
+    {
+        "id": "hub_29307",
+        "name": "Duffel Halte Itterbeek - fietsrek",
+        "latitude": "51.1085375",
+        "longitude": "4.5513906"
+    },
+    {
+        "id": "hub_29303",
+        "name": "Bornem Station 8E6P",
+        "latitude": "51.0993279",
+        "longitude": "4.2403662"
+    },
+    {
+        "id": "hub_29637",
+        "name": "Mechelen Malinas - fietsrek",
+        "latitude": "51.0391875",
+        "longitude": "4.4599844"
+    },
+    {
+        "id": "hub_26932",
+        "name": "Antwerp Draakplaats",
+        "latitude": "51.2056443",
+        "longitude": "4.4321761"
+    },
+    {
+        "id": "hub_27394",
+        "name": "Borgerhout Bleekhof",
+        "latitude": "51.2114703",
+        "longitude": "4.4324842"
+    },
+    {
+        "id": "hub_28138",
+        "name": "Boom De Schorre - fietsenrek",
+        "latitude": "51.0862799",
+        "longitude": "4.3833578"
+    },
+    {
+        "id": "hub_23324",
+        "name": "Borgerhout Te Boelaerpark",
+        "latitude": "51.2003739",
+        "longitude": "4.4501112"
+    },
+    {
+        "id": "hub_29092",
+        "name": "Boechout Mussenplein",
+        "latitude": "51.1691999",
+        "longitude": "4.5042633"
+    },
+    {
+        "id": "hub_23359",
+        "name": "Beveren Markt - fietsrek",
+        "latitude": "51.2131262",
+        "longitude": "4.2561563"
+    },
+    {
+        "id": "hub_26931",
+        "name": "Berchem Marsenille",
+        "latitude": "51.1989534",
+        "longitude": "4.4280813"
+    },
+    {
+        "id": "hub_23336",
+        "name": "Hoboken Schoonselhof dropzone",
+        "latitude": "51.169141",
+        "longitude": "4.3635312"
+    },
+    {
+        "id": "hub_23371",
+        "name": "Boechout Sportpark Sneppenbos",
+        "latitude": "51.1701021",
+        "longitude": "4.5146117"
+    },
+    {
+        "id": "inrental_37602",
+        "name": "Chadi",
+        "latitude": "51.126891",
+        "longitude": "4.577713"
+    },
+    {
+        "id": "hub_29324",
+        "name": "Oppuurs Dorp 2E1P",
+        "latitude": "51.0662125",
+        "longitude": "4.2443906"
+    },
+    {
+        "id": "hub_23372",
+        "name": "Boechout Vremde Kerk",
+        "latitude": "51.1753529",
+        "longitude": "4.5244533"
+    },
+    {
+        "id": "hub_30393",
+        "name": "Sint-Gillis-Waas Skatepark De Route",
+        "latitude": "51.2219125",
+        "longitude": "4.1125156"
+    },
+    {
+        "id": "hub_23321",
+        "name": "Berchem Driekoningenstraat",
+        "latitude": "51.1958958",
+        "longitude": "4.4190832"
+    },
+    {
+        "id": "hub_28597",
+        "name": "Stekene Kemzeke Dorp 2E4P",
+        "latitude": "51.2071716",
+        "longitude": "4.075038"
+    },
+    {
+        "id": "hub_30612",
+        "name": "Sint-Niklaas Stationsstraat Casino",
+        "latitude": "51.1691537",
+        "longitude": "4.142483"
+    },
+    {
+        "id": "hub_29312",
+        "name": "Heist-Op-Den-Berg Sporthal - fietsrek",
+        "latitude": "51.0679125",
+        "longitude": "4.7354219"
+    },
+    {
+        "id": "hub_28472",
+        "name": "Schoten Churchill",
+        "latitude": "51.2503249",
+        "longitude": "4.4951386"
+    },
+    {
+        "id": "misplaced_33997",
+        "name": "Florence",
+        "latitude": "51.328201",
+        "longitude": "4.579948"
+    },
+    {
+        "id": "hub_30085",
+        "name": "Niel Wetenschapspark 3E2P - fietsenrek ",
+        "latitude": "51.1086625",
+        "longitude": "4.3532031"
+    },
+    {
+        "id": "misplaced_43087",
+        "name": "Bode",
+        "latitude": "51.2098222",
+        "longitude": "4.5232888"
+    },
+    {
+        "id": "inrental_40831",
+        "name": "Forlover",
+        "latitude": "51.0643383",
+        "longitude": "4.5186149"
+    },
+    {
+        "id": "misplaced_36215",
+        "name": "Sylvia",
+        "latitude": "51.2052062",
+        "longitude": "4.3804056"
+    },
+    {
+        "id": "hub_30392",
+        "name": "Sint-Gillis-Waas Sporthal De Gavers",
+        "latitude": "51.2177875",
+        "longitude": "4.1242969"
+    },
+    {
+        "id": "hub_23878",
+        "name": "Brasschaat Perron Noord - randparkeren",
+        "latitude": "51.3362568",
+        "longitude": "4.502239"
+    },
+    {
+        "id": "hub_29607",
+        "name": "Mechelen Station Nekkerspoel 4E7P - fietsrek",
+        "latitude": "51.0305267",
+        "longitude": "4.4896253"
+    },
+    {
+        "id": "hub_29308",
+        "name": "Duffel Mijlstraat Kerk fietsenrek ",
+        "latitude": "51.0968625",
+        "longitude": "4.5547031"
+    },
+    {
+        "id": "hub_27976",
+        "name": "Boom Pastorij - speeltuin",
+        "latitude": "51.0909066",
+        "longitude": "4.3927462"
+    },
+    {
+        "id": "hub_24331",
+        "name": "Essen NMBS Wildert - fietsrek",
+        "latitude": "51.4278222",
+        "longitude": "4.4631891"
+    },
+    {
+        "id": "hub_31293",
+        "name": "Wijnegem Fortveld - fietsrek",
+        "latitude": "51.2254374",
+        "longitude": "4.5113885"
+    },
+    {
+        "id": "hub_23405",
+        "name": "Ekeren Markt  4E4P",
+        "latitude": "51.2772802",
+        "longitude": "4.4183322"
+    },
+    {
+        "id": "hub_23281",
+        "name": "Antwerp Artsen-Zonder-Grenzen",
+        "latitude": "51.2014122",
+        "longitude": "4.4237563"
+    },
+    {
+        "id": "hub_29617",
+        "name": "Mechelen Stationsplein Hombeek 3E3P",
+        "latitude": "51.0136875",
+        "longitude": "4.4430156"
+    },
+    {
+        "id": "hub_26901",
+        "name": "Antwerp Alamarine",
+        "latitude": "51.2087587",
+        "longitude": "4.3873909"
+    },
+    {
+        "id": "hub_26858",
+        "name": "Antwerp Houtdok",
+        "latitude": "51.2348973",
+        "longitude": "4.4138465"
+    },
+    {
+        "id": "hub_26948",
+        "name": "Hoboken Vinkevelden fietsenrek ",
+        "latitude": "51.173478",
+        "longitude": "4.3475001"
+    },
+    {
+        "id": "inrental_40050",
+        "name": "Larry",
+        "latitude": "51.218385",
+        "longitude": "4.396611"
+    },
+    {
+        "id": "hub_23513",
+        "name": "Zandhoven P+R Massenhoven",
+        "latitude": "51.1944983",
+        "longitude": "4.6417568"
+    },
+    {
+        "id": "inrental_33393",
+        "name": "Brittney",
+        "latitude": "51.255083",
+        "longitude": "4.4632"
+    },
+    {
+        "id": "hub_26864",
+        "name": "Hoboken Sint Jozefkerk fietsenrek ",
+        "latitude": "51.171902",
+        "longitude": "4.3384499"
+    },
+    {
+        "id": "hub_23415",
+        "name": "Ekeren Edisonlaan 4P",
+        "latitude": "51.2911598",
+        "longitude": "4.4092641"
+    },
+    {
+        "id": "hub_26895",
+        "name": "Berchem Van Hombeeckplein",
+        "latitude": "51.1948325",
+        "longitude": "4.4166501"
+    },
+    {
+        "id": "hub_23443",
+        "name": "Hemiksem Callebeek - fietsenrek ",
+        "latitude": "51.1433189",
+        "longitude": "4.3311352"
+    },
+    {
+        "id": "hub_32304",
+        "name": "Tijdelijke Hub Brakrock 3",
+        "latitude": "51.0892069",
+        "longitude": "4.4972368"
+    },
+    {
+        "id": "misplaced_37446",
+        "name": "Galaad",
+        "latitude": "51.159297",
+        "longitude": "4.4963788"
+    },
+    {
+        "id": "hub_30609",
+        "name": "Sint-Niklaas Nieuwe Molenstraat",
+        "latitude": "51.1711107",
+        "longitude": "4.161404"
+    },
+    {
+        "id": "hub_27735",
+        "name": "Wilrijk UA Drie Eiken fietsenrek ",
+        "latitude": "51.1602558",
+        "longitude": "4.4067702"
+    },
+    {
+        "id": "hub_27745",
+        "name": "Antwerp Drossaard",
+        "latitude": "51.2185336",
+        "longitude": "4.4397509"
+    },
+    {
+        "id": "hub_26385",
+        "name": "Antwerp Meirbrug",
+        "latitude": "51.2184813",
+        "longitude": "4.4053892"
+    },
+    {
+        "id": "misplaced_33441",
+        "name": "June",
+        "latitude": "51.2296813",
+        "longitude": "4.4057933"
+    },
+    {
+        "id": "hub_30028",
+        "name": "Deurne Raoul Gr\u00e9goirplein - fietsrek",
+        "latitude": "51.229974",
+        "longitude": "4.4432054"
+    },
+    {
+        "id": "inrental_35214",
+        "name": "Beernem",
+        "latitude": "51.232345",
+        "longitude": "4.403055"
+    },
+    {
+        "id": "hub_23448",
+        "name": "Hemiksem Nijverheidsstraat x N148 fietsenrek ",
+        "latitude": "51.1346597",
+        "longitude": "4.335115"
+    },
+    {
+        "id": "hub_23283",
+        "name": "Antwerp CS Astridplein B",
+        "latitude": "51.21835",
+        "longitude": "4.42164"
+    },
+    {
+        "id": "hub_29621",
+        "name": "Mechelen Noord I 3E4P",
+        "latitude": "51.0549587",
+        "longitude": "4.4602567"
+    },
+    {
+        "id": "hub_24257",
+        "name": "Schelle Leopoldstraat - fietsenrek",
+        "latitude": "51.129044",
+        "longitude": "4.3355035"
+    },
+    {
+        "id": "misplaced_40311",
+        "name": "Zakia",
+        "latitude": "51.1713953",
+        "longitude": "4.5004421"
+    },
+    {
+        "id": "hub_27696",
+        "name": "Linkeroever Plage",
+        "latitude": "51.234801",
+        "longitude": "4.3865631"
+    },
+    {
+        "id": "hub_26869",
+        "name": "Hoboken Bibliotheek fietsenrek",
+        "latitude": "51.1894536",
+        "longitude": "4.3863227"
+    },
+    {
+        "id": "inrental_37592",
+        "name": "Aiman",
+        "latitude": "51.206966",
+        "longitude": "4.240428"
+    },
+    {
+        "id": "inrental_40246",
+        "name": "Ozcan",
+        "latitude": "51.230446",
+        "longitude": "4.44675"
+    },
+    {
+        "id": "hub_32292",
+        "name": "Hulst Perkpolder",
+        "latitude": "51.3991726",
+        "longitude": "4.0159152"
+    },
+    {
+        "id": "hub_29302",
+        "name": "Bonheiden Rijmenam Centrum 3E1P",
+        "latitude": "51.0020625",
+        "longitude": "4.5857656"
+    },
+    {
+        "id": "hub_31628",
+        "name": "Duffel Leopoldstraat - fietsrek",
+        "latitude": "51.0981375",
+        "longitude": "4.5068906"
+    },
+    {
+        "id": "hub_29257",
+        "name": "Antwerp HKA Museum",
+        "latitude": "51.210744",
+        "longitude": "4.3899735"
+    },
+    {
+        "id": "hub_23508",
+        "name": "Wijnegem - Shopping Center - fietsrek",
+        "latitude": "51.2223947",
+        "longitude": "4.499977"
+    },
+    {
+        "id": "hub_23364",
+        "name": "Verrebroek Dorp - fietsrek",
+        "latitude": "51.2553729",
+        "longitude": "4.1886176"
+    },
+    {
+        "id": "hub_28144",
+        "name": "Mortsel Edmond Thieffrylaan - fietsrek",
+        "latitude": "51.1666736",
+        "longitude": "4.4480303"
+    },
+    {
+        "id": "inrental_33396",
+        "name": "Liana",
+        "latitude": "51.102061",
+        "longitude": "4.428458"
+    },
+    {
+        "id": "hub_23315",
+        "name": "Antwerp Steenplein",
+        "latitude": "51.2217686",
+        "longitude": "4.3970267"
+    },
+    {
+        "id": "misplaced_39259",
+        "name": "Fiora",
+        "latitude": "51.327337",
+        "longitude": "4.3736749"
+    },
+    {
+        "id": "hub_30791",
+        "name": "Lokeren Sporthal Durmehal",
+        "latitude": "51.1076516",
+        "longitude": "3.9930161"
+    },
+    {
+        "id": "hub_28457",
+        "name": "Zwijndrecht Kerkplein",
+        "latitude": "51.2017784",
+        "longitude": "4.3451521"
+    },
+    {
+        "id": "inrental_35019",
+        "name": "Jawed",
+        "latitude": "51.205106",
+        "longitude": "4.581058"
+    },
+    {
+        "id": "hub_28255",
+        "name": "Zwijndrecht NMBS noord - fietsrek",
+        "latitude": "51.2142593",
+        "longitude": "4.3310165"
+    },
+    {
+        "id": "hub_32552",
+        "name": "Wijnegem Jeugdcentrum Ahoy - fietsrek",
+        "latitude": "51.2299146",
+        "longitude": "4.5264575"
+    },
+    {
+        "id": "hub_26920",
+        "name": "Antwerp Rijswijck",
+        "latitude": "51.1969287",
+        "longitude": "4.4063839"
+    },
+    {
+        "id": "hub_29623",
+        "name": "Mechelen OLV-Kerk 3E3P - fietsrek",
+        "latitude": "51.0232375",
+        "longitude": "4.4794219"
+    },
+    {
+        "id": "hub_24319",
+        "name": "Zwijndrecht NMBS zuid - fietsrek",
+        "latitude": "51.2139016",
+        "longitude": "4.3312058"
+    },
+    {
+        "id": "hub_30164",
+        "name": "Wijnegem R.G van Havrelaan - fietsrek",
+        "latitude": "51.2288372",
+        "longitude": "4.5146357"
+    },
+    {
+        "id": "misplaced_37547",
+        "name": "Giosue",
+        "latitude": "51.202585",
+        "longitude": "4.390391"
+    },
+    {
+        "id": "hub_30853",
+        "name": "Mechelen Postkantoor - fietsrek",
+        "latitude": "51.0280656",
+        "longitude": "4.4794617"
+    },
+    {
+        "id": "hub_24093",
+        "name": "Schilde Brasschaatsebaan",
+        "latitude": "51.2383751",
+        "longitude": "4.5776719"
+    },
+    {
+        "id": "hub_30862",
+        "name": "Mechelen Oude Pleinstraat - fietsrek",
+        "latitude": "51.0401944",
+        "longitude": "4.4709092"
+    },
+    {
+        "id": "hub_24069",
+        "name": "Aartselaar Sportcentrum fietsenrek",
+        "latitude": "51.1384693",
+        "longitude": "4.4002256"
+    },
+    {
+        "id": "hub_23465",
+        "name": "Lier NMBS Station fietsenrek P2",
+        "latitude": "51.1354976",
+        "longitude": "4.5613211"
+    },
+    {
+        "id": "inrental_31131",
+        "name": "Serge",
+        "latitude": "51.18978",
+        "longitude": "4.371355"
+    },
+    {
+        "id": "hub_26899",
+        "name": "Antwerp Colruyt Zuid",
+        "latitude": "51.2058758",
+        "longitude": "4.385983"
+    },
+    {
+        "id": "hub_28470",
+        "name": "Schoten Papenaardeken",
+        "latitude": "51.2497917",
+        "longitude": "4.4864301"
+    },
+    {
+        "id": "hub_30890",
+        "name": "Mechelen Zelestraat",
+        "latitude": "51.03303",
+        "longitude": "4.4772798"
+    },
+    {
+        "id": "hub_29638",
+        "name": "Mechelen Noord II",
+        "latitude": "51.0537625",
+        "longitude": "4.4479531"
+    },
+    {
+        "id": "hub_26933",
+        "name": "Antwerp UA Veke",
+        "latitude": "51.2228246",
+        "longitude": "4.4113085"
+    },
+    {
+        "id": "hub_23500",
+        "name": "SGW Meerdonk Dorp 4E",
+        "latitude": "51.2602935",
+        "longitude": "4.146962"
+    },
+    {
+        "id": "hub_27536",
+        "name": "Antwerp Stadspark Noord",
+        "latitude": "51.2150848",
+        "longitude": "4.4153804"
+    },
+    {
+        "id": "hub_23466",
+        "name": "Lier Veemarkt",
+        "latitude": "51.1284563",
+        "longitude": "4.5824608"
+    },
+    {
+        "id": "hub_30618",
+        "name": "Sint-Niklaas Parking Heymanplein",
+        "latitude": "51.1619269",
+        "longitude": "4.1395411"
+    },
+    {
+        "id": "hub_24318",
+        "name": "Zwijndrecht Burcht Kaai - fietsrek",
+        "latitude": "51.2015399",
+        "longitude": "4.3488707"
+    },
+    {
+        "id": "hub_31907",
+        "name": "Waterbus Zwijndrecht",
+        "latitude": "51.2499449",
+        "longitude": "4.3117432"
+    },
+    {
+        "id": "misplaced_31935",
+        "name": "Kris",
+        "latitude": "51.2537865",
+        "longitude": "4.3852853"
+    },
+    {
+        "id": "hub_23440",
+        "name": "Ekeren Zwaantjeshoek 5P",
+        "latitude": "51.2726772",
+        "longitude": "4.4538933"
+    },
+    {
+        "id": "hub_23989",
+        "name": "Merksem Oudebarreel",
+        "latitude": "51.246592",
+        "longitude": "4.450544"
+    },
+    {
+        "id": "hub_31721",
+        "name": "Kapellen LUX",
+        "latitude": "51.3118047",
+        "longitude": "4.4250623"
+    },
+    {
+        "id": "hub_28140",
+        "name": "Mortsel Vismarkt - fietsrek",
+        "latitude": "51.1689232",
+        "longitude": "4.4567586"
+    },
+    {
+        "id": "hub_32557",
+        "name": "Schoten Park Vordenstein",
+        "latitude": "51.2561875",
+        "longitude": "4.4877656"
+    },
+    {
+        "id": "hub_23493",
+        "name": "Rumst P+R Vosberg",
+        "latitude": "51.0851724",
+        "longitude": "4.4451475"
+    },
+    {
+        "id": "hub_31328",
+        "name": "Putte Sportpark Heerkenshoeve - fietsrek",
+        "latitude": "51.0408875",
+        "longitude": "4.6317031"
+    },
+    {
+        "id": "hub_23417",
+        "name": "Ekeren Hagelkruis 4P",
+        "latitude": "51.2745411",
+        "longitude": "4.4105906"
+    },
+    {
+        "id": "hub_28165",
+        "name": "Ranst Bibliotheek - fietsrek",
+        "latitude": "51.189446",
+        "longitude": "4.5591352"
+    },
+    {
+        "id": "hub_27701",
+        "name": "Linkeroever Halewijn ",
+        "latitude": "51.2204731",
+        "longitude": "4.3786995"
+    },
+    {
+        "id": "hub_31270",
+        "name": "Schelle Gemeentehuis - fietsenrek ",
+        "latitude": "51.1268625",
+        "longitude": "4.3365469"
+    },
+    {
+        "id": "hub_32298",
+        "name": "Tijdelijke Hub Brakrock 1",
+        "latitude": "51.0914924",
+        "longitude": "4.482884"
+    },
+    {
+        "id": "inrental_33988",
+        "name": "Alberto",
+        "latitude": "51.193766",
+        "longitude": "4.41137"
+    },
+    {
+        "id": "hub_23473",
+        "name": "Mortsel Luithagen - Vredebaan -fietsenrek",
+        "latitude": "51.1729892",
+        "longitude": "4.444577"
+    },
+    {
+        "id": "hub_30657",
+        "name": "Antwerp Haven Kaai 102 4E",
+        "latitude": "51.2452849",
+        "longitude": "4.4090862"
+    },
+    {
+        "id": "misplaced_40238",
+        "name": "Peregrine",
+        "latitude": "51.2974883",
+        "longitude": "4.4139311"
+    },
+    {
+        "id": "hub_28577",
+        "name": "Lokeren Melkerijstraat 4P",
+        "latitude": "51.1154875",
+        "longitude": "4.0147031"
+    },
+    {
+        "id": "inrental_31072",
+        "name": "Seppe",
+        "latitude": "51.260385",
+        "longitude": "4.591128"
+    },
+    {
+        "id": "hub_28762",
+        "name": "Wommelgem Koralenhoeve 4E",
+        "latitude": "51.210691",
+        "longitude": "4.5165202"
+    },
+    {
+        "id": "hub_26265",
+        "name": "Antwerp Nieuw Zuid",
+        "latitude": "51.205237",
+        "longitude": "4.3819054"
+    },
+    {
+        "id": "misplaced_32066",
+        "name": "Svenny",
+        "latitude": "51.188527",
+        "longitude": "4.4197301"
+    },
+    {
+        "id": "hub_26939",
+        "name": "Antwerp Hessenplein",
+        "latitude": "51.2258816",
+        "longitude": "4.4097421"
+    },
+    {
+        "id": "hub_23337",
+        "name": "Hoboken Veerdienst dropzone ",
+        "latitude": "51.1755646",
+        "longitude": "4.3320596"
+    },
+    {
+        "id": "inrental_39641",
+        "name": "Joske",
+        "latitude": "51.051185",
+        "longitude": "4.459275"
+    },
+    {
+        "id": "inrental_35122",
+        "name": "Ambre",
+        "latitude": "51.2528",
+        "longitude": "4.488566"
+    },
+    {
+        "id": "hub_29650",
+        "name": "Mechelen Muizen Brughuis - fietsrek",
+        "latitude": "51.0116375",
+        "longitude": "4.5209844"
+    },
+    {
+        "id": "misplaced_32133",
+        "name": "Henk",
+        "latitude": "51.1583277",
+        "longitude": "4.4096896"
+    },
+    {
+        "id": "hub_23394",
+        "name": "Brecht Klein Veerle",
+        "latitude": "51.3359856",
+        "longitude": "4.6621265"
+    },
+    {
+        "id": "hub_26919",
+        "name": "Antwerp Leman",
+        "latitude": "51.1967806",
+        "longitude": "4.4106009"
+    },
+    {
+        "id": "hub_23464",
+        "name": "Lier Markt (Vismarkt) fietsenrek ",
+        "latitude": "51.1308515",
+        "longitude": "4.5718722"
+    },
+    {
+        "id": "hub_23516",
+        "name": "Zandhoven Pulderbos Dorp",
+        "latitude": "51.2180236",
+        "longitude": "4.6912103"
+    },
+    {
+        "id": "hub_29723",
+        "name": "Beveren Atletiek Volharding - tegen omheining",
+        "latitude": "51.2095875",
+        "longitude": "4.2421719"
+    },
+    {
+        "id": "hub_32289",
+        "name": "Hulst Havenfort Tijdelijk ",
+        "latitude": "51.2777678",
+        "longitude": "4.0491548"
+    },
+    {
+        "id": "hub_31241",
+        "name": "Hemiksem Jan Sanderslaan / Q8 - fietsrek",
+        "latitude": "51.1370375",
+        "longitude": "4.3493906"
+    },
+    {
+        "id": "hub_26902",
+        "name": "Antwerp Waagnatie",
+        "latitude": "51.232873",
+        "longitude": "4.4028236"
+    },
+    {
+        "id": "hub_30614",
+        "name": "Sint-Niklaas Recreatiepark Ster",
+        "latitude": "51.1689584",
+        "longitude": "4.1878332"
+    },
+    {
+        "id": "hub_29640",
+        "name": "Mechelen Komet - fietsrek",
+        "latitude": "51.0244875",
+        "longitude": "4.4700781"
+    },
+    {
+        "id": "hub_23474",
+        "name": "Mortsel NMBS Liersesteenweg 3E3P - fietsrek",
+        "latitude": "51.1690762",
+        "longitude": "4.4691745"
+    },
+    {
+        "id": "hub_30867",
+        "name": "Mechelen Merodestraat - fietsrek",
+        "latitude": "51.0315751",
+        "longitude": "4.4828738"
+    },
+    {
+        "id": "hub_26555",
+        "name": "Ekeren NMBS Zuid 4E4P",
+        "latitude": "51.2810199",
+        "longitude": "4.4344623"
+    },
+    {
+        "id": "hub_30861",
+        "name": "Mechelen Bruul 2 - fietsrek",
+        "latitude": "51.0257651",
+        "longitude": "4.4814676"
+    },
+    {
+        "id": "inrental_33720",
+        "name": "Cody",
+        "latitude": "51.1268226",
+        "longitude": "4.4229923"
+    },
+    {
+        "id": "hub_23318",
+        "name": "Antwerp Vlaamsekaai",
+        "latitude": "51.2100272",
+        "longitude": "4.3909891"
+    },
+    {
+        "id": "hub_28469",
+        "name": "Schoten Braamstraat",
+        "latitude": "51.2419157",
+        "longitude": "4.4921563"
+    },
+    {
+        "id": "hub_29995",
+        "name": "Wuustwezel Sporthal Gooreind - fietsrek",
+        "latitude": "51.3545125",
+        "longitude": "4.5324531"
+    },
+    {
+        "id": "inrental_32030",
+        "name": "Suzanne",
+        "latitude": "51.095295",
+        "longitude": "3.994478"
+    },
+    {
+        "id": "misplaced_31768",
+        "name": "Lukaku",
+        "latitude": "51.1216543",
+        "longitude": "4.5249761"
+    },
+    {
+        "id": "hub_30274",
+        "name": "Niel Elisabethplein",
+        "latitude": "51.1067487",
+        "longitude": "4.3272929"
+    },
+    {
+        "id": "hub_24110",
+        "name": "Stabroek Hoevenen Markt",
+        "latitude": "51.3066845",
+        "longitude": "4.4044079"
+    },
+    {
+        "id": "hub_26924",
+        "name": "Antwerp Vinken",
+        "latitude": "51.2045148",
+        "longitude": "4.4045915"
+    },
+    {
+        "id": "hub_29335",
+        "name": "Heindonk Kerk 1E1P - fietsrek",
+        "latitude": "51.0665125",
+        "longitude": "4.4065781"
+    },
+    {
+        "id": "hub_26960",
+        "name": "Antwerp Victor Jacobs",
+        "latitude": "51.1978076",
+        "longitude": "4.4253727"
+    },
+    {
+        "id": "hub_29629",
+        "name": "Mechelen Abeelstraat - fietsrek",
+        "latitude": "51.0032625",
+        "longitude": "4.4858281"
+    },
+    {
+        "id": "hub_30605",
+        "name": "Sint-Niklaas Kuildamstraat",
+        "latitude": "51.1757131",
+        "longitude": "4.1357269"
+    },
+    {
+        "id": "misplaced_40177",
+        "name": "Xuan",
+        "latitude": "51.2901372",
+        "longitude": "4.3812267"
+    },
+    {
+        "id": "hub_32261",
+        "name": "Berchem Walemstraat ",
+        "latitude": "51.1976412",
+        "longitude": "4.4191346"
+    },
+    {
+        "id": "hub_23481",
+        "name": "Mortsel Vijf-aprilwarande 3P",
+        "latitude": "51.1686096",
+        "longitude": "4.4431881"
+    },
+    {
+        "id": "hub_29168",
+        "name": "Kalmthout Achterbroek - fietsrek",
+        "latitude": "51.3867966",
+        "longitude": "4.5032454"
+    },
+    {
+        "id": "hub_29611",
+        "name": "Mechelen Station Muizen 3E3P - fietsrek",
+        "latitude": "51.0087125",
+        "longitude": "4.5136406"
+    },
+    {
+        "id": "hub_28605",
+        "name": "Waasmunster Somebeke Dries 4E",
+        "latitude": "51.1139713",
+        "longitude": "4.1251304"
+    },
+    {
+        "id": "hub_29606",
+        "name": "Mechelen Station Achterkant 4E7P - fietsrek",
+        "latitude": "51.0163625",
+        "longitude": "4.4839844"
+    },
+    {
+        "id": "hub_28474",
+        "name": "Schoten Campus Kajee",
+        "latitude": "51.2656385",
+        "longitude": "4.5382024"
+    },
+    {
+        "id": "hub_29646",
+        "name": "Mechelen Kerkhof - fietsrek",
+        "latitude": "51.0401625",
+        "longitude": "4.4877344"
+    },
+    {
+        "id": "hub_23499",
+        "name": "Sint-Gillis-Waas Sint Helena",
+        "latitude": "51.2232609",
+        "longitude": "4.1254086"
+    },
+    {
+        "id": "hub_26443",
+        "name": "Antwerp Willemdok",
+        "latitude": "51.2294765",
+        "longitude": "4.4113152"
+    },
+    {
+        "id": "hub_28592",
+        "name": "Sint-Niklaas Hoge Heerweg 6P",
+        "latitude": "51.1466935",
+        "longitude": "4.1788894"
+    },
+    {
+        "id": "hub_23374",
+        "name": "Borsbeek Carrefour",
+        "latitude": "51.1948069",
+        "longitude": "4.4774725"
+    },
+    {
+        "id": "hub_27564",
+        "name": "Linkeroever Strantwerpen",
+        "latitude": "51.234075",
+        "longitude": "4.3946831"
+    },
+    {
+        "id": "hub_23402",
+        "name": "Edegem Kerkplein - Fort 5 fietsenrek ",
+        "latitude": "51.1670727",
+        "longitude": "4.4272305"
+    },
+    {
+        "id": "hub_30398",
+        "name": "Sint-Gillis-Waas Spaanskwartier",
+        "latitude": "51.2631375",
+        "longitude": "4.1133281"
+    },
+    {
+        "id": "hub_26857",
+        "name": "Antwerp Eilandje",
+        "latitude": "51.233069",
+        "longitude": "4.4052646"
+    },
+    {
+        "id": "hub_30869",
+        "name": "Mechelen Nekkerspoelstraat - fietsrek",
+        "latitude": "51.0311563",
+        "longitude": "4.492325"
+    },
+    {
+        "id": "misplaced_40822",
+        "name": "Peanut",
+        "latitude": "51.196947",
+        "longitude": "4.4897986"
+    },
+    {
+        "id": "hub_28466",
+        "name": "Schoten Gasketelplein",
+        "latitude": "51.2566963",
+        "longitude": "4.5049263"
+    },
+    {
+        "id": "hub_26925",
+        "name": "Antwerp Molen",
+        "latitude": "51.2063784",
+        "longitude": "4.4097367"
+    },
+    {
+        "id": "inrental_32739",
+        "name": "Tony",
+        "latitude": "51.2880163",
+        "longitude": "4.4871307"
+    },
+    {
+        "id": "hub_28471",
+        "name": "Schoten Parking 'T Ven",
+        "latitude": "51.2519941",
+        "longitude": "4.501601"
+    },
+    {
+        "id": "hub_30263",
+        "name": "Niel SV Nielse",
+        "latitude": "51.1006087",
+        "longitude": "4.344476"
+    },
+    {
+        "id": "hub_29304",
+        "name": "Duffel Station 4E3P - fietsenrek ",
+        "latitude": "51.0908625",
+        "longitude": "4.4932031"
+    },
+    {
+        "id": "hub_26827",
+        "name": "Deurne Ruggeveld",
+        "latitude": "51.2192673",
+        "longitude": "4.4806825"
+    },
+    {
+        "id": "hub_23354",
+        "name": "Beveren Fort Liefkenshoek",
+        "latitude": "51.2959685",
+        "longitude": "4.2857248"
+    },
+    {
+        "id": "hub_30397",
+        "name": "Sint-Gillis-Waas Ijshoeve De Boey",
+        "latitude": "51.2449125",
+        "longitude": "4.1270781"
+    },
+    {
+        "id": "inrental_32430",
+        "name": "Georgia",
+        "latitude": "51.141758",
+        "longitude": "4.446825"
+    },
+    {
+        "id": "hub_23397",
+        "name": "Edegem Gemeenteplein drinkwater fontein ",
+        "latitude": "51.1554535",
+        "longitude": "4.4463094"
+    },
+    {
+        "id": "misplaced_32578",
+        "name": "Ella",
+        "latitude": "51.2999394",
+        "longitude": "4.3541522"
+    },
+    {
+        "id": "inrental_39596",
+        "name": "Randy",
+        "latitude": "51.011065",
+        "longitude": "4.487375"
+    },
+    {
+        "id": "inrental_33354",
+        "name": "Lier",
+        "latitude": "51.147998",
+        "longitude": "4.535843"
+    },
+    {
+        "id": "misplaced_33251",
+        "name": "Judah",
+        "latitude": "51.1483297",
+        "longitude": "4.4490284"
+    },
+    {
+        "id": "hub_27037",
+        "name": "Merksem Maantjessteen",
+        "latitude": "51.2553797",
+        "longitude": "4.4446433"
+    },
+    {
+        "id": "hub_29338",
+        "name": "Willebroek AZ Rivierenland",
+        "latitude": "51.0537875",
+        "longitude": "4.3576719"
+    },
+    {
+        "id": "hub_23454",
+        "name": "Kapellen Hoogboom",
+        "latitude": "51.3123419",
+        "longitude": "4.452174"
+    },
+    {
+        "id": "hub_23422",
+        "name": "Ekeren Kapelsesteenweg 4P",
+        "latitude": "51.2923766",
+        "longitude": "4.4439209"
+    },
+    {
+        "id": "inrental_38328",
+        "name": "Freesia",
+        "latitude": "51.054576",
+        "longitude": "4.453386"
+    },
+    {
+        "id": "hub_24103",
+        "name": "Berendrecht Dorpsstraat 2E4P",
+        "latitude": "51.3435962",
+        "longitude": "4.3139056"
+    },
+    {
+        "id": "hub_23406",
+        "name": "Ekeren NMBS Noord 4E4P",
+        "latitude": "51.2811927",
+        "longitude": "4.4339939"
+    },
+    {
+        "id": "hub_23456",
+        "name": "Kapellen NMBS Station",
+        "latitude": "51.3139853",
+        "longitude": "4.4326331"
+    },
+    {
+        "id": "hub_29639",
+        "name": "Mechelen Lamot - fietsrek",
+        "latitude": "51.0264375",
+        "longitude": "4.4759219"
+    },
+    {
+        "id": "hub_27477",
+        "name": "Wuustwezel Sterbos - fietsrek",
+        "latitude": "51.3916791",
+        "longitude": "4.5639077"
+    },
+    {
+        "id": "hub_32561",
+        "name": "Schoten Deuzeld - fietsrek",
+        "latitude": "51.2448375",
+        "longitude": "4.4617344"
+    },
+    {
+        "id": "hub_23280",
+        "name": "Antwerp Anneessenstraat",
+        "latitude": "51.2177455",
+        "longitude": "4.4176985"
+    },
+    {
+        "id": "hub_26854",
+        "name": "Berchem De Koninck",
+        "latitude": "51.1994299",
+        "longitude": "4.4167279"
+    },
+    {
+        "id": "hub_26940",
+        "name": "Antwerp Koepoort",
+        "latitude": "51.2236212",
+        "longitude": "4.402995"
+    },
+    {
+        "id": "hub_23331",
+        "name": "Deurne Muggenberglei",
+        "latitude": "51.2090841",
+        "longitude": "4.4571605"
+    },
+    {
+        "id": "hub_29635",
+        "name": "Mechelen Sportpark De Nekker",
+        "latitude": "51.0263375",
+        "longitude": "4.5025781"
+    },
+    {
+        "id": "misplaced_39608",
+        "name": "Jean-Sebastien",
+        "latitude": "51.2973218",
+        "longitude": "4.5010303"
+    },
+    {
+        "id": "hub_29733",
+        "name": "Kieldrecht Sportzone - fietsrek",
+        "latitude": "51.2880875",
+        "longitude": "4.1867031"
+    },
+    {
+        "id": "hub_29636",
+        "name": "Mechelen De Plaon - fietsrek",
+        "latitude": "51.0416625",
+        "longitude": "4.4760469"
+    },
+    {
+        "id": "hub_30610",
+        "name": "Nieuwkerken Dorp",
+        "latitude": "51.193087",
+        "longitude": "4.1780203"
+    },
+    {
+        "id": "hub_23404",
+        "name": "Edegem Omer van Ommerplein fietsenrek ",
+        "latitude": "51.1606319",
+        "longitude": "4.418481"
+    },
+    {
+        "id": "hub_23416",
+        "name": "Ekeren Geestenspoor 4P",
+        "latitude": "51.2819416",
+        "longitude": "4.4251782"
+    },
+    {
+        "id": "hub_24111",
+        "name": "Stabroek op-en afrit P+R",
+        "latitude": "51.3267808",
+        "longitude": "4.3535878"
+    },
+    {
+        "id": "hub_23357",
+        "name": "Beveren Kallo Waterbus steiger",
+        "latitude": "51.2686599",
+        "longitude": "4.2982406"
+    },
+    {
+        "id": "hub_26923",
+        "name": "Antwerp St Vincentius fietsenrek ",
+        "latitude": "51.2060583",
+        "longitude": "4.4136396"
+    },
+    {
+        "id": "hub_23288",
+        "name": "Antwerp Expo",
+        "latitude": "51.1914375",
+        "longitude": "4.3990161"
+    },
+    {
+        "id": "hub_23392",
+        "name": "Brecht Andrelaan",
+        "latitude": "51.3164",
+        "longitude": "4.5856"
+    },
+    {
+        "id": "hub_23514",
+        "name": "Zandhoven Pulle Dorp",
+        "latitude": "51.2042647",
+        "longitude": "4.7119741"
+    },
+    {
+        "id": "hub_28139",
+        "name": "Mortsel Edegemstraat - fietsrek",
+        "latitude": "51.1702747",
+        "longitude": "4.4483498"
+    },
+    {
+        "id": "hub_30857",
+        "name": "Mechelen Battelsesteenweg - fietsrek",
+        "latitude": "51.0281007",
+        "longitude": "4.4698371"
+    },
+    {
+        "id": "hub_29297",
+        "name": "Melkouwen Station - fietsrek",
+        "latitude": "51.0947125",
+        "longitude": "4.6720781"
+    },
+    {
+        "id": "hub_23303",
+        "name": "Antwerp Opera",
+        "latitude": "51.2194726",
+        "longitude": "4.415807"
+    },
+    {
+        "id": "hub_30790",
+        "name": "Lokeren Eksaarde Dorp",
+        "latitude": "51.147092",
+        "longitude": "3.9587071"
+    },
+    {
+        "id": "hub_30892",
+        "name": "Antwerp Haven MSC 4E",
+        "latitude": "51.2618363",
+        "longitude": "4.4106055"
+    },
+    {
+        "id": "hub_26900",
+        "name": "Antwerp Waterpoort",
+        "latitude": "51.2079332",
+        "longitude": "4.3887387"
+    },
+    {
+        "id": "hub_23439",
+        "name": "Ekeren Wijk Sint-Mariabrug 4P",
+        "latitude": "51.2970705",
+        "longitude": "4.440306"
+    },
+    {
+        "id": "hub_26828",
+        "name": "Borgerhout Berchemlei",
+        "latitude": "51.202912",
+        "longitude": "4.4457833"
+    },
+    {
+        "id": "hub_29728",
+        "name": "Melsele Kapel van Gaverland - fietsrek",
+        "latitude": "51.2257625",
+        "longitude": "4.2677656"
+    },
+    {
+        "id": "hub_27010",
+        "name": "Antwerp Play Zuid",
+        "latitude": "51.2069428",
+        "longitude": "4.3858305"
+    },
+    {
+        "id": "hub_29325",
+        "name": "Sint-Amands M Massinstraat 3E3P - fietsrek",
+        "latitude": "51.0516875",
+        "longitude": "4.2067031"
+    },
+    {
+        "id": "hub_24335",
+        "name": "Temse NMBS 6E4P",
+        "latitude": "51.1262417",
+        "longitude": "4.2214392"
+    },
+    {
+        "id": "hub_28468",
+        "name": "Schoten Botermelk",
+        "latitude": "51.2776077",
+        "longitude": "4.5256155"
+    },
+    {
+        "id": "hub_26916",
+        "name": "Antwerp Rubenshuis",
+        "latitude": "51.217223",
+        "longitude": "4.4089988"
+    },
+    {
+        "id": "hub_29615",
+        "name": "Mechelen Leest Dorp 3E3P - fietsrek",
+        "latitude": "51.0326125",
+        "longitude": "4.4180156"
+    },
+    {
+        "id": "hub_23438",
+        "name": "Ekeren Vuurkruisenstraat 4P2E",
+        "latitude": "51.2757718",
+        "longitude": "4.4145393"
+    },
+    {
+        "id": "hub_23511",
+        "name": "Wijnegem Sportcentrum - fietsrek",
+        "latitude": "51.2253646",
+        "longitude": "4.5334841"
+    },
+    {
+        "id": "hub_29724",
+        "name": "Beveren Sportpark - fietsrek",
+        "latitude": "51.2113125",
+        "longitude": "4.2429844"
+    },
+    {
+        "id": "hub_23386",
+        "name": "Brasschaat Maria Ter Heide Kazerne Copp 2E2P",
+        "latitude": "51.3294517",
+        "longitude": "4.5285264"
+    },
+    {
+        "id": "hub_28898",
+        "name": "Hoboken bushalte Groothandelsmarkt",
+        "latitude": "51.1927799",
+        "longitude": "4.3727356"
+    },
+    {
+        "id": "hub_26917",
+        "name": "Antwerp Markgravelei",
+        "latitude": "51.2006849",
+        "longitude": "4.3984557"
+    },
+    {
+        "id": "hub_30865",
+        "name": "Mechelen Wilgenstraat - fietsrek ",
+        "latitude": "51.0082875",
+        "longitude": "4.4850469"
+    },
+    {
+        "id": "hub_31880",
+        "name": "Lier Koningshooikt Koningsplein",
+        "latitude": "51.0938682",
+        "longitude": "4.6117808"
+    },
+    {
+        "id": "hub_29626",
+        "name": "Mechelen Frans Halsvest 4P - fietsrek",
+        "latitude": "51.0336375",
+        "longitude": "4.4833906"
+    },
+    {
+        "id": "hub_23360",
+        "name": "Beveren Melsele Spoorweglaan - fietsrek",
+        "latitude": "51.2198478",
+        "longitude": "4.2822222"
+    },
+    {
+        "id": "hub_31629",
+        "name": "Duffel Technisch Centrum 1E1P",
+        "latitude": "51.0893125",
+        "longitude": "4.4977344"
+    },
+    {
+        "id": "misplaced_36276",
+        "name": "Carmelo",
+        "latitude": "51.123401",
+        "longitude": "4.469788"
+    },
+    {
+        "id": "hub_31847",
+        "name": "Antwerpen - Cella fietsrek",
+        "latitude": "51.2330138",
+        "longitude": "4.4088428"
+    },
+    {
+        "id": "hub_31395",
+        "name": "Luchtbal OWC",
+        "latitude": "51.2432875",
+        "longitude": "4.4237031"
+    },
+    {
+        "id": "hub_23294",
+        "name": "Luchtbal NMBS",
+        "latitude": "51.2444489",
+        "longitude": "4.4245057"
+    },
+    {
+        "id": "hub_26816",
+        "name": "Deurne Sportpaleis ",
+        "latitude": "51.2301001",
+        "longitude": "4.4424071"
+    },
+    {
+        "id": "hub_23311",
+        "name": "Antwerp Schijnpoort A",
+        "latitude": "51.2273537",
+        "longitude": "4.4388026"
+    },
+    {
+        "id": "misplaced_32128",
+        "name": "Niklas",
+        "latitude": "51.150458",
+        "longitude": "4.1521972"
+    },
+    {
+        "id": "hub_28629",
+        "name": "Brecht De Renlaan",
+        "latitude": "51.2998565",
+        "longitude": "4.5721621"
+    },
+    {
+        "id": "hub_26914",
+        "name": "Antwerp Theaterplein",
+        "latitude": "51.2147032",
+        "longitude": "4.4106269"
+    },
+    {
+        "id": "hub_30654",
+        "name": "Antwerp Haven ZNA Kaai 142 4E",
+        "latitude": "51.2571748",
+        "longitude": "4.4152361"
+    },
+    {
+        "id": "hub_27011",
+        "name": "Antwerp Leon Steyen",
+        "latitude": "51.2066486",
+        "longitude": "4.3842081"
+    },
+    {
+        "id": "hub_24105",
+        "name": "Berendrecht dienstencentrum 2E4P",
+        "latitude": "51.3461711",
+        "longitude": "4.3228089"
+    },
+    {
+        "id": "misplaced_33564",
+        "name": "Lucie",
+        "latitude": "51.2758695",
+        "longitude": "4.4554366"
+    },
+    {
+        "id": "inrental_32409",
+        "name": "Thomas",
+        "latitude": "51.20645",
+        "longitude": "4.414075"
+    },
+    {
+        "id": "hub_30584",
+        "name": "Antwerp Campus Hallen",
+        "latitude": "51.2298388",
+        "longitude": "4.4363928"
+    },
+    {
+        "id": "misplaced_33269",
+        "name": "Michele",
+        "latitude": "51.176038",
+        "longitude": "4.524451"
+    },
+    {
+        "id": "hub_23301",
+        "name": "Antwerp Museum Schone Kunsten",
+        "latitude": "51.2094071",
+        "longitude": "4.3943274"
+    },
+    {
+        "id": "hub_23401",
+        "name": "Edegem Kattenbroek fietsenrek ",
+        "latitude": "51.148976",
+        "longitude": "4.4347249"
+    },
+    {
+        "id": "hub_23389",
+        "name": "Brecht NMBS Noorderkempen - Brecht Hoek",
+        "latitude": "51.3570757",
+        "longitude": "4.6323232"
+    },
+    {
+        "id": "hub_23475",
+        "name": "Mortsel NMBS Mortsel 3E3P - fietsrek",
+        "latitude": "51.1822867",
+        "longitude": "4.4479984"
+    },
+    {
+        "id": "hub_24215",
+        "name": "Schoten Deuzelt Kerk",
+        "latitude": "51.2448797",
+        "longitude": "4.4668882"
+    },
+    {
+        "id": "inrental_35157",
+        "name": "Amado",
+        "latitude": "51.452766",
+        "longitude": "4.492538"
+    },
+    {
+        "id": "hub_28134",
+        "name": "Essen Hoek - fietsrek",
+        "latitude": "51.4458876",
+        "longitude": "4.4100771"
+    },
+    {
+        "id": "hub_23379",
+        "name": "Brasschaat / Brecht P+R St Job 10E - fietsrek",
+        "latitude": "51.3100647",
+        "longitude": "4.5547344"
+    },
+    {
+        "id": "hub_23356",
+        "name": "Beveren Kallo Dorp - fietsrek",
+        "latitude": "51.2526853",
+        "longitude": "4.2788881"
+    },
+    {
+        "id": "inrental_37492",
+        "name": "Aditya",
+        "latitude": "51.147098",
+        "longitude": "4.545046"
+    },
+    {
+        "id": "misplaced_36339",
+        "name": "Serhat",
+        "latitude": "51.3769051",
+        "longitude": "4.4488373"
+    },
+    {
+        "id": "hub_27039",
+        "name": "Deurne Saerens",
+        "latitude": "51.2289711",
+        "longitude": "4.4781065"
+    },
+    {
+        "id": "hub_26882",
+        "name": "Borgerhout Krugerpark",
+        "latitude": "51.215935",
+        "longitude": "4.4418582"
+    },
+    {
+        "id": "hub_31561",
+        "name": "Hoboken KDG fietsenrek ",
+        "latitude": "51.173351",
+        "longitude": "4.3710834"
+    },
+    {
+        "id": "hub_24327",
+        "name": "Wuustwezel Loenhout Kerk - fietsrek",
+        "latitude": "51.3984061",
+        "longitude": "4.6424488"
+    },
+    {
+        "id": "hub_28602",
+        "name": "Temse Tinelplaats 4E",
+        "latitude": "51.1264207",
+        "longitude": "4.2037326"
+    },
+    {
+        "id": "inrental_38803",
+        "name": "Laurian",
+        "latitude": "51.025666",
+        "longitude": "4.471481"
+    },
+    {
+        "id": "inrental_36314",
+        "name": "Mateo",
+        "latitude": "51.292701",
+        "longitude": "4.494661"
+    },
+    {
+        "id": "hub_27025",
+        "name": "Merksem Sport",
+        "latitude": "51.2602502",
+        "longitude": "4.4601461"
+    },
+    {
+        "id": "hub_28627",
+        "name": "Brecht Lochtenbergplein",
+        "latitude": "51.3016122",
+        "longitude": "4.5607716"
+    },
+    {
+        "id": "hub_23398",
+        "name": "Edegem P+R UZA fietsenrek ",
+        "latitude": "51.1570657",
+        "longitude": "4.4129195"
+    },
+    {
+        "id": "hub_23322",
+        "name": "Berchem Fruithoflaan",
+        "latitude": "51.1803093",
+        "longitude": "4.4330573"
+    },
+    {
+        "id": "hub_23369",
+        "name": "Boechout P+R Boechout",
+        "latitude": "51.1690887",
+        "longitude": "4.4931745"
+    },
+    {
+        "id": "hub_31719",
+        "name": "Kapellen Eskapade",
+        "latitude": "51.3342263",
+        "longitude": "4.4097222"
+    },
+    {
+        "id": "hub_23355",
+        "name": "Beveren Haasdonk - fietsrek",
+        "latitude": "51.1813144",
+        "longitude": "4.2392227"
+    },
+    {
+        "id": "hub_23431",
+        "name": "Ekeren Prinshoeveweg",
+        "latitude": "51.279708",
+        "longitude": "4.447414"
+    },
+    {
+        "id": "hub_23370",
+        "name": "Boechout Kerk",
+        "latitude": "51.1584592",
+        "longitude": "4.4914003"
+    },
+    {
+        "id": "hub_23304",
+        "name": "Wilrijk P+R Olympiade dropzone ",
+        "latitude": "51.1839",
+        "longitude": "4.392"
+    },
+    {
+        "id": "hub_29170",
+        "name": "Kalmthout Sportpark - fietsrek",
+        "latitude": "51.3777108",
+        "longitude": "4.4797599"
+    },
+    {
+        "id": "hub_28166",
+        "name": "Ranst Broechem Kerk - voetpad",
+        "latitude": "51.1814529",
+        "longitude": "4.6018065"
+    },
+    {
+        "id": "hub_30860",
+        "name": "Mechelen Ijzerenleen - fietsrek",
+        "latitude": "51.0261375",
+        "longitude": "4.4781094"
+    },
+    {
+        "id": "hub_30733",
+        "name": "Booischot Station 2 2E1P - fietsrek",
+        "latitude": "51.0370927",
+        "longitude": "4.7736733"
+    },
+    {
+        "id": "hub_26868",
+        "name": "Hoboken Valaar fietsenrek ",
+        "latitude": "51.175452",
+        "longitude": "4.3788715"
+    },
+    {
+        "id": "hub_23366",
+        "name": "Beveren - Doel dorp - voetpad",
+        "latitude": "51.3113763",
+        "longitude": "4.2645302"
+    },
+    {
+        "id": "hub_23368",
+        "name": "Boechout NMBS Boechout",
+        "latitude": "51.1634509",
+        "longitude": "4.4949188"
+    },
+    {
+        "id": "hub_30637",
+        "name": "Luchtbal Schouwburg",
+        "latitude": "51.248467",
+        "longitude": "4.4231219"
+    },
+    {
+        "id": "hub_29651",
+        "name": "Boortmeerbeek Station 3E3P - fietsrek",
+        "latitude": "50.981874",
+        "longitude": "4.5734936"
+    },
+    {
+        "id": "hub_23870",
+        "name": "Brasschaat Rustoordlei",
+        "latitude": "51.3011966",
+        "longitude": "4.4719884"
+    },
+    {
+        "id": "hub_29605",
+        "name": "Mechelen Station Voorkant 5E9P",
+        "latitude": "51.0175625",
+        "longitude": "4.4824844"
+    },
+    {
+        "id": "hub_29659",
+        "name": "Berlaar Markt",
+        "latitude": "51.1173625",
+        "longitude": "4.6577031"
+    },
+    {
+        "id": "hub_29609",
+        "name": "Mechelen Douaneplein 3E5P",
+        "latitude": "51.0262375",
+        "longitude": "4.4929531"
+    },
+    {
+        "id": "inrental_34012",
+        "name": "Luis",
+        "latitude": "51.201903",
+        "longitude": "4.524011"
+    },
+    {
+        "id": "hub_27834",
+        "name": "Antwerp Troonplaats",
+        "latitude": "51.203284",
+        "longitude": "4.3917186"
+    },
+    {
+        "id": "hub_28167",
+        "name": "Ranst Tennisclub - parkeerplaats 1",
+        "latitude": "51.1827788",
+        "longitude": "4.5609994"
+    },
+    {
+        "id": "hub_23380",
+        "name": "Brasschaat Kerk 6E4P - fietsrek",
+        "latitude": "51.2898976",
+        "longitude": "4.4924768"
+    },
+    {
+        "id": "misplaced_33140",
+        "name": "Parker",
+        "latitude": "51.2034692",
+        "longitude": "4.3938959"
+    },
+    {
+        "id": "hub_28950",
+        "name": "Hemiksem Heiligstraat",
+        "latitude": "51.1502378",
+        "longitude": "4.349788"
+    },
+    {
+        "id": "hub_32299",
+        "name": "Tijdelijke Hub Brakrock 2",
+        "latitude": "51.1030649",
+        "longitude": "4.4908305"
+    },
+    {
+        "id": "misplaced_33213",
+        "name": "Narciso",
+        "latitude": "51.0440546",
+        "longitude": "4.462271"
+    },
+    {
+        "id": "hub_26819",
+        "name": "Deurne Bisschoppenhofpark",
+        "latitude": "51.2319148",
+        "longitude": "4.4606547"
+    },
+    {
+        "id": "hub_30598",
+        "name": "Rumst Terhagen Hof Van Crequi",
+        "latitude": "51.0787762",
+        "longitude": "4.4010529"
+    },
+    {
+        "id": "hub_27767",
+        "name": "Antwerp Kistemaecker ",
+        "latitude": "51.2193581",
+        "longitude": "4.4365776"
+    },
+    {
+        "id": "hub_27256",
+        "name": "Antwerp ZNA Cadix",
+        "latitude": "51.2315374",
+        "longitude": "4.4167218"
+    },
+    {
+        "id": "misplaced_32799",
+        "name": "Ross",
+        "latitude": "51.2296813",
+        "longitude": "4.4057933"
+    },
+    {
+        "id": "hub_23373",
+        "name": "Boom NMBS Station - fietsrek",
+        "latitude": "51.0902982",
+        "longitude": "4.3600839"
+    },
+    {
+        "id": "hub_30607",
+        "name": "Sint-Niklaas Lamstraat",
+        "latitude": "51.1657875",
+        "longitude": "4.1530156"
+    },
+    {
+        "id": "hub_28149",
+        "name": "Brasschaat Kerk Bethanie - fietsrek",
+        "latitude": "51.3151954",
+        "longitude": "4.5020024"
+    },
+    {
+        "id": "hub_29660",
+        "name": "Heist-Op-Den-Berg Parking Leopoldlei 4E3P",
+        "latitude": "51.0771875",
+        "longitude": "4.7268594"
+    },
+    {
+        "id": "hub_23396",
+        "name": "Brecht Sint-Job Xus Koning",
+        "latitude": "51.292519",
+        "longitude": "4.5863801"
+    },
+    {
+        "id": "hub_26837",
+        "name": "Antwerp Hof ter Bekestraat",
+        "latitude": "51.2017915",
+        "longitude": "4.3960841"
+    },
+    {
+        "id": "inrental_35406",
+        "name": "Nicasy",
+        "latitude": "51.2077604",
+        "longitude": "4.4034085"
+    },
+    {
+        "id": "hub_23383",
+        "name": "Brasschaat Driehoek 2E4P - fietsrek",
+        "latitude": "51.3038859",
+        "longitude": "4.5037402"
+    },
+    {
+        "id": "hub_28122",
+        "name": "Luchtbal Brandweer BZA 6E",
+        "latitude": "51.2504979",
+        "longitude": "4.4197102"
+    },
+    {
+        "id": "hub_27033",
+        "name": "Antwerp ZNA Stuivenberg",
+        "latitude": "51.2231362",
+        "longitude": "4.4364431"
+    },
+    {
+        "id": "hub_23450",
+        "name": "Kalmthout Kerkplein Driehoek - fietsrek",
+        "latitude": "51.38268",
+        "longitude": "4.47491"
+    },
+    {
+        "id": "hub_29726",
+        "name": "Beveren Schoolomgeving Kallobaan - gevel",
+        "latitude": "51.2169625",
+        "longitude": "4.2593281"
+    },
+    {
+        "id": "hub_27052",
+        "name": "Antwerp Oostkaai",
+        "latitude": "51.2300513",
+        "longitude": "4.4076952"
+    },
+    {
+        "id": "hub_31291",
+        "name": "Mechelen LDC Den Abeel 3E1P",
+        "latitude": "51.0010489",
+        "longitude": "4.4839852"
+    },
+    {
+        "id": "hub_28128",
+        "name": "Antwerp Haven ThyssenKrupp 4E",
+        "latitude": "51.252966",
+        "longitude": "4.3975171"
+    },
+    {
+        "id": "hub_29320",
+        "name": "Beerzel Halte Driesstraat 2E2P - fietsrek",
+        "latitude": "51.0608125",
+        "longitude": "4.6538281"
+    },
+    {
+        "id": "hub_30594",
+        "name": "Reet Halte Donkerstraat",
+        "latitude": "51.1073472",
+        "longitude": "4.4094254"
+    },
+    {
+        "id": "hub_23461",
+        "name": "Kontich Kazerne Kerk fietsenrek ",
+        "latitude": "51.127744",
+        "longitude": "4.4724822"
+    },
+    {
+        "id": "hub_27257",
+        "name": "Antwerp Brederode",
+        "latitude": "51.2070762",
+        "longitude": "4.3974609"
+    },
+    {
+        "id": "hub_23414",
+        "name": "Ekeren Driehoekstraat",
+        "latitude": "51.2844413",
+        "longitude": "4.4228865"
+    },
+    {
+        "id": "hub_24217",
+        "name": "Schoten Zeurt",
+        "latitude": "51.2644387",
+        "longitude": "4.5080086"
+    },
+    {
+        "id": "inrental_31604",
+        "name": "Erdem",
+        "latitude": "51.127208",
+        "longitude": "4.575596"
+    },
+    {
+        "id": "hub_29330",
+        "name": "S-K-W Station 3E3P - fietsrek",
+        "latitude": "51.0700875",
+        "longitude": "4.4961094"
+    },
+    {
+        "id": "hub_28606",
+        "name": "Zele Wijnveld",
+        "latitude": "51.0833125",
+        "longitude": "4.0373594"
+    },
+    {
+        "id": "hub_28628",
+        "name": "Brecht Sluis 5",
+        "latitude": "51.2992769",
+        "longitude": "4.557853"
+    },
+    {
+        "id": "hub_29340",
+        "name": "Blaasveld Parking Het Broek",
+        "latitude": "51.0598375",
+        "longitude": "4.3817344"
+    },
+    {
+        "id": "inrental_34035",
+        "name": "Belisario",
+        "latitude": "51.183025",
+        "longitude": "4.378135"
+    },
+    {
+        "id": "hub_26908",
+        "name": "Antwerp Veemarkt",
+        "latitude": "51.2237107",
+        "longitude": "4.4000355"
+    },
+    {
+        "id": "hub_28150",
+        "name": "Brasschaat park - eerste boom aan de hoek",
+        "latitude": "51.2879761",
+        "longitude": "4.4911944"
+    },
+    {
+        "id": "hub_29624",
+        "name": "Mechelen Zandpoortvest 2E2P - fietsrek",
+        "latitude": "51.0256457",
+        "longitude": "4.4890648"
+    },
+    {
+        "id": "misplaced_33808",
+        "name": "Kenji",
+        "latitude": "51.2295561",
+        "longitude": "4.4449874"
+    },
+    {
+        "id": "hub_30592",
+        "name": "Rumst Terhagen Begraafplaats",
+        "latitude": "51.0786727",
+        "longitude": "4.3954044"
+    },
+    {
+        "id": "hub_27396",
+        "name": "Borgerhout Reiziger",
+        "latitude": "51.2136662",
+        "longitude": "4.4438256"
+    },
+    {
+        "id": "hub_27395",
+        "name": "Borgerhout Naeyaertplein",
+        "latitude": "51.2097921",
+        "longitude": "4.4404963"
+    },
+    {
+        "id": "hub_23316",
+        "name": "Antwerp St-Jansplein",
+        "latitude": "51.2251554",
+        "longitude": "4.418513"
+    },
+    {
+        "id": "hub_32556",
+        "name": "Schoten Ontspanningslokaal Lariksdreef",
+        "latitude": "51.2610375",
+        "longitude": "4.5212969"
+    },
+    {
+        "id": "hub_27053",
+        "name": "Antwerp MAS Noord",
+        "latitude": "51.2297179",
+        "longitude": "4.4033148"
+    },
+    {
+        "id": "hub_29613",
+        "name": "Mechelen Heffen Centrum 2E2P ",
+        "latitude": "51.0463375",
+        "longitude": "4.4198906"
+    },
+    {
+        "id": "hub_28260",
+        "name": "Hoboken De Schorren fietsenrek ",
+        "latitude": "51.1852711",
+        "longitude": "4.3423177"
+    },
+    {
+        "id": "hub_23478",
+        "name": "Mortsel Jozef Hermanslei 2E3P - fietsrek",
+        "latitude": "51.1765267",
+        "longitude": "4.436311"
+    },
+    {
+        "id": "hub_30889",
+        "name": "Mechelen Kerkhoflei - fietsrek",
+        "latitude": "51.0378125",
+        "longitude": "4.4816406"
+    },
+    {
+        "id": "hub_29296",
+        "name": "Berlaar Station 3E3P - fietsrek",
+        "latitude": "51.1134375",
+        "longitude": "4.6393594"
+    },
+    {
+        "id": "inrental_32079",
+        "name": "Nives",
+        "latitude": "51.199391",
+        "longitude": "4.407031"
+    },
+    {
+        "id": "hub_23400",
+        "name": "Edegem Grijpegemplein fietsenrek ",
+        "latitude": "51.1619765",
+        "longitude": "4.4497579"
+    },
+    {
+        "id": "hub_27710",
+        "name": "Antwerp Venus",
+        "latitude": "51.2229041",
+        "longitude": "4.4088388"
+    },
+    {
+        "id": "inrental_37969",
+        "name": "Harmen",
+        "latitude": "51.261053",
+        "longitude": "4.383686"
+    },
+    {
+        "id": "hub_24340",
+        "name": "Kruibeke Scheldelei - Veerdienst 4E4P",
+        "latitude": "51.1756097",
+        "longitude": "4.3232964"
+    },
+    {
+        "id": "hub_29645",
+        "name": "Mechelen Tivolipark",
+        "latitude": "51.0458875",
+        "longitude": "4.4723594"
+    },
+    {
+        "id": "hub_27751",
+        "name": "Deurne Boekenberg Sport",
+        "latitude": "51.1954052",
+        "longitude": "4.4725456"
+    },
+    {
+        "id": "hub_29311",
+        "name": "Duffel Domein Pollepel fietsenrek ",
+        "latitude": "51.0828625",
+        "longitude": "4.5134531"
+    },
+    {
+        "id": "hub_28589",
+        "name": "Sint-Gillis-Waas De Route 4E",
+        "latitude": "51.2184625",
+        "longitude": "4.1130156"
+    },
+    {
+        "id": "hub_28590",
+        "name": "Sint-Gillis-Waas Golf/Musketeers 4E",
+        "latitude": "51.2262457",
+        "longitude": "4.0881948"
+    },
+    {
+        "id": "hub_28607",
+        "name": "Zele Zevensterren",
+        "latitude": "51.076189",
+        "longitude": "4.0456663"
+    },
+    {
+        "id": "inrental_44909",
+        "name": "Kauffmann",
+        "latitude": "51.220787",
+        "longitude": "4.4206027"
+    },
+    {
+        "id": "hub_26830",
+        "name": "Wilrijk Sportcentrum fietsenrek ",
+        "latitude": "51.1892695",
+        "longitude": "4.3970582"
+    },
+    {
+        "id": "hub_29298",
+        "name": "Bonheiden Mart 4E",
+        "latitude": "51.0231625",
+        "longitude": "4.6063281"
+    },
+    {
+        "id": "hub_30448",
+        "name": "Linkeroever FPC - Rode Kruis",
+        "latitude": "51.2069009",
+        "longitude": "4.3643723"
+    },
+    {
+        "id": "hub_28759",
+        "name": "Antwerp Noordschippers",
+        "latitude": "51.234594",
+        "longitude": "4.4288883"
+    },
+    {
+        "id": "hub_28181",
+        "name": "Berchem Kerk Pius-X - fietsrek",
+        "latitude": "51.1775047",
+        "longitude": "4.4226559"
+    },
+    {
+        "id": "hub_23509",
+        "name": "Wijnegem Houtlaan/Ganzenweg - fietsrek",
+        "latitude": "51.2302155",
+        "longitude": "4.5082501"
+    },
+    {
+        "id": "inrental_39579",
+        "name": "Caitlyn",
+        "latitude": "51.17903",
+        "longitude": "4.457261"
+    },
+    {
+        "id": "hub_28467",
+        "name": "Schoten Villerslei",
+        "latitude": "51.2522596",
+        "longitude": "4.5096661"
+    },
+    {
+        "id": "hub_30608",
+        "name": "Sint-Niklaas Europark Zuid",
+        "latitude": "51.1625125",
+        "longitude": "4.1675469"
+    },
+    {
+        "id": "hub_26821",
+        "name": "Deurne De Berlaimont",
+        "latitude": "51.2284188",
+        "longitude": "4.4574693"
+    },
+    {
+        "id": "hub_23335",
+        "name": "Hoboken NMBS Polder fietsenrek ",
+        "latitude": "51.1825971",
+        "longitude": "4.3480269"
+    },
+    {
+        "id": "hub_23387",
+        "name": "Brasschaat Miksebaan  4E4P -zijkant",
+        "latitude": "51.2921994",
+        "longitude": "4.5053036"
+    },
+    {
+        "id": "hub_29309",
+        "name": "Duffel Walemstraat glascontainer",
+        "latitude": "51.0875635",
+        "longitude": "4.4806838"
+    },
+    {
+        "id": "hub_26589",
+        "name": "Antwerp CS De Keyserlei",
+        "latitude": "51.217337",
+        "longitude": "4.4203519"
+    },
+    {
+        "id": "hub_30001",
+        "name": "Wuustwezel Kerk Sint-Jozef 1E2P - fietsrek",
+        "latitude": "51.3579637",
+        "longitude": "4.5422936"
+    },
+    {
+        "id": "hub_27021",
+        "name": "Antwerp Zomerbar",
+        "latitude": "51.2307461",
+        "longitude": "4.422966"
+    },
+    {
+        "id": "inrental_38305",
+        "name": "Cebrail",
+        "latitude": "51.20016",
+        "longitude": "4.442041"
+    },
+    {
+        "id": "hub_30166",
+        "name": "Wijnegem Dorenboslaan - fietsrek",
+        "latitude": "51.2245386",
+        "longitude": "4.5063544"
+    },
+    {
+        "id": "hub_24325",
+        "name": "Wuustwezel Dorp - fietsrek",
+        "latitude": "51.390178",
+        "longitude": "4.5920801"
+    },
+    {
+        "id": "inrental_39625",
+        "name": "Timothee",
+        "latitude": "51.168491",
+        "longitude": "4.335918"
+    },
+    {
+        "id": "hub_29661",
+        "name": "Blaasveld Ten Bergh 3E3P",
+        "latitude": "51.0509375",
+        "longitude": "4.3727656"
+    },
+    {
+        "id": "hub_23363",
+        "name": "Beveren P+R Melsele - zijkant fietsrek",
+        "latitude": "51.2190932",
+        "longitude": "4.3045901"
+    },
+    {
+        "id": "hub_23297",
+        "name": "Antwerp MAS / St-Aldegondiskaai",
+        "latitude": "51.22812",
+        "longitude": "4.404984"
+    },
+    {
+        "id": "hub_32260",
+        "name": "Antwerpen Steenborgerweert",
+        "latitude": "51.2372724",
+        "longitude": "4.4222791"
+    },
+    {
+        "id": "hub_29318",
+        "name": "Peulis Dorp 2E2P",
+        "latitude": "51.0369625",
+        "longitude": "4.5891094"
+    },
+    {
+        "id": "hub_30629",
+        "name": "Antwerp Stormkop - fietsrek",
+        "latitude": "51.2365196",
+        "longitude": "4.403218"
+    },
+    {
+        "id": "hub_23412",
+        "name": "Ekeren Districthuis 4P",
+        "latitude": "51.2782074",
+        "longitude": "4.4238986"
+    },
+    {
+        "id": "hub_23296",
+        "name": "Luchtbal P+R Havana",
+        "latitude": "51.2628401",
+        "longitude": "4.4190171"
+    },
+    {
+        "id": "hub_28543",
+        "name": "Aartselaar bushalte de bonte koe",
+        "latitude": "51.117175",
+        "longitude": "4.3939586"
+    },
+    {
+        "id": "hub_23433",
+        "name": "Ekeren Schoonbroek Kerk 4P",
+        "latitude": "51.2790613",
+        "longitude": "4.4097336"
+    },
+    {
+        "id": "hub_23452",
+        "name": "Kalmthout NMBS Heide - fietsrek",
+        "latitude": "51.36514",
+        "longitude": "4.46041"
+    },
+    {
+        "id": "hub_24100",
+        "name": "Wommelgem Brieleke 4P",
+        "latitude": "51.2018972",
+        "longitude": "4.5143886"
+    },
+    {
+        "id": "hub_28595",
+        "name": "Sint-Niklaas Sinaai Dries 4E",
+        "latitude": "51.1571517",
+        "longitude": "4.0431511"
+    },
+    {
+        "id": "hub_26876",
+        "name": "Hoboken Roodenbekehoek fietsenrek ",
+        "latitude": "51.1784775",
+        "longitude": "4.3486735"
+    },
+    {
+        "id": "misplaced_38388",
+        "name": "Pyramide",
+        "latitude": "51.0977666",
+        "longitude": "4.5013181"
+    },
+    {
+        "id": "hub_28127",
+        "name": "Antwerp Haven De Club",
+        "latitude": "51.2672914",
+        "longitude": "4.3768069"
+    },
+    {
+        "id": "hub_23329",
+        "name": "Deurne Turnhoutsebaan",
+        "latitude": "51.2204786",
+        "longitude": "4.4593146"
+    },
+    {
+        "id": "hub_30666",
+        "name": "Temse Markt - fietsrek",
+        "latitude": "51.1240848",
+        "longitude": "4.2133345"
+    },
+    {
+        "id": "hub_28126",
+        "name": "Antwerp Haven Atlantic House 4E",
+        "latitude": "51.2643624",
+        "longitude": "4.4003977"
+    },
+    {
+        "id": "hub_31722",
+        "name": "Kapellen Antwerpsesteenweg Muziekacademie",
+        "latitude": "51.3082205",
+        "longitude": "4.4324658"
+    },
+    {
+        "id": "inrental_33812",
+        "name": "Ottis",
+        "latitude": "51.140405",
+        "longitude": "4.3377717"
+    },
+    {
+        "id": "hub_28580",
+        "name": "Lokeren Heiendekerk 4E",
+        "latitude": "51.0859125",
+        "longitude": "3.9584219"
+    },
+    {
+        "id": "hub_32037",
+        "name": "Tijdelijke Hub Kalmthout Handelaar - fietsrek",
+        "latitude": "51.4095875",
+        "longitude": "4.4969844"
+    },
+    {
+        "id": "hub_27753",
+        "name": "Borgerhout Vincotteplein",
+        "latitude": "51.2162399",
+        "longitude": "4.4382657"
+    },
+    {
+        "id": "hub_30593",
+        "name": "Rumst Drie Rivieren - fietsrek",
+        "latitude": "51.0743515",
+        "longitude": "4.4214752"
+    },
+    {
+        "id": "inrental_31804",
+        "name": "Dani",
+        "latitude": "51.034666",
+        "longitude": "4.35658"
+    },
+    {
+        "id": "hub_23876",
+        "name": "Brasschaat Vriesdonk Donksestnweg 4E4P- rek",
+        "latitude": "51.2797448",
+        "longitude": "4.4533395"
+    },
+    {
+        "id": "hub_23434",
+        "name": "Ekeren Sint-Mariabrug Kerk 5P",
+        "latitude": "51.293512",
+        "longitude": "4.4376612"
+    },
+    {
+        "id": "hub_29333",
+        "name": "Willebroek Halte Populierenlaan 2E2P",
+        "latitude": "51.0512625",
+        "longitude": "4.3472656"
+    },
+    {
+        "id": "hub_29730",
+        "name": "Melsele Halte N70 Burggravenstraat - voetpad",
+        "latitude": "51.2205875",
+        "longitude": "4.2940781"
+    },
+    {
+        "id": "misplaced_37549",
+        "name": "Jorys",
+        "latitude": "51.176518",
+        "longitude": "4.582275"
+    },
+    {
+        "id": "inrental_36164",
+        "name": "Kalia",
+        "latitude": "51.02837",
+        "longitude": "4.477838"
+    },
+    {
+        "id": "hub_23512",
+        "name": "Zandhoven Dorp",
+        "latitude": "51.2135236",
+        "longitude": "4.6567335"
+    },
+    {
+        "id": "hub_23361",
+        "name": "Beveren NMBS Melsele - fietsrek",
+        "latitude": "51.2108",
+        "longitude": "4.2875"
+    },
+    {
+        "id": "hub_23436",
+        "name": "Ekeren Vic Heymanstraat 4P",
+        "latitude": "51.2839862",
+        "longitude": "4.4194072"
+    },
+    {
+        "id": "hub_23377",
+        "name": "Borsbeek Periscoop",
+        "latitude": "51.196645",
+        "longitude": "4.4862492"
+    },
+    {
+        "id": "misplaced_32186",
+        "name": "Jennifer",
+        "latitude": "51.0755521",
+        "longitude": "4.3337657"
+    },
+    {
+        "id": "misplaced_38090",
+        "name": "Oubayda",
+        "latitude": "51.2625756",
+        "longitude": "4.4105773"
+    },
+    {
+        "id": "hub_27040",
+        "name": "Hoboken Krugerstraat fietsenrek ",
+        "latitude": "51.1862416",
+        "longitude": "4.3653937"
+    },
+    {
+        "id": "hub_23391",
+        "name": "Brecht Sint-Lenaarts Kerk",
+        "latitude": "51.3471084",
+        "longitude": "4.6793017"
+    },
+    {
+        "id": "hub_29315",
+        "name": "Kapelle-op-den-Bos Station 3E3P",
+        "latitude": "51.0106665",
+        "longitude": "4.3593631"
+    },
+    {
+        "id": "hub_23287",
+        "name": "Antwerp Dageraadplaats",
+        "latitude": "51.2070075",
+        "longitude": "4.4305885"
+    },
+    {
+        "id": "hub_26801",
+        "name": "Antwerp Scheldepark",
+        "latitude": "51.2110647",
+        "longitude": "4.3884594"
+    },
+    {
+        "id": "hub_29316",
+        "name": "Beerzel Centrum 2E2P - fietsrek",
+        "latitude": "51.0574375",
+        "longitude": "4.6713906"
+    },
+    {
+        "id": "hub_23492",
+        "name": "Rumst N171xN177 Reet",
+        "latitude": "51.1069095",
+        "longitude": "4.3700794"
+    },
+    {
+        "id": "hub_23463",
+        "name": "Kontich NMBS Kontich-Lint fietsenrek ",
+        "latitude": "51.1337277",
+        "longitude": "4.4763791"
+    },
+    {
+        "id": "hub_30606",
+        "name": "Sint-Niklaas Vitaz Moerland",
+        "latitude": "51.1606891",
+        "longitude": "4.1503935"
+    },
+    {
+        "id": "hub_24096",
+        "name": "Zoersel Dorp - fietsrek",
+        "latitude": "51.2694613",
+        "longitude": "4.7133071"
+    },
+    {
+        "id": "hub_23330",
+        "name": "Deurne Luchthaven",
+        "latitude": "51.1897694",
+        "longitude": "4.4492644"
+    },
+    {
+        "id": "hub_31122",
+        "name": "Hoboken bushalte Adolf Greinerstr",
+        "latitude": "51.1687594",
+        "longitude": "4.3354284"
+    },
+    {
+        "id": "hub_29630",
+        "name": "Mechelen Heike - fietsrek",
+        "latitude": "51.0094375",
+        "longitude": "4.4243594"
+    },
+    {
+        "id": "hub_23350",
+        "name": "Wilrijk Krijgslaan fietsenrek",
+        "latitude": "51.1631397",
+        "longitude": "4.3984358"
+    },
+    {
+        "id": "hub_28176",
+        "name": "Ekeren Mol 2P",
+        "latitude": "51.2767185",
+        "longitude": "4.4430752"
+    },
+    {
+        "id": "hub_29326",
+        "name": "S-K-W Clemenceaustraat 2E2P - fietsrek",
+        "latitude": "51.0602875",
+        "longitude": "4.4850156"
+    },
+    {
+        "id": "misplaced_42556",
+        "name": "Uwe",
+        "latitude": "51.346785",
+        "longitude": "4.733273"
+    },
+    {
+        "id": "hub_30855",
+        "name": "Mechelen Mercierplein - fietsrek",
+        "latitude": "51.0212995",
+        "longitude": "4.4823947"
+    },
+    {
+        "id": "inrental_33401",
+        "name": "Raphael",
+        "latitude": "51.208656",
+        "longitude": "4.401618"
+    },
+    {
+        "id": "hub_29612",
+        "name": "Mechelen Brusselpoort 3E4P",
+        "latitude": "51.0209994",
+        "longitude": "4.4752479"
+    },
+    {
+        "id": "hub_24112",
+        "name": "Stabroek Dorp",
+        "latitude": "51.3322509",
+        "longitude": "4.3650623"
+    },
+    {
+        "id": "hub_28512",
+        "name": "Beveren Van der Valk Hotel",
+        "latitude": "51.1989009",
+        "longitude": "4.2244517"
+    },
+    {
+        "id": "hub_26929",
+        "name": "Antwerp Lamoriniere",
+        "latitude": "51.2038991",
+        "longitude": "4.4207887"
+    },
+    {
+        "id": "hub_27024",
+        "name": "Merksem Kwadeveldenplein",
+        "latitude": "51.2585518",
+        "longitude": "4.4418468"
+    },
+    {
+        "id": "hub_26966",
+        "name": "Antwerp Limaplein",
+        "latitude": "51.2344477",
+        "longitude": "4.4035063"
+    },
+    {
+        "id": "inrental_33324",
+        "name": "Marieke",
+        "latitude": "51.0995419",
+        "longitude": "4.234181"
+    },
+    {
+        "id": "hub_24317",
+        "name": "Zwijndrecht Dorp - fietsrek",
+        "latitude": "51.2191161",
+        "longitude": "4.3256017"
+    },
+    {
+        "id": "hub_27168",
+        "name": "Antwerp Dam",
+        "latitude": "51.2331557",
+        "longitude": "4.430836"
+    },
+    {
+        "id": "hub_27537",
+        "name": "Antwerp Charlottalei",
+        "latitude": "51.2095657",
+        "longitude": "4.418479"
+    },
+    {
+        "id": "hub_28473",
+        "name": "Schoten De Gym",
+        "latitude": "51.2549919",
+        "longitude": "4.5357993"
+    },
+    {
+        "id": "hub_27105",
+        "name": "Antwerp Meir",
+        "latitude": "51.218214",
+        "longitude": "4.4149687"
+    },
+    {
+        "id": "hub_23441",
+        "name": "Ekeren Zwembad 4E5P",
+        "latitude": "51.279251",
+        "longitude": "4.4134873"
+    },
+    {
+        "id": "misplaced_31086",
+        "name": "Sigrid",
+        "latitude": "51.20219",
+        "longitude": "4.349968"
+    },
+    {
+        "id": "misplaced_32813",
+        "name": "Angele",
+        "latitude": "51.07216",
+        "longitude": "4.286958"
+    },
+    {
+        "id": "hub_28581",
+        "name": "Lokeren Erksaardebrug 4E",
+        "latitude": "51.1460379",
+        "longitude": "3.9542366"
+    },
+    {
+        "id": "hub_23292",
+        "name": "Antwerp Lange Lozana",
+        "latitude": "51.2016586",
+        "longitude": "4.4061123"
+    },
+    {
+        "id": "hub_30602",
+        "name": "Nieuwkerken Sportcentrum De Meesterstraat",
+        "latitude": "51.185162",
+        "longitude": "4.1744641"
+    },
+    {
+        "id": "inrental_38349",
+        "name": "Korentin",
+        "latitude": "51.330351",
+        "longitude": "4.410738"
+    },
+    {
+        "id": "misplaced_36285",
+        "name": "Mercutio",
+        "latitude": "51.1276065",
+        "longitude": "4.4446799"
+    },
+    {
+        "id": "hub_24075",
+        "name": "Hove station NMBS fietsenrek beneden ",
+        "latitude": "51.1540266",
+        "longitude": "4.4644286"
+    },
+    {
+        "id": "hub_29643",
+        "name": "Mechelen Sint-Jan-Berchmanskerk - fietsrek",
+        "latitude": "51.0189375",
+        "longitude": "4.4728281"
+    },
+    {
+        "id": "hub_27255",
+        "name": "Luchtbal Bowling",
+        "latitude": "51.2499753",
+        "longitude": "4.4207673"
+    },
+    {
+        "id": "hub_29625",
+        "name": "Mechelen Dageraadstraat 2E2P - fietsrek",
+        "latitude": "51.0270125",
+        "longitude": "4.4682031"
+    },
+    {
+        "id": "hub_28186",
+        "name": "Zoersel Heideweg - fietsrek",
+        "latitude": "51.2428573",
+        "longitude": "4.6326112"
+    },
+    {
+        "id": "hub_26911",
+        "name": "Antwerp Steenhouwersvest",
+        "latitude": "51.2180676",
+        "longitude": "4.3980081"
+    },
+    {
+        "id": "inrental_37559",
+        "name": "Louan",
+        "latitude": "51.194801",
+        "longitude": "4.48026"
+    },
+    {
+        "id": "misplaced_30694",
+        "name": "Alfred",
+        "latitude": "51.1762388",
+        "longitude": "4.4275969"
+    },
+    {
+        "id": "hub_26749",
+        "name": "Antwerp AP Hogeschool",
+        "latitude": "51.2298784",
+        "longitude": "4.4144078"
+    },
+    {
+        "id": "hub_26912",
+        "name": "Antwerp Wasbar",
+        "latitude": "51.212147",
+        "longitude": "4.3940243"
+    },
+    {
+        "id": "misplaced_33147",
+        "name": "Amaury",
+        "latitude": "51.3168358",
+        "longitude": "4.5066989"
+    },
+    {
+        "id": "hub_27752",
+        "name": "Borgerhout Zillebeke",
+        "latitude": "51.1944102",
+        "longitude": "4.4435842"
+    },
+    {
+        "id": "inrental_36330",
+        "name": "Jeffry",
+        "latitude": "51.218038",
+        "longitude": "4.396618"
+    },
+    {
+        "id": "hub_30852",
+        "name": "Mechelen Korenmarkt - fietsrek",
+        "latitude": "51.0252674",
+        "longitude": "4.4763847"
+    },
+    {
+        "id": "hub_26913",
+        "name": "Antwerp Pulcinella",
+        "latitude": "51.2154751",
+        "longitude": "4.4006353"
+    },
+    {
+        "id": "hub_27476",
+        "name": "Wuustwezel Braken - fietsrek",
+        "latitude": "51.4087254",
+        "longitude": "4.6120718"
+    },
+    {
+        "id": "hub_28475",
+        "name": "Schoten Kasteel",
+        "latitude": "51.2457114",
+        "longitude": "4.4899355"
+    },
+    {
+        "id": "hub_30864",
+        "name": "Mechelen Plaisancebrug - fietsrek",
+        "latitude": "51.020699",
+        "longitude": "4.4721658"
+    },
+    {
+        "id": "misplaced_40286",
+        "name": "Kassem",
+        "latitude": "51.1774181",
+        "longitude": "4.4453937"
+    },
+    {
+        "id": "hub_26856",
+        "name": "Antwerp Pothoek",
+        "latitude": "51.2255148",
+        "longitude": "4.4364113"
+    },
+    {
+        "id": "hub_23482",
+        "name": "Niel NMBS dropzone",
+        "latitude": "51.11131",
+        "longitude": "4.33899"
+    },
+    {
+        "id": "hub_28598",
+        "name": "Stekene Klein Sinaai 2E4P",
+        "latitude": "51.181377",
+        "longitude": "3.9897603"
+    },
+    {
+        "id": "hub_23289",
+        "name": "Antwerp Harmonie",
+        "latitude": "51.2010734",
+        "longitude": "4.4130995"
+    },
+    {
+        "id": "hub_23457",
+        "name": "Kapellen Dorp",
+        "latitude": "51.3141424",
+        "longitude": "4.4288206"
+    },
+    {
+        "id": "misplaced_39033",
+        "name": "Aabenraa",
+        "latitude": "51.2251699",
+        "longitude": "4.4306196"
+    },
+    {
+        "id": "hub_26826",
+        "name": "Borgerhout Windsor",
+        "latitude": "51.2089713",
+        "longitude": "4.4469875"
+    },
+    {
+        "id": "inrental_32518",
+        "name": "Billie",
+        "latitude": "51.289956",
+        "longitude": "4.497725"
+    },
+    {
+        "id": "inrental_32050",
+        "name": "Caravaggio",
+        "latitude": "51.062048",
+        "longitude": "4.555611"
+    },
+    {
+        "id": "misplaced_36196",
+        "name": "Phoenix",
+        "latitude": "51.207801",
+        "longitude": "4.389423"
+    },
+    {
+        "id": "hub_29301",
+        "name": "Bonheiden Sint-Ludwina Kerk 4E",
+        "latitude": "51.0358291",
+        "longitude": "4.5365403"
+    },
+    {
+        "id": "hub_23409",
+        "name": "Ekeren Academie 4P",
+        "latitude": "51.2846923",
+        "longitude": "4.4265944"
+    },
+    {
+        "id": "hub_29633",
+        "name": "Mechelen Planckendael - fietsrek",
+        "latitude": "51.0029972",
+        "longitude": "4.5181783"
+    },
+    {
+        "id": "hub_23299",
+        "name": "Antwerp Mediaplein",
+        "latitude": "51.2130411",
+        "longitude": "4.42113"
+    },
+    {
+        "id": "hub_23309",
+        "name": "Antwerp Premetro Meir",
+        "latitude": "51.2180643",
+        "longitude": "4.4069485"
+    },
+    {
+        "id": "hub_28748",
+        "name": "Zele Sporthal De Klodde",
+        "latitude": "51.0679375",
+        "longitude": "4.0447963"
+    },
+    {
+        "id": "hub_28135",
+        "name": "Essen Horendonk - fietsrek",
+        "latitude": "51.4672688",
+        "longitude": "4.4938401"
+    },
+    {
+        "id": "hub_24067",
+        "name": "Aartselaar N177 x Kontichsesteenweg",
+        "latitude": "51.1422947",
+        "longitude": "4.3786785"
+    },
+    {
+        "id": "hub_30866",
+        "name": "Mechelen UGC ",
+        "latitude": "51.0263945",
+        "longitude": "4.4989539"
+    },
+    {
+        "id": "misplaced_34995",
+        "name": "Carine",
+        "latitude": "51.2718258",
+        "longitude": "4.2865428"
+    },
+    {
+        "id": "hub_23469",
+        "name": "Malle Industrie N12",
+        "latitude": "51.2988293",
+        "longitude": "4.7111355"
+    },
+    {
+        "id": "hub_26348",
+        "name": "Antwerp Tropisch Instituut ",
+        "latitude": "51.2121962",
+        "longitude": "4.3973301"
+    },
+    {
+        "id": "misplaced_33465",
+        "name": "Maximiliano",
+        "latitude": "51.2457951",
+        "longitude": "4.4391062"
+    },
+    {
+        "id": "hub_26870",
+        "name": "Hoboken Beerschot dropzone ",
+        "latitude": "51.1837456",
+        "longitude": "4.3824985"
+    },
+    {
+        "id": "hub_27054",
+        "name": "Antwerp Orteleuskaai",
+        "latitude": "51.2250522",
+        "longitude": "4.3997002"
+    },
+    {
+        "id": "hub_29329",
+        "name": "S-K-W Markt 2E2P - fietsrek",
+        "latitude": "51.0702125",
+        "longitude": "4.5316719"
+    },
+    {
+        "id": "hub_26975",
+        "name": "Wilrijk Planetariumlaan fietsenrek ",
+        "latitude": "51.1554118",
+        "longitude": "4.3897532"
+    },
+    {
+        "id": "hub_23395",
+        "name": "Brecht Overbroek-Sternhoven ",
+        "latitude": "51.3425324",
+        "longitude": "4.6050527"
+    },
+    {
+        "id": "misplaced_31836",
+        "name": "Franka",
+        "latitude": "51.2676772",
+        "longitude": "4.375828"
+    },
+    {
+        "id": "hub_27465",
+        "name": "Hoboken Plein Publiek fietsenrek ",
+        "latitude": "51.1955141",
+        "longitude": "4.3632423"
+    },
+    {
+        "id": "hub_23442",
+        "name": "Hemiksem bushalte Arendweg - fietsenrek ",
+        "latitude": "51.1534371",
+        "longitude": "4.3419702"
+    },
+    {
+        "id": "hub_23295",
+        "name": "Luchtbal NMBS Noorderdokken",
+        "latitude": "51.2615778",
+        "longitude": "4.4270263"
+    },
+    {
+        "id": "inrental_39691",
+        "name": "Kamron",
+        "latitude": "51.204415",
+        "longitude": "4.41141"
+    },
+    {
+        "id": "inrental_33348",
+        "name": "Kruisem",
+        "latitude": "51.139021",
+        "longitude": "4.155873"
+    },
+    {
+        "id": "hub_26926",
+        "name": "Antwerp Mechelsesteen",
+        "latitude": "51.2039879",
+        "longitude": "4.4114429"
+    },
+    {
+        "id": "hub_31846",
+        "name": "Sint-Gillis-Waas Kronenhoekstraat",
+        "latitude": "51.2200875",
+        "longitude": "4.1240156"
+    },
+    {
+        "id": "hub_29732",
+        "name": "Beveren Sportzone Hockey Club",
+        "latitude": "51.2579875",
+        "longitude": "4.1981094"
+    },
+    {
+        "id": "inrental_33739",
+        "name": "Gabian",
+        "latitude": "51.0879587",
+        "longitude": "4.2604232"
+    },
+    {
+        "id": "hub_29649",
+        "name": "Mechelen Campus De Ham - fietsrek",
+        "latitude": "51.0226125",
+        "longitude": "4.4875781"
+    },
+    {
+        "id": "hub_23300",
+        "name": "Luchtbal Kinepolis",
+        "latitude": "51.2450429",
+        "longitude": "4.4195541"
+    },
+    {
+        "id": "hub_23462",
+        "name": "Kontich Waarloos",
+        "latitude": "51.1068972",
+        "longitude": "4.4520881"
+    },
+    {
+        "id": "inrental_31803",
+        "name": "Dana",
+        "latitude": "51.280518",
+        "longitude": "4.446455"
+    },
+    {
+        "id": "hub_24346",
+        "name": "Sint-Niklaas Station Belsele NMBS 4E",
+        "latitude": "51.1507819",
+        "longitude": "4.0877571"
+    },
+    {
+        "id": "hub_23435",
+        "name": "Ekeren Tiendenstraat 4P",
+        "latitude": "51.283237",
+        "longitude": "4.4107375"
+    },
+    {
+        "id": "inrental_40080",
+        "name": "Duvre",
+        "latitude": "51.16432",
+        "longitude": "4.44442"
+    },
+    {
+        "id": "hub_28599",
+        "name": "Temse Steendorp Sterstraat 2E4P",
+        "latitude": "51.1300575",
+        "longitude": "4.2684847"
+    },
+    {
+        "id": "hub_29729",
+        "name": "Melsele Sportzone 't Wit Zand - tegen gevel",
+        "latitude": "51.2256875",
+        "longitude": "4.2829531"
+    },
+    {
+        "id": "hub_28603",
+        "name": "Temse Centraal TTS",
+        "latitude": "51.1408414",
+        "longitude": "4.1930233"
+    },
+    {
+        "id": "hub_29618",
+        "name": "Mechelen Huyghebaert Site 2E2P",
+        "latitude": "51.0100518",
+        "longitude": "4.4662126"
+    },
+    {
+        "id": "hub_26381",
+        "name": "Deurne Park Groot Schijn",
+        "latitude": "51.2169411",
+        "longitude": "4.4822897"
+    },
+    {
+        "id": "hub_27048",
+        "name": "Deurne Arena",
+        "latitude": "51.2065339",
+        "longitude": "4.4586129"
+    },
+    {
+        "id": "hub_26881",
+        "name": "Antwerp Butchers",
+        "latitude": "51.2061742",
+        "longitude": "4.3926534"
+    },
+    {
+        "id": "hub_29998",
+        "name": "Wuustwezel Lidl - fietsrek",
+        "latitude": "51.3935375",
+        "longitude": "4.5958906"
+    },
+    {
+        "id": "hub_32291",
+        "name": "Hulst Emmadorp",
+        "latitude": "51.327991",
+        "longitude": "4.1494205"
+    },
+    {
+        "id": "hub_30706",
+        "name": "Durmen Kerk - fietsrek",
+        "latitude": "51.0857676",
+        "longitude": "4.0561882"
+    },
+    {
+        "id": "hub_24347",
+        "name": "Sint-Niklaas Nieuwkerken NMBS 4E2P",
+        "latitude": "51.1852432",
+        "longitude": "4.1843825"
+    },
+    {
+        "id": "hub_27825",
+        "name": "Beveren Vijfstraten - fietsrek",
+        "latitude": "51.2059715",
+        "longitude": "4.2411583"
+    },
+    {
+        "id": "hub_23485",
+        "name": "Niel Wetenschapspark Bpost",
+        "latitude": "51.1077535",
+        "longitude": "4.3582207"
+    },
+    {
+        "id": "hub_32559",
+        "name": "Schoten Eethuisstraat - fietsrek",
+        "latitude": "51.2496296",
+        "longitude": "4.4652814"
+    },
+    {
+        "id": "hub_29620",
+        "name": "Mechelen Cultuurcentrum 4E4P - fietsrek",
+        "latitude": "51.0289919",
+        "longitude": "4.477488"
+    },
+    {
+        "id": "hub_26587",
+        "name": "Antwerp Zuid NMBS naast Blue bike stalling ",
+        "latitude": "51.1977178",
+        "longitude": "4.3900855"
+    },
+    {
+        "id": "hub_24102",
+        "name": "Zandvliet Dorp / Botermarkt 2E4P",
+        "latitude": "51.3598625",
+        "longitude": "4.3086909"
+    },
+    {
+        "id": "hub_29331",
+        "name": "Tisselt Halte Kotterlaan 2E2P",
+        "latitude": "51.035348",
+        "longitude": "4.3555425"
+    },
+    {
+        "id": "inrental_40066",
+        "name": "Dula",
+        "latitude": "51.105593",
+        "longitude": "4.296283"
+    },
+    {
+        "id": "hub_23460",
+        "name": "Kontich Gemeenteplein fietsenstalling ",
+        "latitude": "51.1352734",
+        "longitude": "4.4459267"
+    },
+    {
+        "id": "hub_23495",
+        "name": "Rumst Stelplaats",
+        "latitude": "51.079313",
+        "longitude": "4.4224802"
+    },
+    {
+        "id": "hub_28282",
+        "name": "Antwerp De Pijl",
+        "latitude": "51.2221701",
+        "longitude": "4.4182621"
+    },
+    {
+        "id": "hub_29608",
+        "name": "Mechelen Veemarkt 5E5P - fietsrek",
+        "latitude": "51.0292625",
+        "longitude": "4.4840156"
+    },
+    {
+        "id": "hub_26944",
+        "name": "Antwerp Blauwtoren",
+        "latitude": "51.2128154",
+        "longitude": "4.4094349"
+    },
+    {
+        "id": "hub_28604",
+        "name": "Waasmunster Ruiter 4E",
+        "latitude": "51.1159488",
+        "longitude": "4.0424916"
+    },
+    {
+        "id": "hub_29300",
+        "name": "Bonheiden Parking De Wissel 3E1P",
+        "latitude": "51.0214196",
+        "longitude": "4.552458"
+    },
+    {
+        "id": "hub_29341",
+        "name": "Tisselt Voetbal Blaasveldstraat",
+        "latitude": "51.0358625",
+        "longitude": "4.3617031"
+    },
+    {
+        "id": "hub_27028",
+        "name": "Merksem Lambrechts",
+        "latitude": "51.2480901",
+        "longitude": "4.4321113"
+    },
+    {
+        "id": "hub_29706",
+        "name": "Zandhoven Bushalte Heikant",
+        "latitude": "51.2243125",
+        "longitude": "4.6742969"
+    },
+    {
+        "id": "hub_29731",
+        "name": "Beveren Kallo Sportzone",
+        "latitude": "51.2540125",
+        "longitude": "4.2869219"
+    },
+    {
+        "id": "misplaced_34944",
+        "name": "Stijn",
+        "latitude": "51.2972816",
+        "longitude": "4.536265"
+    },
+    {
+        "id": "hub_24351",
+        "name": "Stekene Dorp 3E2P",
+        "latitude": "51.2064267",
+        "longitude": "4.0415209"
+    },
+    {
+        "id": "hub_24328",
+        "name": "Essen Heuvelplein - fietsrek",
+        "latitude": "51.4651672",
+        "longitude": "4.4718705"
+    },
+    {
+        "id": "hub_27049",
+        "name": "Antwerp Lange Koepoort",
+        "latitude": "51.2226417",
+        "longitude": "4.4024052"
+    },
+    {
+        "id": "hub_27023",
+        "name": "Merksem Jan Palfijn",
+        "latitude": "51.257449",
+        "longitude": "4.4490539"
+    },
+    {
+        "id": "hub_27697",
+        "name": "Linkeroever Maritieme Overheid ",
+        "latitude": "51.2258133",
+        "longitude": "4.3907949"
+    },
+    {
+        "id": "hub_26818",
+        "name": "Deurne Van Deynsestraat",
+        "latitude": "51.2304078",
+        "longitude": "4.4511701"
+    },
+    {
+        "id": "hub_26953",
+        "name": "Antwerp Sint Carolus",
+        "latitude": "51.220856",
+        "longitude": "4.4039418"
+    },
+    {
+        "id": "hub_26820",
+        "name": "Deurne Bosuil",
+        "latitude": "51.2310595",
+        "longitude": "4.4691828"
+    },
+    {
+        "id": "hub_23494",
+        "name": "Rumst Reet Kerk",
+        "latitude": "51.1013073",
+        "longitude": "4.4120743"
+    },
+    {
+        "id": "misplaced_33443",
+        "name": "Raina",
+        "latitude": "51.2205765",
+        "longitude": "4.456661"
+    },
+    {
+        "id": "hub_31292",
+        "name": "Mechelen Oud Oefenplein 3E1P",
+        "latitude": "51.0426125",
+        "longitude": "4.4747656"
+    },
+    {
+        "id": "hub_24071",
+        "name": "Schelle NMBS - fietsrek",
+        "latitude": "51.1257083",
+        "longitude": "4.3400962"
+    },
+    {
+        "id": "hub_27711",
+        "name": "Antwerp Verbond",
+        "latitude": "51.2102166",
+        "longitude": "4.4003027"
+    },
+    {
+        "id": "hub_23421",
+        "name": "Ekeren JC Rozemaai 4P",
+        "latitude": "51.2720241",
+        "longitude": "4.412206"
+    },
+    {
+        "id": "hub_28159",
+        "name": "Brasschaat zwemdoklei - inkeping bollen",
+        "latitude": "51.2972468",
+        "longitude": "4.4493274"
+    },
+    {
+        "id": "misplaced_38080",
+        "name": "Husnain",
+        "latitude": "51.28486",
+        "longitude": "4.5006418"
+    },
+    {
+        "id": "hub_28586",
+        "name": "Kruibeke Ticoon",
+        "latitude": "51.1580784",
+        "longitude": "4.3032014"
+    },
+    {
+        "id": "misplaced_32015",
+        "name": "Lucette",
+        "latitude": "51.2248295",
+        "longitude": "4.4352912"
+    },
+    {
+        "id": "hub_28498",
+        "name": "Antwerp Inkomst",
+        "latitude": "51.213944",
+        "longitude": "4.4382694"
+    },
+    {
+        "id": "hub_24216",
+        "name": "Schoten Markt",
+        "latitude": "51.2510355",
+        "longitude": "4.498565"
+    },
+    {
+        "id": "hub_26928",
+        "name": "Antwerp Hospitaalplein",
+        "latitude": "51.2035188",
+        "longitude": "4.4256677"
+    },
+    {
+        "id": "hub_23503",
+        "name": "Temse Velle Kerk 4E",
+        "latitude": "51.1604158",
+        "longitude": "4.2071736"
+    },
+    {
+        "id": "hub_24098",
+        "name": "Zoersel Sint Antonius Bib - fietsenrek",
+        "latitude": "51.2652824",
+        "longitude": "4.6358878"
+    },
+    {
+        "id": "hub_24113",
+        "name": "Stabroek Hoevenen Krekelberg",
+        "latitude": "51.3142139",
+        "longitude": "4.395384"
+    },
+    {
+        "id": "hub_23352",
+        "name": "Wilrijk Boomsesteenweg - N177- bushalte ",
+        "latitude": "51.152509",
+        "longitude": "4.3815683"
+    },
+    {
+        "id": "misplaced_32147",
+        "name": "Elin",
+        "latitude": "51.1650909",
+        "longitude": "4.465217"
+    },
+    {
+        "id": "hub_23502",
+        "name": "Temse Hoogkamer 2E4P",
+        "latitude": "51.1395048",
+        "longitude": "4.1848355"
+    },
+    {
+        "id": "hub_23506",
+        "name": "Wijnegem Dorp - dropzone",
+        "latitude": "51.2276465",
+        "longitude": "4.5238201"
+    },
+    {
+        "id": "hub_29323",
+        "name": "Ruisbroek-Sauvegarde Station 3E3P - fietsrek",
+        "latitude": "51.0811375",
+        "longitude": "4.3251406"
+    },
+    {
+        "id": "hub_23455",
+        "name": "Kapellen Industrie Starrenhof",
+        "latitude": "51.3286881",
+        "longitude": "4.4157083"
+    },
+    {
+        "id": "hub_23423",
+        "name": "Ekeren Klein Heiken 4P",
+        "latitude": "51.2965367",
+        "longitude": "4.4124635"
+    },
+    {
+        "id": "misplaced_31931",
+        "name": "Pegasus",
+        "latitude": "51.4644078",
+        "longitude": "4.5313428"
+    },
+    {
+        "id": "hub_29656",
+        "name": "Boortmeerbeek Bibliotheek - fietsrek",
+        "latitude": "50.9815125",
+        "longitude": "4.5435469"
+    },
+    {
+        "id": "misplaced_40834",
+        "name": "Save Gas",
+        "latitude": "51.1859333",
+        "longitude": "4.1629683"
+    },
+    {
+        "id": "hub_29306",
+        "name": "Duffel Bib 2E2P - fietsrek",
+        "latitude": "51.0939875",
+        "longitude": "4.5091094"
+    },
+    {
+        "id": "hub_29317",
+        "name": "Putte Melkerij 4P",
+        "latitude": "51.0592125",
+        "longitude": "4.6281094"
+    },
+    {
+        "id": "misplaced_33734",
+        "name": "Yvonne",
+        "latitude": "51.3314457",
+        "longitude": "4.3634853"
+    },
+    {
+        "id": "hub_31335",
+        "name": "Antwerpen Haven Vollers - aan bushalte",
+        "latitude": "51.2565625",
+        "longitude": "4.3848125"
+    },
+    {
+        "id": "inrental_39234",
+        "name": "Harvig",
+        "latitude": "51.2132492",
+        "longitude": "4.4221908"
+    },
+    {
+        "id": "misplaced_31936",
+        "name": "Paola",
+        "latitude": "51.2560728",
+        "longitude": "4.3980777"
+    },
+    {
+        "id": "hub_27029",
+        "name": "Merksem Nieuwdreef",
+        "latitude": "51.2513396",
+        "longitude": "4.4376276"
+    },
+    {
+        "id": "hub_23382",
+        "name": "Brasschaat Bethanie 4E4P - fietsrek",
+        "latitude": "51.3131771",
+        "longitude": "4.5131224"
+    },
+    {
+        "id": "hub_23428",
+        "name": "Ekeren Moerenhoutlaan 4P",
+        "latitude": "51.280987",
+        "longitude": "4.4295884"
+    },
+    {
+        "id": "hub_30615",
+        "name": "Sint-Niklaas O.L.V. Plein",
+        "latitude": "51.1662108",
+        "longitude": "4.136001"
+    },
+    {
+        "id": "hub_29336",
+        "name": "Heindonk Hazewinkel",
+        "latitude": "51.0610375",
+        "longitude": "4.4065781"
+    },
+    {
+        "id": "hub_27779",
+        "name": "Merksem Lambrechtshoeken",
+        "latitude": "51.2434571",
+        "longitude": "4.4295299"
+    },
+    {
+        "id": "hub_26927",
+        "name": "Borgerhout Trix",
+        "latitude": "51.2197153",
+        "longitude": "4.4487001"
+    },
+    {
+        "id": "hub_23317",
+        "name": "Linkeroever Van Eedenplein",
+        "latitude": "51.2206033",
+        "longitude": "4.3867828"
+    },
+    {
+        "id": "hub_23470",
+        "name": "Malle Oostmalle Dorp",
+        "latitude": "51.3022217",
+        "longitude": "4.733957"
+    },
+    {
+        "id": "hub_26358",
+        "name": "Antwerp Sint-Annatunnel",
+        "latitude": "51.2188539",
+        "longitude": "4.3959806"
+    },
+    {
+        "id": "hub_30896",
+        "name": "Zele Julie Billiartplein - fietsrek",
+        "latitude": "51.0648625",
+        "longitude": "4.0275469"
+    },
+    {
+        "id": "hub_29652",
+        "name": "Boortmeerbeek Heverplein",
+        "latitude": "50.9925375",
+        "longitude": "4.5554531"
+    },
+    {
+        "id": "hub_26942",
+        "name": "Antwerp Oudaan",
+        "latitude": "51.2161977",
+        "longitude": "4.404611"
+    },
+    {
+        "id": "hub_24337",
+        "name": "Kruibeke Kerk 6E4P",
+        "latitude": "51.1278827",
+        "longitude": "4.290993"
+    },
+    {
+        "id": "hub_30787",
+        "name": "Lokeren Metaalbewerkersstraat",
+        "latitude": "51.0764791",
+        "longitude": "3.9784443"
+    },
+    {
+        "id": "misplaced_40230",
+        "name": "Eszter",
+        "latitude": "51.0888",
+        "longitude": "4.3777222"
+    },
+    {
+        "id": "hub_28863",
+        "name": "Antwerp Ploeg",
+        "latitude": "51.2155843",
+        "longitude": "4.4256932"
+    },
+    {
+        "id": "hub_23458",
+        "name": "Kapellen/Stabroek Putte Kruispunt",
+        "latitude": "51.3534679",
+        "longitude": "4.397381"
+    },
+    {
+        "id": "hub_28575",
+        "name": "Lokeren Carpool parking 2E 6P",
+        "latitude": "51.0878256",
+        "longitude": "4.0205736"
+    },
+    {
+        "id": "hub_27026",
+        "name": "Merksem Carrefour ",
+        "latitude": "51.2589173",
+        "longitude": "4.4652987"
+    },
+    {
+        "id": "hub_23476",
+        "name": "Mortsel NMBS Oude God groene dropzone ",
+        "latitude": "51.1712838",
+        "longitude": "4.456269"
+    },
+    {
+        "id": "hub_31249",
+        "name": "Antwerp Bestorming",
+        "latitude": "51.2051353",
+        "longitude": "4.3964396"
+    },
+    {
+        "id": "hub_32563",
+        "name": "Schoten E-10 Plas - fietsrek",
+        "latitude": "51.2935905",
+        "longitude": "4.5462522"
+    },
+    {
+        "id": "hub_27789",
+        "name": "Wilrijk Heis fietsenrek ",
+        "latitude": "51.176462",
+        "longitude": "4.3931137"
+    },
+    {
+        "id": "hub_23408",
+        "name": "Ekeren St Michielscollege 2E6P",
+        "latitude": "51.2719056",
+        "longitude": "4.4586151"
+    },
+    {
+        "id": "hub_24095",
+        "name": "Zoersel - Halle Kerk - fietsrek",
+        "latitude": "51.2396731",
+        "longitude": "4.6483279"
+    },
+    {
+        "id": "hub_30854",
+        "name": "Mechelen Botermarkt - fietsrek",
+        "latitude": "51.0269875",
+        "longitude": "4.4811719"
+    },
+    {
+        "id": "hub_26934",
+        "name": "Antwerp Stadswaag",
+        "latitude": "51.2240324",
+        "longitude": "4.4071906"
+    },
+    {
+        "id": "hub_27749",
+        "name": "Deurne Zwemvijver",
+        "latitude": "51.1975655",
+        "longitude": "4.4619576"
+    },
+    {
+        "id": "hub_27740",
+        "name": "Antwerp Groeningerplein",
+        "latitude": "51.2200532",
+        "longitude": "4.4381342"
+    },
+    {
+        "id": "hub_26400",
+        "name": "Antwerp Eiermarkt",
+        "latitude": "51.2192207",
+        "longitude": "4.4036658"
+    },
+    {
+        "id": "hub_24094",
+        "name": "Schilde 's-Gravenwezel Centrum",
+        "latitude": "51.2631298",
+        "longitude": "4.5535665"
+    },
+    {
+        "id": "misplaced_42476",
+        "name": "Mattew",
+        "latitude": "51.065829",
+        "longitude": "4.5190033"
+    },
+    {
+        "id": "hub_27393",
+        "name": "Berchem Pulhof",
+        "latitude": "51.1849153",
+        "longitude": "4.4301312"
+    },
+    {
+        "id": "hub_23393",
+        "name": "Brecht Centrum",
+        "latitude": "51.3502718",
+        "longitude": "4.6390529"
+    },
+    {
+        "id": "hub_27939",
+        "name": "Antwerp De Coninckplein",
+        "latitude": "51.221432",
+        "longitude": "4.4206915"
+    },
+    {
+        "id": "hub_28185",
+        "name": "Schelle Interescautsite - dropzone ",
+        "latitude": "51.1230788",
+        "longitude": "4.3153808"
+    },
+    {
+        "id": "hub_28262",
+        "name": "Linkeroever Beatrijslaan",
+        "latitude": "51.21644",
+        "longitude": "4.3844366"
+    },
+    {
+        "id": "hub_30396",
+        "name": "Sint-Gillis-Waas Klingspoor",
+        "latitude": "51.2516625",
+        "longitude": "4.0807969"
+    },
+    {
+        "id": "hub_28168",
+        "name": "Ranst sporthal het Loo - fietsrek",
+        "latitude": "51.1847546",
+        "longitude": "4.5888971"
+    },
+    {
+        "id": "hub_30069",
+        "name": "Lier Dungelhoeff",
+        "latitude": "51.131823",
+        "longitude": "4.5596507"
+    },
+    {
+        "id": "hub_30897",
+        "name": "Zele Kouterstraat - fietsrek",
+        "latitude": "51.0662552",
+        "longitude": "4.0337215"
+    },
+    {
+        "id": "hub_23381",
+        "name": "Brasschaat MariaTerHeide Kerk 6E4P - fietsrek",
+        "latitude": "51.3231995",
+        "longitude": "4.5205056"
+    },
+    {
+        "id": "hub_28156",
+        "name": "Brasschaat Dr.Roosenplein 3E2P - In de boog",
+        "latitude": "51.2878163",
+        "longitude": "4.4859886"
+    },
+    {
+        "id": "hub_23312",
+        "name": "Antwerp Schijnpoort B",
+        "latitude": "51.2276148",
+        "longitude": "4.4400889"
+    },
+    {
+        "id": "hub_28195",
+        "name": "Deurne Gallifortlei - fietsrek",
+        "latitude": "51.2232939",
+        "longitude": "4.4641084"
+    },
+    {
+        "id": "hub_23385",
+        "name": "Brasschaat Lage Kaart 4E6P - fietsrek",
+        "latitude": "51.3003607",
+        "longitude": "4.4817581"
+    },
+    {
+        "id": "hub_28608",
+        "name": "Zele NMBS",
+        "latitude": "51.0731047",
+        "longitude": "4.0418023"
+    },
+    {
+        "id": "hub_30789",
+        "name": "Lokeren Vitaz",
+        "latitude": "51.1004108",
+        "longitude": "4.0014519"
+    },
+    {
+        "id": "hub_28584",
+        "name": "Kruibeke Hogenakkerhoek",
+        "latitude": "51.1970125",
+        "longitude": "4.3164219"
+    },
+    {
+        "id": "hub_23327",
+        "name": "Borsbeek Wijk Wenigerstraat",
+        "latitude": "51.1985773",
+        "longitude": "4.4765313"
+    },
+    {
+        "id": "hub_29644",
+        "name": "Mechelen Sporthal Donkerlei - fietsrek",
+        "latitude": "51.0368375",
+        "longitude": "4.4787969"
+    },
+    {
+        "id": "hub_26441",
+        "name": "Antwerp De Vri\u00e9restraat",
+        "latitude": "51.2099898",
+        "longitude": "4.3975994"
+    },
+    {
+        "id": "hub_23285",
+        "name": "Antwerp CS Breydelstraat",
+        "latitude": "51.2182455",
+        "longitude": "4.4191667"
+    },
+    {
+        "id": "hub_29653",
+        "name": "Boortmeerbeek Centrum Schiplaken - fietsrek",
+        "latitude": "50.9800375",
+        "longitude": "4.5295469"
+    },
+    {
+        "id": "hub_24339",
+        "name": "Kruibeke Rupelmonde Mercatorplein 6E6P",
+        "latitude": "51.1712662",
+        "longitude": "4.3113084"
+    },
+    {
+        "id": "hub_28143",
+        "name": "Mortsel Kaphaanlei - fietsrek",
+        "latitude": "51.1682236",
+        "longitude": "4.473208"
+    },
+    {
+        "id": "inrental_37584",
+        "name": "Georgios",
+        "latitude": "51.217723",
+        "longitude": "4.416746"
+    },
+    {
+        "id": "hub_31350",
+        "name": "Beveren Katoennatie Singelberg",
+        "latitude": "51.2706625",
+        "longitude": "4.2988281"
+    },
+    {
+        "id": "misplaced_33375",
+        "name": "Adiran",
+        "latitude": "51.221695",
+        "longitude": "4.4334465"
+    },
+    {
+        "id": "hub_28910",
+        "name": "Lier Carrefour",
+        "latitude": "51.1268303",
+        "longitude": "4.549822"
+    },
+    {
+        "id": "hub_24336",
+        "name": "Kruibeke Bazel Dorp 6E4P",
+        "latitude": "51.1481985",
+        "longitude": "4.2985273"
+    },
+    {
+        "id": "hub_28146",
+        "name": "Mortsel Eduardshof - fietsrek",
+        "latitude": "51.1715076",
+        "longitude": "4.4433542"
+    },
+    {
+        "id": "hub_31104",
+        "name": "Mortsel Fort 4 - fietsrek",
+        "latitude": "51.1741875",
+        "longitude": "4.4574531"
+    },
+    {
+        "id": "hub_23425",
+        "name": "Ekeren Kretenborglaan 4P",
+        "latitude": "51.2721902",
+        "longitude": "4.4415448"
+    },
+    {
+        "id": "hub_29322",
+        "name": "Puurs Station 6E7P - fietsrek",
+        "latitude": "51.0772375",
+        "longitude": "4.2823281"
+    },
+    {
+        "id": "hub_30547",
+        "name": "Borgerhout Vlag",
+        "latitude": "51.2232122",
+        "longitude": "4.4412074"
+    },
+    {
+        "id": "misplaced_32358",
+        "name": "Scump",
+        "latitude": "51.3064666",
+        "longitude": "4.5653296"
+    },
+    {
+        "id": "hub_23451",
+        "name": "Kalmthout Nieuwmoer Kerkstraat - fietsrek",
+        "latitude": "51.4329932",
+        "longitude": "4.5180312"
+    },
+    {
+        "id": "hub_27419",
+        "name": "Berchem Campus",
+        "latitude": "51.1829888",
+        "longitude": "4.4237244"
+    },
+    {
+        "id": "hub_23427",
+        "name": "Ekeren Leugenberg  2E2P",
+        "latitude": "51.2994469",
+        "longitude": "4.4097893"
+    },
+    {
+        "id": "hub_30165",
+        "name": "Wijnegem Quick - fietsrek",
+        "latitude": "51.2360017",
+        "longitude": "4.4885551"
+    },
+    {
+        "id": "hub_26853",
+        "name": "Berchem St Hubertus ",
+        "latitude": "51.1986559",
+        "longitude": "4.4244218"
+    },
+    {
+        "id": "hub_23486",
+        "name": "Ranst Broechem Van Den Nestlaan - fietsrek",
+        "latitude": "51.1824395",
+        "longitude": "4.5930195"
+    },
+    {
+        "id": "hub_23279",
+        "name": "Antwerp Amerikalei",
+        "latitude": "51.2077783",
+        "longitude": "4.3983409"
+    },
+    {
+        "id": "hub_28183",
+        "name": "Berchem Strijdhoflaan - fietsrek",
+        "latitude": "51.1874119",
+        "longitude": "4.4250985"
+    },
+    {
+        "id": "hub_29291",
+        "name": "Antwerp Eureka",
+        "latitude": "51.2244485",
+        "longitude": "4.4278436"
+    },
+    {
+        "id": "hub_29327",
+        "name": "S-K-W Borgersteinlei 2E2P - fietsrek",
+        "latitude": "51.0389625",
+        "longitude": "4.5093281"
+    },
+    {
+        "id": "hub_27032",
+        "name": "Antwerp Elisabeth",
+        "latitude": "51.2227742",
+        "longitude": "4.4240875"
+    },
+    {
+        "id": "hub_28164",
+        "name": "Ranst Oelegem rondpunt - gras",
+        "latitude": "51.2135754",
+        "longitude": "4.5901089"
+    },
+    {
+        "id": "misplaced_31866",
+        "name": "Sandrine",
+        "latitude": "51.107415",
+        "longitude": "3.987371"
+    },
+    {
+        "id": "misplaced_31960",
+        "name": "Johana",
+        "latitude": "51.1758456",
+        "longitude": "4.3244057"
+    },
+    {
+        "id": "hub_27046",
+        "name": "Deurne Ter Rivierenlaan",
+        "latitude": "51.2231649",
+        "longitude": "4.4692237"
+    },
+    {
+        "id": "hub_23291",
+        "name": "Antwerp Kronenburgstraat",
+        "latitude": "51.2116405",
+        "longitude": "4.4004764"
+    },
+    {
+        "id": "inrental_39580",
+        "name": "Anava",
+        "latitude": "51.31858",
+        "longitude": "4.425533"
+    },
+    {
+        "id": "misplaced_32532",
+        "name": "Gerard",
+        "latitude": "51.1641583",
+        "longitude": "4.5004081"
+    },
+    {
+        "id": "inrental_40313",
+        "name": "Jalal",
+        "latitude": "51.226421",
+        "longitude": "4.38544"
+    },
+    {
+        "id": "hub_29721",
+        "name": "Vrasene Sportzone KFC - fietsrek",
+        "latitude": "51.2203625",
+        "longitude": "4.1861406"
+    },
+    {
+        "id": "hub_26956",
+        "name": "Wilrijk Sport Terbeke dropzone ",
+        "latitude": "51.1618079",
+        "longitude": "4.3757923"
+    },
+    {
+        "id": "hub_29647",
+        "name": "Mechelen Seminarie - fietsrek",
+        "latitude": "51.0297125",
+        "longitude": "4.4812969"
+    },
+    {
+        "id": "misplaced_38813",
+        "name": "Amia",
+        "latitude": "51.239358",
+        "longitude": "4.440813"
+    },
+    {
+        "id": "hub_23501",
+        "name": "Sint-Gillis-Waas Sint-Pauwels 4E",
+        "latitude": "51.1939998",
+        "longitude": "4.0958891"
+    },
+    {
+        "id": "hub_24350",
+        "name": "Sint-Niklaas SVK 4E6P",
+        "latitude": "51.1658005",
+        "longitude": "4.1291698"
+    },
+    {
+        "id": "hub_23399",
+        "name": "Edegem Buizegem Sint Goriksplein",
+        "latitude": "51.1488932",
+        "longitude": "4.4548591"
+    },
+    {
+        "id": "hub_30617",
+        "name": "Sint-Niklaas Pater Segersstraat",
+        "latitude": "51.1564375",
+        "longitude": "4.1388906"
+    },
+    {
+        "id": "hub_29642",
+        "name": "Mechelen Sint-Katelijne Kerk - fietsrek",
+        "latitude": "51.0315125",
+        "longitude": "4.4756719"
+    },
+    {
+        "id": "hub_27423",
+        "name": "Berchem Het Rooi",
+        "latitude": "51.1880953",
+        "longitude": "4.4368304"
+    },
+    {
+        "id": "hub_27919",
+        "name": "Deurne Tweegezuster",
+        "latitude": "51.2256145",
+        "longitude": "4.4723767"
+    },
+    {
+        "id": "hub_23445",
+        "name": "Hemiksem NMBS - fietsrek",
+        "latitude": "51.1364978",
+        "longitude": "4.3382005"
+    },
+    {
+        "id": "hub_23334",
+        "name": "Hoboken Fort 8 dropzone",
+        "latitude": "51.1681925",
+        "longitude": "4.3491413"
+    },
+    {
+        "id": "hub_30535",
+        "name": "Antwerp Lobroek",
+        "latitude": "51.2320903",
+        "longitude": "4.4269099"
+    },
+    {
+        "id": "hub_27056",
+        "name": "Antwerp Korte Nieuwstraat",
+        "latitude": "51.2203711",
+        "longitude": "4.4039029"
+    },
+    {
+        "id": "hub_23365",
+        "name": "Beveren Vrasene kerk - fietsrek",
+        "latitude": "51.2193549",
+        "longitude": "4.1951218"
+    },
+    {
+        "id": "hub_23515",
+        "name": "Zandhoven Viersel Dorp",
+        "latitude": "51.1882983",
+        "longitude": "4.647883"
+    },
+    {
+        "id": "hub_23468",
+        "name": "Lint NMBS Kontich / Lint fietsenrek ",
+        "latitude": "51.1340121",
+        "longitude": "4.4771362"
+    },
+    {
+        "id": "hub_32290",
+        "name": "Hulst Busstation Zandstraat",
+        "latitude": "51.2863095",
+        "longitude": "4.0539764"
+    },
+    {
+        "id": "hub_26470",
+        "name": "Ekeren Kloosterstraat",
+        "latitude": "51.2839515",
+        "longitude": "4.4159152"
+    },
+    {
+        "id": "hub_29734",
+        "name": "Beveren Prosperpolder Centrum",
+        "latitude": "51.3267375",
+        "longitude": "4.2145469"
+    },
+    {
+        "id": "hub_26834",
+        "name": "Antwerp Desguinlei",
+        "latitude": "51.1965364",
+        "longitude": "4.3964514"
+    },
+    {
+        "id": "hub_23472",
+        "name": "Mortsel Gemeenteplein 3E2P - fietsrek",
+        "latitude": "51.1705615",
+        "longitude": "4.4498073"
+    },
+    {
+        "id": "hub_24258",
+        "name": "Schelle bushalte Tolhuisstraat - fietsrek",
+        "latitude": "51.1193298",
+        "longitude": "4.3342423"
+    },
+    {
+        "id": "hub_26565",
+        "name": "Antwerp The Beacon",
+        "latitude": "51.2253043",
+        "longitude": "4.4013024"
+    },
+    {
+        "id": "hub_28151",
+        "name": "Brasschaat Aralea Ploegsebaan - zijkant",
+        "latitude": "51.3238056",
+        "longitude": "4.5070966"
+    },
+    {
+        "id": "hub_23505",
+        "name": "Waasmunster VTC Meermin 4E",
+        "latitude": "51.1071388",
+        "longitude": "4.0878297"
+    },
+    {
+        "id": "hub_24108",
+        "name": "Berendrecht Sporthal 2E2P",
+        "latitude": "51.3502329",
+        "longitude": "4.3159764"
+    },
+    {
+        "id": "hub_26244",
+        "name": "Schelle A12 Shopping fietsenrek",
+        "latitude": "51.1177506",
+        "longitude": "4.37493"
+    },
+    {
+        "id": "hub_27748",
+        "name": "Deurne AZ Monica",
+        "latitude": "51.2059024",
+        "longitude": "4.4710594"
+    },
+    {
+        "id": "hub_26937",
+        "name": "Antwerp Kipdorp",
+        "latitude": "51.2206514",
+        "longitude": "4.4097146"
+    },
+    {
+        "id": "hub_23507",
+        "name": "Wijnegem 't Gasthuis - fietsrek",
+        "latitude": "51.2258997",
+        "longitude": "4.5141722"
+    },
+    {
+        "id": "hub_30596",
+        "name": "Reet Seringenlaan",
+        "latitude": "51.1080991",
+        "longitude": "4.3897632"
+    },
+    {
+        "id": "hub_27410",
+        "name": "Antwerp Kapel",
+        "latitude": "51.2250285",
+        "longitude": "4.412373"
+    },
+    {
+        "id": "hub_31114",
+        "name": "Brasschaat De Mick - fietsrek",
+        "latitude": "51.3076125",
+        "longitude": "4.5442969"
+    },
+    {
+        "id": "hub_28601",
+        "name": "Temse IZ De Zaat 2E",
+        "latitude": "51.1178102",
+        "longitude": "4.1995075"
+    },
+    {
+        "id": "hub_29997",
+        "name": "Wuustwezel Bar Woest",
+        "latitude": "51.3830875",
+        "longitude": "4.5969531"
+    },
+    {
+        "id": "hub_31905",
+        "name": "Waterbus Strantwerpen",
+        "latitude": "51.2343907",
+        "longitude": "4.3947798"
+    },
+    {
+        "id": "hub_30856",
+        "name": "Mechelen Maurits Sabbestraat ",
+        "latitude": "51.0360236",
+        "longitude": "4.4760286"
+    },
+    {
+        "id": "hub_29648",
+        "name": "Mechelen Bruul - fietsrek",
+        "latitude": "51.0235625",
+        "longitude": "4.4820469"
+    },
+    {
+        "id": "hub_28588",
+        "name": "Sint-Gillis-Waas Turkeyenstraat",
+        "latitude": "51.2254125",
+        "longitude": "4.1484531"
+    },
+    {
+        "id": "inrental_35247",
+        "name": "Clementine",
+        "latitude": "51.17073",
+        "longitude": "4.448925"
+    },
+    {
+        "id": "hub_23429",
+        "name": "Ekeren Oudebaan 4P",
+        "latitude": "51.2770118",
+        "longitude": "4.4509238"
+    },
+    {
+        "id": "hub_30786",
+        "name": "Lokeren Mosten",
+        "latitude": "51.0807451",
+        "longitude": "3.9968483"
+    },
+    {
+        "id": "hub_30546",
+        "name": "Beveren NMBS Station (tijdelijk)",
+        "latitude": "51.2086555",
+        "longitude": "4.2607252"
+    },
+    {
+        "id": "hub_27700",
+        "name": "Linkeroever Galgenweel",
+        "latitude": "51.2174015",
+        "longitude": "4.3779146"
+    },
+    {
+        "id": "hub_23491",
+        "name": "Ranst P+R Oelegem E34 - parking",
+        "latitude": "51.2121974",
+        "longitude": "4.6236274"
+    },
+    {
+        "id": "inrental_32723",
+        "name": "Bertrand",
+        "latitude": "51.1595728",
+        "longitude": "4.4094361"
+    },
+    {
+        "id": "hub_29989",
+        "name": "Live is live - Bos",
+        "latitude": "51.2207549",
+        "longitude": "4.3741987"
+    },
+    {
+        "id": "hub_30603",
+        "name": "Sint-Niklaas Atheneum/Zwembad",
+        "latitude": "51.1581036",
+        "longitude": "4.1515471"
+    },
+    {
+        "id": "hub_23419",
+        "name": "Ekeren Hertogenlaan 4P",
+        "latitude": "51.2762542",
+        "longitude": "4.4431284"
+    },
+    {
+        "id": "hub_29294",
+        "name": "Mechelen Keerdok 3E6P",
+        "latitude": "51.0343625",
+        "longitude": "4.4708594"
+    },
+    {
+        "id": "hub_28763",
+        "name": "Wommelgem Lukoil - dals voor hek 1E2P",
+        "latitude": "51.1975838",
+        "longitude": "4.5273996"
+    },
+    {
+        "id": "hub_26915",
+        "name": "Antwerp Kasteelplein",
+        "latitude": "51.2097726",
+        "longitude": "4.4020337"
+    },
+    {
+        "id": "hub_28182",
+        "name": "Berchem Marie-Jos\u00e9laan - fietsrek",
+        "latitude": "51.1858036",
+        "longitude": "4.4243319"
+    },
+    {
+        "id": "hub_27057",
+        "name": "Hoboken Sint Catharina fietsenrek ",
+        "latitude": "51.1926139",
+        "longitude": "4.3804647"
+    },
+    {
+        "id": "inrental_31780",
+        "name": "Evi",
+        "latitude": "51.158396",
+        "longitude": "4.401725"
+    },
+    {
+        "id": "misplaced_36172",
+        "name": "Blair",
+        "latitude": "51.1962574",
+        "longitude": "4.5041282"
+    },
+    {
+        "id": "hub_31117",
+        "name": "Mechelen Telenet 2E2P",
+        "latitude": "51.0351068",
+        "longitude": "4.4843941"
+    },
+    {
+        "id": "hub_23358",
+        "name": "Kieldrecht Kerk - fietsrek",
+        "latitude": "51.2885967",
+        "longitude": "4.175664"
+    },
+    {
+        "id": "hub_23444",
+        "name": "Hemiksem Dorp kerkplein fietsenrek ",
+        "latitude": "51.143891",
+        "longitude": "4.3455618"
+    },
+    {
+        "id": "hub_23333",
+        "name": "Wommelgem Silsburg Tramterminus 6E",
+        "latitude": "51.203753",
+        "longitude": "4.4829473"
+    },
+    {
+        "id": "misplaced_39568",
+        "name": "Mabel",
+        "latitude": "51.138678",
+        "longitude": "4.4363055"
+    },
+    {
+        "id": "misplaced_33332",
+        "name": "Aleena",
+        "latitude": "51.07772",
+        "longitude": "4.319373"
+    },
+    {
+        "id": "hub_26277",
+        "name": "Antwerp Diamant",
+        "latitude": "51.2151852",
+        "longitude": "4.4203388"
+    },
+    {
+        "id": "hub_23488",
+        "name": "Ranst Gasthuisstraat - fietsrek",
+        "latitude": "51.1882085",
+        "longitude": "4.5621163"
+    },
+    {
+        "id": "hub_27750",
+        "name": "Deurne Boekenbergpark",
+        "latitude": "51.1996551",
+        "longitude": "4.465064"
+    },
+    {
+        "id": "hub_26833",
+        "name": "Antwerp De Singel",
+        "latitude": "51.1937168",
+        "longitude": "4.4023895"
+    },
+    {
+        "id": "hub_23420",
+        "name": "Ekeren Hof de Bist 5P",
+        "latitude": "51.282031",
+        "longitude": "4.4421296"
+    },
+    {
+        "id": "hub_26903",
+        "name": "Antwerp Haven Havenhuis 4E",
+        "latitude": "51.24029",
+        "longitude": "4.4083963"
+    },
+    {
+        "id": "hub_27702",
+        "name": "Linkeroever Colruyt",
+        "latitude": "51.2193123",
+        "longitude": "4.3642709"
+    },
+    {
+        "id": "hub_28145",
+        "name": "Mortsel 11-Julistraat - fietsrek",
+        "latitude": "51.1680591",
+        "longitude": "4.4621459"
+    },
+    {
+        "id": "hub_23496",
+        "name": "Rumst Terhagen Kerk",
+        "latitude": "51.0797848",
+        "longitude": "4.3979188"
+    },
+    {
+        "id": "hub_26930",
+        "name": "Antwerp Nestlei",
+        "latitude": "51.2095268",
+        "longitude": "4.4238699"
+    },
+    {
+        "id": "hub_28587",
+        "name": "Moerbeke Statiestraat 4E",
+        "latitude": "51.1743875",
+        "longitude": "3.9332656"
+    },
+    {
+        "id": "hub_29328",
+        "name": "S-K-W Parking Bosstraat 2E2P",
+        "latitude": "51.0640625",
+        "longitude": "4.5800469"
+    },
+    {
+        "id": "hub_23403",
+        "name": "Edegem Molenveld",
+        "latitude": "51.1637037",
+        "longitude": "4.427347"
+    },
+    {
+        "id": "hub_27041",
+        "name": "Hoboken Hendriklei fietsenrek ",
+        "latitude": "51.1877132",
+        "longitude": "4.3728754"
+    },
+    {
+        "id": "hub_30261",
+        "name": "Niel Sporthal - fietsrek",
+        "latitude": "51.1109215",
+        "longitude": "4.3359574"
+    },
+    {
+        "id": "hub_27034",
+        "name": "Antwerp Stuivenbergplein",
+        "latitude": "51.2264256",
+        "longitude": "4.4285105"
+    },
+    {
+        "id": "hub_32293",
+        "name": "Hulst Hombachstraat",
+        "latitude": "51.2932273",
+        "longitude": "4.1614557"
+    },
+    {
+        "id": "hub_23298",
+        "name": "Antwerp Mechelseplein",
+        "latitude": "51.2139365",
+        "longitude": "4.4050308"
+    },
+    {
+        "id": "hub_31352",
+        "name": "Beveren Katoennatie WH45/46/55/56",
+        "latitude": "51.2839125",
+        "longitude": "4.2979844"
+    },
+    {
+        "id": "hub_23459",
+        "name": "Kontich sporthal De Nachtegaal fietsenrek ",
+        "latitude": "51.1297521",
+        "longitude": "4.4531409"
+    },
+    {
+        "id": "hub_23384",
+        "name": "Brasschaat Hoge Kaart 2E4P - fietsrek",
+        "latitude": "51.3033841",
+        "longitude": "4.4857354"
+    },
+    {
+        "id": "hub_26275",
+        "name": "Antwerp Vlinderpaleis",
+        "latitude": "51.2038201",
+        "longitude": "4.3884966"
+    },
+    {
+        "id": "hub_28583",
+        "name": "Kruibeke Veerdienst 4E4P",
+        "latitude": "51.1759125",
+        "longitude": "4.3157656"
+    },
+    {
+        "id": "hub_28579",
+        "name": "Lokeren Daknamkerk 4E",
+        "latitude": "51.1254625",
+        "longitude": "3.9803281"
+    },
+    {
+        "id": "hub_23430",
+        "name": "Ekeren Paardebloemlaan 4P",
+        "latitude": "51.2800715",
+        "longitude": "4.442439"
+    },
+    {
+        "id": "misplaced_33414",
+        "name": "Santana",
+        "latitude": "51.0322229",
+        "longitude": "4.4687567"
+    },
+    {
+        "id": "hub_23310",
+        "name": "Antwerp Rooseveltplaats",
+        "latitude": "51.21984",
+        "longitude": "4.41677"
+    },
+    {
+        "id": "hub_27398",
+        "name": "Berchem Williot",
+        "latitude": "51.1875363",
+        "longitude": "4.4340784"
+    },
+    {
+        "id": "misplaced_40206",
+        "name": "Kristian",
+        "latitude": "51.198368",
+        "longitude": "4.329425"
+    },
+    {
+        "id": "hub_29654",
+        "name": "Boortmeerbeek Sporthal",
+        "latitude": "50.9828125",
+        "longitude": "4.5668594"
+    },
+    {
+        "id": "hub_23293",
+        "name": "Linkeroever P+R",
+        "latitude": "51.2194765",
+        "longitude": "4.3495701"
+    },
+    {
+        "id": "hub_23349",
+        "name": "Wilrijk Bist dropzone ",
+        "latitude": "51.1704031",
+        "longitude": "4.394766"
+    },
+    {
+        "id": "hub_26375",
+        "name": "Antwerp Nationalestraat",
+        "latitude": "51.2167127",
+        "longitude": "4.3993757"
+    },
+    {
+        "id": "hub_24349",
+        "name": "Sint-Niklaas Waasland Shopping",
+        "latitude": "51.151939",
+        "longitude": "4.156101"
+    },
+    {
+        "id": "hub_31884",
+        "name": "Mechelen Kruisbaan 3E1P - fietsrek",
+        "latitude": "51.009303",
+        "longitude": "4.4700014"
+    },
+    {
+        "id": "hub_30384",
+        "name": "Breendonk Kerk - 2E2P",
+        "latitude": "51.0444875",
+        "longitude": "4.3257969"
+    },
+    {
+        "id": "misplaced_33323",
+        "name": "Roberta",
+        "latitude": "51.1429074",
+        "longitude": "4.173171"
+    },
+    {
+        "id": "hub_27744",
+        "name": "Antwerp Kerkstraat",
+        "latitude": "51.2195582",
+        "longitude": "4.4347966"
+    },
+    {
+        "id": "hub_29673",
+        "name": "Antwerp van Schoonbeke",
+        "latitude": "51.1985662",
+        "longitude": "4.4027546"
+    },
+    {
+        "id": "inrental_40338",
+        "name": "Sulejman",
+        "latitude": "51.278763",
+        "longitude": "4.416123"
+    },
+    {
+        "id": "hub_27022",
+        "name": "Antwerp Oranje",
+        "latitude": "51.2280551",
+        "longitude": "4.4230649"
+    },
+    {
+        "id": "hub_30163",
+        "name": "Wijnegem Delhaize - fietsrek",
+        "latitude": "51.2270861",
+        "longitude": "4.5199718"
+    },
+    {
+        "id": "hub_23487",
+        "name": "Ranst Emblem Dorp - begin parking",
+        "latitude": "51.1604595",
+        "longitude": "4.599177"
+    },
+    {
+        "id": "hub_30611",
+        "name": "Nieuwkerken Sportcentrum De Mispelaer",
+        "latitude": "51.1960875",
+        "longitude": "4.1779219"
+    },
+    {
+        "id": "hub_23424",
+        "name": "Ekeren Konijnenberg 4P",
+        "latitude": "51.278582",
+        "longitude": "4.4297333"
+    },
+    {
+        "id": "misplaced_36326",
+        "name": "Rosario",
+        "latitude": "51.13903",
+        "longitude": "4.4528917"
+    },
+    {
+        "id": "inrental_32136",
+        "name": "Sofieke",
+        "latitude": "51.194128",
+        "longitude": "4.435436"
+    },
+    {
+        "id": "misplaced_33329",
+        "name": "Eliot",
+        "latitude": "51.307473",
+        "longitude": "4.452195"
+    },
+    {
+        "id": "hub_27737",
+        "name": "Berchem UA Groenenborger",
+        "latitude": "51.1775482",
+        "longitude": "4.41588"
+    },
+    {
+        "id": "hub_30260",
+        "name": "Niel Het Geleeg fietsenrek",
+        "latitude": "51.1114375",
+        "longitude": "4.3442656"
+    },
+    {
+        "id": "hub_23988",
+        "name": "Merksem Kroonplein",
+        "latitude": "51.2510709",
+        "longitude": "4.4491161"
+    },
+    {
+        "id": "misplaced_40820",
+        "name": "Wahoo",
+        "latitude": "51.327317",
+        "longitude": "4.3736967"
+    },
+    {
+        "id": "hub_23497",
+        "name": "SGW De Klinge Kerk",
+        "latitude": "51.2562406",
+        "longitude": "4.0902187"
+    },
+    {
+        "id": "hub_27058",
+        "name": "Hoboken Salesianen fietsenrek ",
+        "latitude": "51.1731673",
+        "longitude": "4.3659446"
+    },
+    {
+        "id": "hub_23388",
+        "name": "Brasschaat Voshollei 2E2P - fietsrek",
+        "latitude": "51.2760102",
+        "longitude": "4.4726644"
+    },
+    {
+        "id": "hub_29996",
+        "name": "Wuustwezel Kattegat - fietsrek",
+        "latitude": "51.3982375",
+        "longitude": "4.6001406"
+    },
+    {
+        "id": "misplaced_31065",
+        "name": "Janneke",
+        "latitude": "51.3282996",
+        "longitude": "4.6028912"
+    },
+    {
+        "id": "misplaced_33574",
+        "name": "Marcus",
+        "latitude": "51.0849597",
+        "longitude": "3.9994268"
+    },
+    {
+        "id": "hub_24099",
+        "name": "Zoersel - Eikenlaan - fietsrek",
+        "latitude": "51.2529082",
+        "longitude": "4.6174962"
+    },
+    {
+        "id": "hub_29616",
+        "name": "Mechelen AZ Sint-Maarten 4P",
+        "latitude": "51.0521375",
+        "longitude": "4.4746719"
+    },
+    {
+        "id": "hub_23447",
+        "name": "Hemiksem Bouwerij fietsenrek ",
+        "latitude": "51.1367976",
+        "longitude": "4.345076"
+    },
+    {
+        "id": "hub_27703",
+        "name": "Linkeroever Spinnaker",
+        "latitude": "51.2166431",
+        "longitude": "4.3657669"
+    },
+    {
+        "id": "hub_29631",
+        "name": "Mechelen Vrijbroekpark",
+        "latitude": "51.0198125",
+        "longitude": "4.4659219"
+    },
+    {
+        "id": "hub_29722",
+        "name": "Beveren S+R De Meerminnen - fietsrek ",
+        "latitude": "51.2131875",
+        "longitude": "4.2384531"
+    },
+    {
+        "id": "hub_27036",
+        "name": "Antwerp van Goghplein",
+        "latitude": "51.2220098",
+        "longitude": "4.4293473"
+    },
+    {
+        "id": "misplaced_33763",
+        "name": "Chloe",
+        "latitude": "51.2251446",
+        "longitude": "4.4306275"
+    },
+    {
+        "id": "hub_29314",
+        "name": "Heist-Op-Den-Berg Station Fietsrek 8E5P",
+        "latitude": "51.0739548",
+        "longitude": "4.7089254"
+    },
+    {
+        "id": "hub_28594",
+        "name": "Sint-Niklaas Sinaai NMBS 4E",
+        "latitude": "51.1434574",
+        "longitude": "4.0683184"
+    },
+    {
+        "id": "hub_30068",
+        "name": "Lier Cultuurcentrum De Mol - fietsrek",
+        "latitude": "51.1248187",
+        "longitude": "4.576043"
+    },
+    {
+        "id": "hub_23471",
+        "name": "Malle Westmalle Dorp",
+        "latitude": "51.2970757",
+        "longitude": "4.6964446"
+    },
+    {
+        "id": "hub_29662",
+        "name": "Willebroek A.V Landeghemplein 3E3P - fietsrek",
+        "latitude": "51.0605875",
+        "longitude": "4.3603281"
+    },
+    {
+        "id": "hub_23407",
+        "name": "Ekeren NMBS St-Mariaburg 3E3P",
+        "latitude": "51.2907539",
+        "longitude": "4.435279"
+    },
+    {
+        "id": "hub_29655",
+        "name": "Boortmeerbeek Station Hever - fietsrek",
+        "latitude": "50.9976125",
+        "longitude": "4.5375781"
+    },
+    {
+        "id": "hub_23390",
+        "name": "Brecht Sint-Job-in-'t-Goor Kruispunt",
+        "latitude": "51.3044357",
+        "longitude": "4.5679166"
+    },
+    {
+        "id": "hub_28125",
+        "name": " Antwerp Haven Boortmalt 4E",
+        "latitude": "51.2752523",
+        "longitude": "4.3629797"
+    },
+    {
+        "id": "hub_29725",
+        "name": "Beveren Parking Stadionplein",
+        "latitude": "51.2155375",
+        "longitude": "4.2442656"
+    },
+    {
+        "id": "misplaced_39928",
+        "name": "Ugor",
+        "latitude": "51.2043823",
+        "longitude": "4.3883209"
+    },
+    {
+        "id": "hub_29999",
+        "name": "Wuustwezel Bibliotheek 1E2P - fietsrek",
+        "latitude": "51.3881125",
+        "longitude": "4.5957969"
+    },
+    {
+        "id": "hub_28578",
+        "name": "Lokeren Doorslaarkerk 4E",
+        "latitude": "51.1212375",
+        "longitude": "3.9259219"
+    },
+    {
+        "id": "hub_29928",
+        "name": "Antwerp Ijzerlaan - fietsrek",
+        "latitude": "51.2354672",
+        "longitude": "4.4208485"
+    },
+    {
+        "id": "misplaced_35197",
+        "name": "Evan",
+        "latitude": "51.2083089",
+        "longitude": "4.2566373"
+    },
+    {
+        "id": "hub_24106",
+        "name": "Zandvliet Antwerpsebaan 2E2P",
+        "latitude": "51.3695289",
+        "longitude": "4.3312797"
+    },
+    {
+        "id": "hub_23326",
+        "name": "Borsbeek Dorp",
+        "latitude": "51.1929914",
+        "longitude": "4.4870499"
+    },
+    {
+        "id": "hub_24348",
+        "name": "Sint-Niklaas NMBS 10E",
+        "latitude": "51.1714122",
+        "longitude": "4.144773"
+    },
+    {
+        "id": "hub_26873",
+        "name": "Hoboken Broydenborgpark fietsenrek ",
+        "latitude": "51.1735248",
+        "longitude": "4.3523699"
+    },
+    {
+        "id": "hub_28736",
+        "name": "Lokeren NMBS 6E4P",
+        "latitude": "51.1070667",
+        "longitude": "3.9861605"
+    },
+    {
+        "id": "hub_30893",
+        "name": "Antwerp Haven NextGen District",
+        "latitude": "51.2897963",
+        "longitude": "4.3619568"
+    },
+    {
+        "id": "hub_26825",
+        "name": "Deurne Kasteel Sterckhof",
+        "latitude": "51.2149569",
+        "longitude": "4.4615348"
+    },
+    {
+        "id": "hub_23510",
+        "name": "Wijnegem Hippolyte Meeusstraat - voetpad",
+        "latitude": "51.2279672",
+        "longitude": "4.5416169"
+    },
+    {
+        "id": "hub_28630",
+        "name": "Brecht Vaartlaan",
+        "latitude": "51.3219979",
+        "longitude": "4.5865941"
+    },
+    {
+        "id": "hub_28542",
+        "name": "Aartselaar Koekoek glasbollen",
+        "latitude": "51.1141478",
+        "longitude": "4.3719142"
+    },
+    {
+        "id": "hub_23323",
+        "name": "Berchem NMBS",
+        "latitude": "51.2005763",
+        "longitude": "4.4327249"
+    },
+    {
+        "id": "inrental_31121",
+        "name": "Wimmeke",
+        "latitude": "51.190205",
+        "longitude": "4.449751"
+    },
+    {
+        "id": "misplaced_33403",
+        "name": "Adler",
+        "latitude": "51.1611",
+        "longitude": "4.501556"
+    },
+    {
+        "id": "hub_29919",
+        "name": "Antwerp Klooster",
+        "latitude": "51.216478",
+        "longitude": "4.3951673"
+    },
+    {
+        "id": "hub_23305",
+        "name": "Antwerp Paardenmarkt",
+        "latitude": "51.2251502",
+        "longitude": "4.4091695"
+    },
+    {
+        "id": "hub_29299",
+        "name": "Bonheiden Halte Peulisbaan 4E",
+        "latitude": "51.0132125",
+        "longitude": "4.5838594"
+    },
+    {
+        "id": "hub_29719",
+        "name": "Beveren Halte N70 Kruisstraat",
+        "latitude": "51.1947125",
+        "longitude": "4.2170469"
+    },
+    {
+        "id": "hub_30619",
+        "name": "Sint-Niklaas Parking 't Bau-huis",
+        "latitude": "51.1736296",
+        "longitude": "4.1476612"
+    },
+    {
+        "id": "hub_30000",
+        "name": "Wuustwezel Halte Weversstraat 1E2P",
+        "latitude": "51.4000875",
+        "longitude": "4.6489844"
+    },
+    {
+        "id": "hub_27030",
+        "name": "Merksem Terlindenhof",
+        "latitude": "51.248108",
+        "longitude": "4.4442198"
+    },
+    {
+        "id": "hub_30394",
+        "name": "Sint-Gillis-Waas Eeckbergstraat",
+        "latitude": "51.2366375",
+        "longitude": "4.1010156"
+    },
+    {
+        "id": "hub_29622",
+        "name": "Mechelen Walem 2E2P - fietsrek",
+        "latitude": "51.0659875",
+        "longitude": "4.4570156"
+    },
+    {
+        "id": "misplaced_39686",
+        "name": "Malcolm",
+        "latitude": "51.1624796",
+        "longitude": "4.4575261"
+    },
+    {
+        "id": "hub_28141",
+        "name": "Mortsel Lieven Gevaertstraat - fietsrek",
+        "latitude": "51.1744431",
+        "longitude": "4.4412964"
+    },
+    {
+        "id": "hub_30124",
+        "name": "Merksem Laarsebaan",
+        "latitude": "51.2551436",
+        "longitude": "4.4377276"
+    },
+    {
+        "id": "misplaced_40078",
+        "name": "Selina",
+        "latitude": "51.0280599",
+        "longitude": "4.7586256"
+    },
+    {
+        "id": "misplaced_31592",
+        "name": "Caspar",
+        "latitude": "51.21403",
+        "longitude": "4.33059"
+    },
+    {
+        "id": "hub_23479",
+        "name": "Mortsel Meidoorn 2P",
+        "latitude": "51.1773393",
+        "longitude": "4.4655597"
+    },
+    {
+        "id": "hub_30262",
+        "name": "Niel Blauwbrug",
+        "latitude": "51.1130679",
+        "longitude": "4.3269472"
+    },
+    {
+        "id": "hub_23307",
+        "name": "Antwerp Groenplaats",
+        "latitude": "51.2195319",
+        "longitude": "4.4012713"
+    },
+    {
+        "id": "hub_30863",
+        "name": "Mechelen Hombeek Dorp - fietsrek",
+        "latitude": "51.0148928",
+        "longitude": "4.4447665"
+    },
+    {
+        "id": "hub_26376",
+        "name": "Brecht Dienstencentrum Sint-Job",
+        "latitude": "51.2923216",
+        "longitude": "4.5768149"
+    },
+    {
+        "id": "hub_32558",
+        "name": "Schoten Sporthal Vordenstein",
+        "latitude": "51.2533375",
+        "longitude": "4.4927344"
+    },
+    {
+        "id": "hub_31329",
+        "name": "Putte Iksenheuvel - fietsrek",
+        "latitude": "51.0465875",
+        "longitude": "4.6253594"
+    },
+    {
+        "id": "misplaced_31999",
+        "name": "Kristien",
+        "latitude": "51.203241",
+        "longitude": "4.34303"
+    },
+    {
+        "id": "hub_23308",
+        "name": "Antwerp Premetro Handel",
+        "latitude": "51.2242187",
+        "longitude": "4.4320997"
+    },
+    {
+        "id": "hub_31720",
+        "name": "Kapellen De Oude Pastorij",
+        "latitude": "51.3167365",
+        "longitude": "4.42764"
+    },
+    {
+        "id": "hub_29675",
+        "name": "Willebroek Station 4E4P",
+        "latitude": "51.0662625",
+        "longitude": "4.3547344"
+    },
+    {
+        "id": "hub_29319",
+        "name": "Grasheide Dorp 2E2P - fietsrek",
+        "latitude": "51.0275023",
+        "longitude": "4.6565807"
+    },
+    {
+        "id": "hub_32035",
+        "name": "Tijdelijke Hub Rumst Molenbergstraat",
+        "latitude": "51.0801491",
+        "longitude": "4.421808"
+    },
+    {
+        "id": "hub_23338",
+        "name": "Hoboken Zwaantjes dropzone",
+        "latitude": "51.1826792",
+        "longitude": "4.3721921"
+    },
+    {
+        "id": "hub_26684",
+        "name": "Luchtbal Noorderlaan  - stoep",
+        "latitude": "51.2547762",
+        "longitude": "4.4198768"
+    },
+    {
+        "id": "hub_23871",
+        "name": "Brasschaat KLINA 6E2P - Begin bushalte",
+        "latitude": "51.2977296",
+        "longitude": "4.4887938"
+    },
+    {
+        "id": "hub_26935",
+        "name": "Antwerp Minderbroeder",
+        "latitude": "51.2230931",
+        "longitude": "4.4061026"
+    },
+    {
+        "id": "hub_31917",
+        "name": "Berlaar Heikant 2E - fietsrek",
+        "latitude": "51.0828208",
+        "longitude": "4.6691141"
+    },
+    {
+        "id": "inrental_38299",
+        "name": "Maksy",
+        "latitude": "51.21067",
+        "longitude": "4.582356"
+    },
+    {
+        "id": "hub_30656",
+        "name": "Antwerp Haven Kauwenstein 4E",
+        "latitude": "51.2752667",
+        "longitude": "4.3331088"
+    },
+    {
+        "id": "hub_28214",
+        "name": "Antwerp Provinciehuis",
+        "latitude": "51.1994702",
+        "longitude": "4.4108518"
+    },
+    {
+        "id": "hub_24218",
+        "name": "Wommelgem P+R Draaiboom (P+R Wommelgem)",
+        "latitude": "51.2117876",
+        "longitude": "4.4915775"
+    },
+    {
+        "id": "hub_28593",
+        "name": "Sint-Niklaas Kettermuit 6P",
+        "latitude": "51.1366625",
+        "longitude": "4.1521406"
+    },
+    {
+        "id": "hub_26907",
+        "name": "Antwerp Falconrui",
+        "latitude": "51.2252231",
+        "longitude": "4.404898"
+    },
+    {
+        "id": "hub_29627",
+        "name": "Mechelen Zwembad Geerdegemvaart - fietsrek",
+        "latitude": "51.0110125",
+        "longitude": "4.4873281"
+    },
+    {
+        "id": "hub_27706",
+        "name": "Antwerp Van Geert",
+        "latitude": "51.2151951",
+        "longitude": "4.4274587"
+    },
+    {
+        "id": "misplaced_32141",
+        "name": "Elsie",
+        "latitude": "51.0196332",
+        "longitude": "4.4822086"
+    },
+    {
+        "id": "hub_29310",
+        "name": "Duffel Sportcentrum Rooienberg - fietsrek",
+        "latitude": "51.0970625",
+        "longitude": "4.4935469"
+    },
+    {
+        "id": "hub_28142",
+        "name": "Mortsel Guido Gezellelaan - bomen",
+        "latitude": "51.1753898",
+        "longitude": "4.4462459"
+    },
+    {
+        "id": "hub_27031",
+        "name": "Merksem Ringlaan",
+        "latitude": "51.2538689",
+        "longitude": "4.4598661"
+    },
+    {
+        "id": "hub_29718",
+        "name": "Haasdonk Sportzone Tassijns - fietsrek",
+        "latitude": "51.1813125",
+        "longitude": "4.2343906"
+    },
+    {
+        "id": "hub_23418",
+        "name": "Ekeren Handboogstraat 4P",
+        "latitude": "51.2765702",
+        "longitude": "4.4076143"
+    },
+    {
+        "id": "hub_27035",
+        "name": "Antwerp Sint-Willibrordus",
+        "latitude": "51.2189475",
+        "longitude": "4.4315608"
+    },
+    {
+        "id": "hub_29641",
+        "name": "Mechelen Predikheren - fietsrek",
+        "latitude": "51.0335625",
+        "longitude": "4.4794844"
+    },
+    {
+        "id": "hub_23490",
+        "name": "Ranst Oelegem Ter Stratenweg - klinkers",
+        "latitude": "51.2102714",
+        "longitude": "4.5814866"
+    },
+    {
+        "id": "hub_30788",
+        "name": "Lokeren Zelebaan",
+        "latitude": "51.0935748",
+        "longitude": "4.0143142"
+    },
+    {
+        "id": "hub_23483",
+        "name": "Niel Dorpsplein fietsenrek ",
+        "latitude": "51.109196",
+        "longitude": "4.3266157"
+    },
+    {
+        "id": "hub_31327",
+        "name": "Putte GC Klein Boom - fietsrek",
+        "latitude": "51.0509125",
+        "longitude": "4.6148281"
+    },
+    {
+        "id": "hub_23498",
+        "name": "Sint-Gillis-Waas Gemeentehuis 4E4P",
+        "latitude": "51.2171042",
+        "longitude": "4.129155"
+    },
+    {
+        "id": "hub_27391",
+        "name": "Wilrijk Mastweg fietsenrek ",
+        "latitude": "51.1720673",
+        "longitude": "4.3933963"
+    },
+    {
+        "id": "inrental_34024",
+        "name": "Ulric",
+        "latitude": "51.36606",
+        "longitude": "4.505585"
+    },
+    {
+        "id": "hub_23437",
+        "name": "Ekeren Vogelkersstraat 4P",
+        "latitude": "51.2880992",
+        "longitude": "4.4321167"
+    },
+    {
+        "id": "hub_29093",
+        "name": "Boechout Kardinaal Sterckxplein",
+        "latitude": "51.1677484",
+        "longitude": "4.4981399"
+    },
+    {
+        "id": "hub_27824",
+        "name": "Beveren Gravenplein - fietsrek",
+        "latitude": "51.2136869",
+        "longitude": "4.2607345"
+    },
+    {
+        "id": "hub_29337",
+        "name": "Willebroek HVT De Schalk 1E1P - fietsrek",
+        "latitude": "51.0611375",
+        "longitude": "4.3467031"
+    },
+    {
+        "id": "hub_24330",
+        "name": "Essen NMBS Essen - fietsrek",
+        "latitude": "51.4623951",
+        "longitude": "4.4518749"
+    }
+]
