@@ -5,7 +5,7 @@ import fetch from "node-fetch";
 // All your hub cities + endpoints
 const cities = [
   {
-    name: 'antwerp',
+    name: 'antwerptest',
     endpoints: [
       'https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803'
     ]
