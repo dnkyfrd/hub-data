@@ -1,100 +1,9 @@
 [
   {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17001,
-    "name": "Rives du Lac",
-    "latitude": "46.7851494",
-    "longitude": "6.6439231",
-    "thumbnail_url": ""
-  },
-  {
     "id": 16302,
     "name": "Buron",
     "latitude": "46.7772114",
     "longitude": "6.6485143",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17232,
-    "name": "Condémines",
-    "latitude": "46.7695009",
-    "longitude": "6.6526667",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16307,
-    "name": "Marive",
-    "latitude": "46.7857601",
-    "longitude": "6.638189",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16388,
-    "name": "Boulodrome",
-    "latitude": "46.7909522",
-    "longitude": "6.6395616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14993,
-    "name": "Collège des Rives",
-    "latitude": "46.785265",
-    "longitude": "6.6411045",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18762,
-    "name": "Y-Parc, Innovation",
-    "latitude": "46.7638726",
-    "longitude": "6.6364354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19546,
-    "name": "Batellerie",
-    "latitude": "46.7887594",
-    "longitude": "6.6412567",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17297,
-    "name": "Fontenay",
-    "latitude": "46.7831",
-    "longitude": "6.6318728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16314,
-    "name": "Rue de Montagny",
-    "latitude": "46.7813291",
-    "longitude": "6.6255055",
     "thumbnail_url": ""
   },
   {
@@ -105,24 +14,59 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20011,
-    "name": "Sport 5",
-    "latitude": "46.7819652",
-    "longitude": "6.6494833",
+    "id": 16314,
+    "name": "Rue de Montagny",
+    "latitude": "46.7813291",
+    "longitude": "6.6255055",
     "thumbnail_url": ""
   },
   {
-    "id": 18013,
-    "name": "Dérivée",
-    "latitude": "46.7876823",
-    "longitude": "6.6417099",
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
     "thumbnail_url": ""
   },
   {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
+    "id": 16388,
+    "name": "Boulodrome",
+    "latitude": "46.7909522",
+    "longitude": "6.6395616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17232,
+    "name": "Condémines",
+    "latitude": "46.7695009",
+    "longitude": "6.6526667",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18762,
+    "name": "Y-Parc, Innovation",
+    "latitude": "46.7638726",
+    "longitude": "6.6364354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17231,
+    "name": "4 Marronniers",
+    "latitude": "46.7757214",
+    "longitude": "6.6480922",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -140,17 +84,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16280,
-    "name": "Plage",
-    "latitude": "46.7839414",
-    "longitude": "6.6525422",
+    "id": 17297,
+    "name": "Fontenay",
+    "latitude": "46.7831",
+    "longitude": "6.6318728",
     "thumbnail_url": ""
   },
   {
-    "id": 16308,
-    "name": "Piscine couverte",
-    "latitude": "46.7850132",
-    "longitude": "6.6466891",
+    "id": 16283,
+    "name": "Conservatoire",
+    "latitude": "46.7849178",
+    "longitude": "6.6360569",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16307,
+    "name": "Marive",
+    "latitude": "46.7857601",
+    "longitude": "6.638189",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
     "thumbnail_url": ""
   },
   {
@@ -161,10 +126,80 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17231,
-    "name": "4 Marronniers",
-    "latitude": "46.7757214",
-    "longitude": "6.6480922",
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20011,
+    "name": "Sport 5",
+    "latitude": "46.7819652",
+    "longitude": "6.6494833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16280,
+    "name": "Plage",
+    "latitude": "46.7839414",
+    "longitude": "6.6525422",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14993,
+    "name": "Collège des Rives",
+    "latitude": "46.785265",
+    "longitude": "6.6411045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17001,
+    "name": "Rives du Lac",
+    "latitude": "46.7851494",
+    "longitude": "6.6439231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18013,
+    "name": "Dérivée",
+    "latitude": "46.7876823",
+    "longitude": "6.6417099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19546,
+    "name": "Batellerie",
+    "latitude": "46.7887594",
+    "longitude": "6.6412567",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16308,
+    "name": "Piscine couverte",
+    "latitude": "46.7850132",
+    "longitude": "6.6466891",
     "thumbnail_url": ""
   },
   {
@@ -217,13 +252,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19550,
     "name": "Moulins",
     "latitude": "46.7722606",
@@ -245,24 +273,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16283,
-    "name": "Conservatoire",
-    "latitude": "46.7849178",
-    "longitude": "6.6360569",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17301,
     "name": "Coin de Terre",
     "latitude": "46.7893027",
     "longitude": "6.6369442",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -287,13 +301,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21308,
     "name": "Pierre de Savoie",
     "latitude": "46.7684825",
@@ -305,13 +312,6 @@
     "name": "Stade ",
     "latitude": "46.7827357",
     "longitude": "6.6457893",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
