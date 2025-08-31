@@ -1,12 +1,5 @@
 [
   {
-    "id": 3129,
-    "name": "EPFL Innovation Park cargobike (bât. QIH)",
-    "latitude": "46.5171987",
-    "longitude": "6.5607173",
-    "thumbnail_url": ""
-  },
-  {
     "id": 16548,
     "name": "EPFL - Piccard",
     "latitude": "46.5206921",
@@ -14,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 649,
-    "name": "EPFL Cargo - Parking Esplanade (underground)",
-    "latitude": "46.5205049",
-    "longitude": "6.5662067",
+    "id": 3129,
+    "name": "EPFL Innovation Park cargobike (bât. QIH)",
+    "latitude": "46.5171987",
+    "longitude": "6.5607173",
     "thumbnail_url": ""
   },
   {
@@ -25,6 +18,13 @@
     "name": "EPFL - ME",
     "latitude": "46.5199649",
     "longitude": "6.5671437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 649,
+    "name": "EPFL Cargo - Parking Esplanade (underground)",
+    "latitude": "46.5205049",
+    "longitude": "6.5662067",
     "thumbnail_url": ""
   },
   {
