@@ -1,30 +1,9 @@
 [
   {
-    "id": 21987,
-    "name": "L'Entre-Deux",
-    "latitude": "46.2158082",
-    "longitude": "6.1308509",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26755,
     "name": "Belle-Cour",
     "latitude": "46.1797269",
     "longitude": "6.1040497",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18552,
-    "name": "Pont Mont Blanc S",
-    "latitude": "46.2041793",
-    "longitude": "6.149528",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18612,
-    "name": "Pont du Mont-Blanc",
-    "latitude": "46.2069193",
-    "longitude": "6.1473036",
     "thumbnail_url": ""
   },
   {
@@ -84,17 +63,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22014,
+    "name": "Maladière",
+    "latitude": "46.1898414",
+    "longitude": "6.141977",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18552,
+    "name": "Pont Mont Blanc S",
+    "latitude": "46.2041793",
+    "longitude": "6.149528",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18597,
     "name": "Village-Suisse",
     "latitude": "46.1989667",
     "longitude": "6.1345087",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18496,
-    "name": "Gare Cornavin Montbrillant",
-    "latitude": "46.2099986",
-    "longitude": "6.1406665",
     "thumbnail_url": ""
   },
   {
@@ -105,17 +91,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18612,
+    "name": "Pont du Mont-Blanc",
+    "latitude": "46.2069193",
+    "longitude": "6.1473036",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21987,
+    "name": "L'Entre-Deux",
+    "latitude": "46.2158082",
+    "longitude": "6.1308509",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21858,
     "name": "Chemin des Sports",
     "latitude": "46.2090593",
     "longitude": "6.116958",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20630,
-    "name": "Maraîchers 46",
-    "latitude": "46.1974694",
-    "longitude": "6.1383047",
     "thumbnail_url": ""
   },
   {
@@ -137,6 +130,13 @@
     "name": "Rue Barton",
     "latitude": "46.2107688",
     "longitude": "6.1510593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20630,
+    "name": "Maraîchers 46",
+    "latitude": "46.1974694",
+    "longitude": "6.1383047",
     "thumbnail_url": ""
   },
   {
@@ -182,17 +182,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18486,
+    "name": "Seymaz",
+    "latitude": "46.20688",
+    "longitude": "6.20102",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22372,
     "name": "Rue de Lausanne 67",
     "latitude": "46.2158323",
     "longitude": "6.1471882",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26368,
-    "name": "Tourbillon",
-    "latitude": "46.1664385",
-    "longitude": "6.1037073",
     "thumbnail_url": ""
   },
   {
@@ -217,10 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18394,
-    "name": "Bains des Pâquis",
-    "latitude": "46.2112069",
-    "longitude": "6.1526709",
+    "id": 18393,
+    "name": "La Praille ",
+    "latitude": "46.1801691",
+    "longitude": "6.1285301",
     "thumbnail_url": ""
   },
   {
@@ -228,6 +228,13 @@
     "name": "Uni Mail",
     "latitude": "46.1952317",
     "longitude": "6.1406654",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22154,
+    "name": "Route de Chancy",
+    "latitude": "46.1878207",
+    "longitude": "6.111713",
     "thumbnail_url": ""
   },
   {
@@ -291,6 +298,13 @@
     "name": "Quai de Cologny 5",
     "latitude": "46.2195566",
     "longitude": "6.1788906",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18496,
+    "name": "Gare Cornavin Montbrillant",
+    "latitude": "46.2099986",
+    "longitude": "6.1406665",
     "thumbnail_url": ""
   },
   {
@@ -385,10 +399,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22014,
-    "name": "Maladière",
-    "latitude": "46.1898414",
-    "longitude": "6.141977",
+    "id": 26368,
+    "name": "Tourbillon",
+    "latitude": "46.1664385",
+    "longitude": "6.1037073",
     "thumbnail_url": ""
   },
   {
@@ -455,13 +469,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18538,
-    "name": "Place de Grenus",
-    "latitude": "46.2069752",
-    "longitude": "6.1428894",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21869,
     "name": "Saint-Jean 67",
     "latitude": "46.2064096",
@@ -504,6 +511,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18394,
+    "name": "Bains des Pâquis",
+    "latitude": "46.2112069",
+    "longitude": "6.1526709",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18516,
     "name": "Jean-Jaquet",
     "latitude": "46.2138681",
@@ -532,24 +546,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18486,
-    "name": "Seymaz",
-    "latitude": "46.20688",
-    "longitude": "6.20102",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18807,
     "name": "Louis-Favre 19",
     "latitude": "46.2113011",
     "longitude": "6.1374893",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18500,
-    "name": "Genève Cornavin",
-    "latitude": "46.2093526",
-    "longitude": "6.1425051",
     "thumbnail_url": ""
   },
   {
@@ -651,13 +651,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18413,
-    "name": "Palladium",
-    "latitude": "46.2030625",
-    "longitude": "6.1340625",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22210,
     "name": "Rue Du-Roveray 9",
     "latitude": "46.2051736",
@@ -704,6 +697,20 @@
     "name": "Rochette",
     "latitude": "46.1831409",
     "longitude": "6.1019078",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18538,
+    "name": "Place de Grenus",
+    "latitude": "46.2069752",
+    "longitude": "6.1428894",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18413,
+    "name": "Palladium",
+    "latitude": "46.2030625",
+    "longitude": "6.1340625",
     "thumbnail_url": ""
   },
   {
@@ -819,6 +826,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18500,
+    "name": "Genève Cornavin",
+    "latitude": "46.2093526",
+    "longitude": "6.1425051",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18571,
     "name": "Rue de la Poterie 35",
     "latitude": "46.2109921",
@@ -893,13 +907,6 @@
     "name": "Jonction",
     "latitude": "46.2009968",
     "longitude": "6.13053",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18393,
-    "name": "La Praille ",
-    "latitude": "46.1801691",
-    "longitude": "6.1285301",
     "thumbnail_url": ""
   },
   {
@@ -1908,13 +1915,6 @@
     "name": "Maison des Compagnies ",
     "latitude": "46.2245564",
     "longitude": "6.0833345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22154,
-    "name": "Route de Chancy",
-    "latitude": "46.1878207",
-    "longitude": "6.111713",
     "thumbnail_url": ""
   },
   {

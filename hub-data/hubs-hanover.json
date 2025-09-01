@@ -1,5 +1,12 @@
 [
   {
+    "id": 28651,
+    "name": "Asternstrasse",
+    "latitude": "52.38551",
+    "longitude": "9.7241786",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32027,
     "name": "Station51",
     "latitude": "52.3740225",
@@ -49,24 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28441,
-    "name": "Braunschweiger Platz",
-    "latitude": "52.3707017",
-    "longitude": "9.7617537",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28651,
-    "name": "Asternstrasse",
-    "latitude": "52.38551",
-    "longitude": "9.7241786",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30932,
     "name": "Hannover-Buchholz-Kleefeld",
     "latitude": "52.3945875",
     "longitude": "9.8036719",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28441,
+    "name": "Braunschweiger Platz",
+    "latitude": "52.3707017",
+    "longitude": "9.7617537",
     "thumbnail_url": ""
   },
   {
@@ -105,6 +105,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31600,
+    "name": "Leibniz-Uni-Hauptmensa",
+    "latitude": "52.3866776",
+    "longitude": "9.7148528",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30966,
     "name": "Hub: Augustenstrasse",
     "latitude": "52.3771625",
@@ -123,6 +130,13 @@
     "name": "Augustenstrasse ",
     "latitude": "52.3777487",
     "longitude": "9.744518",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28398,
+    "name": "Uni Sporthalle - Lodyweg",
+    "latitude": "52.3783068",
+    "longitude": "9.715038",
     "thumbnail_url": ""
   },
   {
@@ -273,13 +287,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31600,
-    "name": "Leibniz-Uni-Hauptmensa",
-    "latitude": "52.3866776",
-    "longitude": "9.7148528",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28452,
     "name": "Alter Güterbahnhof",
     "latitude": "52.3836626",
@@ -291,13 +298,6 @@
     "name": "Pfarrlandstrasse",
     "latitude": "52.3764535",
     "longitude": "9.7076209",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28398,
-    "name": "Uni Sporthalle - Lodyweg",
-    "latitude": "52.3783068",
-    "longitude": "9.715038",
     "thumbnail_url": ""
   },
   {

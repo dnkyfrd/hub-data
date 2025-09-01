@@ -14,17 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12205,
-    "name": "Vlaanderenstraat 85",
-    "latitude": "51.0502747",
-    "longitude": "3.730164",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19610,
     "name": "Gent-Sint-Pietersstation Zuid",
     "latitude": "51.0347452",
     "longitude": "3.7089006",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21444,
+    "name": "2de Gent-Sint-Pietersstation Noord",
+    "latitude": "51.0370561",
+    "longitude": "3.7102414",
     "thumbnail_url": ""
   },
   {
@@ -119,6 +119,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 12205,
+    "name": "Vlaanderenstraat 85",
+    "latitude": "51.0502747",
+    "longitude": "3.730164",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31708,
     "name": "Olifantenstraat 1",
     "latitude": "51.0396313",
@@ -137,13 +144,6 @@
     "name": "Blok E artevelde",
     "latitude": "51.0419757",
     "longitude": "3.7243206",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21444,
-    "name": "2de Gent-Sint-Pietersstation Noord",
-    "latitude": "51.0370561",
-    "longitude": "3.7102414",
     "thumbnail_url": ""
   },
   {
@@ -364,24 +364,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12437,
-    "name": "Victor Braeckmanlaan 180",
-    "latitude": "51.0601714",
-    "longitude": "3.7607947",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32294,
     "name": "Zuid- Woodrow wilson",
     "latitude": "51.0480321",
     "longitude": "3.7299111",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12031,
-    "name": "Woodrow Wilsonplein",
-    "latitude": "51.0483397",
-    "longitude": "3.7309618",
     "thumbnail_url": ""
   },
   {
@@ -490,6 +476,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 12437,
+    "name": "Victor Braeckmanlaan 180",
+    "latitude": "51.0601714",
+    "longitude": "3.7607947",
+    "thumbnail_url": ""
+  },
+  {
     "id": 12054,
     "name": "Karel van Hulthemstraat 36",
     "latitude": "51.0441471",
@@ -564,6 +557,13 @@
     "name": "-1 De Krook (underground)",
     "latitude": "51.048445",
     "longitude": "3.7287204",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12031,
+    "name": "Woodrow Wilsonplein",
+    "latitude": "51.0483397",
+    "longitude": "3.7309618",
     "thumbnail_url": ""
   },
   {
