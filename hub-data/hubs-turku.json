@@ -1,9 +1,16 @@
 [
   {
-    "id": 22897,
-    "name": "Kuohukuja",
-    "latitude": "60.4672166",
-    "longitude": "22.3066902",
+    "id": 24039,
+    "name": "savitehtaankatu",
+    "latitude": "60.4516432",
+    "longitude": "22.297521",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27855,
+    "name": "Turun Caribia",
+    "latitude": "60.4602396",
+    "longitude": "22.2887898",
     "thumbnail_url": ""
   },
   {
@@ -14,143 +21,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23650,
-    "name": "Linnanmalmi",
-    "latitude": "60.4388333",
-    "longitude": "22.236256",
+    "id": 22476,
+    "name": "Kätilöpolku",
+    "latitude": "60.4516064",
+    "longitude": "22.2933979",
     "thumbnail_url": ""
   },
   {
-    "id": 27923,
-    "name": "Kirstinpuisto",
-    "latitude": "60.4490862",
-    "longitude": "22.2369527",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26547,
-    "name": "Citymarket Länsikeskus",
-    "latitude": "60.4726414",
-    "longitude": "22.2329593",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22930,
-    "name": "Varissuo",
-    "latitude": "60.4432978",
-    "longitude": "22.3626756",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22987,
-    "name": "Lonttinen",
-    "latitude": "60.4589127",
-    "longitude": "22.2744768",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22480,
-    "name": "Vähätori",
-    "latitude": "60.4510958",
-    "longitude": "22.2729404",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32288,
-    "name": "Pikisaarentie",
-    "latitude": "60.4268833",
-    "longitude": "22.2048852",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22995,
-    "name": "Rautatientori",
-    "latitude": "60.4532626",
-    "longitude": "22.2533649",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26665,
-    "name": "Pääkirjasto",
-    "latitude": "60.4503024",
-    "longitude": "22.2705702",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23041,
-    "name": "Porthaninkatu",
-    "latitude": "60.4538963",
-    "longitude": "22.2808656",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23653,
-    "name": "Leipäläntie",
-    "latitude": "60.4690371",
-    "longitude": "22.2671618",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26573,
-    "name": "Nosturinkatu",
-    "latitude": "60.4440464",
-    "longitude": "22.2325328",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22477,
-    "name": "Tykistökatu",
-    "latitude": "60.4503126",
-    "longitude": "22.2941139",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31504,
-    "name": "Köydenpunojankatu",
-    "latitude": "60.4560401",
-    "longitude": "22.2509975",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28894,
-    "name": "Mantun grilli",
-    "latitude": "60.4476969",
-    "longitude": "22.270383",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23099,
-    "name": "Nuutintie",
-    "latitude": "60.4506271",
-    "longitude": "22.2363093",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23084,
-    "name": "Teatteri",
-    "latitude": "60.4463597",
-    "longitude": "22.264509",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22475,
-    "name": "Ikituuri",
-    "latitude": "60.4610987",
-    "longitude": "22.2862437",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22491,
-    "name": "Piispankatu",
-    "latitude": "60.4564251",
-    "longitude": "22.2801175",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27855,
-    "name": "Turun Caribia",
-    "latitude": "60.4602396",
-    "longitude": "22.2887898",
+    "id": 22931,
+    "name": "Kirjastosilta",
+    "latitude": "60.4495967",
+    "longitude": "22.2714027",
     "thumbnail_url": ""
   },
   {
@@ -168,136 +49,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23087,
-    "name": "Krööpilänkatu",
-    "latitude": "60.4465318",
-    "longitude": "22.3603542",
+    "id": 22937,
+    "name": "Yo-kylä 82-84",
+    "latitude": "60.4609008",
+    "longitude": "22.2981711",
     "thumbnail_url": ""
   },
   {
-    "id": 22910,
-    "name": "Suikkila",
-    "latitude": "60.4631376",
-    "longitude": "22.2176428",
+    "id": 23099,
+    "name": "Nuutintie",
+    "latitude": "60.4506271",
+    "longitude": "22.2363093",
     "thumbnail_url": ""
   },
   {
-    "id": 22976,
-    "name": "Suurtori",
-    "latitude": "60.4509304",
-    "longitude": "22.2761904",
+    "id": 32288,
+    "name": "Pikisaarentie",
+    "latitude": "60.4268833",
+    "longitude": "22.2048852",
     "thumbnail_url": ""
   },
   {
-    "id": 26586,
-    "name": "Kauppatori",
-    "latitude": "60.4517292",
-    "longitude": "22.2683004",
+    "id": 22491,
+    "name": "Piispankatu",
+    "latitude": "60.4564251",
+    "longitude": "22.2801175",
     "thumbnail_url": ""
   },
   {
-    "id": 28905,
-    "name": "Katariinanlaakso",
-    "latitude": "60.413296",
-    "longitude": "22.2696915",
+    "id": 22950,
+    "name": "Sairashuoneenpuisto",
+    "latitude": "60.4442444",
+    "longitude": "22.2524026",
     "thumbnail_url": ""
   },
   {
-    "id": 22936,
-    "name": "Yo-kylä 62-64",
-    "latitude": "60.4624938",
-    "longitude": "22.3013666",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23577,
-    "name": "Runosmäki center",
-    "latitude": "60.4889396",
-    "longitude": "22.2610209",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26557,
-    "name": "Prisma Tampereentie ",
-    "latitude": "60.4738782",
-    "longitude": "22.2865381",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24039,
-    "name": "savitehtaankatu",
-    "latitude": "60.4516432",
-    "longitude": "22.297521",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22934,
-    "name": "Yo-kylä 24-28",
-    "latitude": "60.4642606",
-    "longitude": "22.2940543",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30653,
-    "name": "Kirkkotie YTHS",
-    "latitude": "60.4568295",
-    "longitude": "22.2925783",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22927,
-    "name": "Turun Kutteri",
-    "latitude": "60.434088",
-    "longitude": "22.2344187",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22997,
-    "name": "Kauppiaskatu",
-    "latitude": "60.4526712",
-    "longitude": "22.2671211",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22966,
-    "name": "Patterinhaka",
-    "latitude": "60.4458938",
-    "longitude": "22.2256995",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22986,
-    "name": "Tuureporinkatu",
-    "latitude": "60.4546088",
-    "longitude": "22.2645611",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26527,
-    "name": "Auriga",
-    "latitude": "60.4396995",
-    "longitude": "22.2274966",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22996,
-    "name": "ABC Koulukatu",
-    "latitude": "60.4544378",
-    "longitude": "22.2463791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22481,
-    "name": "Puutori",
-    "latitude": "60.4546684",
-    "longitude": "22.2686566",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22487,
-    "name": "Satama",
-    "latitude": "60.4350687",
-    "longitude": "22.2233336",
+    "id": 22920,
+    "name": "Petreliuksenpolku",
+    "latitude": "60.4296505",
+    "longitude": "22.2948835",
     "thumbnail_url": ""
   },
   {
@@ -308,108 +98,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26974,
-    "name": "Tuomiokirkkotori",
-    "latitude": "60.4521354",
-    "longitude": "22.2757176",
+    "id": 22986,
+    "name": "Tuureporinkatu",
+    "latitude": "60.4546088",
+    "longitude": "22.2645611",
     "thumbnail_url": ""
   },
   {
-    "id": 22507,
-    "name": "Kaupungintalo",
-    "latitude": "60.4494001",
-    "longitude": "22.2680492",
+    "id": 26665,
+    "name": "Pääkirjasto",
+    "latitude": "60.4503024",
+    "longitude": "22.2705702",
     "thumbnail_url": ""
   },
   {
-    "id": 22975,
-    "name": "Kaivokatu",
-    "latitude": "60.4524047",
-    "longitude": "22.2843581",
+    "id": 28905,
+    "name": "Katariinanlaakso",
+    "latitude": "60.413296",
+    "longitude": "22.2696915",
     "thumbnail_url": ""
   },
   {
-    "id": 22489,
-    "name": "T-sairaala",
-    "latitude": "60.4550184",
-    "longitude": "22.2975243",
+    "id": 22487,
+    "name": "Satama",
+    "latitude": "60.4350687",
+    "longitude": "22.2233336",
     "thumbnail_url": ""
   },
   {
-    "id": 23006,
-    "name": "Toivolankatu",
-    "latitude": "60.4376844",
-    "longitude": "22.2677286",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22988,
-    "name": "Parkin kenttä",
-    "latitude": "60.4570501",
-    "longitude": "22.271318",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22488,
-    "name": "Port Arthur",
-    "latitude": "60.4464851",
-    "longitude": "22.2435433",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22970,
-    "name": "Joukahaisenkatu",
-    "latitude": "60.4495126",
-    "longitude": "22.2956887",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22476,
-    "name": "Kätilöpolku",
-    "latitude": "60.4516064",
-    "longitude": "22.2933979",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23645,
-    "name": "Kärsämäentie",
-    "latitude": "60.4781012",
-    "longitude": "22.2848181",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28892,
-    "name": "Halistenkoski",
-    "latitude": "60.4652564",
-    "longitude": "22.3066694",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23000,
-    "name": "Multavierunkatu",
-    "latitude": "60.4546486",
-    "longitude": "22.2741024",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22939,
-    "name": "Auranhelmi",
-    "latitude": "60.4404481",
-    "longitude": "22.2443646",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23010,
-    "name": "Daniel Hjortin katu",
-    "latitude": "60.4360532",
-    "longitude": "22.2482898",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22937,
-    "name": "Yo-kylä 82-84",
-    "latitude": "60.4609008",
-    "longitude": "22.2981711",
+    "id": 26527,
+    "name": "Auriga",
+    "latitude": "60.4396995",
+    "longitude": "22.2274966",
     "thumbnail_url": ""
   },
   {
@@ -420,10 +140,318 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22987,
+    "name": "Lonttinen",
+    "latitude": "60.4589127",
+    "longitude": "22.2744768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23087,
+    "name": "Krööpilänkatu",
+    "latitude": "60.4465318",
+    "longitude": "22.3603542",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22930,
+    "name": "Varissuo",
+    "latitude": "60.4432978",
+    "longitude": "22.3626756",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22500,
+    "name": "Ursininkatu",
+    "latitude": "60.4463908",
+    "longitude": "22.2593708",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28892,
+    "name": "Halistenkoski",
+    "latitude": "60.4652564",
+    "longitude": "22.3066694",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26573,
+    "name": "Nosturinkatu",
+    "latitude": "60.4440464",
+    "longitude": "22.2325328",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22910,
+    "name": "Suikkila",
+    "latitude": "60.4631376",
+    "longitude": "22.2176428",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23084,
+    "name": "Teatteri",
+    "latitude": "60.4463597",
+    "longitude": "22.264509",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22995,
+    "name": "Rautatientori",
+    "latitude": "60.4532626",
+    "longitude": "22.2533649",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22927,
+    "name": "Turun Kutteri",
+    "latitude": "60.434088",
+    "longitude": "22.2344187",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22932,
     "name": "Tyyssija",
     "latitude": "60.4625973",
     "longitude": "22.28813",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22501,
+    "name": "Lönnrothinpuisto",
+    "latitude": "60.4531612",
+    "longitude": "22.2741285",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22489,
+    "name": "T-sairaala",
+    "latitude": "60.4550184",
+    "longitude": "22.2975243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22960,
+    "name": "Verkahovi ",
+    "latitude": "60.4578976",
+    "longitude": "22.2722278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23650,
+    "name": "Linnanmalmi",
+    "latitude": "60.4388333",
+    "longitude": "22.236256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26547,
+    "name": "Citymarket Länsikeskus",
+    "latitude": "60.4726414",
+    "longitude": "22.2329593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23577,
+    "name": "Runosmäki center",
+    "latitude": "60.4889396",
+    "longitude": "22.2610209",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22966,
+    "name": "Patterinhaka",
+    "latitude": "60.4458938",
+    "longitude": "22.2256995",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27923,
+    "name": "Kirstinpuisto",
+    "latitude": "60.4490862",
+    "longitude": "22.2369527",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22482,
+    "name": "Linja-autoasema",
+    "latitude": "60.4573291",
+    "longitude": "22.2685796",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29166,
+    "name": "Ratakatu / Tukholmankatu",
+    "latitude": "60.4493627",
+    "longitude": "22.2431651",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23634,
+    "name": "Assari",
+    "latitude": "60.4538963",
+    "longitude": "22.2873736",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22997,
+    "name": "Kauppiaskatu",
+    "latitude": "60.4526712",
+    "longitude": "22.2671211",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22497,
+    "name": "Liikuntakeskus Alfa",
+    "latitude": "60.4653384",
+    "longitude": "22.2829965",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23653,
+    "name": "Leipäläntie",
+    "latitude": "60.4690371",
+    "longitude": "22.2671618",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22967,
+    "name": "K-Supermarket Nummenpakka",
+    "latitude": "60.457509",
+    "longitude": "22.3082867",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22475,
+    "name": "Ikituuri",
+    "latitude": "60.4610987",
+    "longitude": "22.2862437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22934,
+    "name": "Yo-kylä 24-28",
+    "latitude": "60.4642606",
+    "longitude": "22.2940543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22996,
+    "name": "ABC Koulukatu",
+    "latitude": "60.4544378",
+    "longitude": "22.2463791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22507,
+    "name": "Kaupungintalo",
+    "latitude": "60.4494001",
+    "longitude": "22.2680492",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26974,
+    "name": "Tuomiokirkkotori",
+    "latitude": "60.4521354",
+    "longitude": "22.2757176",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31504,
+    "name": "Köydenpunojankatu",
+    "latitude": "60.4560401",
+    "longitude": "22.2509975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22989,
+    "name": "Koulu",
+    "latitude": "60.4496953",
+    "longitude": "22.2641104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22988,
+    "name": "Parkin kenttä",
+    "latitude": "60.4570501",
+    "longitude": "22.271318",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22936,
+    "name": "Yo-kylä 62-64",
+    "latitude": "60.4624938",
+    "longitude": "22.3013666",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28894,
+    "name": "Mantun grilli",
+    "latitude": "60.4476969",
+    "longitude": "22.270383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22488,
+    "name": "Port Arthur",
+    "latitude": "60.4464851",
+    "longitude": "22.2435433",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30653,
+    "name": "Kirkkotie YTHS",
+    "latitude": "60.4568295",
+    "longitude": "22.2925783",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23645,
+    "name": "Kärsämäentie",
+    "latitude": "60.4781012",
+    "longitude": "22.2848181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23000,
+    "name": "Multavierunkatu",
+    "latitude": "60.4546486",
+    "longitude": "22.2741024",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26586,
+    "name": "Kauppatori",
+    "latitude": "60.4517292",
+    "longitude": "22.2683004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23010,
+    "name": "Daniel Hjortin katu",
+    "latitude": "60.4360532",
+    "longitude": "22.2482898",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22975,
+    "name": "Kaivokatu",
+    "latitude": "60.4524047",
+    "longitude": "22.2843581",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22952,
+    "name": "Educarium",
+    "latitude": "60.4580762",
+    "longitude": "22.2861068",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22499,
+    "name": "Puistokatu",
+    "latitude": "60.4481579",
+    "longitude": "22.2500941",
     "thumbnail_url": ""
   },
   {
@@ -434,6 +462,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22481,
+    "name": "Puutori",
+    "latitude": "60.4546684",
+    "longitude": "22.2686566",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22977,
     "name": "Rauhankatu",
     "latitude": "60.4505506",
@@ -441,10 +476,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22931,
-    "name": "Kirjastosilta",
-    "latitude": "60.4495967",
-    "longitude": "22.2714027",
+    "id": 22970,
+    "name": "Joukahaisenkatu",
+    "latitude": "60.4495126",
+    "longitude": "22.2956887",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23006,
+    "name": "Toivolankatu",
+    "latitude": "60.4376844",
+    "longitude": "22.2677286",
     "thumbnail_url": ""
   },
   {
@@ -462,45 +504,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22482,
-    "name": "Linja-autoasema",
-    "latitude": "60.4573291",
-    "longitude": "22.2685796",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23034,
     "name": "Täkkiaukio",
     "latitude": "60.4286732",
     "longitude": "22.2339126",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22960,
-    "name": "Verkahovi ",
-    "latitude": "60.4578976",
-    "longitude": "22.2722278",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23033,
-    "name": "Hippoksentie",
-    "latitude": "60.4430797",
-    "longitude": "22.2984177",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22497,
-    "name": "Liikuntakeskus Alfa",
-    "latitude": "60.4653384",
-    "longitude": "22.2829965",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23026,
-    "name": "Pharmacity",
-    "latitude": "60.4491759",
-    "longitude": "22.2921065",
     "thumbnail_url": ""
   },
   {
@@ -518,17 +525,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22967,
-    "name": "K-Supermarket Nummenpakka",
-    "latitude": "60.457509",
-    "longitude": "22.3082867",
+    "id": 22914,
+    "name": "Lemminkäisenkatu",
+    "latitude": "60.4463931",
+    "longitude": "22.2992561",
     "thumbnail_url": ""
   },
   {
-    "id": 22500,
-    "name": "Ursininkatu",
-    "latitude": "60.4463908",
-    "longitude": "22.2593708",
+    "id": 22897,
+    "name": "Kuohukuja",
+    "latitude": "60.4672166",
+    "longitude": "22.3066902",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22939,
+    "name": "Auranhelmi",
+    "latitude": "60.4404481",
+    "longitude": "22.2443646",
     "thumbnail_url": ""
   },
   {
@@ -553,10 +567,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23026,
+    "name": "Pharmacity",
+    "latitude": "60.4491759",
+    "longitude": "22.2921065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23033,
+    "name": "Hippoksentie",
+    "latitude": "60.4430797",
+    "longitude": "22.2984177",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26859,
     "name": "Tervahovinkatu / Föri",
     "latitude": "60.4407376",
     "longitude": "22.2488758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23041,
+    "name": "Porthaninkatu",
+    "latitude": "60.4538963",
+    "longitude": "22.2808656",
     "thumbnail_url": ""
   },
   {
@@ -571,6 +606,13 @@
     "name": "Pikisaari",
     "latitude": "60.4250716",
     "longitude": "22.196899",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22477,
+    "name": "Tykistökatu",
+    "latitude": "60.4503126",
+    "longitude": "22.2941139",
     "thumbnail_url": ""
   },
   {
@@ -609,6 +651,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22490,
+    "name": "Akatemiatalo",
+    "latitude": "60.4510956",
+    "longitude": "22.2791829",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26557,
+    "name": "Prisma Tampereentie ",
+    "latitude": "60.4738782",
+    "longitude": "22.2865381",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31897,
     "name": "Boxi Turku",
     "latitude": "60.4354308",
@@ -623,24 +679,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22920,
-    "name": "Petreliuksenpolku",
-    "latitude": "60.4296505",
-    "longitude": "22.2948835",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22950,
-    "name": "Sairashuoneenpuisto",
-    "latitude": "60.4442444",
-    "longitude": "22.2524026",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23015,
     "name": "S-Market Majakkaranta",
     "latitude": "60.4298381",
     "longitude": "22.2397104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22976,
+    "name": "Suurtori",
+    "latitude": "60.4509304",
+    "longitude": "22.2761904",
     "thumbnail_url": ""
   },
   {
@@ -651,17 +700,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23634,
-    "name": "Assari",
-    "latitude": "60.4538963",
-    "longitude": "22.2873736",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22501,
-    "name": "Lönnrothinpuisto",
-    "latitude": "60.4531612",
-    "longitude": "22.2741285",
+    "id": 22480,
+    "name": "Vähätori",
+    "latitude": "60.4510958",
+    "longitude": "22.2729404",
     "thumbnail_url": ""
   },
   {
@@ -669,13 +711,6 @@
     "name": "S-market Pansio",
     "latitude": "60.4527926",
     "longitude": "22.156061",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22914,
-    "name": "Lemminkäisenkatu",
-    "latitude": "60.4463931",
-    "longitude": "22.2992561",
     "thumbnail_url": ""
   },
   {
@@ -690,13 +725,6 @@
     "name": "Sport Sirkka",
     "latitude": "60.4477071",
     "longitude": "22.2826643",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22490,
-    "name": "Akatemiatalo",
-    "latitude": "60.4510956",
-    "longitude": "22.2791829",
     "thumbnail_url": ""
   },
   {
@@ -728,13 +756,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22989,
-    "name": "Koulu",
-    "latitude": "60.4496953",
-    "longitude": "22.2641104",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26561,
     "name": "Brahenkatu / Eerikinkatu",
     "latitude": "60.452086",
@@ -746,13 +767,6 @@
     "name": "K-Rauta Skanssi",
     "latitude": "60.4375922",
     "longitude": "22.3210477",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22499,
-    "name": "Puistokatu",
-    "latitude": "60.4481579",
-    "longitude": "22.2500941",
     "thumbnail_url": ""
   },
   {
@@ -823,13 +837,6 @@
     "name": "Linnankatu",
     "latitude": "60.4510608",
     "longitude": "22.2715937",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29166,
-    "name": "Ratakatu / Tukholmankatu",
-    "latitude": "60.4493627",
-    "longitude": "22.2431651",
     "thumbnail_url": ""
   },
   {
@@ -1453,13 +1460,6 @@
     "name": "S-market Halinen",
     "latitude": "60.470072",
     "longitude": "22.3057786",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22952,
-    "name": "Educarium",
-    "latitude": "60.4580762",
-    "longitude": "22.2861068",
     "thumbnail_url": ""
   },
   {
