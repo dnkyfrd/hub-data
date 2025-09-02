@@ -1,12 +1,5 @@
 [
   {
-    "id": 24664,
-    "name": "Seylsteen",
-    "latitude": "51.0700612",
-    "longitude": "2.6614065",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24663,
     "name": "Stadspark Veurne",
     "latitude": "51.0730738",
@@ -88,6 +81,13 @@
     "name": "Station Veurne",
     "latitude": "51.07313",
     "longitude": "2.6717122",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24664,
+    "name": "Seylsteen",
+    "latitude": "51.0700612",
+    "longitude": "2.6614065",
     "thumbnail_url": ""
   }
 ]

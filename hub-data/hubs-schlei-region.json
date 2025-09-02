@@ -7,13 +7,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24416,
-    "name": "Rungholtplatz",
-    "latitude": "54.361297",
-    "longitude": "10.076831",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26209,
     "name": "Kanalfähre Holtenau",
     "latitude": "54.3687939",
@@ -49,17 +42,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24390,
-    "name": "CITTI-PARK",
-    "latitude": "54.311667",
-    "longitude": "10.099722",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32302,
     "name": "Pop-up: Brekendorf: Kammberg",
     "latitude": "54.421205",
     "longitude": "9.6419802",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24416,
+    "name": "Rungholtplatz",
+    "latitude": "54.361297",
+    "longitude": "10.076831",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24403,
+    "name": "Hafen Laboe",
+    "latitude": "54.4033599",
+    "longitude": "10.2196891",
     "thumbnail_url": ""
   },
   {
@@ -70,17 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24401,
-    "name": "Dataport/FHVD",
-    "latitude": "54.401894",
-    "longitude": "10.129012",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29200,
-    "name": "REWE digital am Wissenschaftszentrum",
-    "latitude": "54.341647",
-    "longitude": "10.1222534",
+    "id": 24386,
+    "name": "Fähranleger Möltenort",
+    "latitude": "54.3772907",
+    "longitude": "10.1958992",
     "thumbnail_url": ""
   },
   {
@@ -91,13 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24386,
-    "name": "Fähranleger Möltenort",
-    "latitude": "54.3772907",
-    "longitude": "10.1958992",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29982,
     "name": "Eiderbad (bis 15.10)",
     "latitude": "54.2858815",
@@ -105,31 +91,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24453,
-    "name": "Kronshagen Bahnhof",
-    "latitude": "54.331388",
-    "longitude": "10.083113",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24406,
-    "name": "Bahnhof Oppendorf",
-    "latitude": "54.326055",
-    "longitude": "10.207911",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24414,
     "name": "Kuhlacker",
     "latitude": "54.285725",
     "longitude": "10.143565",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24403,
-    "name": "Hafen Laboe",
-    "latitude": "54.4033599",
-    "longitude": "10.2196891",
     "thumbnail_url": ""
   },
   {
@@ -189,20 +154,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24409,
-    "name": "Braunstrasse",
-    "latitude": "54.280427",
-    "longitude": "10.1456",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24388,
-    "name": "Schönkirchen Gemeindehaus",
-    "latitude": "54.339056",
-    "longitude": "10.223028",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29965,
     "name": "B502 Schönkirchener Strasse ",
     "latitude": "54.3296577",
@@ -217,17 +168,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24406,
+    "name": "Bahnhof Oppendorf",
+    "latitude": "54.326055",
+    "longitude": "10.207911",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31501,
     "name": "Katzheide",
     "latitude": "54.3100193",
     "longitude": "10.1561757",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29946,
-    "name": "Wörthstrasse",
-    "latitude": "54.3237645",
-    "longitude": "10.1186942",
     "thumbnail_url": ""
   },
   {
@@ -238,17 +189,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29200,
+    "name": "REWE digital am Wissenschaftszentrum",
+    "latitude": "54.341647",
+    "longitude": "10.1222534",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27183,
     "name": "Schilksee Olympiazentrum",
     "latitude": "54.4254534",
     "longitude": "10.1682239",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24377,
-    "name": "Kronshagen Rathaus",
-    "latitude": "54.3327038",
-    "longitude": "10.0854972",
     "thumbnail_url": ""
   },
   {
@@ -266,10 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24394,
-    "name": "KiTa Fusssteigkoppel",
-    "latitude": "54.342126",
-    "longitude": "10.090524",
+    "id": 24388,
+    "name": "Schönkirchen Gemeindehaus",
+    "latitude": "54.339056",
+    "longitude": "10.223028",
     "thumbnail_url": ""
   },
   {
@@ -294,10 +245,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24407,
+    "name": "Rathaus Altenholz",
+    "latitude": "54.386203",
+    "longitude": "10.136875",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24401,
+    "name": "Dataport/FHVD",
+    "latitude": "54.401894",
+    "longitude": "10.129012",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30027,
     "name": "REWE Klausdorf",
     "latitude": "54.3121896",
     "longitude": "10.2004707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24409,
+    "name": "Braunstrasse",
+    "latitude": "54.280427",
+    "longitude": "10.1456",
     "thumbnail_url": ""
   },
   {
@@ -343,13 +315,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24407,
-    "name": "Rathaus Altenholz",
-    "latitude": "54.386203",
-    "longitude": "10.136875",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31758,
     "name": "Helgolandstraße",
     "latitude": "54.303617",
@@ -357,17 +322,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30515,
-    "name": "Alte Lübecker Chaussee",
-    "latitude": "54.3045643",
-    "longitude": "10.1254699",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30023,
     "name": "Freibad Raisdorf (April - Oktober)",
     "latitude": "54.2859985",
     "longitude": "10.2460814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24453,
+    "name": "Kronshagen Bahnhof",
+    "latitude": "54.331388",
+    "longitude": "10.083113",
     "thumbnail_url": ""
   },
   {
@@ -392,10 +357,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24394,
+    "name": "KiTa Fusssteigkoppel",
+    "latitude": "54.342126",
+    "longitude": "10.090524",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24390,
+    "name": "CITTI-PARK",
+    "latitude": "54.311667",
+    "longitude": "10.099722",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30025,
     "name": "Stadtwerke / Bürgerhaus Klausdorf",
     "latitude": "54.3033719",
     "longitude": "10.2156178",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29946,
+    "name": "Wörthstrasse",
+    "latitude": "54.3237645",
+    "longitude": "10.1186942",
     "thumbnail_url": ""
   },
   {
@@ -417,6 +403,20 @@
     "name": "Ostseepark",
     "latitude": "54.2887936",
     "longitude": "10.2177163",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30515,
+    "name": "Alte Lübecker Chaussee",
+    "latitude": "54.3045643",
+    "longitude": "10.1254699",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24377,
+    "name": "Kronshagen Rathaus",
+    "latitude": "54.3327038",
+    "longitude": "10.0854972",
     "thumbnail_url": ""
   },
   {

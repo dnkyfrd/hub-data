@@ -1,19 +1,5 @@
 [
   {
-    "id": 30492,
-    "name": "Bahnhof Landschlacht",
-    "latitude": "47.6291062",
-    "longitude": "9.2462366",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22524,
-    "name": "Bärenplatz/Festwiese",
-    "latitude": "47.6468718",
-    "longitude": "9.1761214",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22522,
     "name": "Bahnhof Kreuzlingen",
     "latitude": "47.6527784",
@@ -35,20 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22527,
-    "name": "Sonnenwiesenstrasse",
-    "latitude": "47.6450885",
-    "longitude": "9.1900953",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22523,
-    "name": "Einkaufszentrum Karussell",
-    "latitude": "47.6502535",
-    "longitude": "9.1735334",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27221,
     "name": "Bahnhof Tägerwilen-Dorf ",
     "latitude": "47.6537621",
@@ -60,6 +32,13 @@
     "name": "Camping Fischerhaus",
     "latitude": "47.6470182",
     "longitude": "9.1981346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22527,
+    "name": "Sonnenwiesenstrasse",
+    "latitude": "47.6450885",
+    "longitude": "9.1900953",
     "thumbnail_url": ""
   },
   {
@@ -77,6 +56,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30492,
+    "name": "Bahnhof Landschlacht",
+    "latitude": "47.6291062",
+    "longitude": "9.2462366",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22523,
+    "name": "Einkaufszentrum Karussell",
+    "latitude": "47.6502535",
+    "longitude": "9.1735334",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22529,
     "name": "Bahnhof Bottighofen",
     "latitude": "47.6407932",
@@ -84,10 +77,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22533,
-    "name": "Psychiatrische Klinik",
-    "latitude": "47.6337636",
-    "longitude": "9.2315046",
+    "id": 27219,
+    "name": "Bahnhof Tägerwilen-Gottlieben",
+    "latitude": "47.6596514",
+    "longitude": "9.1327185",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +91,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27219,
-    "name": "Bahnhof Tägerwilen-Gottlieben",
-    "latitude": "47.6596514",
-    "longitude": "9.1327185",
+    "id": 22524,
+    "name": "Bärenplatz/Festwiese",
+    "latitude": "47.6468718",
+    "longitude": "9.1761214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22533,
+    "name": "Psychiatrische Klinik",
+    "latitude": "47.6337636",
+    "longitude": "9.2315046",
     "thumbnail_url": ""
   },
   {

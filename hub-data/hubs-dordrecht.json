@@ -140,13 +140,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21120,
-    "name": "Q-Park P+R (Park Upstairs)",
-    "latitude": "51.8067461",
-    "longitude": "4.6683224",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30817,
     "name": "CS Dordrecht I",
     "latitude": "51.807327",
@@ -266,13 +259,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30784,
-    "name": "Asahai",
-    "latitude": "51.8081166",
-    "longitude": "4.6678209",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21140,
     "name": "*Scheffersplein",
     "latitude": "51.8150675",
@@ -312,13 +298,6 @@
     "name": "JP Van Eesteren 2",
     "latitude": "51.8110341",
     "longitude": "4.6660087",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29877,
-    "name": "Jumbo Staart",
-    "latitude": "51.8186282",
-    "longitude": "4.6964414",
     "thumbnail_url": ""
   },
   {
@@ -497,6 +476,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30793,
     "name": "ABN-AMRO Stationweg",
     "latitude": "51.8087702",
@@ -508,6 +494,13 @@
     "name": "Stek - Bike Sharing Hub",
     "latitude": "51.8160396",
     "longitude": "4.6727139",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30784,
+    "name": "Asahai",
+    "latitude": "51.8081166",
+    "longitude": "4.6678209",
     "thumbnail_url": ""
   },
   {
@@ -651,20 +644,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21156,
-    "name": "Keizershof",
-    "latitude": "51.8131792",
-    "longitude": "4.6577073",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29842,
-    "name": "Harpertsz Trompweg",
-    "latitude": "51.7852905",
-    "longitude": "4.6530207",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21129,
     "name": "Centraal Station Dordrecht",
     "latitude": "51.8072262",
@@ -714,6 +693,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21156,
+    "name": "Keizershof",
+    "latitude": "51.8131792",
+    "longitude": "4.6577073",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21112,
     "name": "Rijksstraatweg",
     "latitude": "51.7750982",
@@ -746,6 +732,20 @@
     "name": "Gemeente Dordrecht",
     "latitude": "51.8118796",
     "longitude": "4.6618067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29842,
+    "name": "Harpertsz Trompweg",
+    "latitude": "51.7852905",
+    "longitude": "4.6530207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29877,
+    "name": "Jumbo Staart",
+    "latitude": "51.8186282",
+    "longitude": "4.6964414",
     "thumbnail_url": ""
   },
   {

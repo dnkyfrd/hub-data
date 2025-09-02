@@ -266,17 +266,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29568,
+    "name": "Snellius",
+    "latitude": "52.1696544",
+    "longitude": "4.4573057",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31375,
     "name": "Lijsterstraat III",
     "latitude": "52.1724821",
     "longitude": "4.4716739",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31374,
-    "name": "Heurniusstraat",
-    "latitude": "52.1681702",
-    "longitude": "4.477841",
     "thumbnail_url": ""
   },
   {
@@ -305,13 +305,6 @@
     "name": "Bio Partner 2",
     "latitude": "52.1689792",
     "longitude": "4.4669025",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -483,24 +476,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29557,
-    "name": "Bio science park",
-    "latitude": "52.1668257",
-    "longitude": "4.460464",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29544,
     "name": "De Stal",
     "latitude": "52.1661817",
     "longitude": "4.4742177",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29568,
-    "name": "Snellius",
-    "latitude": "52.1696544",
-    "longitude": "4.4573057",
     "thumbnail_url": ""
   },
   {
@@ -539,13 +518,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29551,
-    "name": "Studentenflat",
-    "latitude": "52.1686245",
-    "longitude": "4.4710305",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29595,
     "name": "Nieuweroord",
     "latitude": "52.1719997",
@@ -553,10 +525,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31374,
+    "name": "Heurniusstraat",
+    "latitude": "52.1681702",
+    "longitude": "4.477841",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29538,
     "name": "Sociale Wetenschappen",
     "latitude": "52.1695164",
     "longitude": "4.4775795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio science park",
+    "latitude": "52.1668257",
+    "longitude": "4.460464",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29551,
+    "name": "Studentenflat",
+    "latitude": "52.1686245",
+    "longitude": "4.4710305",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -648,6 +648,13 @@
     "name": "Wibra Rijnstraat",
     "latitude": "52.1950572",
     "longitude": "4.4253809",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29357,
+    "name": "Basic Fit Katwijk Ambachtsweg",
+    "latitude": "52.2018461",
+    "longitude": "4.4298077",
     "thumbnail_url": ""
   },
   {
@@ -1155,13 +1162,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29344,
-    "name": "Hoornespassage",
-    "latitude": "52.2055744",
-    "longitude": "4.4196907",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29386,
     "name": "'s Gravendijck",
     "latitude": "52.2124822",
@@ -1512,13 +1512,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29357,
-    "name": "Basic Fit Katwijk Ambachtsweg",
-    "latitude": "52.2018461",
-    "longitude": "4.4298077",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29406,
     "name": "Zwaaikom",
     "latitude": "52.2045775",
@@ -1568,6 +1561,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29344,
+    "name": "Hoornespassage",
+    "latitude": "52.2055744",
+    "longitude": "4.4196907",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29343,
     "name": "Gemeentehuis Katwijk",
     "latitude": "52.1993054",
@@ -1610,13 +1610,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29372,
     "name": "Skatepark Katwijk",
     "latitude": "52.2105417",
@@ -1642,6 +1635,13 @@
     "name": "Voorstraat",
     "latitude": "52.2034907",
     "longitude": "4.3977307",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
