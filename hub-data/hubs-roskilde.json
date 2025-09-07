@@ -1,33 +1,5 @@
 [
   {
-    "id": 29991,
-    "name": "Møllehusvej v. Låddenhøj",
-    "latitude": "55.6478411",
-    "longitude": "12.066236",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30850,
-    "name": "McDonald's Københavnsvej",
-    "latitude": "55.6423147",
-    "longitude": "12.1156664",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21542,
-    "name": "Roskilde Station ved Kirkegården",
-    "latitude": "55.6394026",
-    "longitude": "12.0881065",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21618,
-    "name": "Rabalderstræde v. Containerstriben",
-    "latitude": "55.6285757",
-    "longitude": "12.0847068",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21632,
     "name": "Algade v. Stændertorvet",
     "latitude": "55.641105",
@@ -35,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21662,
-    "name": "Roskilde Katedralskole",
-    "latitude": "55.634352",
-    "longitude": "12.0595082",
+    "id": 21604,
+    "name": "Roskilde Station ved Føtex",
+    "latitude": "55.6376829",
+    "longitude": "12.0832409",
     "thumbnail_url": ""
   },
   {
@@ -126,13 +98,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21524,
-    "name": "Roskilde Station - syd",
-    "latitude": "55.6376438",
-    "longitude": "12.0876918",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21624,
     "name": "Roskilde Bibliotek, Bibliotekshaven",
     "latitude": "55.6416359",
@@ -161,10 +126,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29265,
-    "name": "Centralmagasinet",
-    "latitude": "55.6549004",
-    "longitude": "12.0583146",
+    "id": 21542,
+    "name": "Roskilde Station ved Kirkegården",
+    "latitude": "55.6394026",
+    "longitude": "12.0881065",
     "thumbnail_url": ""
   },
   {
@@ -179,20 +144,6 @@
     "name": "Rådhuset",
     "latitude": "55.633969",
     "longitude": "12.0895626",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28751,
-    "name": "Trekroner Station syd",
-    "latitude": "55.6476658",
-    "longitude": "12.1321158",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21604,
-    "name": "Roskilde Station ved Føtex",
-    "latitude": "55.6376829",
-    "longitude": "12.0832409",
     "thumbnail_url": ""
   },
   {
@@ -231,6 +182,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23062,
+    "name": "Roskilde station, syd 2",
+    "latitude": "55.6374272",
+    "longitude": "12.0869767",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21806,
     "name": "Stændertorvet v. Den Gamle Byrådssal",
     "latitude": "55.6410671",
@@ -252,31 +210,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21808,
-    "name": "TiendeklasseCenter (TCR)",
-    "latitude": "55.6259352",
-    "longitude": "12.0777042",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21633,
     "name": "Folkeparken, Frøspringvandet",
     "latitude": "55.6442213",
     "longitude": "12.0905242",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21616,
-    "name": "Vindeboder",
-    "latitude": "55.649689",
-    "longitude": "12.0787147",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21640,
-    "name": "Roskilde Kongrescenter",
-    "latitude": "55.6353079",
-    "longitude": "12.068294",
     "thumbnail_url": ""
   },
   {
@@ -322,13 +259,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23062,
-    "name": "Roskilde station, syd 2",
-    "latitude": "55.6374272",
-    "longitude": "12.0869767",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23277,
     "name": "Elisagårdsvej",
     "latitude": "55.6423875",
@@ -340,6 +270,13 @@
     "name": "Havnekontoret",
     "latitude": "55.6502892",
     "longitude": "12.0762005",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21662,
+    "name": "Roskilde Katedralskole",
+    "latitude": "55.634352",
+    "longitude": "12.0595082",
     "thumbnail_url": ""
   },
   {
@@ -364,6 +301,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30850,
+    "name": "McDonald's Københavnsvej",
+    "latitude": "55.6423147",
+    "longitude": "12.1156664",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21654,
     "name": "Roskilde Idrætspark",
     "latitude": "55.6363363",
@@ -371,10 +315,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21943,
-    "name": "Trekroner Station",
-    "latitude": "55.6481927",
-    "longitude": "12.1314188",
+    "id": 29991,
+    "name": "Møllehusvej v. Låddenhøj",
+    "latitude": "55.6478411",
+    "longitude": "12.066236",
     "thumbnail_url": ""
   },
   {
@@ -413,24 +357,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21660,
-    "name": "Roskildevænget",
-    "latitude": "55.6274487",
-    "longitude": "12.0915099",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23225,
     "name": "Rampelyset",
     "latitude": "55.6291883",
     "longitude": "12.0853754",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21643,
-    "name": "Gimle",
-    "latitude": "55.639841",
-    "longitude": "12.07148",
     "thumbnail_url": ""
   },
   {
@@ -455,10 +385,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28751,
+    "name": "Trekroner Station syd",
+    "latitude": "55.6476658",
+    "longitude": "12.1321158",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22561,
     "name": "Holbækvej ved Katedralskolen",
     "latitude": "55.6354372",
     "longitude": "12.0573927",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21643,
+    "name": "Gimle",
+    "latitude": "55.639841",
+    "longitude": "12.07148",
     "thumbnail_url": ""
   },
   {
@@ -483,6 +427,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21618,
+    "name": "Rabalderstræde v. Containerstriben",
+    "latitude": "55.6285757",
+    "longitude": "12.0847068",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21612,
     "name": "ZBC",
     "latitude": "55.6282999",
@@ -497,6 +448,34 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21943,
+    "name": "Trekroner Station",
+    "latitude": "55.6481927",
+    "longitude": "12.1314188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21616,
+    "name": "Vindeboder",
+    "latitude": "55.649689",
+    "longitude": "12.0787147",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21640,
+    "name": "Roskilde Kongrescenter",
+    "latitude": "55.6353079",
+    "longitude": "12.068294",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21807,
     "name": "Rabalderstræde - nord",
     "latitude": "55.6299726",
@@ -504,10 +483,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29265,
+    "name": "Centralmagasinet",
+    "latitude": "55.6549004",
+    "longitude": "12.0583146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21808,
+    "name": "TiendeklasseCenter (TCR)",
+    "latitude": "55.6259352",
+    "longitude": "12.0777042",
+    "thumbnail_url": ""
+  },
+  {
     "id": 23227,
     "name": "Retten i Roskilde",
     "latitude": "55.6327843",
     "longitude": "12.0787448",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21660,
+    "name": "Roskildevænget",
+    "latitude": "55.6274487",
+    "longitude": "12.0915099",
     "thumbnail_url": ""
   },
   {
