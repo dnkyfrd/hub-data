@@ -1,9 +1,23 @@
 [
   {
-    "id": 32713,
-    "name": "Aquatherm",
-    "latitude": "48.8739041",
-    "longitude": "12.5603465",
+    "id": 32717,
+    "name": "Bahnhof",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32710,
+    "name": "Theresienplatz vor Pustet (Fahrradständer)",
+    "latitude": "48.8811806",
+    "longitude": "12.5655164",
     "thumbnail_url": ""
   },
   {
@@ -11,13 +25,6 @@
     "name": "Äussere Passauer Strasse _ Antoniusberg",
     "latitude": "48.8745709",
     "longitude": "12.5858091",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {
@@ -49,41 +56,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32704,
-    "name": "Römerpark",
-    "latitude": "48.8864806",
-    "longitude": "12.5967173",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32699,
-    "name": "Schulgasse (TFZ), Wallbox",
-    "latitude": "48.8838232",
-    "longitude": "12.5837345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31069,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32686,
-    "name": "Landshuter Str. Netto (Laterne)",
-    "latitude": "48.8690376",
-    "longitude": "12.5737951",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32721,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32691,
     "name": "JVA (Hinter Pflanztrögen)",
     "latitude": "48.8715442",
@@ -98,13 +70,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32720,
-    "name": "Schlesische Strasse 112 (Mangal)",
-    "latitude": "48.8894663",
-    "longitude": "12.6049892",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
@@ -112,31 +77,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32702,
-    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-    "latitude": "48.8853393",
-    "longitude": "12.6008593",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32708,
     "name": "Beim Römerschatz",
     "latitude": "48.8701578",
     "longitude": "12.5499594",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32712,
-    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
-    "latitude": "48.8820179",
-    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {
@@ -196,6 +140,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32686,
+    "name": "Landshuter Str. Netto (Laterne)",
+    "latitude": "48.8690376",
+    "longitude": "12.5737951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32714,
     "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
     "latitude": "48.8734229",
@@ -203,24 +161,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
+    "id": 32721,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
     "thumbnail_url": ""
   },
   {
-    "id": 32710,
-    "name": "Theresienplatz vor Pustet (Fahrradständer)",
-    "latitude": "48.8811806",
-    "longitude": "12.5655164",
+    "id": 32713,
+    "name": "Aquatherm",
+    "latitude": "48.8739041",
+    "longitude": "12.5603465",
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
+    "id": 32720,
+    "name": "Schlesische Strasse 112 (Mangal)",
+    "latitude": "48.8894663",
+    "longitude": "12.6049892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32712,
+    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
+    "latitude": "48.8820179",
+    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {
@@ -231,220 +196,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20433,
-    "name": "Seminargasse",
-    "latitude": "48.8822361",
-    "longitude": "12.5686705",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24035,
-    "name": "Europaring 4",
-    "latitude": "48.8945392",
-    "longitude": "12.6576504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26513,
-    "name": "Landshuter Str. Netto (Laterne)",
-    "latitude": "48.8690376",
-    "longitude": "12.5737951",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20436,
-    "name": "Tiergarten",
-    "latitude": "48.8827695",
-    "longitude": "12.5379418",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20438,
-    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
-    "latitude": "48.8733045",
-    "longitude": "12.564136",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27296,
-    "name": "JVA (Hinter Pflanztrögen)",
-    "latitude": "48.8715442",
-    "longitude": "12.5889301",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22160,
-    "name": "Ittlinger Strasse 192",
-    "latitude": "48.8839832",
-    "longitude": "12.6086894",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20935,
-    "name": "Alte Ziegelei - Boulderhalle",
-    "latitude": "48.8781558",
-    "longitude": "12.564369",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26783,
-    "name": "Flugplatz Wallmühle",
-    "latitude": "48.9024072",
-    "longitude": "12.5136484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20478,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23865,
-    "name": "Niederalteicher Str.",
-    "latitude": "48.8797146",
-    "longitude": "12.6313375",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24605,
-    "name": "Bahnhof Ittling (Fahrradabstellanlage)",
-    "latitude": "48.8848476",
-    "longitude": "12.6371181",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20440,
-    "name": "Schulgasse (TFZ), Wallbox",
-    "latitude": "48.8838232",
-    "longitude": "12.5837345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26233,
-    "name": "Landshuter Str. Aldi",
-    "latitude": "48.8633673",
-    "longitude": "12.5751719",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20439,
+    "id": 32701,
     "name": "Stetthaimer Platz, Wallbox",
     "latitude": "48.8819705",
     "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {
-    "id": 26523,
+    "id": 32699,
+    "name": "Schulgasse (TFZ), Wallbox",
+    "latitude": "48.8838232",
+    "longitude": "12.5837345",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32702,
     "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
     "latitude": "48.8853393",
     "longitude": "12.6008593",
     "thumbnail_url": ""
   },
   {
-    "id": 22163,
+    "id": 32704,
     "name": "Römerpark",
     "latitude": "48.8864806",
     "longitude": "12.5967173",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20856,
-    "name": "TUM Uferstrasse",
-    "latitude": "48.8864081",
-    "longitude": "12.5827528",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26808,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24219,
-    "name": "Beim Römerschatz",
-    "latitude": "48.8701578",
-    "longitude": "12.5499594",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23864,
-    "name": "Haydnstrasse",
-    "latitude": "48.8688756",
-    "longitude": "12.5682731",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24221,
-    "name": "Theresienplatz vor Pustet (Fahrradständer)",
-    "latitude": "48.8811806",
-    "longitude": "12.5655164",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26572,
-    "name": "Alburg Bayerg. neben Schranke",
-    "latitude": "48.8686911",
-    "longitude": "12.5423566",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24220,
-    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
-    "latitude": "48.8820179",
-    "longitude": "12.5710989",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20435,
-    "name": "Aquatherm",
-    "latitude": "48.8739041",
-    "longitude": "12.5603465",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20441,
-    "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
-    "latitude": "48.8734229",
-    "longitude": "12.5453889",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22536,
-    "name": "Westpark",
-    "latitude": "48.8761121",
-    "longitude": "12.5549708",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20434,
-    "name": "Bahnhof",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22162,
-    "name": "Äussere Passauer Strasse _ Antoniusberg",
-    "latitude": "48.8745709",
-    "longitude": "12.5858091",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22161,
-    "name": "Schlesische Strasse 112 (Mangal)",
-    "latitude": "48.8894663",
-    "longitude": "12.6049892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26511,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
     "thumbnail_url": ""
   }
 ]

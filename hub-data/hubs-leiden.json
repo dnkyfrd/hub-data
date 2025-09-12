@@ -266,17 +266,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31375,
-    "name": "Lijsterstraat III",
-    "latitude": "52.1724821",
-    "longitude": "4.4716739",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29568,
     "name": "Snellius",
     "latitude": "52.1696544",
     "longitude": "4.4573057",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29561,
+    "name": "Bio Partner 2",
+    "latitude": "52.1689792",
+    "longitude": "4.4669025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31375,
+    "name": "Lijsterstraat III",
+    "latitude": "52.1724821",
+    "longitude": "4.4716739",
     "thumbnail_url": ""
   },
   {
@@ -291,13 +298,6 @@
     "name": "Lijsterstraat II",
     "latitude": "52.1729283",
     "longitude": "4.4722825",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29561,
-    "name": "Bio Partner 2",
-    "latitude": "52.1689792",
-    "longitude": "4.4669025",
     "thumbnail_url": ""
   },
   {
@@ -343,13 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29545,
     "name": "Zaaijerplein",
     "latitude": "52.1693418",
@@ -368,13 +361,6 @@
     "name": "ECC Leiden",
     "latitude": "52.163774",
     "longitude": "4.4568115",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29664,
-    "name": "Naturalis",
-    "latitude": "52.1649948",
-    "longitude": "4.4718849",
     "thumbnail_url": ""
   },
   {
@@ -427,6 +413,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29493,
     "name": "Verbeekstraat",
     "latitude": "52.1640996",
@@ -438,6 +431,13 @@
     "name": "oortgebouw",
     "latitude": "52.1688352",
     "longitude": "4.4587112",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29664,
+    "name": "Naturalis",
+    "latitude": "52.1649948",
+    "longitude": "4.4718849",
     "thumbnail_url": ""
   },
   {
@@ -630,24 +630,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29439,
-    "name": "Voorstraat 2",
-    "latitude": "52.2041409",
-    "longitude": "4.3957815",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29465,
     "name": "Wibra Rijnstraat",
     "latitude": "52.1950572",
     "longitude": "4.4253809",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29357,
-    "name": "Basic Fit Katwijk Ambachtsweg",
-    "latitude": "52.2018461",
-    "longitude": "4.4298077",
     "thumbnail_url": ""
   },
   {
@@ -889,10 +875,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29439,
+    "name": "Voorstraat 2",
+    "latitude": "52.2041409",
+    "longitude": "4.3957815",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29476,
     "name": "Zonnebloemstraat",
     "latitude": "52.1876345",
     "longitude": "4.4257165",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29357,
+    "name": "Basic Fit Katwijk Ambachtsweg",
+    "latitude": "52.2018461",
+    "longitude": "4.4298077",
     "thumbnail_url": ""
   },
   {
