@@ -26,18 +26,8 @@ const cities = [
       'https://stables.donkey.bike/api/public/cities/723/hubs/'
     ]
   },
-  {
-    name: 'kiel-region', endpoints: [
-      'https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=866'
-    ]
-  },
   { name: 'ochtrup', endpoints: ['https://stables.donkey.bike/api/public/cities/350/hubs/'] },
-  {
-    name: 'schlei-region', endpoints: [
-      'https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=866',
-      'https://stables.donkey.bike/api/public/cities/516/hubs/'
-    ]
-  },
+  
   { name: 'straubing', endpoints: ['https://stables.donkey.bike/api/public/cities/336/hubs/'] },
   { name: 'amsterdam', endpoints: ['https://stables.donkey.bike/api/public/cities/5/hubs/'] },
   { name: 'dordrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/355/hubs/'] },
