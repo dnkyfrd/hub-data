@@ -1,12 +1,1808 @@
-{
-  "type": "FeatureCollection",
-  "features": [],
-  "metadata": {
-    "city": "kiel-region",
-    "total_hubs": 0,
-    "generated_at": "2025-08-25T14:23:55.098Z",
-    "endpoints": [
-      "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=866"
-    ]
+[
+  {
+    "id": 28932,
+    "name": "Gammelby Ort",
+    "latitude": "54.5002613",
+    "longitude": "9.7942753",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24395,
+    "name": "Wellingdorf Stadtteilzentrum",
+    "latitude": "54.326139",
+    "longitude": "10.183028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27442,
+    "name": "Krummbek - Bushaltestelle",
+    "latitude": "54.3785432",
+    "longitude": "10.3999272",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29253,
+    "name": "Rieseby Alte Post",
+    "latitude": "54.5422712",
+    "longitude": "9.8180971",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28795,
+    "name": "Holzdorf",
+    "latitude": "54.55162",
+    "longitude": "9.89846",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24444,
+    "name": "Khrener Strasse",
+    "latitude": "54.224444",
+    "longitude": "10.275525",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29663,
+    "name": "GTZ Raisdorf",
+    "latitude": "54.2914887",
+    "longitude": "10.2264654",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27717,
+    "name": "Gemeinschaftsschule Preetz",
+    "latitude": "54.224604",
+    "longitude": "10.2809252",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30024,
+    "name": "Bahnhof Raisdorf",
+    "latitude": "54.2811376",
+    "longitude": "10.2430089",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24412,
+    "name": "MEKUN Olympiahochhaus",
+    "latitude": "54.3552685",
+    "longitude": "10.131253",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28780,
+    "name": "Sdhafen Kappeln",
+    "latitude": "54.65895",
+    "longitude": "9.93418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24393,
+    "name": "Tilsiter Platz",
+    "latitude": "54.32325",
+    "longitude": "10.17025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24472,
+    "name": "Ascheberger Parkplatz",
+    "latitude": "54.152798",
+    "longitude": "10.404486",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30925,
+    "name": "Blcherbrcke",
+    "latitude": "54.3382341",
+    "longitude": "10.1570662",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27450,
+    "name": "Wisch Ort",
+    "latitude": "54.4089166",
+    "longitude": "10.3416223",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24407,
+    "name": "Rathaus Altenholz",
+    "latitude": "54.386203",
+    "longitude": "10.136875",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24379,
+    "name": "RBZ Wirtschaft",
+    "latitude": "54.340743",
+    "longitude": "10.126604",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28784,
+    "name": "Busdorf Schulstrasse",
+    "latitude": "54.49205",
+    "longitude": "9.5536",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24434,
+    "name": "Parkplatz Sdstrand",
+    "latitude": "54.4508154",
+    "longitude": "9.8553807",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24475,
+    "name": "Stadthalle Eckernfrde",
+    "latitude": "54.46846",
+    "longitude": "9.83958",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27451,
+    "name": "Schnberg Eichkamp",
+    "latitude": "54.3871441",
+    "longitude": "10.3806112",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28772,
+    "name": "Rathausmarkt",
+    "latitude": "54.5141763",
+    "longitude": "9.5713214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30027,
+    "name": "REWE Klausdorf",
+    "latitude": "54.3121896",
+    "longitude": "10.2004707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24383,
+    "name": "CAU Sportsttten",
+    "latitude": "54.343444",
+    "longitude": "10.111139",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29345,
+    "name": "Rathaus Bdelsdorf",
+    "latitude": "54.3159434",
+    "longitude": "9.6705883",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27446,
+    "name": "Stoltenberg Drpshus",
+    "latitude": "54.3446439",
+    "longitude": "10.3475835",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28779,
+    "name": "Ellenberg / Markt",
+    "latitude": "54.66154",
+    "longitude": "9.94566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30121,
+    "name": "TZ Eckernfrde",
+    "latitude": "54.4455863",
+    "longitude": "9.832705",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24478,
+    "name": "Kreisverwaltung Pln",
+    "latitude": "54.1557237",
+    "longitude": "10.4079486",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24431,
+    "name": "Hafen Eckernfrde",
+    "latitude": "54.47477",
+    "longitude": "9.83861",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24401,
+    "name": "Dataport/FHVD",
+    "latitude": "54.401894",
+    "longitude": "10.129012",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32553,
+    "name": "Schulzentrum Kronshagen",
+    "latitude": "54.3404697",
+    "longitude": "10.0810497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27372,
+    "name": "Gross Wittensee",
+    "latitude": "54.404468",
+    "longitude": "9.7699336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24386,
+    "name": "Fhranleger Mltenort",
+    "latitude": "54.3772907",
+    "longitude": "10.1958992",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32302,
+    "name": "Pop-up: Brekendorf: Kammberg",
+    "latitude": "54.421205",
+    "longitude": "9.6419802",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27376,
+    "name": "Owschlag Alter Blcken",
+    "latitude": "54.3983663",
+    "longitude": "9.575117",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31353,
+    "name": "Falkensteiner Strand (Apr-Okt)",
+    "latitude": "54.401024",
+    "longitude": "10.1904627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24465,
+    "name": "UKSH",
+    "latitude": "54.329415",
+    "longitude": "10.14013",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27382,
+    "name": "Brekendorf Markttreff",
+    "latitude": "54.4212417",
+    "longitude": "9.6284889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30146,
+    "name": "Herzog-Friedrich-Strasse (ZOB)",
+    "latitude": "54.3171137",
+    "longitude": "10.1330993",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24459,
+    "name": "Wentorper Platz",
+    "latitude": "54.1578578",
+    "longitude": "10.4129151",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28738,
+    "name": "Prasdorf",
+    "latitude": "54.3789641",
+    "longitude": "10.2953421",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28770,
+    "name": "Schloss Gottorf",
+    "latitude": "54.51099",
+    "longitude": "9.54171",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24435,
+    "name": "Wulfsteert",
+    "latitude": "54.45558",
+    "longitude": "9.83387",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24442,
+    "name": "Rathaus Heikendorf",
+    "latitude": "54.370727",
+    "longitude": "10.205576",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27444,
+    "name": "Probsteierhagen Friedhof",
+    "latitude": "54.3641613",
+    "longitude": "10.2939504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27378,
+    "name": "Owschlag Flachsberg",
+    "latitude": "54.3912639",
+    "longitude": "9.6021007",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28791,
+    "name": "Fleckeby - Schmiederedder",
+    "latitude": "54.4814442",
+    "longitude": "9.6956206",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24451,
+    "name": "Bahnhof Preetz",
+    "latitude": "54.233676",
+    "longitude": "10.276218",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30096,
+    "name": "Sderbrarup Dollrottfeld",
+    "latitude": "54.6433633",
+    "longitude": "9.8034798",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24369,
+    "name": "Alte Mu/Brunswiker Str.",
+    "latitude": "54.327583",
+    "longitude": "10.1415",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24371,
+    "name": "Anleger Reventlou",
+    "latitude": "54.3336396",
+    "longitude": "10.151792",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28804,
+    "name": "Karby - Am Ring",
+    "latitude": "54.62363",
+    "longitude": "9.97642",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24404,
+    "name": "Bullbrcke",
+    "latitude": "54.3974944",
+    "longitude": "10.2332235",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24440,
+    "name": "Frde Sparkasse Teplitzer Allee",
+    "latitude": "54.2920407",
+    "longitude": "10.1872627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28785,
+    "name": "Dannewerk (Museum)",
+    "latitude": "54.48326",
+    "longitude": "9.50003",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24380,
+    "name": "Vinetaplatz",
+    "latitude": "54.311417",
+    "longitude": "10.146972",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27445,
+    "name": "Stein Dorfring",
+    "latitude": "54.4165517",
+    "longitude": "10.26938",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26805,
+    "name": "Amt Eidertal",
+    "latitude": "54.281617",
+    "longitude": "10.0794572",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24450,
+    "name": "Schulen am Langsee",
+    "latitude": "54.307029",
+    "longitude": "10.157109",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24416,
+    "name": "Rungholtplatz",
+    "latitude": "54.361297",
+    "longitude": "10.076831",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30944,
+    "name": "Gildestrasse",
+    "latitude": "54.5291222",
+    "longitude": "9.5401655",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27380,
+    "name": "Owschlag ZOB",
+    "latitude": "54.3931",
+    "longitude": "9.5909652",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30025,
+    "name": "Stadtwerke / Brgerhaus Klausdorf",
+    "latitude": "54.3033719",
+    "longitude": "10.2156178",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24470,
+    "name": "Fegetasche",
+    "latitude": "54.153741",
+    "longitude": "10.449131",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24403,
+    "name": "Hafen Laboe",
+    "latitude": "54.4033599",
+    "longitude": "10.2196891",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28781,
+    "name": "Sderbrarup Bahnhof / ZOB",
+    "latitude": "54.63713",
+    "longitude": "9.77128",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28771,
+    "name": "Schwimmhalle / Fjordarium",
+    "latitude": "54.51892",
+    "longitude": "9.55137",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24391,
+    "name": "Blcherplatz",
+    "latitude": "54.341722",
+    "longitude": "10.136861",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30924,
+    "name": "Anleger Bellevue",
+    "latitude": "54.3443118",
+    "longitude": "10.1547354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24376,
+    "name": "Kirchhofallee",
+    "latitude": "54.316194",
+    "longitude": "10.120583",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24420,
+    "name": "Kreishaus Rendsburg",
+    "latitude": "54.2978535",
+    "longitude": "9.6700294",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24476,
+    "name": "Kurt-Schumacher-Platz",
+    "latitude": "54.322339",
+    "longitude": "10.0536245",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24467,
+    "name": "Zur Fhre",
+    "latitude": "54.31617",
+    "longitude": "10.1429",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24375,
+    "name": "Hrnbad",
+    "latitude": "54.308643",
+    "longitude": "10.135253",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24428,
+    "name": "Busparkplatz Sauerstrasse / Schulzentrum Sd",
+    "latitude": "54.44914",
+    "longitude": "9.84185",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26708,
+    "name": "Schule Mielkendorf",
+    "latitude": "54.2844554",
+    "longitude": "10.0375259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24397,
+    "name": "Hauptbahnhof",
+    "latitude": "54.315972",
+    "longitude": "10.132278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29982,
+    "name": "Eiderbad (bis 15.10)",
+    "latitude": "54.2858815",
+    "longitude": "10.072252",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28813,
+    "name": "Langholz",
+    "latitude": "54.5164765",
+    "longitude": "9.9799965",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28806,
+    "name": "Schleswig BBZ",
+    "latitude": "54.5213088",
+    "longitude": "9.5439337",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24417,
+    "name": "Sophienhof",
+    "latitude": "54.316629",
+    "longitude": "10.129724",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24367,
+    "name": "Anleger Dietrichsdorf",
+    "latitude": "54.329611",
+    "longitude": "10.178556",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24457,
+    "name": "Studiale",
+    "latitude": "54.3378795",
+    "longitude": "10.1244324",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29946,
+    "name": "Wrthstrasse",
+    "latitude": "54.3237645",
+    "longitude": "10.1186942",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28808,
+    "name": "Ostseeresort Olpenitz",
+    "latitude": "54.6593591",
+    "longitude": "10.0149474",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29112,
+    "name": "Felde Dorfplatz",
+    "latitude": "54.3038568",
+    "longitude": "9.93739",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24426,
+    "name": "WFG Rendsburg",
+    "latitude": "54.296658",
+    "longitude": "9.6637986",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31567,
+    "name": "Wendtorf Bottsand",
+    "latitude": "54.4266219",
+    "longitude": "10.2957743",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24384,
+    "name": "CAU Universittsbibliothek",
+    "latitude": "54.346612",
+    "longitude": "10.112408",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24400,
+    "name": "Anleger Friedrichsort",
+    "latitude": "54.390373",
+    "longitude": "10.177173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27440,
+    "name": "Brodersdorf Dorfplatz",
+    "latitude": "54.3862675",
+    "longitude": "10.2489657",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24424,
+    "name": "Grner Kranz",
+    "latitude": "54.3078903",
+    "longitude": "9.6500663",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27567,
+    "name": "Lutterbek",
+    "latitude": "54.3923026",
+    "longitude": "10.2761645",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24370,
+    "name": "Alter Markt",
+    "latitude": "54.3227988",
+    "longitude": "10.1394994",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28786,
+    "name": "Tolk",
+    "latitude": "54.57749",
+    "longitude": "9.63971",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24415,
+    "name": "KVG Betriebshof Diedrichstrasse",
+    "latitude": "54.302799",
+    "longitude": "10.136963",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28789,
+    "name": "Mehrzweckhalle Barkelsby",
+    "latitude": "54.50248",
+    "longitude": "9.83552",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24410,
+    "name": "Bunsenstrasse",
+    "latitude": "54.27697",
+    "longitude": "10.158649",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31758,
+    "name": "Helgolandstra§e",
+    "latitude": "54.303617",
+    "longitude": "10.1121392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24411,
+    "name": "Grot Steenbusch",
+    "latitude": "54.2832",
+    "longitude": "10.130672",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31635,
+    "name": "Nordkolleg Rendsburg",
+    "latitude": "54.2891546",
+    "longitude": "9.6460424",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31888,
+    "name": "Osterby, Dorfgemeinschaftshaus",
+    "latitude": "54.4513325",
+    "longitude": "9.7497275",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24455,
+    "name": "Paradeplatz",
+    "latitude": "54.3003927",
+    "longitude": "9.6655655",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31879,
+    "name": "Punker GmbH",
+    "latitude": "54.4530079",
+    "longitude": "9.8325897",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31381,
+    "name": "DEKRA Zulassungsstelle",
+    "latitude": "54.5310498",
+    "longitude": "9.5727218",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31800,
+    "name": "KiWo Rathaus/Opernhaus",
+    "latitude": "54.3236425",
+    "longitude": "10.1331912",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26889,
+    "name": "Wilhelmplatz",
+    "latitude": "54.3227337",
+    "longitude": "10.1212382",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28793,
+    "name": "Goosefeld",
+    "latitude": "54.43037",
+    "longitude": "9.8141",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32441,
+    "name": "Pop Up Ocean Race (bis 10.08.)",
+    "latitude": "54.3311459",
+    "longitude": "10.149154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26730,
+    "name": "Schnberger Strand",
+    "latitude": "54.4128166",
+    "longitude": "10.4146652",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32303,
+    "name": "Pop-up: Brekendorf: Wanderparkplatz",
+    "latitude": "54.423647",
+    "longitude": "9.6508862",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32384,
+    "name": "Lunaplatz (Testlauf)",
+    "latitude": "54.3262585",
+    "longitude": "10.1862755",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24433,
+    "name": "Langebrckstrasse / Commerzbank",
+    "latitude": "54.47254",
+    "longitude": "9.8363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24460,
+    "name": "Bystedtredder",
+    "latitude": "54.4814",
+    "longitude": "9.82645",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30951,
+    "name": "Am Berender Redder",
+    "latitude": "54.5338778",
+    "longitude": "9.5623769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28801,
+    "name": "Waabs - Seestrasse",
+    "latitude": "54.5518656",
+    "longitude": "9.9933408",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32383,
+    "name": "Gabelsberger Stra§e (Testlauf)",
+    "latitude": "54.3257994",
+    "longitude": "10.1832855",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28777,
+    "name": "St. Pauluskirche",
+    "latitude": "54.5256706",
+    "longitude": "9.5559815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24385,
+    "name": "Dreiecksplatz",
+    "latitude": "54.328528",
+    "longitude": "10.134417",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24373,
+    "name": "Christian-Albrechts-Platz",
+    "latitude": "54.3386547",
+    "longitude": "10.1238259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27447,
+    "name": "Wendtorf Edeka",
+    "latitude": "54.4119117",
+    "longitude": "10.2858847",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24432,
+    "name": "Kurpark",
+    "latitude": "54.46292",
+    "longitude": "9.84079",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28782,
+    "name": "Geltinger Birk",
+    "latitude": "54.76911",
+    "longitude": "9.90753",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24482,
+    "name": "Markt Preetz",
+    "latitude": "54.2343397",
+    "longitude": "10.2815033",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24479,
+    "name": "Klinik Preetz",
+    "latitude": "54.23905",
+    "longitude": "10.27956",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24408,
+    "name": "thyssenkrupp Marine Systems",
+    "latitude": "54.316436",
+    "longitude": "10.15131",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24464,
+    "name": "Brandenburger Platz",
+    "latitude": "54.243031",
+    "longitude": "10.2738623",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32447,
+    "name": "Steigenberger Hof - Fellowship (bis 10.8.)",
+    "latitude": "54.3264102",
+    "longitude": "10.1433823",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28794,
+    "name": "Holzdorf - Neu-Seeholz",
+    "latitude": "54.55693",
+    "longitude": "9.90928",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28760,
+    "name": "Knigswiesen / Domschule",
+    "latitude": "54.5136396",
+    "longitude": "9.5582002",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32449,
+    "name": "ATLANTIC Hotel Kiel - Fellowship (bis 10.8.)",
+    "latitude": "54.3159903",
+    "longitude": "10.1331771",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30023,
+    "name": "Freibad Raisdorf (April - Oktober)",
+    "latitude": "54.2859985",
+    "longitude": "10.2460814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24399,
+    "name": "Exerzierplatz",
+    "latitude": "54.321583",
+    "longitude": "10.128389",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30151,
+    "name": "Eiche Dnischenhagen",
+    "latitude": "54.4246632",
+    "longitude": "10.1278724",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28264,
+    "name": "Freudenholm",
+    "latitude": "54.2168572",
+    "longitude": "10.3126721",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28796,
+    "name": "Kosel Ort",
+    "latitude": "54.5042",
+    "longitude": "9.75402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30147,
+    "name": "Bushaltestelle Eiderbrcke",
+    "latitude": "54.2897063",
+    "longitude": "10.0900422",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24427,
+    "name": "Eckernfrde, Bahnhof",
+    "latitude": "54.46828",
+    "longitude": "9.83553",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26209,
+    "name": "Kanalfhre Holtenau",
+    "latitude": "54.3687939",
+    "longitude": "10.1339529",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24462,
+    "name": "Frde Sparkasse Sehestedter Strasse",
+    "latitude": "54.4601359",
+    "longitude": "9.8379951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27449,
+    "name": "Wisch Heidkate",
+    "latitude": "54.4338561",
+    "longitude": "10.3192379",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24390,
+    "name": "CITTI-PARK",
+    "latitude": "54.311667",
+    "longitude": "10.099722",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28775,
+    "name": "Dannewerkschule",
+    "latitude": "54.49651",
+    "longitude": "9.52566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24429,
+    "name": "Carlshhe",
+    "latitude": "54.4857074",
+    "longitude": "9.8082905",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28787,
+    "name": "Boren-Lindaunis, Schleibrcke",
+    "latitude": "54.5857",
+    "longitude": "9.81848",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28773,
+    "name": "Hafen/Holm",
+    "latitude": "54.5117599",
+    "longitude": "9.5711739",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30471,
+    "name": "Fahrdorf - Dorfplatz",
+    "latitude": "54.5006565",
+    "longitude": "9.599901",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28800,
+    "name": "Waabs - Mhlenstrasse",
+    "latitude": "54.5326884",
+    "longitude": "9.9849472",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28783,
+    "name": "Haithabu Museum",
+    "latitude": "54.5007116",
+    "longitude": "9.5696229",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28797,
+    "name": "Loose",
+    "latitude": "54.52195",
+    "longitude": "9.88207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24419,
+    "name": "ADAC-Station",
+    "latitude": "54.312104",
+    "longitude": "10.110267",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28805,
+    "name": "Kreishaus",
+    "latitude": "54.5145091",
+    "longitude": "9.546357",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24471,
+    "name": "Krausstrasse",
+    "latitude": "54.333677",
+    "longitude": "10.122391",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29964,
+    "name": "Langer Rehm P+R",
+    "latitude": "54.3391019",
+    "longitude": "10.1901603",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31501,
+    "name": "Katzheide",
+    "latitude": "54.3100193",
+    "longitude": "10.1561757",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27377,
+    "name": "Owschlag Haltestelle Muusfall",
+    "latitude": "54.399319",
+    "longitude": "9.5816006",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27375,
+    "name": "Holzbunge",
+    "latitude": "54.3797671",
+    "longitude": "9.7075266",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27448,
+    "name": "Wendtorf Marina",
+    "latitude": "54.4190661",
+    "longitude": "10.2878796",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24394,
+    "name": "KiTa Fusssteigkoppel",
+    "latitude": "54.342126",
+    "longitude": "10.090524",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24378,
+    "name": "Muthesius Kunsthochschule",
+    "latitude": "54.327389",
+    "longitude": "10.128333",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29049,
+    "name": "Falkemedia",
+    "latitude": "54.3393023",
+    "longitude": "10.2152081",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24481,
+    "name": "Kieler Innovations- und Technologiezentrum",
+    "latitude": "54.334639",
+    "longitude": "10.119389",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30120,
+    "name": "Martinshaus",
+    "latitude": "54.2901357",
+    "longitude": "9.6536059",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24381,
+    "name": "Westring/Eckernfrder Str.",
+    "latitude": "54.328543",
+    "longitude": "10.117925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24409,
+    "name": "Braunstrasse",
+    "latitude": "54.280427",
+    "longitude": "10.1456",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24413,
+    "name": "Bernhard-Minetti-Platz",
+    "latitude": "54.337864",
+    "longitude": "10.133126",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31587,
+    "name": "Lotsenhaus (Opt. Station)",
+    "latitude": "54.4021434",
+    "longitude": "10.2178414",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24392,
+    "name": "Andreas-Gayk-Strasse",
+    "latitude": "54.3183919",
+    "longitude": "10.133963",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24396,
+    "name": "Rathaus Waisenhofstrasse",
+    "latitude": "54.321722",
+    "longitude": "10.132444",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28788,
+    "name": "Maasholm Schmiedestr.",
+    "latitude": "54.68666",
+    "longitude": "9.99248",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28798,
+    "name": "Rieseby Bahnhof",
+    "latitude": "54.5411783",
+    "longitude": "9.8206756",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24443,
+    "name": "Preetz, Kieler Str",
+    "latitude": "54.2448896",
+    "longitude": "10.2770364",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24436,
+    "name": "Frde Sparkasse Lorentzendamm",
+    "latitude": "54.3259625",
+    "longitude": "10.1343185",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29963,
+    "name": "Langer Rehm (Rewe)",
+    "latitude": "54.3366433",
+    "longitude": "10.1897436",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24441,
+    "name": "Meimersdorf Kontor",
+    "latitude": "54.283892",
+    "longitude": "10.131535",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32085,
+    "name": "Kaiserstrasse",
+    "latitude": "54.3152775",
+    "longitude": "10.1532726",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24423,
+    "name": "Fussgngertunnel Nordseite",
+    "latitude": "54.291789",
+    "longitude": "9.663878",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28799,
+    "name": "Waabs Haltestelle Abzw. Langholz",
+    "latitude": "54.5266823",
+    "longitude": "9.9684791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27374,
+    "name": "Osterby",
+    "latitude": "54.4533849",
+    "longitude": "9.7539694",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27379,
+    "name": "Owschlag Schule",
+    "latitude": "54.392636",
+    "longitude": "9.5982008",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24422,
+    "name": "Fhre Nobiskrug",
+    "latitude": "54.308426",
+    "longitude": "9.709962",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31584,
+    "name": "Gemeindeverwaltung Laboe (Opt. Station)",
+    "latitude": "54.4054218",
+    "longitude": "10.220143",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28809,
+    "name": "Amt Sderbrarup / Team Allee",
+    "latitude": "54.6407832",
+    "longitude": "9.7613562",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24421,
+    "name": "Bahnhof Rendsburg",
+    "latitude": "54.3020355",
+    "longitude": "9.6704659",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24452,
+    "name": "ZOB Rendsburg",
+    "latitude": "54.303083",
+    "longitude": "9.668583",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27373,
+    "name": "Sehestedt Markttreff",
+    "latitude": "54.3650428",
+    "longitude": "9.8171981",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24387,
+    "name": "Mnkeberg Anleger",
+    "latitude": "54.3514446",
+    "longitude": "10.1784451",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28807,
+    "name": "AP-Mller-Skolen",
+    "latitude": "54.5154606",
+    "longitude": "9.5861708",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24402,
+    "name": "Stadtteilzentrum Pries",
+    "latitude": "54.395459",
+    "longitude": "10.173146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28803,
+    "name": "Windeby - Friedland",
+    "latitude": "54.4589607",
+    "longitude": "9.7841614",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27452,
+    "name": "Lamp'sche Koppel",
+    "latitude": "54.3950333",
+    "longitude": "10.3791447",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24418,
+    "name": "Stolbergring",
+    "latitude": "54.4622498",
+    "longitude": "9.82598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30515,
+    "name": "Alte Lbecker Chaussee",
+    "latitude": "54.3045643",
+    "longitude": "10.1254699",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24439,
+    "name": "Frde Sparkasse Fockbek",
+    "latitude": "54.3077561",
+    "longitude": "9.605646",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24446,
+    "name": "Wakendorf",
+    "latitude": "54.250817",
+    "longitude": "10.295331",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28802,
+    "name": "Kochendorf",
+    "latitude": "54.4743774",
+    "longitude": "9.7746023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24466,
+    "name": "Sandkrug",
+    "latitude": "54.31634",
+    "longitude": "10.14607",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27443,
+    "name": "Passade - Bushaltestelle Passade Ort",
+    "latitude": "54.3664045",
+    "longitude": "10.3171535",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30145,
+    "name": "Rondeel",
+    "latitude": "54.3085323",
+    "longitude": "10.1250477",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24445,
+    "name": "Schwimmhalle Preetz",
+    "latitude": "54.241235",
+    "longitude": "10.265307",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28776,
+    "name": "Helios-Klinikum",
+    "latitude": "54.5232899",
+    "longitude": "9.5697282",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30026,
+    "name": "Ostseepark",
+    "latitude": "54.2887936",
+    "longitude": "10.2177163",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24453,
+    "name": "Kronshagen Bahnhof",
+    "latitude": "54.331388",
+    "longitude": "10.083113",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28792,
+    "name": "Gtheby-Holm",
+    "latitude": "54.4843115",
+    "longitude": "9.7130932",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28769,
+    "name": "ZOB Schleswig",
+    "latitude": "54.51531",
+    "longitude": "9.56643",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31192,
+    "name": "Breitenauschule",
+    "latitude": "54.1572839",
+    "longitude": "10.4392215",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30434,
+    "name": "Felde Gemeindezentrum",
+    "latitude": "54.2995516",
+    "longitude": "9.9338166",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29109,
+    "name": "Felde Bahnhof",
+    "latitude": "54.309801",
+    "longitude": "9.9466436",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24405,
+    "name": "Marine-Ehrenmal",
+    "latitude": "54.411667",
+    "longitude": "10.228306",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24389,
+    "name": "Hansastr./Gutenbergstr.",
+    "latitude": "54.332111",
+    "longitude": "10.124861",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28768,
+    "name": "Bahnhof Schleswig",
+    "latitude": "54.5005391",
+    "longitude": "9.5370599",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24414,
+    "name": "Kuhlacker",
+    "latitude": "54.285725",
+    "longitude": "10.143565",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29346,
+    "name": "Wilhelmstrasse",
+    "latitude": "54.3157543",
+    "longitude": "9.6807304",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26224,
+    "name": "Wik, Kanalfhre - Busstation",
+    "latitude": "54.3655075",
+    "longitude": "10.1315889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31090,
+    "name": "Pop-Up Heimspiele Holstein Stadion",
+    "latitude": "54.3482587",
+    "longitude": "10.1251452",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24438,
+    "name": "Frde Sparkasse Preetz",
+    "latitude": "54.2358998",
+    "longitude": "10.2809246",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29200,
+    "name": "REWE digital am Wissenschaftszentrum",
+    "latitude": "54.341647",
+    "longitude": "10.1222534",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24398,
+    "name": "Rathausplatz",
+    "latitude": "54.322361",
+    "longitude": "10.133861",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24474,
+    "name": "Russeer Weg / Hofholzallee",
+    "latitude": "54.317015",
+    "longitude": "10.066768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30207,
+    "name": "Sporthalle Saxtorfer Weg",
+    "latitude": "54.4870053",
+    "longitude": "9.8358328",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24463,
+    "name": "Haimkrogkoppel",
+    "latitude": "54.243001",
+    "longitude": "10.299392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31586,
+    "name": "Hafenplatz (Opt. Station)",
+    "latitude": "54.4038794",
+    "longitude": "10.2182377",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28790,
+    "name": "ZOB Vogelsang-Grnholz",
+    "latitude": "54.5700891",
+    "longitude": "9.9602786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26725,
+    "name": "Kalifornien",
+    "latitude": "54.4254497",
+    "longitude": "10.3752686",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29965,
+    "name": "B502 Schnkirchener Strasse",
+    "latitude": "54.3296577",
+    "longitude": "10.1961943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30470,
+    "name": "Fahrdorf - Badestelle Bckerstrand",
+    "latitude": "54.505735",
+    "longitude": "9.600537",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24406,
+    "name": "Bahnhof Oppendorf",
+    "latitude": "54.326055",
+    "longitude": "10.207911",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24458,
+    "name": "Bahnhof Pln",
+    "latitude": "54.1596062",
+    "longitude": "10.4222926",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29347,
+    "name": "Hollerstrasse Nord",
+    "latitude": "54.3221105",
+    "longitude": "9.6924828",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27381,
+    "name": "Am Drpshus Borgstedt",
+    "latitude": "54.3316706",
+    "longitude": "9.7088198",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24368,
+    "name": "Umsteiger",
+    "latitude": "54.314861",
+    "longitude": "10.131167",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27183,
+    "name": "Schilksee Olympiazentrum",
+    "latitude": "54.4254534",
+    "longitude": "10.1682239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24468,
+    "name": "Catharinenberg",
+    "latitude": "54.2644031",
+    "longitude": "10.0656004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31883,
+    "name": "Metzstra§e",
+    "latitude": "54.3255159",
+    "longitude": "10.116875",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24374,
+    "name": "Holsten-/Hafenstrasse",
+    "latitude": "54.321",
+    "longitude": "10.135389",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29147,
+    "name": "Strandbad Lanker See (April - Oktober)",
+    "latitude": "54.2187212",
+    "longitude": "10.2815616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24473,
+    "name": "Aalborgring",
+    "latitude": "54.316404",
+    "longitude": "10.048583",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24449,
+    "name": "Bebelplatz",
+    "latitude": "54.294629",
+    "longitude": "10.185079",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26724,
+    "name": "Bahnhof Schnberg",
+    "latitude": "54.3870037",
+    "longitude": "10.3740043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24447,
+    "name": "Bahnhalt Ellerbek",
+    "latitude": "54.313927",
+    "longitude": "10.169784",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24448,
+    "name": "Bahnhof Russee",
+    "latitude": "54.309867",
+    "longitude": "10.06956",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24469,
+    "name": "Seefischmarkt",
+    "latitude": "54.32842",
+    "longitude": "10.17724",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26653,
+    "name": "Feuerwehrhaus Schnberg",
+    "latitude": "54.3944955",
+    "longitude": "10.3721663",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24456,
+    "name": "Lilienstrasse / Krankenhaus",
+    "latitude": "54.296248",
+    "longitude": "9.65776",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24430,
+    "name": "Fischerkoppel / BBZ",
+    "latitude": "54.47767",
+    "longitude": "9.83707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29287,
+    "name": "Norderbrarup",
+    "latitude": "54.6558473",
+    "longitude": "9.7685402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28778,
+    "name": "Kappeln Rathaus",
+    "latitude": "54.66287",
+    "longitude": "9.92938",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28814,
+    "name": "Waabs Strand (April - Oktober)",
+    "latitude": "54.5249857",
+    "longitude": "9.9999726",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30022,
+    "name": "Rathaus Schwentinental",
+    "latitude": "54.2842995",
+    "longitude": "10.2405657",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24377,
+    "name": "Kronshagen Rathaus",
+    "latitude": "54.3327038",
+    "longitude": "10.0854972",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24461,
+    "name": "Prinzenstrasse",
+    "latitude": "54.480989",
+    "longitude": "9.8510949",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24388,
+    "name": "Schnkirchen Gemeindehaus",
+    "latitude": "54.339056",
+    "longitude": "10.223028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24437,
+    "name": "Markt Pln",
+    "latitude": "54.1582828",
+    "longitude": "10.4177364",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24425,
+    "name": "Schiffbrckenplatz",
+    "latitude": "54.304861",
+    "longitude": "9.661167",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27441,
+    "name": "Fiefbergen - Bushaltestelle",
+    "latitude": "54.3792122",
+    "longitude": "10.3424397",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24454,
+    "name": "Freilichtmuseum Molfsee",
+    "latitude": "54.274827",
+    "longitude": "10.074943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24372,
+    "name": "Bahnhof Suchsdorf",
+    "latitude": "54.3498224",
+    "longitude": "10.0909467",
+    "thumbnail_url": ""
   }
-}
+]
