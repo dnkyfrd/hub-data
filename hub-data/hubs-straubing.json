@@ -1,12 +1,5 @@
 [
   {
-    "id": 32717,
-    "name": "Bahnhof",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32695,
     "name": "Campingplatz",
     "latitude": "48.8932739",
@@ -32,27 +25,6 @@
     "name": "Europaring 4",
     "latitude": "48.8945392",
     "longitude": "12.6576504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32693,
-    "name": "Alte Ziegelei - Boulderhalle",
-    "latitude": "48.8781558",
-    "longitude": "12.564369",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32697,
-    "name": "Bahnhof Ittling (Fahrradabstellanlage)",
-    "latitude": "48.8848476",
-    "longitude": "12.6371181",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32692,
-    "name": "Ittlinger Strasse 192",
-    "latitude": "48.8839832",
-    "longitude": "12.6086894",
     "thumbnail_url": ""
   },
   {
@@ -84,10 +56,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32692,
+    "name": "Ittlinger Strasse 192",
+    "latitude": "48.8839832",
+    "longitude": "12.6086894",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32706,
     "name": "TUM Uferstrasse",
     "latitude": "48.8864081",
     "longitude": "12.5827528",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32693,
+    "name": "Alte Ziegelei - Boulderhalle",
+    "latitude": "48.8781558",
+    "longitude": "12.564369",
     "thumbnail_url": ""
   },
   {
@@ -147,17 +133,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32714,
     "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
     "latitude": "48.8734229",
     "longitude": "12.5453889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32717,
+    "name": "Bahnhof",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
@@ -172,6 +158,13 @@
     "name": "Aquatherm",
     "latitude": "48.8739041",
     "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {
@@ -221,6 +214,13 @@
     "name": "Römerpark",
     "latitude": "48.8864806",
     "longitude": "12.5967173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32697,
+    "name": "Bahnhof Ittling (Fahrradabstellanlage)",
+    "latitude": "48.8848476",
+    "longitude": "12.6371181",
     "thumbnail_url": ""
   }
 ]

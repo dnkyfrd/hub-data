@@ -217,20 +217,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29104,
-    "name": "4* Grill",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27799,
-    "name": "Halmaheiraplein",
-    "latitude": "51.8052021",
-    "longitude": "4.6912843",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24172,
     "name": "Groenendijk - Hallincqlaan",
     "latitude": "51.8126412",
@@ -259,6 +245,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27799,
+    "name": "Halmaheiraplein",
+    "latitude": "51.8052021",
+    "longitude": "4.6912843",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29844,
     "name": "Sportplaza",
     "latitude": "51.796718",
@@ -280,6 +273,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29104,
+    "name": "4* Grill",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29871,
     "name": "Fortiushal",
     "latitude": "51.8055678",
@@ -298,13 +298,6 @@
     "name": "Houttuinen",
     "latitude": "51.8150152",
     "longitude": "4.6614506",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21159,
-    "name": "**De Waag",
-    "latitude": "51.8157166",
-    "longitude": "4.6667989",
     "thumbnail_url": ""
   },
   {
@@ -333,6 +326,13 @@
     "name": "Bomkade",
     "latitude": "51.8136895",
     "longitude": "4.6591543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21159,
+    "name": "**De Waag",
+    "latitude": "51.8157166",
+    "longitude": "4.6667989",
     "thumbnail_url": ""
   },
   {
@@ -498,9 +498,9 @@
   },
   {
     "id": 27549,
-    "name": "Difference ",
-    "latitude": "51.7769432",
-    "longitude": "4.6827067",
+    "name": "Difference (New Hub Location)",
+    "latitude": "51.7772531",
+    "longitude": "4.682406",
     "thumbnail_url": ""
   },
   {

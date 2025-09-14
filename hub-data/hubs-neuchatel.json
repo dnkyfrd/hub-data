@@ -1,58 +1,9 @@
 [
   {
-    "id": 4122,
-    "name": "Hôtel de Ville",
-    "latitude": "46.9913522",
-    "longitude": "6.9307654",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3722,
-    "name": "Microcity",
-    "latitude": "46.9974785",
-    "longitude": "6.9454239",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4332,
-    "name": "Bevaix",
-    "latitude": "46.9297259",
-    "longitude": "6.8151062",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4110,
-    "name": "Evole",
-    "latitude": "46.988599",
-    "longitude": "6.9212462",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3720,
-    "name": "Alexis-Marie-Piaget",
-    "latitude": "46.991655",
-    "longitude": "6.9323596",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16492,
-    "name": "Riveraine",
-    "latitude": "46.9962042",
-    "longitude": "6.9463045",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4111,
-    "name": "Station du Port",
-    "latitude": "46.9910334",
-    "longitude": "6.9347913",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4331,
-    "name": "Marin-Epagnier gare",
-    "latitude": "47.0093982",
-    "longitude": "7.0101403",
+    "id": 3721,
+    "name": "Pourtalès",
+    "latitude": "46.9961145",
+    "longitude": "6.9429132",
     "thumbnail_url": ""
   },
   {
@@ -63,31 +14,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5064,
-    "name": "Bas des Allées",
-    "latitude": "46.9680625",
-    "longitude": "6.8700157",
+    "id": 4109,
+    "name": "Place Pury",
+    "latitude": "46.9897038",
+    "longitude": "6.9287524",
     "thumbnail_url": ""
   },
   {
-    "id": 5066,
-    "name": "Petit-Cortaillod",
-    "latitude": "46.940307",
-    "longitude": "6.8518176",
+    "id": 4122,
+    "name": "Hôtel de Ville",
+    "latitude": "46.9913522",
+    "longitude": "6.9307654",
     "thumbnail_url": ""
   },
   {
-    "id": 2447,
-    "name": "BPU",
-    "latitude": "46.9904062",
-    "longitude": "6.9314598",
+    "id": 4108,
+    "name": "Piscine Nid-du-crô",
+    "latitude": "46.9980064",
+    "longitude": "6.9560452",
     "thumbnail_url": ""
   },
   {
-    "id": 5061,
-    "name": "Auvernier",
-    "latitude": "46.9744476",
-    "longitude": "6.8788529",
+    "id": 12541,
+    "name": "Gorgier-St-Aubin",
+    "latitude": "46.8991139",
+    "longitude": "6.7815325",
     "thumbnail_url": ""
   },
   {
@@ -98,17 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4109,
-    "name": "Place Pury",
-    "latitude": "46.9897038",
-    "longitude": "6.9287524",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17162,
-    "name": "Les Deurres",
-    "latitude": "46.9855894",
-    "longitude": "6.899171",
+    "id": 5066,
+    "name": "Petit-Cortaillod",
+    "latitude": "46.940307",
+    "longitude": "6.8518176",
     "thumbnail_url": ""
   },
   {
@@ -119,10 +63,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5065,
-    "name": "Areuse",
-    "latitude": "46.9542865",
-    "longitude": "6.8536375",
+    "id": 26173,
+    "name": "Moulins",
+    "latitude": "46.9932558",
+    "longitude": "6.9272921",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4110,
+    "name": "Evole",
+    "latitude": "46.988599",
+    "longitude": "6.9212462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4111,
+    "name": "Station du Port",
+    "latitude": "46.9910334",
+    "longitude": "6.9347913",
     "thumbnail_url": ""
   },
   {
@@ -133,13 +91,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2391,
-    "name": "LJP - Robert Comtesse",
-    "latitude": "46.9942096",
-    "longitude": "6.9428846",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17978,
     "name": "Jämes-Paris",
     "latitude": "46.9862111",
@@ -147,10 +98,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4113,
-    "name": "Monruz",
-    "latitude": "47.0056002",
-    "longitude": "6.9639054",
+    "id": 3720,
+    "name": "Alexis-Marie-Piaget",
+    "latitude": "46.991655",
+    "longitude": "6.9323596",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17162,
+    "name": "Les Deurres",
+    "latitude": "46.9855894",
+    "longitude": "6.899171",
     "thumbnail_url": ""
   },
   {
@@ -161,6 +119,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5064,
+    "name": "Bas des Allées",
+    "latitude": "46.9680625",
+    "longitude": "6.8700157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4332,
+    "name": "Bevaix",
+    "latitude": "46.9297259",
+    "longitude": "6.8151062",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17035,
     "name": "Battieux",
     "latitude": "46.9825555",
@@ -168,10 +140,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3721,
-    "name": "Pourtalès",
-    "latitude": "46.9961145",
-    "longitude": "6.9429132",
+    "id": 3722,
+    "name": "Microcity",
+    "latitude": "46.9974785",
+    "longitude": "6.9454239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4331,
+    "name": "Marin-Epagnier gare",
+    "latitude": "47.0093982",
+    "longitude": "7.0101403",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5061,
+    "name": "Auvernier",
+    "latitude": "46.9744476",
+    "longitude": "6.8788529",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5065,
+    "name": "Areuse",
+    "latitude": "46.9542865",
+    "longitude": "6.8536375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4113,
+    "name": "Monruz",
+    "latitude": "47.0056002",
+    "longitude": "6.9639054",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6448,
+    "name": "UniLac",
+    "latitude": "46.9937227",
+    "longitude": "6.9416517",
     "thumbnail_url": ""
   },
   {
@@ -189,24 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18447,
-    "name": "Fun'ambule - Nord",
-    "latitude": "46.994127",
-    "longitude": "6.9378518",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31357,
     "name": "Saint-Blaise - Vigner",
     "latitude": "47.0121461",
     "longitude": "6.9892847",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6448,
-    "name": "UniLac",
-    "latitude": "46.9937227",
-    "longitude": "6.9416517",
     "thumbnail_url": ""
   },
   {
@@ -231,10 +224,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 2391,
+    "name": "LJP - Robert Comtesse",
+    "latitude": "46.9942096",
+    "longitude": "6.9428846",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31592,
     "name": "Usines",
     "latitude": "46.9843697",
     "longitude": "6.9018921",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2447,
+    "name": "BPU",
+    "latitude": "46.9904062",
+    "longitude": "6.9314598",
     "thumbnail_url": ""
   },
   {
@@ -252,10 +259,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18447,
+    "name": "Fun'ambule - Nord",
+    "latitude": "46.994127",
+    "longitude": "6.9378518",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19323,
     "name": "Marronier",
     "latitude": "46.9920387",
     "longitude": "6.9188313",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16492,
+    "name": "Riveraine",
+    "latitude": "46.9962042",
+    "longitude": "6.9463045",
     "thumbnail_url": ""
   },
   {
@@ -378,13 +399,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12541,
-    "name": "Gorgier-St-Aubin",
-    "latitude": "46.8991139",
-    "longitude": "6.7815325",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19321,
     "name": "Sablons",
     "latitude": "46.996223",
@@ -427,13 +441,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26173,
-    "name": "Moulins",
-    "latitude": "46.9932558",
-    "longitude": "6.9272921",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31634,
     "name": "Halles - Sud",
     "latitude": "46.9898645",
@@ -445,13 +452,6 @@
     "name": "Fornel",
     "latitude": "46.9938241",
     "longitude": "6.9358932",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4108,
-    "name": "Piscine Nid-du-crô",
-    "latitude": "46.9980064",
-    "longitude": "6.9560452",
     "thumbnail_url": ""
   },
   {

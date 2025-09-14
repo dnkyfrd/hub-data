@@ -1,23 +1,9 @@
 [
   {
-    "id": 28747,
-    "name": "Marine Buurthub",
-    "latitude": "52.372797",
-    "longitude": "4.9173944",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784261",
-    "longitude": "4.8977567",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
+    "id": 20883,
+    "name": "!PARK INDOOR! Amstelstation",
+    "latitude": "52.3468462",
+    "longitude": "4.9188123",
     "thumbnail_url": ""
   },
   {
@@ -28,10 +14,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23620,
+    "name": "Isolatorweg",
+    "latitude": "52.3949845",
+    "longitude": "4.8506925",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31827,
     "name": "Halte Wormer Talingstraat",
     "latitude": "52.4991061",
     "longitude": "4.8118099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2417,
+    "name": "Tetterode Parking",
+    "latitude": "52.3803082",
+    "longitude": "4.8615548",
     "thumbnail_url": ""
   },
   {
@@ -56,31 +56,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28890,
+    "name": "Appeltjesmarkt",
+    "latitude": "52.368809",
+    "longitude": "4.8774985",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31767,
     "name": "Station Koog aan de Zaan II",
     "latitude": "52.4568489",
     "longitude": "4.8059",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21830,
-    "name": "!PARK UNDERGROUND! Station Zuidplein",
-    "latitude": "52.3399475",
-    "longitude": "4.8728958",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23620,
-    "name": "Isolatorweg",
-    "latitude": "52.3949845",
-    "longitude": "4.8506925",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2417,
-    "name": "Tetterode Parking",
-    "latitude": "52.3803082",
-    "longitude": "4.8615548",
     "thumbnail_url": ""
   },
   {
@@ -105,13 +98,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31828,
-    "name": "Halte Oostzaan Lisweg",
-    "latitude": "52.4369425",
-    "longitude": "4.8775592",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31772,
     "name": "Station Purmerend Overwere",
     "latitude": "52.5111173",
@@ -123,6 +109,13 @@
     "name": "Hoekenrodepad",
     "latitude": "52.3136718",
     "longitude": "4.9481016",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31760,
+    "name": "Station Zaandijk Zaanse Schans I",
+    "latitude": "52.4689875",
+    "longitude": "4.8054229",
     "thumbnail_url": ""
   },
   {
@@ -140,24 +133,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28890,
-    "name": "Appeltjesmarkt",
-    "latitude": "52.368809",
-    "longitude": "4.8774985",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31774,
     "name": "Halte Edam Busstation",
     "latitude": "52.5102944",
     "longitude": "5.0447229",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20883,
-    "name": "!PARK INDOOR! Amstelstation",
-    "latitude": "52.3468462",
-    "longitude": "4.9188123",
     "thumbnail_url": ""
   },
   {
@@ -175,17 +154,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31764,
-    "name": "Station Hoofddorp",
-    "latitude": "52.2921885",
-    "longitude": "4.6992054",
+    "id": 31828,
+    "name": "Halte Oostzaan Lisweg",
+    "latitude": "52.4369425",
+    "longitude": "4.8775592",
     "thumbnail_url": ""
   },
   {
-    "id": 27226,
-    "name": "!PARK INDOOR! CS Center",
-    "latitude": "52.377613",
-    "longitude": "4.9026312",
+    "id": 31755,
+    "name": "Station Diemen Zuid",
+    "latitude": "52.3302353",
+    "longitude": "4.9541849",
     "thumbnail_url": ""
   },
   {
@@ -193,6 +172,20 @@
     "name": "Station Koog aan de Zaan I",
     "latitude": "52.4576105",
     "longitude": "4.8052612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31764,
+    "name": "Station Hoofddorp",
+    "latitude": "52.2921885",
+    "longitude": "4.6992054",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23523,
+    "name": "Henk Sneevlietweg",
+    "latitude": "52.3455372",
+    "longitude": "4.8338295",
     "thumbnail_url": ""
   },
   {
@@ -210,24 +203,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23523,
-    "name": "Henk Sneevlietweg",
-    "latitude": "52.3455372",
-    "longitude": "4.8338295",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31755,
-    "name": "Station Diemen Zuid",
-    "latitude": "52.3302353",
-    "longitude": "4.9541849",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31539,
     "name": "M. H. Trompstraat ",
     "latitude": "52.3719619",
     "longitude": "4.8613261",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28747,
+    "name": "Marine Buurthub",
+    "latitude": "52.372797",
+    "longitude": "4.9173944",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784261",
+    "longitude": "4.8977567",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21830,
+    "name": "!PARK UNDERGROUND! Station Zuidplein",
+    "latitude": "52.3399475",
+    "longitude": "4.8728958",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
     "thumbnail_url": ""
   },
   {
@@ -249,13 +256,6 @@
     "name": "Parnassusweg 126-128",
     "latitude": "52.3426983",
     "longitude": "4.8677067",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31760,
-    "name": "Station Zaandijk Zaanse Schans I",
-    "latitude": "52.4689875",
-    "longitude": "4.8054229",
     "thumbnail_url": ""
   },
   {
