@@ -1,12 +1,5 @@
 [
   {
-    "id": 24663,
-    "name": "Stadspark Veurne",
-    "latitude": "51.0730738",
-    "longitude": "2.6617394",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26510,
     "name": "Furnevent",
     "latitude": "51.0663855",
@@ -21,17 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27329,
-    "name": "Sportpark Veurne",
-    "latitude": "51.0817755",
-    "longitude": "2.6599553",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29250,
     "name": "Steenkerke Sint-Laurentius",
     "latitude": "51.0575475",
     "longitude": "2.6890307",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27329,
+    "name": "Sportpark Veurne",
+    "latitude": "51.0817755",
+    "longitude": "2.6599553",
     "thumbnail_url": ""
   },
   {
@@ -88,6 +81,13 @@
     "name": "Seylsteen",
     "latitude": "51.0700612",
     "longitude": "2.6614065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24663,
+    "name": "Stadspark Veurne",
+    "latitude": "51.0730738",
+    "longitude": "2.6617394",
     "thumbnail_url": ""
   }
 ]

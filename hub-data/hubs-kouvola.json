@@ -42,6 +42,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19846,
+    "name": "Kasarminmäki XAMK",
+    "latitude": "60.8726236",
+    "longitude": "26.6803491",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22081,
     "name": "Novia",
     "latitude": "59.9760313",
@@ -49,10 +56,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19853,
+    "name": "Yhteislyseo",
+    "latitude": "60.8730513",
+    "longitude": "26.716196",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19850,
     "name": "Taideruukki",
     "latitude": "60.9030405",
     "longitude": "26.6503379",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19837,
+    "name": "Kävelykatu Manski",
+    "latitude": "60.8694817",
+    "longitude": "26.704126",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19840,
+    "name": "Museokortteli",
+    "latitude": "60.8662307",
+    "longitude": "26.6908319",
     "thumbnail_url": ""
   },
   {
@@ -217,13 +245,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28926,
-    "name": "Pikku-Palomäki",
-    "latitude": "60.8765311",
-    "longitude": "26.725603",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19860,
     "name": "Lehtomäki (S-Market)",
     "latitude": "60.8880698",
@@ -245,13 +266,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19837,
-    "name": "Kävelykatu Manski",
-    "latitude": "60.8694817",
-    "longitude": "26.704126",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23061,
     "name": "Ratamokeskus",
     "latitude": "60.8771391",
@@ -263,6 +277,13 @@
     "name": "Pääkirjasto",
     "latitude": "60.8703184",
     "longitude": "26.7091331",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19842,
+    "name": "Eskolanmäki (Sale)",
+    "latitude": "60.8514715",
+    "longitude": "26.7086766",
     "thumbnail_url": ""
   },
   {
@@ -287,45 +308,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19846,
-    "name": "Kasarminmäki XAMK",
-    "latitude": "60.8726236",
-    "longitude": "26.6803491",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31716,
     "name": "Kaunisnurmi (R-Kioski)",
     "latitude": "60.8680342",
     "longitude": "26.6858428",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19859,
-    "name": "Tornionmäki (S-Market)",
-    "latitude": "60.8752966",
-    "longitude": "26.7406486",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19843,
-    "name": "Kuusihaankatu",
-    "latitude": "60.8520798",
-    "longitude": "26.7150073",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19841,
-    "name": "Kiskokatu",
-    "latitude": "60.8647606",
-    "longitude": "26.7058765",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19853,
-    "name": "Yhteislyseo",
-    "latitude": "60.8730513",
-    "longitude": "26.716196",
     "thumbnail_url": ""
   },
   {
@@ -336,10 +322,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19842,
-    "name": "Eskolanmäki (Sale)",
-    "latitude": "60.8514715",
-    "longitude": "26.7086766",
+    "id": 19843,
+    "name": "Kuusihaankatu",
+    "latitude": "60.8520798",
+    "longitude": "26.7150073",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28926,
+    "name": "Pikku-Palomäki",
+    "latitude": "60.8765311",
+    "longitude": "26.725603",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19841,
+    "name": "Kiskokatu",
+    "latitude": "60.8647606",
+    "longitude": "26.7058765",
     "thumbnail_url": ""
   },
   {
@@ -357,17 +357,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19840,
-    "name": "Museokortteli",
-    "latitude": "60.8662307",
-    "longitude": "26.6908319",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26650,
     "name": "Kuusankoski",
     "latitude": "60.9072388",
     "longitude": "26.6235986",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19859,
+    "name": "Tornionmäki (S-Market)",
+    "latitude": "60.8752966",
+    "longitude": "26.7406486",
     "thumbnail_url": ""
   }
 ]

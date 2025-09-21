@@ -1,19 +1,5 @@
 [
   {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32710,
-    "name": "Theresienplatz vor Pustet (Fahrradständer)",
-    "latitude": "48.8811806",
-    "longitude": "12.5655164",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32719,
     "name": "Äussere Passauer Strasse _ Antoniusberg",
     "latitude": "48.8745709",
@@ -25,6 +11,20 @@
     "name": "Europaring 4",
     "latitude": "48.8945392",
     "longitude": "12.6576504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32720,
+    "name": "Schlesische Strasse 112 (Mangal)",
+    "latitude": "48.8894663",
+    "longitude": "12.6049892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32710,
+    "name": "Theresienplatz vor Pustet (Fahrradständer)",
+    "latitude": "48.8811806",
+    "longitude": "12.5655164",
     "thumbnail_url": ""
   },
   {
@@ -56,17 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32692,
-    "name": "Ittlinger Strasse 192",
-    "latitude": "48.8839832",
-    "longitude": "12.6086894",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32706,
-    "name": "TUM Uferstrasse",
-    "latitude": "48.8864081",
-    "longitude": "12.5827528",
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
     "thumbnail_url": ""
   },
   {
@@ -119,13 +112,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32687,
-    "name": "Tiergarten",
-    "latitude": "48.8827695",
-    "longitude": "12.5379418",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
@@ -133,45 +119,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32714,
-    "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
-    "latitude": "48.8734229",
-    "longitude": "12.5453889",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32717,
-    "name": "Bahnhof",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32721,
     "name": "Förderzentrum (gegenüber) an Laterne",
     "latitude": "48.8686327",
     "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32713,
-    "name": "Aquatherm",
-    "latitude": "48.8739041",
-    "longitude": "12.5603465",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32720,
-    "name": "Schlesische Strasse 112 (Mangal)",
-    "latitude": "48.8894663",
-    "longitude": "12.6049892",
     "thumbnail_url": ""
   },
   {
@@ -189,6 +140,55 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32713,
+    "name": "Aquatherm",
+    "latitude": "48.8739041",
+    "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32702,
+    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
+    "latitude": "48.8853393",
+    "longitude": "12.6008593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32697,
+    "name": "Bahnhof Ittling (Fahrradabstellanlage)",
+    "latitude": "48.8848476",
+    "longitude": "12.6371181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32692,
+    "name": "Ittlinger Strasse 192",
+    "latitude": "48.8839832",
+    "longitude": "12.6086894",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32704,
+    "name": "Römerpark",
+    "latitude": "48.8864806",
+    "longitude": "12.5967173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32706,
+    "name": "TUM Uferstrasse",
+    "latitude": "48.8864081",
+    "longitude": "12.5827528",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32701,
     "name": "Stetthaimer Platz, Wallbox",
     "latitude": "48.8819705",
@@ -203,24 +203,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32702,
-    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-    "latitude": "48.8853393",
-    "longitude": "12.6008593",
+    "id": 32687,
+    "name": "Tiergarten",
+    "latitude": "48.8827695",
+    "longitude": "12.5379418",
     "thumbnail_url": ""
   },
   {
-    "id": 32704,
-    "name": "Römerpark",
-    "latitude": "48.8864806",
-    "longitude": "12.5967173",
+    "id": 32717,
+    "name": "Bahnhof",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
-    "id": 32697,
-    "name": "Bahnhof Ittling (Fahrradabstellanlage)",
-    "latitude": "48.8848476",
-    "longitude": "12.6371181",
+    "id": 32714,
+    "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
+    "latitude": "48.8734229",
+    "longitude": "12.5453889",
     "thumbnail_url": ""
   }
 ]
