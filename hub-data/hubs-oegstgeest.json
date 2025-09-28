@@ -14,13 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29517,
-    "name": "De Kempenaerstraat ",
-    "latitude": "52.1775582",
-    "longitude": "4.4670869",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29489,
     "name": "Haaswijklaan",
     "latitude": "52.1923786",
@@ -74,6 +67,13 @@
     "name": "Dahlialaan",
     "latitude": "52.1897529",
     "longitude": "4.4729593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29569,
+    "name": "Corpus Hilton",
+    "latitude": "52.1702991",
+    "longitude": "4.4531188",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +133,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29517,
+    "name": "De Kempenaerstraat ",
+    "latitude": "52.1775582",
+    "longitude": "4.4670869",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29514,
     "name": "Sporthal de Cuyl",
     "latitude": "52.1835317",
@@ -182,13 +189,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29569,
-    "name": "Corpus Hilton",
-    "latitude": "52.1702991",
-    "longitude": "4.4531188",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29509,
     "name": "Jumbo ommevoort",
     "latitude": "52.1857026",
@@ -210,17 +210,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29488,
-    "name": "Morsbellalaan",
-    "latitude": "52.1946936",
-    "longitude": "4.4768914",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29503,
     "name": "Hazenboslaan",
     "latitude": "52.1859207",
     "longitude": "4.4767518",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29488,
+    "name": "Morsbellalaan",
+    "latitude": "52.1946936",
+    "longitude": "4.4768914",
     "thumbnail_url": ""
   },
   {
@@ -385,17 +385,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29664,
-    "name": "Naturalis",
-    "latitude": "52.1649948",
-    "longitude": "4.4718849",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29536,
     "name": "Gorlaeus Laboratorium",
     "latitude": "52.1697131",
     "longitude": "4.4639314",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -441,20 +441,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29530,
-    "name": "Zweilandlaan",
-    "latitude": "52.1726259",
-    "longitude": "4.48704",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31374,
-    "name": "Heurniusstraat",
-    "latitude": "52.1681702",
-    "longitude": "4.477841",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29499,
     "name": "UVS",
     "latitude": "52.1763559",
@@ -473,13 +459,6 @@
     "name": "Rivierduinen",
     "latitude": "52.1684641",
     "longitude": "4.4776009",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31372,
-    "name": "Fietsenstalling Universiteit",
-    "latitude": "52.1678733",
-    "longitude": "4.4595188",
     "thumbnail_url": ""
   },
   {
@@ -532,6 +511,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29664,
+    "name": "Naturalis",
+    "latitude": "52.1649948",
+    "longitude": "4.4718849",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31005,
     "name": "De Vink Voorschoten",
     "latitude": "52.1470365",
@@ -539,10 +525,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31374,
+    "name": "Heurniusstraat",
+    "latitude": "52.1681702",
+    "longitude": "4.477841",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29492,
     "name": "Bio Science Park Oost",
     "latitude": "52.1651075",
     "longitude": "4.4606197",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31372,
+    "name": "Fietsenstalling Universiteit",
+    "latitude": "52.1678733",
+    "longitude": "4.4595188",
     "thumbnail_url": ""
   },
   {
@@ -560,6 +560,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29530,
+    "name": "Zweilandlaan",
+    "latitude": "52.1726259",
+    "longitude": "4.48704",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29532,
     "name": "Mezenstraat 2",
     "latitude": "52.1716295",
@@ -571,13 +578,6 @@
     "name": "Z Gebouw",
     "latitude": "52.1667886",
     "longitude": "4.4691697",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -597,8 +597,8 @@
   {
     "id": 29562,
     "name": "Sylvius building",
-    "latitude": "52.1679817",
-    "longitude": "4.467999",
+    "latitude": "52.1684841",
+    "longitude": "4.4678667",
     "thumbnail_url": ""
   },
   {
@@ -938,13 +938,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29430,
-    "name": "Rijnmond",
-    "latitude": "52.2073615",
-    "longitude": "4.4045209",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29351,
     "name": "Rijnsburg Sportpark",
     "latitude": "52.2019547",
@@ -1005,6 +998,13 @@
     "name": "Theaterhangaar",
     "latitude": "52.171757",
     "longitude": "4.4148665",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29430,
+    "name": "Rijnmond",
+    "latitude": "52.2073615",
+    "longitude": "4.4045209",
     "thumbnail_url": ""
   },
   {
@@ -1428,13 +1428,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29428,
-    "name": "Boulevard 15",
-    "latitude": "52.1960341",
-    "longitude": "4.3857413",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29416,
     "name": "Boulevard 6",
     "latitude": "52.2055013",
@@ -1614,6 +1607,13 @@
     "name": "Spinozalaan",
     "latitude": "52.1896046",
     "longitude": "4.433768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29428,
+    "name": "Boulevard 15",
+    "latitude": "52.1960341",
+    "longitude": "4.3857413",
     "thumbnail_url": ""
   },
   {

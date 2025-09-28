@@ -7,6 +7,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19842,
+    "name": "Eskolanmäki (Sale)",
+    "latitude": "60.8514715",
+    "longitude": "26.7086766",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22081,
+    "name": "Novia",
+    "latitude": "59.9760313",
+    "longitude": "23.4517939",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20400,
     "name": "Ranta",
     "latitude": "59.9764796",
@@ -49,13 +63,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22081,
-    "name": "Novia",
-    "latitude": "59.9760313",
-    "longitude": "23.4517939",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19853,
     "name": "Yhteislyseo",
     "latitude": "60.8730513",
@@ -67,13 +74,6 @@
     "name": "Taideruukki",
     "latitude": "60.9030405",
     "longitude": "26.6503379",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19837,
-    "name": "Kävelykatu Manski",
-    "latitude": "60.8694817",
-    "longitude": "26.704126",
     "thumbnail_url": ""
   },
   {
@@ -280,24 +280,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19842,
-    "name": "Eskolanmäki (Sale)",
-    "latitude": "60.8514715",
-    "longitude": "26.7086766",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19845,
     "name": "Jukolantie",
     "latitude": "60.8825212",
     "longitude": "26.7432946",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19861,
-    "name": "Anttilan Mäkki",
-    "latitude": "60.8680338",
-    "longitude": "26.708905",
     "thumbnail_url": ""
   },
   {
@@ -312,6 +298,20 @@
     "name": "Kaunisnurmi (R-Kioski)",
     "latitude": "60.8680342",
     "longitude": "26.6858428",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19861,
+    "name": "Anttilan Mäkki",
+    "latitude": "60.8680338",
+    "longitude": "26.708905",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19837,
+    "name": "Kävelykatu Manski",
+    "latitude": "60.8694817",
+    "longitude": "26.704126",
     "thumbnail_url": ""
   },
   {

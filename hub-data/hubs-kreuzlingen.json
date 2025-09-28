@@ -1,12 +1,5 @@
 [
   {
-    "id": 27221,
-    "name": "Bahnhof Tägerwilen-Dorf ",
-    "latitude": "47.6537621",
-    "longitude": "9.1394509",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22533,
     "name": "Psychiatrische Klinik",
     "latitude": "47.6337636",
@@ -14,10 +7,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22524,
-    "name": "Bärenplatz/Festwiese",
-    "latitude": "47.6468718",
-    "longitude": "9.1761214",
+    "id": 22528,
+    "name": "Camping Fischerhaus",
+    "latitude": "47.6470182",
+    "longitude": "9.1981346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22523,
+    "name": "Einkaufszentrum Karussell",
+    "latitude": "47.6502535",
+    "longitude": "9.1735334",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27221,
+    "name": "Bahnhof Tägerwilen-Dorf ",
+    "latitude": "47.6537621",
+    "longitude": "9.1394509",
     "thumbnail_url": ""
   },
   {
@@ -28,24 +35,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22524,
+    "name": "Bärenplatz/Festwiese",
+    "latitude": "47.6468718",
+    "longitude": "9.1761214",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22529,
     "name": "Bahnhof Bottighofen",
     "latitude": "47.6407932",
     "longitude": "9.2126815",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22522,
-    "name": "Bahnhof Kreuzlingen",
-    "latitude": "47.6527784",
-    "longitude": "9.1677532",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22528,
-    "name": "Camping Fischerhaus",
-    "latitude": "47.6470182",
-    "longitude": "9.1981346",
     "thumbnail_url": ""
   },
   {
@@ -84,6 +84,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22522,
+    "name": "Bahnhof Kreuzlingen",
+    "latitude": "47.6527784",
+    "longitude": "9.1677532",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27219,
     "name": "Bahnhof Tägerwilen-Gottlieben",
     "latitude": "47.6596514",
@@ -116,13 +123,6 @@
     "name": "Bhf. Münsterlingen-Scherzingen",
     "latitude": "47.6334751",
     "longitude": "9.227371",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22523,
-    "name": "Einkaufszentrum Karussell",
-    "latitude": "47.6502535",
-    "longitude": "9.1735334",
     "thumbnail_url": ""
   },
   {
