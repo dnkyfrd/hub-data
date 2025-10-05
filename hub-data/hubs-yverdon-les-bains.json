@@ -1,44 +1,9 @@
 [
   {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19553,
-    "name": "Villette",
-    "latitude": "46.7774189",
-    "longitude": "6.6577762",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18762,
     "name": "Y-Parc, Innovation",
     "latitude": "46.7638726",
     "longitude": "6.6364354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17290,
-    "name": "Avenue de Grandson",
-    "latitude": "46.7877183",
-    "longitude": "6.6306181",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16314,
-    "name": "Rue de Montagny",
-    "latitude": "46.7813291",
-    "longitude": "6.6255055",
     "thumbnail_url": ""
   },
   {
@@ -49,24 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17128,
-    "name": "Iles",
-    "latitude": "46.7720754",
-    "longitude": "6.6359921",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16283,
-    "name": "Conservatoire",
-    "latitude": "46.7849178",
-    "longitude": "6.6360569",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
+    "id": 17113,
+    "name": "Stade ",
+    "latitude": "46.7827357",
+    "longitude": "6.6457893",
     "thumbnail_url": ""
   },
   {
@@ -98,31 +49,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 14993,
+    "name": "Collège des Rives",
+    "latitude": "46.785265",
+    "longitude": "6.6411045",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16388,
     "name": "Boulodrome",
     "latitude": "46.7909522",
     "longitude": "6.6395616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16330,
-    "name": "Avenue des Bains",
-    "latitude": "46.7724618",
-    "longitude": "6.6496881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
     "thumbnail_url": ""
   },
   {
@@ -133,10 +70,73 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14993,
-    "name": "Collège des Rives",
-    "latitude": "46.785265",
-    "longitude": "6.6411045",
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17128,
+    "name": "Iles",
+    "latitude": "46.7720754",
+    "longitude": "6.6359921",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17298,
+    "name": "Roselière",
+    "latitude": "46.7875291",
+    "longitude": "6.6392243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19553,
+    "name": "Villette",
+    "latitude": "46.7774189",
+    "longitude": "6.6577762",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17642,
+    "name": "Prés du Lac",
+    "latitude": "46.7913781",
+    "longitude": "6.6319157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16283,
+    "name": "Conservatoire",
+    "latitude": "46.7849178",
+    "longitude": "6.6360569",
     "thumbnail_url": ""
   },
   {
@@ -147,10 +147,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16330,
+    "name": "Avenue des Bains",
+    "latitude": "46.7724618",
+    "longitude": "6.6496881",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17290,
+    "name": "Avenue de Grandson",
+    "latitude": "46.7877183",
+    "longitude": "6.6306181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16314,
+    "name": "Rue de Montagny",
+    "latitude": "46.7813291",
+    "longitude": "6.6255055",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19549,
     "name": "Oiseaux",
     "latitude": "46.7752041",
     "longitude": "6.6332731",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -165,20 +200,6 @@
     "name": "Rives du Lac",
     "latitude": "46.7851494",
     "longitude": "6.6439231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17113,
-    "name": "Stade ",
-    "latitude": "46.7827357",
-    "longitude": "6.6457893",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17642,
-    "name": "Prés du Lac",
-    "latitude": "46.7913781",
-    "longitude": "6.6319157",
     "thumbnail_url": ""
   },
   {
@@ -406,13 +427,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17297,
     "name": "Fontenay",
     "latitude": "46.7831",
@@ -483,13 +497,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19483,
     "name": "Jardins",
     "latitude": "46.7732291",
@@ -536,13 +543,6 @@
     "name": "4 Marronniers",
     "latitude": "46.7757214",
     "longitude": "6.6480922",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17298,
-    "name": "Roselière",
-    "latitude": "46.7875291",
-    "longitude": "6.6392243",
     "thumbnail_url": ""
   },
   {
