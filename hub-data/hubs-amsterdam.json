@@ -1,16 +1,16 @@
 [
   {
-    "id": 31767,
-    "name": "Station Koog aan de Zaan II",
-    "latitude": "52.4568489",
-    "longitude": "4.8059",
+    "id": 2436,
+    "name": "Hotel Jansen",
+    "latitude": "52.341955",
+    "longitude": "4.8454602",
     "thumbnail_url": ""
   },
   {
-    "id": 31827,
-    "name": "Halte Wormer Talingstraat",
-    "latitude": "52.4991061",
-    "longitude": "4.8118099",
+    "id": 31763,
+    "name": "Station Nieuw Vennep",
+    "latitude": "52.2591352",
+    "longitude": "4.6452648",
     "thumbnail_url": ""
   },
   {
@@ -32,20 +32,6 @@
     "name": "Station Krommenie Assendelft II",
     "latitude": "52.494637",
     "longitude": "4.7557598",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2436,
-    "name": "Hotel Jansen",
-    "latitude": "52.341955",
-    "longitude": "4.8454602",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27226,
-    "name": "!PARK INDOOR! CS Center",
-    "latitude": "52.377613",
-    "longitude": "4.9026312",
     "thumbnail_url": ""
   },
   {
@@ -77,6 +63,41 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31827,
+    "name": "Halte Wormer Talingstraat",
+    "latitude": "52.4991061",
+    "longitude": "4.8118099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30415,
+    "name": "Hoekenrodepad",
+    "latitude": "52.3136718",
+    "longitude": "4.9481016",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26619,
+    "name": "Science Park campus",
+    "latitude": "52.3550805",
+    "longitude": "4.9558884",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31764,
+    "name": "Station Hoofddorp",
+    "latitude": "52.2921885",
+    "longitude": "4.6992054",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31772,
     "name": "Station Purmerend Overwere",
     "latitude": "52.5111173",
@@ -95,13 +116,6 @@
     "name": "Halte Edam Busstation",
     "latitude": "52.5102944",
     "longitude": "5.0447229",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31763,
-    "name": "Station Nieuw Vennep",
-    "latitude": "52.2591352",
-    "longitude": "4.6452648",
     "thumbnail_url": ""
   },
   {
@@ -133,10 +147,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30415,
-    "name": "Hoekenrodepad",
-    "latitude": "52.3136718",
-    "longitude": "4.9481016",
+    "id": 23567,
+    "name": "TotalEnergies Tweede van der Helststraat",
+    "latitude": "52.3492609",
+    "longitude": "4.8947921",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23620,
+    "name": "Isolatorweg",
+    "latitude": "52.3949845",
+    "longitude": "4.8506925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23523,
+    "name": "Henk Sneevlietweg",
+    "latitude": "52.3455372",
+    "longitude": "4.8338295",
     "thumbnail_url": ""
   },
   {
@@ -151,13 +179,6 @@
     "name": "Station Diemen II",
     "latitude": "52.3455106",
     "longitude": "4.9671671",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31764,
-    "name": "Station Hoofddorp",
-    "latitude": "52.2921885",
-    "longitude": "4.6992054",
     "thumbnail_url": ""
   },
   {
@@ -235,13 +256,6 @@
     "name": "Station Diemen Zuid",
     "latitude": "52.3302353",
     "longitude": "4.9541849",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23620,
-    "name": "Isolatorweg",
-    "latitude": "52.3949845",
-    "longitude": "4.8506925",
     "thumbnail_url": ""
   },
   {
@@ -350,24 +364,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26619,
-    "name": "Science Park campus",
-    "latitude": "52.3550805",
-    "longitude": "4.9558884",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26609,
     "name": "Hoekenes",
     "latitude": "52.3577129",
     "longitude": "4.8002154",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23523,
-    "name": "Henk Sneevlietweg",
-    "latitude": "52.3455372",
-    "longitude": "4.8338295",
     "thumbnail_url": ""
   }
 ]

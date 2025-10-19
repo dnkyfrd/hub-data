@@ -1,9 +1,30 @@
 [
   {
+    "id": 20010,
+    "name": "Sports",
+    "latitude": "46.7803201",
+    "longitude": "6.6530063",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18762,
     "name": "Y-Parc, Innovation",
     "latitude": "46.7638726",
     "longitude": "6.6364354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16330,
+    "name": "Avenue des Bains",
+    "latitude": "46.7724618",
+    "longitude": "6.6496881",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
     "thumbnail_url": ""
   },
   {
@@ -14,17 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17233,
-    "name": "Verdan",
-    "latitude": "46.7873595",
-    "longitude": "6.6270974",
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
@@ -35,10 +49,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17233,
+    "name": "Verdan",
+    "latitude": "46.7873595",
+    "longitude": "6.6270974",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -102,20 +130,6 @@
     "name": "Collège des Rives",
     "latitude": "46.785265",
     "longitude": "6.6411045",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20010,
-    "name": "Sports",
-    "latitude": "46.7803201",
-    "longitude": "6.6530063",
     "thumbnail_url": ""
   },
   {
@@ -291,20 +305,6 @@
     "name": "Gare ouest",
     "latitude": "46.7813205",
     "longitude": "6.6398028",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16330,
-    "name": "Avenue des Bains",
-    "latitude": "46.7724618",
-    "longitude": "6.6496881",
     "thumbnail_url": ""
   },
   {

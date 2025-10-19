@@ -1,12 +1,5 @@
 [
   {
-    "id": 19796,
-    "name": "Netto",
-    "latitude": "56.4648162",
-    "longitude": "10.0309605",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32868,
     "name": "Regionspsykiatrien Randers",
     "latitude": "56.4725002",
@@ -39,6 +32,13 @@
     "name": "Stadfeldtsvej 1",
     "latitude": "56.4670435",
     "longitude": "10.0527487",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19796,
+    "name": "Netto",
+    "latitude": "56.4648162",
+    "longitude": "10.0309605",
     "thumbnail_url": ""
   },
   {
@@ -77,10 +77,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19557,
-    "name": "Randers Street Food",
-    "latitude": "56.4573729",
-    "longitude": "10.0416139",
+    "id": 19556,
+    "name": "Randers Regnskov Front",
+    "latitude": "56.4574448",
+    "longitude": "10.0326837",
     "thumbnail_url": ""
   },
   {
@@ -119,10 +119,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27091,
+    "name": "Thorsgade",
+    "latitude": "56.4641138",
+    "longitude": "10.0386772",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19576,
     "name": "J. V. Martines Pl",
     "latitude": "56.4634219",
     "longitude": "10.0498271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19557,
+    "name": "Randers Street Food",
+    "latitude": "56.4573729",
+    "longitude": "10.0416139",
     "thumbnail_url": ""
   },
   {
@@ -158,13 +186,6 @@
     "name": "Torvegade 19",
     "latitude": "56.4594141",
     "longitude": "10.0363073",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19556,
-    "name": "Randers Regnskov Front",
-    "latitude": "56.4574448",
-    "longitude": "10.0326837",
     "thumbnail_url": ""
   },
   {
@@ -361,13 +382,6 @@
     "name": "Aldi Mariagervej ",
     "latitude": "56.4719735",
     "longitude": "10.0312606",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27091,
-    "name": "Thorsgade",
-    "latitude": "56.4641138",
-    "longitude": "10.0386772",
     "thumbnail_url": ""
   },
   {
@@ -606,13 +620,6 @@
     "name": "Kulturhuset",
     "latitude": "56.4605853",
     "longitude": "10.0409681",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19582,
-    "name": "Spurvevej",
-    "latitude": "56.4711583",
-    "longitude": "10.0407893",
     "thumbnail_url": ""
   },
   {
@@ -914,13 +921,6 @@
     "name": "Cepheus Park",
     "latitude": "56.4666443",
     "longitude": "10.0091303",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
