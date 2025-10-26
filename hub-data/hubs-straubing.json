@@ -1,19 +1,5 @@
 [
   {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32682,
-    "name": "Europaring 4",
-    "latitude": "48.8945392",
-    "longitude": "12.6576504",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32721,
     "name": "Förderzentrum (gegenüber) an Laterne",
     "latitude": "48.8686327",
@@ -35,10 +21,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32682,
+    "name": "Europaring 4",
+    "latitude": "48.8945392",
+    "longitude": "12.6576504",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
     "longitude": "12.6313375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
     "thumbnail_url": ""
   },
   {
@@ -60,13 +60,6 @@
     "name": "Am Hagen Straubing",
     "latitude": "48.8868628",
     "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32688,
-    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
-    "latitude": "48.8733045",
-    "longitude": "12.564136",
     "thumbnail_url": ""
   },
   {
@@ -98,13 +91,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32720,
-    "name": "Schlesische Strasse 112 (Mangal)",
-    "latitude": "48.8894663",
-    "longitude": "12.6049892",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32709,
     "name": "Haydnstrasse",
     "latitude": "48.8688756",
@@ -130,6 +116,20 @@
     "name": "Aquatherm",
     "latitude": "48.8739041",
     "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32688,
+    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
+    "latitude": "48.8733045",
+    "longitude": "12.564136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32720,
+    "name": "Schlesische Strasse 112 (Mangal)",
+    "latitude": "48.8894663",
+    "longitude": "12.6049892",
     "thumbnail_url": ""
   },
   {

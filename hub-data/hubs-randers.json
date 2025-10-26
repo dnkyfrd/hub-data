@@ -1,5 +1,12 @@
 [
   {
+    "id": 19796,
+    "name": "Netto",
+    "latitude": "56.4648162",
+    "longitude": "10.0309605",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32868,
     "name": "Regionspsykiatrien Randers",
     "latitude": "56.4725002",
@@ -32,13 +39,6 @@
     "name": "Stadfeldtsvej 1",
     "latitude": "56.4670435",
     "longitude": "10.0527487",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19796,
-    "name": "Netto",
-    "latitude": "56.4648162",
-    "longitude": "10.0309605",
     "thumbnail_url": ""
   },
   {
@@ -133,10 +133,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
     "thumbnail_url": ""
   },
   {
@@ -154,17 +154,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24029,
     "name": "Tradium 2",
     "latitude": "56.4311509",
     "longitude": "10.0719086",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -210,13 +210,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32502,
     "name": "Mølletoften 2",
     "latitude": "56.4484377",
@@ -242,6 +235,13 @@
     "name": "2 Sankt Mortens Gade",
     "latitude": "56.4597777",
     "longitude": "10.0368784",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {

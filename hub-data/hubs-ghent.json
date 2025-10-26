@@ -1,54 +1,5 @@
 [
   {
-    "id": 27357,
-    "name": "Arbedpark",
-    "latitude": "51.0453548",
-    "longitude": "3.7533871",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17178,
-    "name": "Station Dampoort",
-    "latitude": "51.056845",
-    "longitude": "3.7403079",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32301,
-    "name": "Heirweg 132",
-    "latitude": "51.0082547",
-    "longitude": "3.717748",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23130,
-    "name": "P+R Ledeberg",
-    "latitude": "51.0365714",
-    "longitude": "3.7386892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17222,
-    "name": "Flixbus Ghent",
-    "latitude": "51.053617",
-    "longitude": "3.7403016",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12068,
-    "name": "Belgradostraat 67",
-    "latitude": "51.0509493",
-    "longitude": "3.7320597",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28487,
-    "name": "Curcuskerk Malem",
-    "latitude": "51.0524697",
-    "longitude": "3.694065",
-    "thumbnail_url": ""
-  },
-  {
     "id": 13226,
     "name": "Druifstraat 6",
     "latitude": "51.0626144",
@@ -56,24 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31296,
-    "name": "Kortrijksesteenweg 500",
-    "latitude": "51.0332048",
-    "longitude": "3.7147706",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12053,
-    "name": "Dronkey 2",
-    "latitude": "51.0407704",
-    "longitude": "3.7256633",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12177,
-    "name": "Patijntjestraat 11",
-    "latitude": "51.0390628",
-    "longitude": "3.7087229",
+    "id": 16589,
+    "name": "Wielewaalstraat 144",
+    "latitude": "51.0662636",
+    "longitude": "3.698552",
     "thumbnail_url": ""
   },
   {
@@ -84,10 +21,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12018,
-    "name": "Jan van Stopenberghestraat 2 GF25",
-    "latitude": "51.0535493",
-    "longitude": "3.7212226",
+    "id": 12177,
+    "name": "Patijntjestraat 11",
+    "latitude": "51.0390628",
+    "longitude": "3.7087229",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32301,
+    "name": "Heirweg 132",
+    "latitude": "51.0082547",
+    "longitude": "3.717748",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17222,
+    "name": "Flixbus Ghent",
+    "latitude": "51.053617",
+    "longitude": "3.7403016",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +49,48 @@
     "thumbnail_url": ""
   },
   {
+    "id": 12068,
+    "name": "Belgradostraat 67",
+    "latitude": "51.0509493",
+    "longitude": "3.7320597",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27913,
+    "name": "The Office, Alides",
+    "latitude": "51.0306982",
+    "longitude": "3.73807",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28487,
+    "name": "Curcuskerk Malem",
+    "latitude": "51.0524697",
+    "longitude": "3.694065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12133,
+    "name": "Meibloemstraat 120",
+    "latitude": "51.0602159",
+    "longitude": "3.6949114",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12003,
+    "name": "Sint Niklaasstraat ",
+    "latitude": "51.0525333",
+    "longitude": "3.7229279",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31296,
+    "name": "Kortrijksesteenweg 500",
+    "latitude": "51.0332048",
+    "longitude": "3.7147706",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30662,
     "name": "Rectoraat",
     "latitude": "51.0469418",
@@ -105,31 +98,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12052,
-    "name": "Muinkkaai 119",
-    "latitude": "51.0417154",
-    "longitude": "3.7293423",
+    "id": 15995,
+    "name": "KAA Gent Stadion",
+    "latitude": "51.0147138",
+    "longitude": "3.7343618",
     "thumbnail_url": ""
   },
   {
-    "id": 12116,
-    "name": "Kleindokkaai zuid",
-    "latitude": "51.0575622",
-    "longitude": "3.7391434",
+    "id": 17178,
+    "name": "Station Dampoort",
+    "latitude": "51.056845",
+    "longitude": "3.7403079",
     "thumbnail_url": ""
   },
   {
-    "id": 18459,
-    "name": "Dronkey",
-    "latitude": "51.0392485",
-    "longitude": "3.726105",
+    "id": 27357,
+    "name": "Arbedpark",
+    "latitude": "51.0453548",
+    "longitude": "3.7533871",
     "thumbnail_url": ""
   },
   {
-    "id": 12031,
-    "name": "Woodrow Wilsonplein",
-    "latitude": "51.0483397",
-    "longitude": "3.7309618",
+    "id": 12018,
+    "name": "Jan van Stopenberghestraat 2 GF25",
+    "latitude": "51.0535493",
+    "longitude": "3.7212226",
     "thumbnail_url": ""
   },
   {
@@ -140,17 +133,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16687,
-    "name": "Kasteellaan 487",
-    "latitude": "51.0557261",
-    "longitude": "3.738719",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16589,
-    "name": "Wielewaalstraat 144",
-    "latitude": "51.0662636",
-    "longitude": "3.698552",
+    "id": 16699,
+    "name": "UGent Homes",
+    "latitude": "51.0396756",
+    "longitude": "3.7288916",
     "thumbnail_url": ""
   },
   {
@@ -168,17 +154,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15995,
-    "name": "KAA Gent Stadion",
-    "latitude": "51.0147138",
-    "longitude": "3.7343618",
+    "id": 12028,
+    "name": "Bibliotheekstraat 1",
+    "latitude": "51.0571073",
+    "longitude": "3.7286481",
     "thumbnail_url": ""
   },
   {
-    "id": 12133,
-    "name": "Meibloemstraat 120",
-    "latitude": "51.0602159",
-    "longitude": "3.6949114",
+    "id": 27879,
+    "name": "Denise de weerdtpad",
+    "latitude": "51.0643085",
+    "longitude": "3.7316159",
     "thumbnail_url": ""
   },
   {
@@ -189,17 +175,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12041,
-    "name": "Phoenixstraat 4",
-    "latitude": "51.057908",
-    "longitude": "3.7066392",
+    "id": 16089,
+    "name": "Victor Frisstraat 57",
+    "latitude": "51.0630107",
+    "longitude": "3.7074887",
     "thumbnail_url": ""
   },
   {
-    "id": 28494,
-    "name": "Visserij - Tweebruggenstraat",
-    "latitude": "51.0489453",
-    "longitude": "3.7378373",
+    "id": 13295,
+    "name": "Vrijdagsmarkt 36",
+    "latitude": "51.0566856",
+    "longitude": "3.7260831",
     "thumbnail_url": ""
   },
   {
@@ -210,45 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16626,
-    "name": "Gestichtstraat 3",
-    "latitude": "51.0172252",
-    "longitude": "3.7196675",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12006,
-    "name": "Bij Sint-Jacobs 16 (voor Sympa)",
-    "latitude": "51.0560225",
-    "longitude": "3.7274491",
-    "thumbnail_url": ""
-  },
-  {
     "id": 12196,
     "name": "Poel 15 GF24!",
     "latitude": "51.0545287",
     "longitude": "3.7173127",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12147,
-    "name": "Kunstlaan 1",
-    "latitude": "51.0412335",
-    "longitude": "3.7252314",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12022,
-    "name": "Korenmarkt",
-    "latitude": "51.0541922",
-    "longitude": "3.7220109",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21444,
-    "name": "2de Gent-Sint-Pietersstation Noord",
-    "latitude": "51.0370561",
-    "longitude": "3.7102414",
     "thumbnail_url": ""
   },
   {
@@ -259,24 +210,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16699,
-    "name": "UGent Homes",
-    "latitude": "51.0396756",
-    "longitude": "3.7288916",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16089,
-    "name": "Victor Frisstraat 57",
-    "latitude": "51.0630107",
-    "longitude": "3.7074887",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32451,
     "name": "sint-simonstraat 58",
     "latitude": "51.0439343",
     "longitude": "3.7558919",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12041,
+    "name": "Phoenixstraat 4",
+    "latitude": "51.057908",
+    "longitude": "3.7066392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16626,
+    "name": "Gestichtstraat 3",
+    "latitude": "51.0172252",
+    "longitude": "3.7196675",
     "thumbnail_url": ""
   },
   {
@@ -301,10 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28170,
-    "name": "rasphuisstraat 19",
-    "latitude": "51.0545507",
-    "longitude": "3.7117495",
+    "id": 12031,
+    "name": "Woodrow Wilsonplein",
+    "latitude": "51.0483397",
+    "longitude": "3.7309618",
     "thumbnail_url": ""
   },
   {
@@ -329,17 +280,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12046,
-    "name": "Muinkkaai 1",
-    "latitude": "51.047529",
-    "longitude": "3.7289608",
+    "id": 12053,
+    "name": "Dronkey 2",
+    "latitude": "51.0407704",
+    "longitude": "3.7256633",
     "thumbnail_url": ""
   },
   {
-    "id": 12434,
-    "name": "UGent Campus Dunant",
-    "latitude": "51.0491866",
-    "longitude": "3.7030132",
+    "id": 21263,
+    "name": "Lobeliastraat",
+    "latitude": "51.0632119",
+    "longitude": "3.7000761",
     "thumbnail_url": ""
   },
   {
@@ -357,13 +308,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21775,
-    "name": "Gatti De Gammondstraat 15",
-    "latitude": "51.0601682",
-    "longitude": "3.6903478",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29086,
     "name": "Wittemolenstraat 65",
     "latitude": "51.0559041",
@@ -378,17 +322,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21775,
+    "name": "Gatti De Gammondstraat 15",
+    "latitude": "51.0601682",
+    "longitude": "3.6903478",
+    "thumbnail_url": ""
+  },
+  {
     "id": 12044,
     "name": "Molenaarsstraat 3",
     "latitude": "51.0594992",
     "longitude": "3.7186853",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22541,
-    "name": "Voldersstraat",
-    "latitude": "51.0522187",
-    "longitude": "3.7248078",
     "thumbnail_url": ""
   },
   {
@@ -406,10 +350,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12201,
-    "name": "Sint-Veerleplein 4c",
-    "latitude": "51.0567632",
-    "longitude": "3.7213245",
+    "id": 12034,
+    "name": "Sint-Michielsplein 16",
+    "latitude": "51.0538692",
+    "longitude": "3.7189684",
     "thumbnail_url": ""
   },
   {
@@ -420,20 +364,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27879,
-    "name": "Denise de weerdtpad",
-    "latitude": "51.0643085",
-    "longitude": "3.7316159",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12034,
-    "name": "Sint-Michielsplein 16",
-    "latitude": "51.0538692",
-    "longitude": "3.7189684",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22590,
     "name": "Bij Sint-Jacobs 3F",
     "latitude": "51.0565567",
@@ -441,10 +371,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21828,
-    "name": "Emilius Seghersplein",
-    "latitude": "51.059782",
-    "longitude": "3.7037085",
+    "id": 16687,
+    "name": "Kasteellaan 487",
+    "latitude": "51.0557261",
+    "longitude": "3.738719",
     "thumbnail_url": ""
   },
   {
@@ -483,17 +413,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15558,
-    "name": "Sterre Noord",
-    "latitude": "51.0262373",
-    "longitude": "3.7128156",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17067,
     "name": "Meulesteedsesteenweg 146A",
     "latitude": "51.0760789",
     "longitude": "3.7304208",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21828,
+    "name": "Emilius Seghersplein",
+    "latitude": "51.059782",
+    "longitude": "3.7037085",
     "thumbnail_url": ""
   },
   {
@@ -511,38 +441,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19791,
-    "name": "Braemstraat 67",
-    "latitude": "51.0340321",
-    "longitude": "3.7636184",
+    "id": 28494,
+    "name": "Visserij - Tweebruggenstraat",
+    "latitude": "51.0489453",
+    "longitude": "3.7378373",
     "thumbnail_url": ""
   },
   {
-    "id": 12028,
-    "name": "Bibliotheekstraat 1",
-    "latitude": "51.0571073",
-    "longitude": "3.7286481",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19990,
-    "name": "Oude beestenmarkt",
-    "latitude": "51.0541228",
-    "longitude": "3.7313433",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12026,
-    "name": "Vrijdagsmarkt ",
-    "latitude": "51.0573906",
-    "longitude": "3.7252658",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22588,
-    "name": "Stadhuis hoogpoort",
-    "latitude": "51.0547416",
-    "longitude": "3.725299",
+    "id": 13400,
+    "name": "Oude Houtlei 124",
+    "latitude": "51.0512725",
+    "longitude": "3.7169903",
     "thumbnail_url": ""
   },
   {
@@ -560,31 +469,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21263,
-    "name": "Lobeliastraat",
-    "latitude": "51.0632119",
-    "longitude": "3.7000761",
+    "id": 19990,
+    "name": "Oude beestenmarkt",
+    "latitude": "51.0541228",
+    "longitude": "3.7313433",
     "thumbnail_url": ""
   },
   {
-    "id": 13196,
-    "name": "Kerkstraat 130",
-    "latitude": "51.0440985",
-    "longitude": "3.7494853",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19610,
-    "name": "Gent-Sint-Pietersstation Zuid",
-    "latitude": "51.0347452",
-    "longitude": "3.7089006",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 13400,
-    "name": "Oude Houtlei 124",
-    "latitude": "51.0512725",
-    "longitude": "3.7169903",
+    "id": 12052,
+    "name": "Muinkkaai 119",
+    "latitude": "51.0417154",
+    "longitude": "3.7293423",
     "thumbnail_url": ""
   },
   {
@@ -595,24 +490,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16612,
+    "name": "Coupure 649",
+    "latitude": "51.052673",
+    "longitude": "3.7093688",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22588,
+    "name": "Stadhuis hoogpoort",
+    "latitude": "51.0547416",
+    "longitude": "3.725299",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27914,
     "name": "Alides",
     "latitude": "51.0312184",
     "longitude": "3.7338747",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 13286,
-    "name": "Sportstraat 212",
-    "latitude": "51.0417894",
-    "longitude": "3.7068596",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12003,
-    "name": "Sint Niklaasstraat ",
-    "latitude": "51.0525333",
-    "longitude": "3.7229279",
     "thumbnail_url": ""
   },
   {
@@ -651,10 +546,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20520,
-    "name": "Kapitein Zeppos",
-    "latitude": "51.0716931",
-    "longitude": "3.7351387",
+    "id": 21444,
+    "name": "2de Gent-Sint-Pietersstation Noord",
+    "latitude": "51.0370561",
+    "longitude": "3.7102414",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12116,
+    "name": "Kleindokkaai zuid",
+    "latitude": "51.0575622",
+    "longitude": "3.7391434",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16476,
+    "name": "Corbiestraat 36",
+    "latitude": "51.0331016",
+    "longitude": "3.7238981",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12006,
+    "name": "Bij Sint-Jacobs 16 (voor Sympa)",
+    "latitude": "51.0560225",
+    "longitude": "3.7274491",
     "thumbnail_url": ""
   },
   {
@@ -679,10 +595,73 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21754,
+    "name": "Braemstraat Nachtwinkel",
+    "latitude": "51.0321145",
+    "longitude": "3.7613247",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12201,
+    "name": "Sint-Veerleplein 4c",
+    "latitude": "51.0567632",
+    "longitude": "3.7213245",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30517,
     "name": "Jules de Saint-Genoisstraat 93",
     "latitude": "51.0286376",
     "longitude": "3.7574744",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23130,
+    "name": "P+R Ledeberg",
+    "latitude": "51.0365714",
+    "longitude": "3.7386892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18459,
+    "name": "Dronkey",
+    "latitude": "51.0392485",
+    "longitude": "3.726105",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20520,
+    "name": "Kapitein Zeppos",
+    "latitude": "51.0716931",
+    "longitude": "3.7351387",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15558,
+    "name": "Sterre Noord",
+    "latitude": "51.0262373",
+    "longitude": "3.7128156",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12147,
+    "name": "Kunstlaan 1",
+    "latitude": "51.0412335",
+    "longitude": "3.7252314",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 13196,
+    "name": "Kerkstraat 130",
+    "latitude": "51.0440985",
+    "longitude": "3.7494853",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12056,
+    "name": "Coupure Links 15",
+    "latitude": "51.0466084",
+    "longitude": "3.7194902",
     "thumbnail_url": ""
   },
   {
@@ -693,6 +672,48 @@
     "thumbnail_url": ""
   },
   {
+    "id": 13286,
+    "name": "Sportstraat 212",
+    "latitude": "51.0417894",
+    "longitude": "3.7068596",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28170,
+    "name": "rasphuisstraat 19",
+    "latitude": "51.0545507",
+    "longitude": "3.7117495",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12026,
+    "name": "Vrijdagsmarkt ",
+    "latitude": "51.0573906",
+    "longitude": "3.7252658",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22541,
+    "name": "Voldersstraat",
+    "latitude": "51.0522187",
+    "longitude": "3.7248078",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12434,
+    "name": "UGent Campus Dunant",
+    "latitude": "51.0491866",
+    "longitude": "3.7030132",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12022,
+    "name": "Korenmarkt",
+    "latitude": "51.0541922",
+    "longitude": "3.7220109",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16611,
     "name": "Koolkapperstraat 18",
     "latitude": "51.0521476",
@@ -700,10 +721,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19610,
+    "name": "Gent-Sint-Pietersstation Zuid",
+    "latitude": "51.0347452",
+    "longitude": "3.7089006",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28826,
     "name": "Frans Tavernierstraat",
     "latitude": "51.0486582",
     "longitude": "3.7207245",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19791,
+    "name": "Braemstraat 67",
+    "latitude": "51.0340321",
+    "longitude": "3.7636184",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12046,
+    "name": "Muinkkaai 1",
+    "latitude": "51.047529",
+    "longitude": "3.7289608",
     "thumbnail_url": ""
   },
   {
@@ -753,13 +795,6 @@
     "name": "Pieter Colpaertsteeg 52",
     "latitude": "51.0541799",
     "longitude": "3.7063884",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12056,
-    "name": "Coupure Links 15",
-    "latitude": "51.0466084",
-    "longitude": "3.7194902",
     "thumbnail_url": ""
   },
   {
@@ -991,13 +1026,6 @@
     "name": "Welvaartstraat 1 ",
     "latitude": "51.0676195",
     "longitude": "3.70002",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27913,
-    "name": "The Office, Alides",
-    "latitude": "51.0306982",
-    "longitude": "3.73807",
     "thumbnail_url": ""
   },
   {
@@ -1365,13 +1393,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21754,
-    "name": "Braemstraat Nachtwinkel",
-    "latitude": "51.0321145",
-    "longitude": "3.7613247",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18657,
     "name": "Tweekerkenstraat",
     "latitude": "51.0426564",
@@ -1572,13 +1593,6 @@
     "name": "Einde Were 50",
     "latitude": "51.0508322",
     "longitude": "3.7022726",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16612,
-    "name": "Coupure 649",
-    "latitude": "51.052673",
-    "longitude": "3.7093688",
     "thumbnail_url": ""
   },
   {
@@ -2275,13 +2289,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 13295,
-    "name": "Vrijdagsmarkt 36",
-    "latitude": "51.0566856",
-    "longitude": "3.7260831",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32116,
     "name": "Geldmunt - sint magrietstraat",
     "latitude": "51.0584811",
@@ -2566,13 +2573,6 @@
     "name": "Forelstraat 57",
     "latitude": "51.0478695",
     "longitude": "3.7412392",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16476,
-    "name": "Corbiestraat 36",
-    "latitude": "51.0331016",
-    "longitude": "3.7238981",
     "thumbnail_url": ""
   },
   {

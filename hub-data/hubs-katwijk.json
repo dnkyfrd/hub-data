@@ -70,17 +70,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29506,
-    "name": "Dahlialaan",
-    "latitude": "52.1897529",
-    "longitude": "4.4729593",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29521,
     "name": "Mi Casa",
     "latitude": "52.1775055",
     "longitude": "4.4725386",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29506,
+    "name": "Dahlialaan",
+    "latitude": "52.1897529",
+    "longitude": "4.4729593",
     "thumbnail_url": ""
   },
   {
@@ -95,13 +95,6 @@
     "name": "Poelgeest",
     "latitude": "52.1805772",
     "longitude": "4.4824559",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29517,
-    "name": "De Kempenaerstraat ",
-    "latitude": "52.1775582",
-    "longitude": "4.4670869",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +116,13 @@
     "name": "Zwembad Poelmeer",
     "latitude": "52.1840542",
     "longitude": "4.4865418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29517,
+    "name": "De Kempenaerstraat ",
+    "latitude": "52.1775582",
+    "longitude": "4.4670869",
     "thumbnail_url": ""
   },
   {
@@ -343,13 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29567,
     "name": "SRON",
     "latitude": "52.1691082",
@@ -417,6 +410,13 @@
     "name": "Lijsterstraat I",
     "latitude": "52.1734886",
     "longitude": "4.473183",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -1338,9 +1338,9 @@
   },
   {
     "id": 29598,
-    "name": "Sporthal Het Waterbos",
-    "latitude": "52.1831235",
-    "longitude": "4.4344351",
+    "name": "Sporthal Het Waterbos (New Location)",
+    "latitude": "52.1830707",
+    "longitude": "4.4337006",
     "thumbnail_url": ""
   },
   {

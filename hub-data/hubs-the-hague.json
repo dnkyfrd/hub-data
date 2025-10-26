@@ -1,5 +1,12 @@
 [
   {
+    "id": 18954,
+    "name": "Paviljoensgracht",
+    "latitude": "52.0745081",
+    "longitude": "4.3108949",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33119,
     "name": "IIJsselsteinstraat",
     "latitude": "52.0605672",
@@ -7,10 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33019,
-    "name": "Driebergenstraat 2",
-    "latitude": "52.0588247",
-    "longitude": "4.2742023",
+    "id": 27506,
+    "name": "Zwembad Zuiderpark (point 23)",
+    "latitude": "52.0532259",
+    "longitude": "4.2887593",
     "thumbnail_url": ""
   },
   {
@@ -18,6 +25,13 @@
     "name": "Woudenbergstraat",
     "latitude": "52.0605853",
     "longitude": "4.2771822",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19349,
+    "name": "Biesieklette Strandweg Haven",
+    "latitude": "52.1011259",
+    "longitude": "4.262415",
     "thumbnail_url": ""
   },
   {
@@ -70,13 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33110,
-    "name": "Schalk Burgerplein",
-    "latitude": "52.0671392",
-    "longitude": "4.2934558",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33109,
     "name": "Van der Vennestraat",
     "latitude": "52.0668099",
@@ -84,73 +91,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33045,
-    "name": "Loosduinsekade 1",
-    "latitude": "52.0666988",
-    "longitude": "4.2708079",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33153,
-    "name": "Bibliotheek Schilderswijk ",
-    "latitude": "52.0689084",
-    "longitude": "4.3142504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33121,
-    "name": "Soestdijksekade 3",
-    "latitude": "52.0615251",
-    "longitude": "4.2770139",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19076,
-    "name": "2e de Riemerstraat",
-    "latitude": "52.0815146",
-    "longitude": "4.2985568",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33021,
-    "name": "Vreeswijkstraat 150",
-    "latitude": "52.0562288",
-    "longitude": "4.2732752",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33022,
-    "name": "Vreeswijkstraat Boemel",
-    "latitude": "52.0555054",
-    "longitude": "4.27204",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33155,
-    "name": "Verheeskade",
-    "latitude": "52.0632508",
-    "longitude": "4.3183079",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33035,
-    "name": "Stationsweg 1",
-    "latitude": "52.0736101",
-    "longitude": "4.3181331",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33024,
-    "name": "Leyweg 4",
-    "latitude": "52.054126",
-    "longitude": "4.2696776",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33023,
-    "name": "Vreeswijkstraat 700",
-    "latitude": "52.0543286",
-    "longitude": "4.2700566",
+    "id": 33110,
+    "name": "Schalk Burgerplein",
+    "latitude": "52.0671392",
+    "longitude": "4.2934558",
     "thumbnail_url": ""
   },
   {
@@ -161,38 +105,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33093,
-    "name": "Stadhuisplein Alphen aan den Rijn",
-    "latitude": "52.1290757",
-    "longitude": "4.6593354",
+    "id": 33153,
+    "name": "Bibliotheek Schilderswijk ",
+    "latitude": "52.0689084",
+    "longitude": "4.3142504",
     "thumbnail_url": ""
   },
   {
-    "id": 33166,
-    "name": "De Broodfabriek",
-    "latitude": "52.0357905",
-    "longitude": "4.3313176",
+    "id": 19061,
+    "name": "Zeestraat I",
+    "latitude": "52.0862909",
+    "longitude": "4.3016585",
     "thumbnail_url": ""
   },
   {
-    "id": 33010,
-    "name": "Vreeswijkstraat",
-    "latitude": "52.05952",
-    "longitude": "4.2790703",
+    "id": 19076,
+    "name": "2e de Riemerstraat",
+    "latitude": "52.0815146",
+    "longitude": "4.2985568",
     "thumbnail_url": ""
   },
   {
-    "id": 33141,
-    "name": "Burgersdijkstraat",
-    "latitude": "52.0604295",
-    "longitude": "4.3215346",
+    "id": 33022,
+    "name": "Vreeswijkstraat Boemel",
+    "latitude": "52.0555054",
+    "longitude": "4.27204",
     "thumbnail_url": ""
   },
   {
-    "id": 33144,
-    "name": "Schlegelstraat",
-    "latitude": "52.0630459",
-    "longitude": "4.3255142",
+    "id": 33024,
+    "name": "Leyweg 4",
+    "latitude": "52.054126",
+    "longitude": "4.2696776",
     "thumbnail_url": ""
   },
   {
@@ -200,6 +144,34 @@
     "name": "Nunspeetlaan 3",
     "latitude": "52.0665168",
     "longitude": "4.2849367",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33067,
+    "name": "De la Reyweg 2",
+    "latitude": "52.0648181",
+    "longitude": "4.288537",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33093,
+    "name": "Stadhuisplein Alphen aan den Rijn",
+    "latitude": "52.1290757",
+    "longitude": "4.6593354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33023,
+    "name": "Vreeswijkstraat 700",
+    "latitude": "52.0543286",
+    "longitude": "4.2700566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33144,
+    "name": "Schlegelstraat",
+    "latitude": "52.0630459",
+    "longitude": "4.3255142",
     "thumbnail_url": ""
   },
   {
@@ -217,6 +189,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33046,
+    "name": "Loonduinsekade 2",
+    "latitude": "52.0683758",
+    "longitude": "4.2760856",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33062,
     "name": "Nunspeetlaan 2",
     "latitude": "52.0683821",
@@ -231,13 +210,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33123,
-    "name": "Medemblikstraat",
-    "latitude": "52.0629191",
-    "longitude": "4.269193",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33063,
     "name": "Zuiderparklaan 3",
     "latitude": "52.068182",
@@ -245,10 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33031,
-    "name": "Oosterhesselenstraat",
-    "latitude": "52.0488563",
-    "longitude": "4.2753589",
+    "id": 18962,
+    "name": "KJ Basement (Park underground)",
+    "latitude": "52.0815393",
+    "longitude": "4.3228549",
     "thumbnail_url": ""
   },
   {
@@ -263,6 +235,27 @@
     "name": "Lunterenstraat 3",
     "latitude": "52.068825",
     "longitude": "4.2802917",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33142,
+    "name": "Johan Gramstraat ",
+    "latitude": "52.0617741",
+    "longitude": "4.3244139",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19082,
+    "name": "Grote Markt (tram stop Prinsengracht)",
+    "latitude": "52.074915",
+    "longitude": "4.3074949",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33146,
+    "name": "Schalk Burgerstraat 2",
+    "latitude": "52.0624999",
+    "longitude": "4.2934153",
     "thumbnail_url": ""
   },
   {
@@ -284,20 +277,6 @@
     "name": "Linnaeusstraat",
     "latitude": "52.0594932",
     "longitude": "4.3304233",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33067,
-    "name": "De la Reyweg 2",
-    "latitude": "52.0648181",
-    "longitude": "4.288537",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18959,
-    "name": "Muzenstraat",
-    "latitude": "52.0806941",
-    "longitude": "4.3204349",
     "thumbnail_url": ""
   },
   {
@@ -336,13 +315,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33143,
-    "name": "Oudemansstraat ",
-    "latitude": "52.0633371",
-    "longitude": "4.3247354",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33140,
     "name": "Haverschmidtstraat",
     "latitude": "52.0570889",
@@ -354,48 +326,6 @@
     "name": "Dedemsvaartweg 1",
     "latitude": "52.0461146",
     "longitude": "4.2701405",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33139,
-    "name": "Linnaeusstraat II",
-    "latitude": "52.0584443",
-    "longitude": "4.3277995",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20270,
-    "name": "Megastore DH",
-    "latitude": "52.0668041",
-    "longitude": "4.318849",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28761,
-    "name": "Den Haag Moerwijk",
-    "latitude": "52.0549737",
-    "longitude": "4.3081323",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33142,
-    "name": "Johan Gramstraat ",
-    "latitude": "52.0617741",
-    "longitude": "4.3244139",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33146,
-    "name": "Schalk Burgerstraat 2",
-    "latitude": "52.0624999",
-    "longitude": "4.2934153",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33052,
-    "name": "Cartesiusstraat",
-    "latitude": "52.0738654",
-    "longitude": "4.2837676",
     "thumbnail_url": ""
   },
   {
@@ -413,20 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19276,
-    "name": "Roof Station Den Haag HS",
-    "latitude": "52.0693041",
-    "longitude": "4.3227935",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33127,
-    "name": "Hoogkarspelstraat",
-    "latitude": "52.0643665",
-    "longitude": "4.2671135",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33028,
     "name": "Hoogeveenlaan 1",
     "latitude": "52.0467241",
@@ -441,24 +357,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27506,
-    "name": "Zwembad Zuiderpark (point 23)",
-    "latitude": "52.0532259",
-    "longitude": "4.2887593",
+    "id": 33150,
+    "name": "Kraijenhoffstraat",
+    "latitude": "52.0710119",
+    "longitude": "4.319915",
     "thumbnail_url": ""
   },
   {
-    "id": 19349,
-    "name": "Biesieklette Strandweg Haven",
-    "latitude": "52.1011259",
-    "longitude": "4.262415",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33038,
-    "name": "Jasmijnstraat 1",
-    "latitude": "52.0697726",
-    "longitude": "4.2717463",
+    "id": 19007,
+    "name": "Bachmanstraat",
+    "latitude": "52.0928183",
+    "longitude": "4.3119103",
     "thumbnail_url": ""
   },
   {
@@ -466,6 +375,13 @@
     "name": "Rijsenburgstraat",
     "latitude": "52.0584408",
     "longitude": "4.2683998",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33191,
+    "name": "AH Binckhorstlaan",
+    "latitude": "52.068018",
+    "longitude": "4.3379776",
     "thumbnail_url": ""
   },
   {
@@ -483,45 +399,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18962,
-    "name": "KJ Basement (Park underground)",
-    "latitude": "52.0815393",
-    "longitude": "4.3228549",
+    "id": 33143,
+    "name": "Oudemansstraat ",
+    "latitude": "52.0633371",
+    "longitude": "4.3247354",
     "thumbnail_url": ""
   },
   {
-    "id": 33066,
-    "name": "Nunspeetlaan 4",
-    "latitude": "52.0668067",
-    "longitude": "4.2847115",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20228,
-    "name": "Boulevard (Donkey inside)",
-    "latitude": "52.1169983",
-    "longitude": "4.2862471",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33040,
-    "name": "Heesterstraat",
-    "latitude": "52.0691434",
-    "longitude": "4.2712972",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33080,
-    "name": "Loenensestraat",
-    "latitude": "52.0624135",
-    "longitude": "4.2807682",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33147,
-    "name": "Schalk Burgerstraat",
-    "latitude": "52.0634147",
-    "longitude": "4.2935208",
+    "id": 33061,
+    "name": "Beekbergenstraat",
+    "latitude": "52.0688082",
+    "longitude": "4.2815946",
     "thumbnail_url": ""
   },
   {
@@ -529,13 +417,6 @@
     "name": "Kempstraat",
     "latitude": "52.0639219",
     "longitude": "4.2901338",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33150,
-    "name": "Kraijenhoffstraat",
-    "latitude": "52.0710119",
-    "longitude": "4.319915",
     "thumbnail_url": ""
   },
   {
@@ -588,6 +469,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33066,
+    "name": "Nunspeetlaan 4",
+    "latitude": "52.0668067",
+    "longitude": "4.2847115",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33077,
     "name": "Blaricumseplein 2",
     "latitude": "52.0630403",
@@ -595,10 +483,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33131,
-    "name": "Rederijkerstraat",
-    "latitude": "52.0555066",
-    "longitude": "4.3031255",
+    "id": 33155,
+    "name": "Verheeskade",
+    "latitude": "52.0632508",
+    "longitude": "4.3183079",
     "thumbnail_url": ""
   },
   {
@@ -609,17 +497,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33073,
-    "name": "Wapenveldestraat 1",
-    "latitude": "52.0623333",
-    "longitude": "4.2843692",
+    "id": 33050,
+    "name": "Bautersemstraat",
+    "latitude": "52.0748679",
+    "longitude": "4.2939949",
     "thumbnail_url": ""
   },
   {
-    "id": 33034,
-    "name": "Oranjeplein",
-    "latitude": "52.072015",
-    "longitude": "4.315336",
+    "id": 33038,
+    "name": "Jasmijnstraat 1",
+    "latitude": "52.0697726",
+    "longitude": "4.2717463",
     "thumbnail_url": ""
   },
   {
@@ -634,6 +522,13 @@
     "name": "Tinaarlosstraat",
     "latitude": "52.0474174",
     "longitude": "4.2770868",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33073,
+    "name": "Wapenveldestraat 1",
+    "latitude": "52.0623333",
+    "longitude": "4.2843692",
     "thumbnail_url": ""
   },
   {
@@ -658,24 +553,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33046,
-    "name": "Loonduinsekade 2",
-    "latitude": "52.0683758",
-    "longitude": "4.2760856",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33050,
-    "name": "Bautersemstraat",
-    "latitude": "52.0748679",
-    "longitude": "4.2939949",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33014,
     "name": "Leyweg 3",
     "latitude": "52.0505324",
     "longitude": "4.2743043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33019,
+    "name": "Driebergenstraat 2",
+    "latitude": "52.0588247",
+    "longitude": "4.2742023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33127,
+    "name": "Hoogkarspelstraat",
+    "latitude": "52.0643665",
+    "longitude": "4.2671135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33131,
+    "name": "Rederijkerstraat",
+    "latitude": "52.0555066",
+    "longitude": "4.3031255",
     "thumbnail_url": ""
   },
   {
@@ -693,13 +595,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33061,
-    "name": "Beekbergenstraat",
-    "latitude": "52.0688082",
-    "longitude": "4.2815946",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33079,
     "name": "oestdijksekade 3",
     "latitude": "52.0620896",
@@ -707,10 +602,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33080,
+    "name": "Loenensestraat",
+    "latitude": "52.0624135",
+    "longitude": "4.2807682",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33164,
     "name": " Burgemeester Bruins Slotsingel",
     "latitude": "52.1435438",
     "longitude": "4.6751828",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33121,
+    "name": "Soestdijksekade 3",
+    "latitude": "52.0615251",
+    "longitude": "4.2770139",
     "thumbnail_url": ""
   },
   {
@@ -735,24 +644,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33031,
+    "name": "Oosterhesselenstraat",
+    "latitude": "52.0488563",
+    "longitude": "4.2753589",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33041,
     "name": "Indigostraat",
     "latitude": "52.0686703",
     "longitude": "4.2716172",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33148,
-    "name": "Schalk Burgerstraat 3 ",
-    "latitude": "52.0649254",
-    "longitude": "4.2936981",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27883,
-    "name": "Den Haag Centraal Deelfiets UNDER the bridge ",
-    "latitude": "52.0794285",
-    "longitude": "4.3251777",
     "thumbnail_url": ""
   },
   {
@@ -777,10 +679,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19812,
-    "name": "Speeltuin Freddy Hendrikplein",
-    "latitude": "52.0887408",
-    "longitude": "4.2758727",
+    "id": 33141,
+    "name": "Burgersdijkstraat",
+    "latitude": "52.0604295",
+    "longitude": "4.3215346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19227,
+    "name": "Gevers Deynootweg I",
+    "latitude": "52.1129282",
+    "longitude": "4.2832575",
     "thumbnail_url": ""
   },
   {
@@ -791,10 +700,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33034,
+    "name": "Oranjeplein",
+    "latitude": "52.072015",
+    "longitude": "4.315336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33147,
+    "name": "Schalk Burgerstraat",
+    "latitude": "52.0634147",
+    "longitude": "4.2935208",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33058,
     "name": "Lunterenstraat 2",
     "latitude": "52.0697079",
     "longitude": "4.2826815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20228,
+    "name": "Boulevard (Donkey inside)",
+    "latitude": "52.1169983",
+    "longitude": "4.2862471",
     "thumbnail_url": ""
   },
   {
@@ -805,10 +735,52 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33021,
+    "name": "Vreeswijkstraat 150",
+    "latitude": "52.0562288",
+    "longitude": "4.2732752",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33035,
+    "name": "Stationsweg 1",
+    "latitude": "52.0736101",
+    "longitude": "4.3181331",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19276,
+    "name": "Roof Station Den Haag HS",
+    "latitude": "52.0693041",
+    "longitude": "4.3227935",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33045,
+    "name": "Loosduinsekade 1",
+    "latitude": "52.0666988",
+    "longitude": "4.2708079",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19812,
+    "name": "Speeltuin Freddy Hendrikplein",
+    "latitude": "52.0887408",
+    "longitude": "4.2758727",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19193,
     "name": "Johan van Oldenbarneveltlaan I",
     "latitude": "52.0985377",
     "longitude": "4.2802046",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32422,
+    "name": "Tram Rijswijkse weg 2",
+    "latitude": "52.06269",
+    "longitude": "4.3323984",
     "thumbnail_url": ""
   },
   {
@@ -826,20 +798,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32461,
-    "name": "Soestdijksekade 2",
-    "latitude": "52.0605176",
-    "longitude": "4.2890804",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19232,
-    "name": "Stevinstraat II",
-    "latitude": "52.11057",
-    "longitude": "4.2905679",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33042,
     "name": "Escamplaan 2",
     "latitude": "52.0644273",
@@ -847,10 +805,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19082,
-    "name": "Grote Markt (tram stop Prinsengracht)",
-    "latitude": "52.074915",
-    "longitude": "4.3074949",
+    "id": 33040,
+    "name": "Heesterstraat",
+    "latitude": "52.0691434",
+    "longitude": "4.2712972",
     "thumbnail_url": ""
   },
   {
@@ -896,31 +854,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27494,
-    "name": "Park and bike Den Haag ( point 52)",
-    "latitude": "52.0496175",
-    "longitude": "4.3495288",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19031,
     "name": "Javastraat I",
     "latitude": "52.0880644",
     "longitude": "4.3037014",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19117,
-    "name": "Regentesseplein",
-    "latitude": "52.0769991",
-    "longitude": "4.2831016",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18865,
-    "name": "AH Zuylichemstraat",
-    "latitude": "52.0709063",
-    "longitude": "4.3224459",
     "thumbnail_url": ""
   },
   {
@@ -931,20 +868,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19233,
-    "name": "Stevinstraat I",
-    "latitude": "52.10993",
-    "longitude": "4.2881928",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19225,
-    "name": "Gevers Deynootweg II",
-    "latitude": "52.1115651",
-    "longitude": "4.2818248",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27488,
     "name": "Teleport hotel Den Haag (point 54)",
     "latitude": "52.0681825",
@@ -952,10 +875,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19407,
-    "name": "Weteringkade under the bridge.",
-    "latitude": "52.0746564",
-    "longitude": "4.3284534",
+    "id": 27494,
+    "name": "Park and bike Den Haag ( point 52)",
+    "latitude": "52.0496175",
+    "longitude": "4.3495288",
     "thumbnail_url": ""
   },
   {
@@ -994,6 +917,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33139,
+    "name": "Linnaeusstraat II",
+    "latitude": "52.0584443",
+    "longitude": "4.3277995",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32350,
     "name": "Maanweg",
     "latitude": "52.067251",
@@ -1022,10 +952,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18860,
-    "name": "Stamkartstraat",
-    "latitude": "52.0676108",
-    "longitude": "4.3216707",
+    "id": 33010,
+    "name": "Vreeswijkstraat",
+    "latitude": "52.05952",
+    "longitude": "4.2790703",
     "thumbnail_url": ""
   },
   {
@@ -1043,6 +973,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19407,
+    "name": "Weteringkade under the bridge.",
+    "latitude": "52.0746564",
+    "longitude": "4.3284534",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33053,
     "name": "Newtonstraat",
     "latitude": "52.0755077",
@@ -1050,10 +987,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33054,
-    "name": "Loonduinseweg 2",
-    "latitude": "52.0709842",
-    "longitude": "4.2850191",
+    "id": 33052,
+    "name": "Cartesiusstraat",
+    "latitude": "52.0738654",
+    "longitude": "4.2837676",
     "thumbnail_url": ""
   },
   {
@@ -1071,6 +1008,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28615,
+    "name": "Laan van NOI HUB",
+    "latitude": "52.0794269",
+    "longitude": "4.3434137",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32465,
     "name": "Scheepersstraat",
     "latitude": "52.0672283",
@@ -1085,10 +1029,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19061,
-    "name": "Zeestraat I",
-    "latitude": "52.0862909",
-    "longitude": "4.3016585",
+    "id": 18860,
+    "name": "Stamkartstraat",
+    "latitude": "52.0676108",
+    "longitude": "4.3216707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19225,
+    "name": "Gevers Deynootweg II",
+    "latitude": "52.1115651",
+    "longitude": "4.2818248",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28761,
+    "name": "Den Haag Moerwijk",
+    "latitude": "52.0549737",
+    "longitude": "4.3081323",
     "thumbnail_url": ""
   },
   {
@@ -1099,24 +1057,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19060,
-    "name": "Laan van Meerdervoort I",
-    "latitude": "52.0866226",
-    "longitude": "4.3004453",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33154,
     "name": "Van der Kunstraat",
     "latitude": "52.0653029",
     "longitude": "4.317881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28615,
-    "name": "Laan van NOI HUB",
-    "latitude": "52.0794269",
-    "longitude": "4.3434137",
     "thumbnail_url": ""
   },
   {
@@ -1148,6 +1092,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33054,
+    "name": "Loonduinseweg 2",
+    "latitude": "52.0709842",
+    "longitude": "4.2850191",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20378,
     "name": "Duwo",
     "latitude": "52.0661547",
@@ -1155,10 +1106,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19433,
-    "name": "J. Westerdijkplein (Donkey in rack)",
-    "latitude": "52.0683252",
-    "longitude": "4.3229531",
+    "id": 27508,
+    "name": "AH Lorentzplein (point 41)",
+    "latitude": "52.06084",
+    "longitude": "4.3285405",
     "thumbnail_url": ""
   },
   {
@@ -1176,10 +1127,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19227,
-    "name": "Gevers Deynootweg I",
-    "latitude": "52.1129282",
-    "longitude": "4.2832575",
+    "id": 32090,
+    "name": "Sophialaan ",
+    "latitude": "52.0870697",
+    "longitude": "4.3073497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19433,
+    "name": "J. Westerdijkplein (Donkey in rack)",
+    "latitude": "52.0683252",
+    "longitude": "4.3229531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33123,
+    "name": "Medemblikstraat",
+    "latitude": "52.0629191",
+    "longitude": "4.269193",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21319,
+    "name": "Lutherse Burgwal (Donkey in rack)",
+    "latitude": "52.0746957",
+    "longitude": "4.3103424",
     "thumbnail_url": ""
   },
   {
@@ -1194,6 +1166,13 @@
     "name": "De stede (point 16)",
     "latitude": "52.0432348",
     "longitude": "4.2606873",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20270,
+    "name": "Megastore DH",
+    "latitude": "52.0668041",
+    "longitude": "4.318849",
     "thumbnail_url": ""
   },
   {
@@ -1232,10 +1211,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21319,
-    "name": "Lutherse Burgwal (Donkey in rack)",
-    "latitude": "52.0746957",
-    "longitude": "4.3103424",
+    "id": 33166,
+    "name": "De Broodfabriek",
+    "latitude": "52.0357905",
+    "longitude": "4.3313176",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33148,
+    "name": "Schalk Burgerstraat 3 ",
+    "latitude": "52.0649254",
+    "longitude": "4.2936981",
     "thumbnail_url": ""
   },
   {
@@ -1243,6 +1229,13 @@
     "name": "Valkenbosplein",
     "latitude": "52.0782744",
     "longitude": "4.2764698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19233,
+    "name": "Stevinstraat I",
+    "latitude": "52.10993",
+    "longitude": "4.2881928",
     "thumbnail_url": ""
   },
   {
@@ -1264,13 +1257,6 @@
     "name": "Assendelftstraat (Donkey in rack)",
     "latitude": "52.0752839",
     "longitude": "4.3051167",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18975,
-    "name": "Buitenhof",
-    "latitude": "52.0789563",
-    "longitude": "4.3108922",
     "thumbnail_url": ""
   },
   {
@@ -1309,6 +1295,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19117,
+    "name": "Regentesseplein",
+    "latitude": "52.0769991",
+    "longitude": "4.2831016",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18956,
     "name": "Gedempte Gracht",
     "latitude": "52.0760486",
@@ -1323,17 +1316,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27515,
-    "name": "Goudsbloemlaan (point 18)",
-    "latitude": "52.0766461",
-    "longitude": "4.2600146",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18891,
     "name": "WTC The Hague I",
     "latitude": "52.0788986",
     "longitude": "4.3374599",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18959,
+    "name": "Muzenstraat",
+    "latitude": "52.0806941",
+    "longitude": "4.3204349",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18865,
+    "name": "AH Zuylichemstraat",
+    "latitude": "52.0709063",
+    "longitude": "4.3224459",
     "thumbnail_url": ""
   },
   {
@@ -1344,10 +1344,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18954,
-    "name": "Paviljoensgracht",
-    "latitude": "52.0745081",
-    "longitude": "4.3108949",
+    "id": 32461,
+    "name": "Soestdijksekade 2",
+    "latitude": "52.0605176",
+    "longitude": "4.2890804",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18975,
+    "name": "Buitenhof",
+    "latitude": "52.0789563",
+    "longitude": "4.3108922",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19232,
+    "name": "Stevinstraat II",
+    "latitude": "52.11057",
+    "longitude": "4.2905679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27883,
+    "name": "Den Haag Centraal Deelfiets UNDER the bridge ",
+    "latitude": "52.0794285",
+    "longitude": "4.3251777",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27515,
+    "name": "Goudsbloemlaan (point 18)",
+    "latitude": "52.0766461",
+    "longitude": "4.2600146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19060,
+    "name": "Laan van Meerdervoort I",
+    "latitude": "52.0866226",
+    "longitude": "4.3004453",
     "thumbnail_url": ""
   },
   {
@@ -1617,13 +1652,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32422,
-    "name": "Tram Rijswijkse weg 2",
-    "latitude": "52.06269",
-    "longitude": "4.3323984",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19177,
     "name": "Halte Frederik Hendriklaan",
     "latitude": "52.0925356",
@@ -1831,13 +1859,6 @@
     "name": "Rijswijkseweg",
     "latitude": "52.0649112",
     "longitude": "4.3299254",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27508,
-    "name": "AH Lorentzplein (point 41)",
-    "latitude": "52.06084",
-    "longitude": "4.3285405",
     "thumbnail_url": ""
   },
   {
@@ -2233,13 +2254,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32090,
-    "name": "Sophialaan ",
-    "latitude": "52.0870697",
-    "longitude": "4.3073497",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19127,
     "name": "De Perponcherstraat",
     "latitude": "52.0783245",
@@ -2363,13 +2377,6 @@
     "name": "Valkenboskade III",
     "latitude": "52.0742812",
     "longitude": "4.270115",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19007,
-    "name": "Bachmanstraat",
-    "latitude": "52.0928183",
-    "longitude": "4.3119103",
     "thumbnail_url": ""
   },
   {
