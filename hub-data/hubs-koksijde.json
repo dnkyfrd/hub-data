@@ -1,9 +1,30 @@
 [
   {
+    "id": 4832,
+    "name": "Parc Guell entrada c/Olot",
+    "latitude": "41.413618",
+    "longitude": "2.1534598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11335,
+    "name": "Ronda Sant Pau 68",
+    "latitude": "41.3781757",
+    "longitude": "2.1639633",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26945,
     "name": "Consell de Cent x Rambla Catalunya",
     "latitude": "41.3902398",
     "longitude": "2.1646469",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5539,
+    "name": "Badajoz 168 - AGBAR",
+    "latitude": "41.4030038",
+    "longitude": "2.1901953",
     "thumbnail_url": ""
   },
   {
@@ -14,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1477,
-    "name": "Aribau 130",
-    "latitude": "41.3912504",
-    "longitude": "2.1556136",
+    "id": 415,
+    "name": "Diputació 341",
+    "latitude": "41.394735",
+    "longitude": "2.172745",
     "thumbnail_url": ""
   },
   {
@@ -25,6 +46,13 @@
     "name": "Golondrinas Rompeolas ",
     "latitude": "41.3677509",
     "longitude": "2.1872224",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5046,
+    "name": "Litoral - Mar Bella (2 separate racks)",
+    "latitude": "41.3986112",
+    "longitude": "2.2093292",
     "thumbnail_url": ""
   },
   {
@@ -42,10 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5103,
-    "name": "Metro Gracia",
-    "latitude": "41.3996886",
-    "longitude": "2.1523695",
+    "id": 11778,
+    "name": "Etenca 70",
+    "latitude": "41.3787958",
+    "longitude": "2.1515354",
     "thumbnail_url": ""
   },
   {
@@ -56,10 +84,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5347,
-    "name": "Trav. de Gracia 116",
-    "latitude": "41.3996955",
-    "longitude": "2.1553356",
+    "id": 1482,
+    "name": "Arco Triunfo",
+    "latitude": "41.3913664",
+    "longitude": "2.1801099",
     "thumbnail_url": ""
   },
   {
@@ -70,24 +98,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11364,
-    "name": "Bruc 22 (2 parkings separados)",
-    "latitude": "41.3908097",
-    "longitude": "2.1743116",
+    "id": 1477,
+    "name": "Aribau 130",
+    "latitude": "41.3912504",
+    "longitude": "2.1556136",
     "thumbnail_url": ""
   },
   {
-    "id": 6633,
-    "name": "Catedral - Tapineria",
-    "latitude": "41.3847475",
-    "longitude": "2.1764042",
+    "id": 6714,
+    "name": "Diputació 447",
+    "latitude": "41.399988",
+    "longitude": "2.1798109",
     "thumbnail_url": ""
   },
   {
-    "id": 13484,
-    "name": "Plaça Barceloneta",
-    "latitude": "41.3796922",
-    "longitude": "2.1878444",
+    "id": 22424,
+    "name": "Plaça de Sant Josep Oriol, 6",
+    "latitude": "41.3822245",
+    "longitude": "2.1742838",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +126,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30556,
+    "name": "Manuel Girona 16",
+    "latitude": "41.3902008",
+    "longitude": "2.1216554",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32045,
     "name": "Escolar Xalet",
     "latitude": "41.4008631",
@@ -105,17 +140,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 710,
-    "name": "Meridiana x Mallorca (P x 2)",
-    "latitude": "41.41189",
-    "longitude": "2.1866927",
+    "id": 5788,
+    "name": "Platja del Bogatell - La Guingueta",
+    "latitude": "41.3933341",
+    "longitude": "2.2055907",
     "thumbnail_url": ""
   },
   {
-    "id": 11222,
-    "name": "Ali Bei 7",
-    "latitude": "41.391035",
-    "longitude": "2.1773524",
+    "id": 722,
+    "name": "Rosselló 455",
+    "latitude": "41.406374",
+    "longitude": "2.1745768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 764,
+    "name": "Urgell 69 (P x 2)",
+    "latitude": "41.3826848",
+    "longitude": "2.1577319",
     "thumbnail_url": ""
   },
   {
@@ -133,10 +175,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 913,
-    "name": "Buenaventura Muñoz 14",
-    "latitude": "41.3909787",
-    "longitude": "2.1840343",
+    "id": 710,
+    "name": "Meridiana x Mallorca (P x 2)",
+    "latitude": "41.41189",
+    "longitude": "2.1866927",
     "thumbnail_url": ""
   },
   {
@@ -147,17 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 729,
-    "name": "Bailèn 131",
-    "latitude": "41.3984259",
-    "longitude": "2.168802",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2329,
-    "name": "Muntaner 25",
-    "latitude": "41.3850359",
-    "longitude": "2.1616942",
+    "id": 371,
+    "name": "Plaça Universitat",
+    "latitude": "41.3853842",
+    "longitude": "2.1638446",
     "thumbnail_url": ""
   },
   {
@@ -168,17 +203,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 7415,
-    "name": "Provença x Marina (P x 3)",
-    "latitude": "41.4045433",
-    "longitude": "2.1745798",
+    "id": 5225,
+    "name": "Taulat 3 ",
+    "latitude": "41.3949171",
+    "longitude": "2.2010174",
     "thumbnail_url": ""
   },
   {
-    "id": 1397,
-    "name": "Arago 336",
-    "latitude": "41.3960081",
-    "longitude": "2.1701264",
+    "id": 732,
+    "name": "Marítim 9",
+    "latitude": "41.3807172",
+    "longitude": "2.1934145",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 770,
+    "name": "Sota Muralla 3 x 2🅿️",
+    "latitude": "41.3809988",
+    "longitude": "2.1829882",
     "thumbnail_url": ""
   },
   {
@@ -189,24 +231,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 769,
-    "name": "Parlament 59 (P x 3)",
-    "latitude": "41.3776717",
-    "longitude": "2.1643962",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 764,
-    "name": "Urgell 69 (P x 2)",
-    "latitude": "41.3826848",
-    "longitude": "2.1577319",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5046,
-    "name": "Litoral - Mar Bella (2 separate racks)",
-    "latitude": "41.3986112",
-    "longitude": "2.2093292",
+    "id": 5955,
+    "name": "Marítim - Plaça de Brugada",
+    "latitude": "41.3799176",
+    "longitude": "2.1929033",
     "thumbnail_url": ""
   },
   {
@@ -217,10 +245,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2768,
-    "name": "Lluís Companys 18 (2 separate racks)",
-    "latitude": "41.3910474",
-    "longitude": "2.1814962",
+    "id": 414,
+    "name": "Gran Via 561",
+    "latitude": "41.3842208",
+    "longitude": "2.1611903",
     "thumbnail_url": ""
   },
   {
@@ -228,27 +256,6 @@
     "name": "Fluvià 51",
     "latitude": "41.4059415",
     "longitude": "2.2079837",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11902,
-    "name": "Dega Bahí 5",
-    "latitude": "41.4106376",
-    "longitude": "2.1828862",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11716,
-    "name": "Etenca 42",
-    "latitude": "41.3774472",
-    "longitude": "2.1535269",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5328,
-    "name": "Joan de Borbó x Hotel W",
-    "latitude": "41.3692432",
-    "longitude": "2.1879928",
     "thumbnail_url": ""
   },
   {
@@ -266,185 +273,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 3103,
+    "name": "Corsega 337",
+    "latitude": "41.3977581",
+    "longitude": "2.1608627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11191,
+    "name": "Ronda Sant Pere 50 (3 parking) ",
+    "latitude": "41.3903789",
+    "longitude": "2.1765035",
+    "thumbnail_url": ""
+  },
+  {
     "id": 5939,
     "name": "Navas - Aragó (P x 2)",
     "latitude": "41.4120124",
     "longitude": "2.1913482",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5585,
-    "name": "Ramon Turró 196 - Ilunion Hotel",
-    "latitude": "41.3989932",
-    "longitude": "2.2018268",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 687,
-    "name": "Taulat 262 (P x 2)",
-    "latitude": "41.4090479",
-    "longitude": "2.2174207",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5706,
-    "name": "Diagonal 32",
-    "latitude": "41.4102287",
-    "longitude": "2.2136476",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12342,
-    "name": "Casp 110",
-    "latitude": "41.3945532",
-    "longitude": "2.1776814",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 432,
-    "name": "Rambla Catalunya 18",
-    "latitude": "41.3886241",
-    "longitude": "2.1668179",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 8611,
-    "name": "Escorial 148 (clínica Remei) ",
-    "latitude": "41.4094794",
-    "longitude": "2.1593608",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6447,
-    "name": "Salvador Espriu (Glorias) ",
-    "latitude": "41.4051883",
-    "longitude": "2.1873231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 436,
-    "name": "Ramon Turró 162",
-    "latitude": "41.3972493",
-    "longitude": "2.1994627",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22424,
-    "name": "Plaça de Sant Josep Oriol, 6",
-    "latitude": "41.3822245",
-    "longitude": "2.1742838",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 7089,
-    "name": "Viladomat 10",
-    "latitude": "41.375699",
-    "longitude": "2.1626845",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2301,
-    "name": "Picasso 34",
-    "latitude": "41.3863033",
-    "longitude": "2.1846145",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5561,
-    "name": "ElectricScooterBCN",
-    "latitude": "41.3961863",
-    "longitude": "2.184407",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6152,
-    "name": "Equador 92",
-    "latitude": "41.3879928",
-    "longitude": "2.1380031",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 7180,
-    "name": "Llull 186",
-    "latitude": "41.4005767",
-    "longitude": "2.2016031",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5225,
-    "name": "Taulat 3 ",
-    "latitude": "41.3949171",
-    "longitude": "2.2010174",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3647,
-    "name": "Litoral 32",
-    "latitude": "41.3886822",
-    "longitude": "2.1993685",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5204,
-    "name": "Pujades 316 - Fluvia",
-    "latitude": "41.406712",
-    "longitude": "2.2074983",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30556,
-    "name": "Manuel Girona 16",
-    "latitude": "41.3902008",
-    "longitude": "2.1216554",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 756,
-    "name": "Numància 34",
-    "latitude": "41.3826501",
-    "longitude": "2.1398576",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 268,
-    "name": "Balmes 117",
-    "latitude": "41.3922671",
-    "longitude": "2.1584901",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1008,
-    "name": "Gran Via 383 (varios parkings)",
-    "latitude": "41.3760368",
-    "longitude": "2.1502022",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 376,
-    "name": "Consell de Cent 623",
-    "latitude": "41.4067409",
-    "longitude": "2.1864729",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4940,
-    "name": "Sicilia 215",
-    "latitude": "41.4014089",
-    "longitude": "2.1736282",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6144,
-    "name": "Trav. de les Corts 253",
-    "latitude": "41.3852129",
-    "longitude": "2.1322661",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1481,
-    "name": "Rector Triadó 100",
-    "latitude": "41.3788326",
-    "longitude": "2.1423648",
     "thumbnail_url": ""
   },
   {
@@ -455,10 +301,136 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5742,
-    "name": "Picasso 14",
-    "latitude": "41.3875815",
-    "longitude": "2.1829348",
+    "id": 12342,
+    "name": "Casp 110",
+    "latitude": "41.3945532",
+    "longitude": "2.1776814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5204,
+    "name": "Pujades 316 - Fluvia",
+    "latitude": "41.406712",
+    "longitude": "2.2074983",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6447,
+    "name": "Salvador Espriu (Glorias) ",
+    "latitude": "41.4051883",
+    "longitude": "2.1873231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3116,
+    "name": "Barceloneta Metro  PORT",
+    "latitude": "41.3820824",
+    "longitude": "2.1852829",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11222,
+    "name": "Ali Bei 7",
+    "latitude": "41.391035",
+    "longitude": "2.1773524",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22450,
+    "name": "Parallel 96",
+    "latitude": "41.3751027",
+    "longitude": "2.1661522",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 688,
+    "name": "Taulat 178",
+    "latitude": "41.403413",
+    "longitude": "2.2112071",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3967,
+    "name": "Platja Nova Icaria",
+    "latitude": "41.3898554",
+    "longitude": "2.2007025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5561,
+    "name": "ElectricScooterBCN",
+    "latitude": "41.3961863",
+    "longitude": "2.184407",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 13369,
+    "name": "Platja del Somorrostro (3 Parking) ",
+    "latitude": "41.3847383",
+    "longitude": "2.1958997",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 756,
+    "name": "Numància 34",
+    "latitude": "41.3826501",
+    "longitude": "2.1398576",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1591,
+    "name": "Passeig de Gracia  13  (OBRAS) 🚧",
+    "latitude": "41.3896683",
+    "longitude": "2.1677999",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 363,
+    "name": "World Trade Center - Moll 18 C",
+    "latitude": "41.3723722",
+    "longitude": "2.1794879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1422,
+    "name": "Litoral 145",
+    "latitude": "41.4038211",
+    "longitude": "2.2158936",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5103,
+    "name": "Metro Gracia",
+    "latitude": "41.3996886",
+    "longitude": "2.1523695",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1335,
+    "name": "Maria Claret 165",
+    "latitude": "41.4110372",
+    "longitude": "2.1741453",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11813,
+    "name": "Pere IV 193",
+    "latitude": "41.4043588",
+    "longitude": "2.1989456",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29284,
+    "name": "Drassanes arbol ",
+    "latitude": "41.3753526",
+    "longitude": "2.1893293",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5408,
+    "name": "Urgell 128",
+    "latitude": "41.3847525",
+    "longitude": "2.1553097",
     "thumbnail_url": ""
   },
   {
@@ -469,6 +441,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27692,
+    "name": "Diputació 205",
+    "latitude": "41.3862189",
+    "longitude": "2.1615255",
+    "thumbnail_url": ""
+  },
+  {
     "id": 10644,
     "name": "Mossen Masdexeixart 1",
     "latitude": "41.4095544",
@@ -476,17 +455,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11989,
-    "name": "Marina  219",
-    "latitude": "41.4019108",
-    "longitude": "2.1780647",
+    "id": 5115,
+    "name": "Pallars 375 - Diagonal",
+    "latitude": "41.4088827",
+    "longitude": "2.2080944",
     "thumbnail_url": ""
   },
   {
-    "id": 722,
-    "name": "Rosselló 455",
-    "latitude": "41.406374",
-    "longitude": "2.1745768",
+    "id": 763,
+    "name": "Plaça Catalunya 5",
+    "latitude": "41.3866516",
+    "longitude": "2.1691088",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 7254,
+    "name": "Pujades 4 ",
+    "latitude": "41.3882178",
+    "longitude": "2.182347",
     "thumbnail_url": ""
   },
   {
@@ -511,24 +497,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 770,
-    "name": "Sota Muralla 3 x 2🅿️",
-    "latitude": "41.3809988",
-    "longitude": "2.1829882",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3074,
-    "name": "Hotel 4 Barcelona",
-    "latitude": "41.3959938",
-    "longitude": "2.2010737",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11802,
-    "name": "Industria 107",
-    "latitude": "41.4070332",
-    "longitude": "2.1709011",
+    "id": 4940,
+    "name": "Sicilia 217",
+    "latitude": "41.4015295",
+    "longitude": "2.1734761",
     "thumbnail_url": ""
   },
   {
@@ -553,10 +525,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4845,
-    "name": "Rambla Catalunya 14",
-    "latitude": "41.3881912",
-    "longitude": "2.1675146",
+    "id": 33219,
+    "name": "Diputació 7",
+    "latitude": "41.3759556",
+    "longitude": "2.1477428",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 146,
+    "name": "Sancho de Avila 32",
+    "latitude": "41.3976646",
+    "longitude": "2.1887067",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2725,
+    "name": "Mallorca x Sardenya",
+    "latitude": "41.4026321",
+    "longitude": "2.1743565",
     "thumbnail_url": ""
   },
   {
@@ -567,31 +553,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 508,
-    "name": "Napols 78",
-    "latitude": "41.3932995",
-    "longitude": "2.1819309",
+    "id": 11364,
+    "name": "Bruc 22 (2 parkings separados)",
+    "latitude": "41.3908097",
+    "longitude": "2.1743116",
     "thumbnail_url": ""
   },
   {
-    "id": 5132,
-    "name": "Platja de Sant Miquel 06",
-    "latitude": "41.3748663",
-    "longitude": "2.1900076",
+    "id": 5706,
+    "name": "Diagonal 32",
+    "latitude": "41.4102287",
+    "longitude": "2.2136476",
     "thumbnail_url": ""
   },
   {
-    "id": 1827,
-    "name": "Roma 29",
-    "latitude": "41.3815831",
-    "longitude": "2.1459254",
+    "id": 5857,
+    "name": "Floridablanca 135",
+    "latitude": "41.3816842",
+    "longitude": "2.162566",
     "thumbnail_url": ""
   },
   {
-    "id": 11908,
-    "name": "Provença 548",
-    "latitude": "41.4084334",
-    "longitude": "2.1799056",
+    "id": 5465,
+    "name": "Badajoz 162 - SB Hotel  x2",
+    "latitude": "41.4024213",
+    "longitude": "2.1904287",
     "thumbnail_url": ""
   },
   {
@@ -602,31 +588,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11778,
-    "name": "Etenca 70",
-    "latitude": "41.3787958",
-    "longitude": "2.1515354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11405,
-    "name": "Drassanes 21",
-    "latitude": "41.3766453",
-    "longitude": "2.1730279",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2483,
-    "name": "Marina x Pujades lado Este",
-    "latitude": "41.3931575",
-    "longitude": "2.1893799",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 7548,
-    "name": "Pintor Fortuny 7",
-    "latitude": "41.3832409",
-    "longitude": "2.1703089",
+    "id": 20961,
+    "name": "Portal del Angel 26",
+    "latitude": "41.38611",
+    "longitude": "2.1723751",
     "thumbnail_url": ""
   },
   {
@@ -644,10 +609,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22450,
-    "name": "Parallel 96",
-    "latitude": "41.3751027",
-    "longitude": "2.1661522",
+    "id": 580,
+    "name": "Carrera 25",
+    "latitude": "41.3735455",
+    "longitude": "2.1745429",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5132,
+    "name": "Platja de Sant Miquel 06",
+    "latitude": "41.3748663",
+    "longitude": "2.1900076",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4046,
+    "name": "Diputació x Bruc",
+    "latitude": "41.39328",
+    "longitude": "2.1707329",
     "thumbnail_url": ""
   },
   {
@@ -658,17 +637,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2128,
-    "name": "Passeig de Gracia 11",
-    "latitude": "41.3889745",
-    "longitude": "2.168575",
+    "id": 508,
+    "name": "Napols 78",
+    "latitude": "41.3932995",
+    "longitude": "2.1819309",
     "thumbnail_url": ""
   },
   {
-    "id": 5713,
-    "name": "Mare Nostrum Beach Garden",
-    "latitude": "41.3735663",
-    "longitude": "2.1893206",
+    "id": 7180,
+    "name": "Llull 186",
+    "latitude": "41.4005767",
+    "longitude": "2.2016031",
     "thumbnail_url": ""
   },
   {
@@ -679,17 +658,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 363,
-    "name": "World Trade Center - Moll 18 C",
-    "latitude": "41.3723722",
-    "longitude": "2.1794879",
+    "id": 206,
+    "name": "Pg. de Gràcia 107",
+    "latitude": "41.3961593",
+    "longitude": "2.1595967",
     "thumbnail_url": ""
   },
   {
-    "id": 2136,
-    "name": "Provença 290",
-    "latitude": "41.394407",
-    "longitude": "2.161139",
+    "id": 2098,
+    "name": "Avila 143 ",
+    "latitude": "41.4004366",
+    "longitude": "2.1907113",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6633,
+    "name": "Catedral - Tapineria",
+    "latitude": "41.3847475",
+    "longitude": "2.1764042",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2484,
+    "name": "Diputació 301 - Central Garden",
+    "latitude": "41.3924619",
+    "longitude": "2.1697149",
     "thumbnail_url": ""
   },
   {
@@ -721,6 +714,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 913,
+    "name": "Buenaventura Muñoz 14",
+    "latitude": "41.3909787",
+    "longitude": "2.1840343",
+    "thumbnail_url": ""
+  },
+  {
     "id": 15755,
     "name": "Plaça Macià 7",
     "latitude": "41.3924093",
@@ -728,24 +728,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30709,
-    "name": "Les Corts",
-    "latitude": "41.3840583",
-    "longitude": "2.1306641",
+    "id": 6160,
+    "name": "Bilbao 180",
+    "latitude": "41.4102535",
+    "longitude": "2.1937242",
     "thumbnail_url": ""
   },
   {
-    "id": 5583,
-    "name": "Bac de Roda 34",
-    "latitude": "41.4041226",
-    "longitude": "2.208391",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5058,
-    "name": "Albareda 23",
-    "latitude": "41.3740328",
-    "longitude": "2.1731495",
+    "id": 2278,
+    "name": "Marina 130",
+    "latitude": "41.3966829",
+    "longitude": "2.1844587",
     "thumbnail_url": ""
   },
   {
@@ -763,17 +756,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 732,
-    "name": "Marítim 9",
-    "latitude": "41.3807172",
-    "longitude": "2.1934145",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 688,
-    "name": "Taulat 178",
-    "latitude": "41.403413",
-    "longitude": "2.2112071",
+    "id": 6493,
+    "name": "Joan de Borbó 45",
+    "latitude": "41.3777535",
+    "longitude": "2.1883897",
     "thumbnail_url": ""
   },
   {
@@ -784,31 +770,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3105,
-    "name": "Gran Via 461",
-    "latitude": "41.3794112",
-    "longitude": "2.154654",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 371,
-    "name": "Plaça Universitat",
-    "latitude": "41.3853842",
-    "longitude": "2.1638446",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5782,
-    "name": "Comte Borrell 61",
-    "latitude": "41.3777638",
-    "longitude": "2.1619132",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1591,
-    "name": "Passeig de Gracia  13  (OBRAS) 🚧",
-    "latitude": "41.3896683",
-    "longitude": "2.1677999",
+    "id": 1827,
+    "name": "Roma 29",
+    "latitude": "41.3815831",
+    "longitude": "2.1459254",
     "thumbnail_url": ""
   },
   {
@@ -826,10 +791,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5161,
-    "name": "Pamplona x Almogavers",
-    "latitude": "41.3973489",
-    "longitude": "2.1903717",
+    "id": 11243,
+    "name": "Portal del Angel 9",
+    "latitude": "41.3851601",
+    "longitude": "2.1738362",
     "thumbnail_url": ""
   },
   {
@@ -840,6 +805,34 @@
     "thumbnail_url": ""
   },
   {
+    "id": 15761,
+    "name": "Plaça Sanllehy 10",
+    "latitude": "41.4140947",
+    "longitude": "2.1613002",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5161,
+    "name": "Pamplona x Almogavers",
+    "latitude": "41.3973489",
+    "longitude": "2.1903717",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4845,
+    "name": "Rambla Catalunya 14",
+    "latitude": "41.3881912",
+    "longitude": "2.1675146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1914,
+    "name": "Gran Via 633 (3 parkings separados)",
+    "latitude": "41.3915419",
+    "longitude": "2.1711101",
+    "thumbnail_url": ""
+  },
+  {
     "id": 365,
     "name": "Lope de Vega 4",
     "latitude": "41.4005236",
@@ -847,38 +840,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 182,
-    "name": "Plaça Catalunya 14",
-    "latitude": "41.3872307",
-    "longitude": "2.171539",
+    "id": 11908,
+    "name": "Provença 548",
+    "latitude": "41.4084334",
+    "longitude": "2.1799056",
     "thumbnail_url": ""
   },
   {
-    "id": 421,
-    "name": "Ronda Sant Pau 15 (P x 2)",
-    "latitude": "41.376041",
-    "longitude": "2.1665071",
+    "id": 11989,
+    "name": "Marina  219",
+    "latitude": "41.4019108",
+    "longitude": "2.1780647",
     "thumbnail_url": ""
   },
   {
-    "id": 414,
-    "name": "Gran Via 561",
-    "latitude": "41.3842208",
-    "longitude": "2.1611903",
+    "id": 11678,
+    "name": "Davant del Portal Nou",
+    "latitude": "41.3901212",
+    "longitude": "2.1803453",
     "thumbnail_url": ""
   },
   {
-    "id": 4046,
-    "name": "Diputació x Bruc",
-    "latitude": "41.39328",
-    "longitude": "2.1707329",
+    "id": 11190,
+    "name": "Josep Tarradellas 116",
+    "latitude": "41.3900786",
+    "longitude": "2.1438026",
     "thumbnail_url": ""
   },
   {
-    "id": 749,
-    "name": "Club Natació",
-    "latitude": "41.3713952",
-    "longitude": "2.1889949",
+    "id": 729,
+    "name": "Bailèn 131",
+    "latitude": "41.3984259",
+    "longitude": "2.168802",
     "thumbnail_url": ""
   },
   {
@@ -889,66 +882,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6158,
-    "name": "Comte Borrell x Floridablanca (P x 2)",
-    "latitude": "41.3794871",
-    "longitude": "2.1598461",
+    "id": 1323,
+    "name": "Vilamarí - Parc Joan Miró ",
+    "latitude": "41.3779998",
+    "longitude": "2.1505405",
     "thumbnail_url": ""
   },
   {
-    "id": 2098,
-    "name": "Avila 143 ",
-    "latitude": "41.4004366",
-    "longitude": "2.1907113",
+    "id": 11902,
+    "name": "Dega Bahí 5",
+    "latitude": "41.4106376",
+    "longitude": "2.1828862",
     "thumbnail_url": ""
   },
   {
-    "id": 708,
-    "name": "Diagonal 197",
-    "latitude": "41.4042418",
-    "longitude": "2.1914174",
+    "id": 5121,
+    "name": "Av Litoral 14",
+    "latitude": "41.386723",
+    "longitude": "2.1954162",
     "thumbnail_url": ""
   },
   {
-    "id": 7657,
-    "name": "Cartagena 100 - Glòries ",
-    "latitude": "41.4030382",
-    "longitude": "2.1846623",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5955,
-    "name": "Marítim - Plaça de Brugada",
-    "latitude": "41.3799176",
-    "longitude": "2.1929033",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5115,
-    "name": "Pallars 375 - Diagonal",
-    "latitude": "41.4088827",
-    "longitude": "2.2080944",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1823,
-    "name": "Villarroel 184",
-    "latitude": "41.3905846",
-    "longitude": "2.1498243",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11335,
-    "name": "Ronda Sant Pau 68",
-    "latitude": "41.3781757",
-    "longitude": "2.1639633",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11812,
-    "name": "Castella 3",
-    "latitude": "41.4046646",
-    "longitude": "2.1987257",
+    "id": 11802,
+    "name": "Industria 107",
+    "latitude": "41.4070332",
+    "longitude": "2.1709011",
     "thumbnail_url": ""
   },
   {
@@ -959,10 +917,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2494,
-    "name": "Plaça Espanya",
-    "latitude": "41.3744912",
-    "longitude": "2.1498401",
+    "id": 8946,
+    "name": "Arc de Triomf lado sur",
+    "latitude": "41.3908847",
+    "longitude": "2.1803154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6144,
+    "name": "Trav. de les Corts 253",
+    "latitude": "41.3852129",
+    "longitude": "2.1322661",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5583,
+    "name": "Bac de Roda 34",
+    "latitude": "41.4041226",
+    "longitude": "2.208391",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33190,
+    "name": "Plaça Àngel Rodríguez",
+    "latitude": "41.3920683",
+    "longitude": "2.1340567",
     "thumbnail_url": ""
   },
   {
@@ -980,38 +959,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 431,
-    "name": "Casanova 38",
-    "latitude": "41.3841193",
-    "longitude": "2.1605529",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1914,
-    "name": "Gran Via 633 (3 parkings separados)",
-    "latitude": "41.3915419",
-    "longitude": "2.1711101",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11190,
-    "name": "Josep Tarradellas 116",
-    "latitude": "41.3900786",
-    "longitude": "2.1438026",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33190,
-    "name": "Plaça Àngel Rodríguez",
-    "latitude": "41.3920683",
-    "longitude": "2.1340567",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16761,
-    "name": "Plaça Duc Medinaceli",
-    "latitude": "41.3783397",
-    "longitude": "2.1794846",
+    "id": 1404,
+    "name": "Sepúlveda x Vilamari (P x 2)",
+    "latitude": "41.3761139",
+    "longitude": "2.1530678",
     "thumbnail_url": ""
   },
   {
@@ -1022,31 +973,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6714,
-    "name": "Diputació 447",
-    "latitude": "41.399988",
-    "longitude": "2.1798109",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1335,
-    "name": "Maria Claret 165",
-    "latitude": "41.4110372",
-    "longitude": "2.1741453",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5554,
-    "name": "Platja Nova Icària - Mokai",
-    "latitude": "41.390857",
-    "longitude": "2.202183",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 15761,
-    "name": "Plaça Sanllehy 10",
-    "latitude": "41.4140947",
-    "longitude": "2.1613002",
+    "id": 182,
+    "name": "Plaça Catalunya 14",
+    "latitude": "41.3872307",
+    "longitude": "2.171539",
     "thumbnail_url": ""
   },
   {
@@ -1057,13 +987,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3967,
-    "name": "Platja Nova Icaria",
-    "latitude": "41.3898554",
-    "longitude": "2.2007025",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31854,
     "name": "Jardins Xirigoi",
     "latitude": "41.4279003",
@@ -1071,10 +994,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2725,
-    "name": "Mallorca x Sardenya",
-    "latitude": "41.4026321",
-    "longitude": "2.1743565",
+    "id": 769,
+    "name": "Parlament 59 (P x 3)",
+    "latitude": "41.3776717",
+    "longitude": "2.1643962",
     "thumbnail_url": ""
   },
   {
@@ -1082,6 +1005,20 @@
     "name": "Trav. de Gracia 439",
     "latitude": "41.4111014",
     "longitude": "2.1730346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2128,
+    "name": "Passeig de Gracia 11",
+    "latitude": "41.3889745",
+    "longitude": "2.168575",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 277,
+    "name": "Pelai 1 (P x 3)",
+    "latitude": "41.3858743",
+    "longitude": "2.1650577",
     "thumbnail_url": ""
   },
   {
@@ -1099,10 +1036,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 13107,
-    "name": "Creu Coberta 36 ",
-    "latitude": "41.3753549",
-    "longitude": "2.1473407",
+    "id": 6152,
+    "name": "Equador 92",
+    "latitude": "41.3879928",
+    "longitude": "2.1380031",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6429,
+    "name": "Plaça Pons i Clerch ",
+    "latitude": "41.3868207",
+    "longitude": "2.1818458",
     "thumbnail_url": ""
   },
   {
@@ -1113,6 +1057,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5328,
+    "name": "Joan de Borbó x Hotel W",
+    "latitude": "41.3692432",
+    "longitude": "2.1879928",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6660,
+    "name": "Consell de Cent 317",
+    "latitude": "41.3893896",
+    "longitude": "2.1633256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 734,
+    "name": "Almirall Aixada 30",
+    "latitude": "41.3777251",
+    "longitude": "2.1911083",
+    "thumbnail_url": ""
+  },
+  {
     "id": 2318,
     "name": "Calàbria 267",
     "latitude": "41.3873441",
@@ -1120,10 +1085,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4832,
-    "name": "Parc Guell entrada c/Olot",
-    "latitude": "41.413618",
-    "longitude": "2.1534598",
+    "id": 749,
+    "name": "Club Natació",
+    "latitude": "41.3713952",
+    "longitude": "2.1889949",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 432,
+    "name": "Rambla Catalunya 18",
+    "latitude": "41.3886241",
+    "longitude": "2.1668179",
     "thumbnail_url": ""
   },
   {
@@ -1141,73 +1113,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4769,
-    "name": "Bilbao 34",
-    "latitude": "41.402504",
-    "longitude": "2.2041493",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 757,
-    "name": "Nicaragua 46",
-    "latitude": "41.3831814",
-    "longitude": "2.1414737",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 442,
-    "name": "Roger de Llúria 1",
-    "latitude": "41.3897689",
-    "longitude": "2.1731593",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 206,
-    "name": "Pg. de Gràcia 107",
-    "latitude": "41.3961593",
-    "longitude": "2.1595967",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11724,
-    "name": "Viladomat 52",
-    "latitude": "41.3774067",
-    "longitude": "2.1603998",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2312,
-    "name": "Plaça Colom  (kiosk)",
-    "latitude": "41.3762012",
-    "longitude": "2.1784962",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6876,
-    "name": "Plaça Caba",
-    "latitude": "41.3856407",
-    "longitude": "2.1423511",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3103,
-    "name": "Corsega 337",
-    "latitude": "41.3977581",
-    "longitude": "2.1608627",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 277,
-    "name": "Pelai 1 (P x 3)",
-    "latitude": "41.3858743",
-    "longitude": "2.1650577",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11643,
-    "name": "Lepant 410",
-    "latitude": "41.4103595",
-    "longitude": "2.1690537",
+    "id": 5448,
+    "name": "Comte Urgell 129",
+    "latitude": "41.3859696",
+    "longitude": "2.1534222",
     "thumbnail_url": ""
   },
   {
@@ -1218,17 +1127,122 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4777,
-    "name": "Lope de Vega 5",
-    "latitude": "41.4008777",
-    "longitude": "2.2082251",
+    "id": 2421,
+    "name": "Gran Via 704 (2 parkings separados)",
+    "latitude": "41.393949",
+    "longitude": "2.1746452",
     "thumbnail_url": ""
   },
   {
-    "id": 11813,
-    "name": "Pere IV 193",
-    "latitude": "41.4043588",
-    "longitude": "2.1989456",
+    "id": 421,
+    "name": "Ronda Sant Pau 15 (P x 2)",
+    "latitude": "41.376041",
+    "longitude": "2.1665071",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 757,
+    "name": "Nicaragua 46",
+    "latitude": "41.3831814",
+    "longitude": "2.1414737",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1421,
+    "name": "Bac de Roda 35",
+    "latitude": "41.403296",
+    "longitude": "2.2092953",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 7089,
+    "name": "Viladomat 10",
+    "latitude": "41.375699",
+    "longitude": "2.1626845",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16545,
+    "name": "Bruc 91 (2 parking separados)",
+    "latitude": "41.3954298",
+    "longitude": "2.1680682",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14880,
+    "name": "Alaba x Sancho de Avila",
+    "latitude": "41.3990906",
+    "longitude": "2.190431",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4769,
+    "name": "Bilbao 34",
+    "latitude": "41.402504",
+    "longitude": "2.2041493",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5783,
+    "name": "Passeig de Gracia 54-56",
+    "latitude": "41.3922646",
+    "longitude": "2.1650453",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11724,
+    "name": "Viladomat 52",
+    "latitude": "41.3774067",
+    "longitude": "2.1603998",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6876,
+    "name": "Plaça Caba",
+    "latitude": "41.3856407",
+    "longitude": "2.1423511",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11643,
+    "name": "Lepant 410",
+    "latitude": "41.4103595",
+    "longitude": "2.1690537",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 7056,
+    "name": "Casino",
+    "latitude": "41.3865001",
+    "longitude": "2.1976729",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2308,
+    "name": "Plaça Levant",
+    "latitude": "41.4111333",
+    "longitude": "2.2194631",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1481,
+    "name": "Rector Triadó 100",
+    "latitude": "41.3788326",
+    "longitude": "2.1423648",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3105,
+    "name": "Gran Via 461",
+    "latitude": "41.3794112",
+    "longitude": "2.154654",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 376,
+    "name": "Consell de Cent 623",
+    "latitude": "41.4067409",
+    "longitude": "2.1864729",
     "thumbnail_url": ""
   },
   {
@@ -1239,24 +1253,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 415,
-    "name": "Diputació 341",
-    "latitude": "41.394735",
-    "longitude": "2.172745",
+    "id": 8611,
+    "name": "Escorial 148 (clínica Remei) ",
+    "latitude": "41.4094794",
+    "longitude": "2.1593608",
     "thumbnail_url": ""
   },
   {
-    "id": 1757,
-    "name": "Còrsega 306",
-    "latitude": "41.3960382",
-    "longitude": "2.158681",
+    "id": 3074,
+    "name": "Hotel 4 Barcelona",
+    "latitude": "41.3959938",
+    "longitude": "2.2010737",
     "thumbnail_url": ""
   },
   {
-    "id": 367,
-    "name": "Plaça Colom",
-    "latitude": "41.3752719",
-    "longitude": "2.1777341",
+    "id": 1410,
+    "name": "Joan Peiró",
+    "latitude": "41.3781522",
+    "longitude": "2.1389759",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2301,
+    "name": "Picasso 34",
+    "latitude": "41.3863033",
+    "longitude": "2.1846145",
     "thumbnail_url": ""
   },
   {
@@ -1274,38 +1295,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1410,
-    "name": "Joan Peiró",
-    "latitude": "41.3781522",
-    "longitude": "2.1389759",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1482,
-    "name": "Arco Triunfo",
-    "latitude": "41.3913664",
-    "longitude": "2.1801099",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2054,
-    "name": "Pg. de Gràcia 91",
-    "latitude": "41.3948502",
-    "longitude": "2.1612848",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32274,
     "name": "DHub lado Glories",
     "latitude": "41.4030878",
     "longitude": "2.1877534",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2989,
-    "name": "Mallorca x Marina (Sagrada F.) 2 parkings",
-    "latitude": "41.4036061",
-    "longitude": "2.1756175",
     "thumbnail_url": ""
   },
   {
@@ -1316,34 +1309,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5121,
-    "name": "Av Litoral 14",
-    "latitude": "41.386723",
-    "longitude": "2.1954162",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6560,
-    "name": "Plaça de l'Angel",
-    "latitude": "41.3838737",
-    "longitude": "2.1784617",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6660,
-    "name": "Consell de Cent 317",
-    "latitude": "41.3893896",
-    "longitude": "2.1633256",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11671,
-    "name": "Francesc Cambo 15",
-    "latitude": "41.3859851",
-    "longitude": "2.1774291",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27887,
     "name": "Guinardo 203",
     "latitude": "41.4207042",
@@ -1351,31 +1316,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11678,
-    "name": "Davant del Portal Nou",
-    "latitude": "41.3901212",
-    "longitude": "2.1803453",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11814,
-    "name": "Dos de Maig 311",
-    "latitude": "41.4110882",
-    "longitude": "2.1764102",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31279,
-    "name": "Institut Sants",
-    "latitude": "41.3813905",
-    "longitude": "2.1402469",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16545,
-    "name": "Bruc 91 (2 parking separados)",
-    "latitude": "41.3954298",
-    "longitude": "2.1680682",
+    "id": 5554,
+    "name": "Platja Nova Icària - Mokai",
+    "latitude": "41.390857",
+    "longitude": "2.202183",
     "thumbnail_url": ""
   },
   {
@@ -1386,13 +1330,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31548,
-    "name": "Borbo rubianes ",
-    "latitude": "41.3779482",
-    "longitude": "2.1879439",
-    "thumbnail_url": ""
-  },
-  {
     "id": 4937,
     "name": "Mallorca 572",
     "latitude": "41.409795",
@@ -1400,10 +1337,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5857,
-    "name": "Floridablanca 135",
-    "latitude": "41.3816842",
-    "longitude": "2.162566",
+    "id": 2989,
+    "name": "Mallorca x Marina (Sagrada F.) 2 parkings",
+    "latitude": "41.4036061",
+    "longitude": "2.1756175",
     "thumbnail_url": ""
   },
   {
@@ -1414,10 +1351,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5788,
-    "name": "Platja del Bogatell - La Guingueta",
-    "latitude": "41.3933341",
-    "longitude": "2.2055907",
+    "id": 11935,
+    "name": "Valencia 448",
+    "latitude": "41.4027186",
+    "longitude": "2.1766711",
     "thumbnail_url": ""
   },
   {
@@ -1425,6 +1362,13 @@
     "name": "Parc del Poblenou",
     "latitude": "41.4075937",
     "longitude": "2.2019033",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5347,
+    "name": "Trav. de Gracia 116",
+    "latitude": "41.3996955",
+    "longitude": "2.1553356",
     "thumbnail_url": ""
   },
   {
@@ -1456,10 +1400,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2421,
-    "name": "Gran Via 704 (2 parkings separados)",
-    "latitude": "41.393949",
-    "longitude": "2.1746452",
+    "id": 11716,
+    "name": "Etenca 42",
+    "latitude": "41.3774472",
+    "longitude": "2.1535269",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1823,
+    "name": "Villarroel 184",
+    "latitude": "41.3905846",
+    "longitude": "2.1498243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12171,
+    "name": "Rambla Poblenou 20",
+    "latitude": "41.3984731",
+    "longitude": "2.204637",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2136,
+    "name": "Provença 290",
+    "latitude": "41.394407",
+    "longitude": "2.161139",
     "thumbnail_url": ""
   },
   {
@@ -1470,10 +1435,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5745,
+    "name": "Barceloneta - Bacoa ",
+    "latitude": "41.3767142",
+    "longitude": "2.1905504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5585,
+    "name": "Ramon Turró 196 - Ilunion Hotel",
+    "latitude": "41.3989932",
+    "longitude": "2.2018268",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11434,
+    "name": "Museu Guardia Urbana",
+    "latitude": "41.3715925",
+    "longitude": "2.1543369",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17097,
     "name": "Plaça Anna Frank - Tradicionarius",
     "latitude": "41.4025429",
     "longitude": "2.1543671",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5110,
+    "name": "Parc de la Barceloneta - Marítim",
+    "latitude": "41.3816911",
+    "longitude": "2.1939906",
     "thumbnail_url": ""
   },
   {
@@ -1491,10 +1484,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 13369,
-    "name": "Platja del Somorrostro (3 Parking) ",
-    "latitude": "41.3847383",
-    "longitude": "2.1958997",
+    "id": 7657,
+    "name": "Cartagena 100 - Glòries ",
+    "latitude": "41.4030382",
+    "longitude": "2.1846623",
     "thumbnail_url": ""
   },
   {
@@ -1512,13 +1505,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5465,
-    "name": "Badajoz 162 - SB Hotel  x2",
-    "latitude": "41.4024213",
-    "longitude": "2.1904287",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31176,
     "name": "Estacio Fabra i Puig (x2)",
     "latitude": "41.4300901",
@@ -1526,17 +1512,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6672,
-    "name": "Plaça General Moragues",
-    "latitude": "41.4179129",
-    "longitude": "2.1902207",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6812,
-    "name": "Josep pla",
-    "latitude": "41.4109049",
-    "longitude": "2.2127547",
+    "id": 4777,
+    "name": "Lope de Vega 5",
+    "latitude": "41.4008777",
+    "longitude": "2.2082251",
     "thumbnail_url": ""
   },
   {
@@ -1544,13 +1523,6 @@
     "name": "Torrent Flors 30",
     "latitude": "41.4054511",
     "longitude": "2.1610263",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1321,
-    "name": "Maria Cubí 77",
-    "latitude": "41.3976048",
-    "longitude": "2.1486422",
     "thumbnail_url": ""
   },
   {
@@ -1568,6 +1540,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 6560,
+    "name": "Plaça de l'Angel",
+    "latitude": "41.3838737",
+    "longitude": "2.1784617",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5713,
+    "name": "Mare Nostrum Beach Garden",
+    "latitude": "41.3735663",
+    "longitude": "2.1893206",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19284,
     "name": "Parlament",
     "latitude": "41.3873582",
@@ -1582,10 +1568,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 580,
-    "name": "Carrera 25",
-    "latitude": "41.3735455",
-    "longitude": "2.1745429",
+    "id": 6672,
+    "name": "Plaça General Moragues",
+    "latitude": "41.4179129",
+    "longitude": "2.1902207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4652,
+    "name": "Diputació 385",
+    "latitude": "41.3971565",
+    "longitude": "2.1759702",
     "thumbnail_url": ""
   },
   {
@@ -1603,17 +1596,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5405,
-    "name": "Muntaner 130",
-    "latitude": "41.3897366",
-    "longitude": "2.1553802",
+    "id": 1824,
+    "name": "Provença x Comte d'Urgell (P x 2)",
+    "latitude": "41.3873275",
+    "longitude": "2.1516858",
     "thumbnail_url": ""
   },
   {
-    "id": 14880,
-    "name": "Alaba x Sancho de Avila",
-    "latitude": "41.3990906",
-    "longitude": "2.190431",
+    "id": 367,
+    "name": "Plaça Colom",
+    "latitude": "41.3752719",
+    "longitude": "2.1777341",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5637,
+    "name": "Litoral - McDonald's",
+    "latitude": "41.391959",
+    "longitude": "2.2040446",
     "thumbnail_url": ""
   },
   {
@@ -1628,13 +1628,6 @@
     "name": "Rosselló 225",
     "latitude": "41.393526",
     "longitude": "2.1575692",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1183,
-    "name": "Numància 29",
-    "latitude": "41.3821874",
-    "longitude": "2.1403575",
     "thumbnail_url": ""
   },
   {
@@ -1656,6 +1649,20 @@
     "name": "Fira 1",
     "latitude": "41.354307",
     "longitude": "2.1267885",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2054,
+    "name": "Pg. de Gràcia 91",
+    "latitude": "41.3948502",
+    "longitude": "2.1612848",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6482,
+    "name": "Plaça Goya",
+    "latitude": "41.3839597",
+    "longitude": "2.163732",
     "thumbnail_url": ""
   },
   {
@@ -1722,6 +1729,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 1793,
+    "name": "Icaria 200 (2 lados)",
+    "latitude": "41.3941595",
+    "longitude": "2.2004561",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11919,
     "name": "Provença 382",
     "latitude": "41.4007402",
@@ -1757,6 +1771,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 12176,
+    "name": "Lull 199",
+    "latitude": "41.4015835",
+    "longitude": "2.2028555",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11775,
     "name": "Consell de Cent x Villarroel",
     "latitude": "41.38482",
@@ -1768,13 +1789,6 @@
     "name": "Diputacio 276",
     "latitude": "41.3918873",
     "longitude": "2.1690962",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11837,
-    "name": "Llul 239",
-    "latitude": "41.4031",
-    "longitude": "2.2048157",
     "thumbnail_url": ""
   },
   {
@@ -1792,10 +1806,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 763,
-    "name": "Plaça Catalunya 5",
-    "latitude": "41.3866516",
-    "longitude": "2.1691088",
+    "id": 268,
+    "name": "Balmes 117",
+    "latitude": "41.3922671",
+    "longitude": "2.1584901",
     "thumbnail_url": ""
   },
   {
@@ -1827,17 +1841,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 1008,
+    "name": "Gran Via 383 (varios parkings)",
+    "latitude": "41.3760368",
+    "longitude": "2.1502022",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11887,
     "name": "Castillejos 306",
     "latitude": "41.4084682",
     "longitude": "2.1758496",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11090,
-    "name": "Calàbria 66 y 79 (P x 2)",
-    "latitude": "41.3784861",
-    "longitude": "2.1566905",
     "thumbnail_url": ""
   },
   {
@@ -1862,6 +1876,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 3647,
+    "name": "Litoral 32",
+    "latitude": "41.3886822",
+    "longitude": "2.1993685",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11188,
     "name": "Av. Sarriá 19",
     "latitude": "41.3899982",
@@ -1869,10 +1890,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11370,
-    "name": "Bonsucces 1",
-    "latitude": "41.3839396",
-    "longitude": "2.1696841",
+    "id": 5742,
+    "name": "Picasso 14",
+    "latitude": "41.3875815",
+    "longitude": "2.1829348",
     "thumbnail_url": ""
   },
   {
@@ -1887,20 +1908,6 @@
     "name": "Blai 61 ",
     "latitude": "41.3746169",
     "longitude": "2.1621438",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 929,
-    "name": "Calàbria 11",
-    "latitude": "41.3756396",
-    "longitude": "2.1603003",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 10697,
-    "name": "Plaça Virreina",
-    "latitude": "41.4047431",
-    "longitude": "2.1573168",
     "thumbnail_url": ""
   },
   {
@@ -1939,6 +1946,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 708,
+    "name": "Diagonal 197",
+    "latitude": "41.4042418",
+    "longitude": "2.1914174",
+    "thumbnail_url": ""
+  },
+  {
     "id": 760,
     "name": "Consell de Cent 262",
     "latitude": "41.3877259",
@@ -1971,13 +1985,6 @@
     "name": "Rambla Prim 90",
     "latitude": "41.4159804",
     "longitude": "2.2131285",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 15001,
-    "name": "Rambla Raval 4",
-    "latitude": "41.3793616",
-    "longitude": "2.1682015",
     "thumbnail_url": ""
   },
   {
@@ -2093,13 +2100,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6153,
-    "name": "Tarragona 99 - Plaça Espanya ",
-    "latitude": "41.3756838",
-    "longitude": "2.1485343",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5957,
     "name": "Tenor Viñas 1",
     "latitude": "41.394891",
@@ -2111,13 +2111,6 @@
     "name": "Pg. Sant Joan 134",
     "latitude": "41.4011118",
     "longitude": "2.1675421",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11434,
-    "name": "Museu Guardia Urbana",
-    "latitude": "41.3715925",
-    "longitude": "2.1543369",
     "thumbnail_url": ""
   },
   {
@@ -2198,10 +2191,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11433,
-    "name": "Font magica",
-    "latitude": "41.3718061",
-    "longitude": "2.151308",
+    "id": 1397,
+    "name": "Arago 336",
+    "latitude": "41.3960081",
+    "longitude": "2.1701264",
     "thumbnail_url": ""
   },
   {
@@ -2209,13 +2202,6 @@
     "name": "Pujades 31 (full)",
     "latitude": "41.3911601",
     "longitude": "2.1861878",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14338,
-    "name": "Buenaventura Muñoz x Marina",
-    "latitude": "41.3937494",
-    "longitude": "2.1879527",
     "thumbnail_url": ""
   },
   {
@@ -2275,6 +2261,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 14338,
+    "name": "Buenaventura Muñoz x Marina",
+    "latitude": "41.3937494",
+    "longitude": "2.1879527",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 10980,
+    "name": "Josep Torres 27",
+    "latitude": "41.4012706",
+    "longitude": "2.1622032",
+    "thumbnail_url": ""
+  },
+  {
     "id": 12156,
     "name": "Diagonal 1",
     "latitude": "41.4114988",
@@ -2286,13 +2286,6 @@
     "name": "Bruc 6 (2 parkings separados)",
     "latitude": "41.3893306",
     "longitude": "2.1763294",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2484,
-    "name": "Diputació 301 - Central Garden",
-    "latitude": "41.3924619",
-    "longitude": "2.1697149",
     "thumbnail_url": ""
   },
   {
@@ -2324,13 +2317,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11821,
-    "name": "Pallares x Ciutat de Granada",
-    "latitude": "41.3998928",
-    "longitude": "2.1961176",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23839,
     "name": "Llull 141",
     "latitude": "41.3988831",
@@ -2345,17 +2331,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14561,
-    "name": "Almogavers 200",
-    "latitude": "41.4013447",
-    "longitude": "2.1958285",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1824,
-    "name": "Provença x Comte d'Urgell (P x 2)",
-    "latitude": "41.3873275",
-    "longitude": "2.1516858",
+    "id": 11433,
+    "name": "Font magica",
+    "latitude": "41.3718061",
+    "longitude": "2.151308",
     "thumbnail_url": ""
   },
   {
@@ -2394,13 +2373,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12385,
-    "name": "Napols - entrada Parque Estació Nord",
-    "latitude": "41.3930258",
-    "longitude": "2.1824812",
-    "thumbnail_url": ""
-  },
-  {
     "id": 13706,
     "name": "Numancia 1",
     "latitude": "41.3809844",
@@ -2426,13 +2398,6 @@
     "name": "Ramon Turró 77",
     "latitude": "41.394401",
     "longitude": "2.1955343",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5745,
-    "name": "Barceloneta - Bacoa ",
-    "latitude": "41.3767142",
-    "longitude": "2.1905504",
     "thumbnail_url": ""
   },
   {
@@ -2527,20 +2492,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23202,
-    "name": "Selva de Mar x Llull",
-    "latitude": "41.4073965",
-    "longitude": "2.2105094",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23828,
-    "name": "Metro Catalunya - Lado Zurich",
-    "latitude": "41.3857465",
-    "longitude": "2.1698404",
-    "thumbnail_url": ""
-  },
-  {
     "id": 7034,
     "name": "Plaça Sant Cugat",
     "latitude": "41.3866281",
@@ -2590,31 +2541,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 706,
-    "name": "Maritim Bogatell 111",
-    "latitude": "41.3964786",
-    "longitude": "2.2089709",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29234,
     "name": "Sardeña x Aragó",
     "latitude": "41.4011307",
     "longitude": "2.1763052",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14333,
-    "name": "Bogatell - blau i blanc",
-    "latitude": "41.3939744",
-    "longitude": "2.2057498",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11675,
-    "name": "Plaça de la Academia",
-    "latitude": "41.3875775",
-    "longitude": "2.1808422",
     "thumbnail_url": ""
   },
   {
@@ -2625,17 +2555,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 11671,
+    "name": "Francesc Cambo 15",
+    "latitude": "41.3859851",
+    "longitude": "2.1774291",
+    "thumbnail_url": ""
+  },
+  {
     "id": 8266,
     "name": "Passeig de Gracia 129 ",
     "latitude": "41.3975431",
     "longitude": "2.1578657",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3116,
-    "name": "Barceloneta Metro  PORT",
-    "latitude": "41.3820824",
-    "longitude": "2.1852829",
     "thumbnail_url": ""
   },
   {
@@ -2650,13 +2580,6 @@
     "name": "Marítim - Hospital del Mar",
     "latitude": "41.383122",
     "longitude": "2.1947899",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5637,
-    "name": "Litoral - McDonald's",
-    "latitude": "41.391959",
-    "longitude": "2.2040446",
     "thumbnail_url": ""
   },
   {
@@ -2681,24 +2604,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27692,
-    "name": "Diputació 205",
-    "latitude": "41.3862189",
-    "longitude": "2.1615255",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30702,
     "name": "Moll Nova Icaria",
     "latitude": "41.3891602",
     "longitude": "2.2003364",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33004,
-    "name": "Playa Sant Miquel",
-    "latitude": "41.3773857",
-    "longitude": "2.1913436",
     "thumbnail_url": ""
   },
   {
@@ -2821,6 +2730,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 7548,
+    "name": "Pintor Fortuny 7",
+    "latitude": "41.3832409",
+    "longitude": "2.1703089",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11928,
     "name": "Diagonal 332",
     "latitude": "41.4004899",
@@ -2853,13 +2769,6 @@
     "name": "Sant Pere 66",
     "latitude": "41.3910647",
     "longitude": "2.1785431",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11568,
-    "name": "Exposición 42",
-    "latitude": "41.3715502",
-    "longitude": "2.1616939",
     "thumbnail_url": ""
   },
   {
@@ -2982,20 +2891,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2308,
-    "name": "Plaça Levant",
-    "latitude": "41.4111333",
-    "longitude": "2.2194631",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17933,
-    "name": "Mallorca x Lepant (P x 2)",
-    "latitude": "41.404411",
-    "longitude": "2.1767558",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5446,
     "name": "Platja del Bogatell - Vai Moana ",
     "latitude": "41.3944041",
@@ -3017,13 +2912,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11832,
-    "name": "Pujades x Roc Boronat x2🅿️",
-    "latitude": "41.399998",
-    "longitude": "2.1983278",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5414,
     "name": "Augusta 48",
     "latitude": "41.3981872",
@@ -3035,13 +2923,6 @@
     "name": "bac Roda / Gran via",
     "latitude": "41.4120276",
     "longitude": "2.1979425",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6160,
-    "name": "Bilbao 180",
-    "latitude": "41.4102535",
-    "longitude": "2.1937242",
     "thumbnail_url": ""
   },
   {
@@ -3087,31 +2968,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 13358,
-    "name": "Gran Via 333",
-    "latitude": "41.37315",
-    "longitude": "2.1462995",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 10980,
-    "name": "Josep Torres 27",
-    "latitude": "41.4012706",
-    "longitude": "2.1622032",
-    "thumbnail_url": ""
-  },
-  {
     "id": 11010,
     "name": "Augusta 173",
     "latitude": "41.3982689",
     "longitude": "2.1420311",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 13871,
-    "name": "Jaume Fabra 1",
-    "latitude": "41.3748053",
-    "longitude": "2.1602048",
     "thumbnail_url": ""
   },
   {
@@ -3136,13 +2996,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5775,
-    "name": "Casanova 270",
-    "latitude": "41.3943288",
-    "longitude": "2.1470574",
-    "thumbnail_url": ""
-  },
-  {
     "id": 11754,
     "name": "Roselló 94",
     "latitude": "41.3874273",
@@ -3154,13 +3007,6 @@
     "name": "Avenida de Roma 98",
     "latitude": "41.3842299",
     "longitude": "2.1523813",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14071,
-    "name": "Junta del Comerç 4 y 14 (P x 2)",
-    "latitude": "41.3801923",
-    "longitude": "2.1711205",
     "thumbnail_url": ""
   },
   {
@@ -3199,13 +3045,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18772,
-    "name": "Pla de Palau - PORT",
-    "latitude": "41.3824069",
-    "longitude": "2.184424",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5551,
     "name": "Vila i Vila  74",
     "latitude": "41.3743733",
@@ -3220,10 +3059,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15960,
-    "name": "Diagonal 545",
-    "latitude": "41.390343",
-    "longitude": "2.1366047",
+    "id": 6495,
+    "name": "Pg Colom (Capitanía)",
+    "latitude": "41.3796172",
+    "longitude": "2.1805816",
     "thumbnail_url": ""
   },
   {
@@ -3241,17 +3080,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 11794,
+    "name": "Glories - entrada principal",
+    "latitude": "41.4043998",
+    "longitude": "2.1898558",
+    "thumbnail_url": ""
+  },
+  {
     "id": 1409,
     "name": "París 99",
     "latitude": "41.3890132",
     "longitude": "2.1471496",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 13113,
-    "name": "Litoral - Hisenda ",
-    "latitude": "41.388306",
-    "longitude": "2.1977482",
     "thumbnail_url": ""
   },
   {
@@ -3311,13 +3150,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4702,
-    "name": "Passeig de Gracia 42",
-    "latitude": "41.3911292",
-    "longitude": "2.166329",
-    "thumbnail_url": ""
-  },
-  {
     "id": 6559,
     "name": "Catedral lado Laietana",
     "latitude": "41.3852376",
@@ -3346,10 +3178,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 2494,
+    "name": "Plaça Espanya",
+    "latitude": "41.3744912",
+    "longitude": "2.1498401",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11828,
     "name": "Pujades 272",
     "latitude": "41.4050458",
     "longitude": "2.2052531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 10576,
+    "name": "Carolines 17",
+    "latitude": "41.4034082",
+    "longitude": "2.150881",
     "thumbnail_url": ""
   },
   {
@@ -3364,6 +3210,13 @@
     "name": "Pujades 59",
     "latitude": "41.3959853",
     "longitude": "2.1930964",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11635,
+    "name": "Pla de Palau ",
+    "latitude": "41.3831547",
+    "longitude": "2.1830057",
     "thumbnail_url": ""
   },
   {
@@ -3437,13 +3290,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5448,
-    "name": "Comte Urgell 129",
-    "latitude": "41.3859696",
-    "longitude": "2.1534222",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27586,
     "name": "Tanger x S. Joan de Malta ",
     "latitude": "41.4055213",
@@ -3493,13 +3339,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14454,
-    "name": "Provença 324",
-    "latitude": "41.3969671",
-    "longitude": "2.1645221",
-    "thumbnail_url": ""
-  },
-  {
     "id": 15848,
     "name": "Valencia 250",
     "latitude": "41.391264",
@@ -3542,13 +3381,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26361,
-    "name": "Castillejos 290",
-    "latitude": "41.407725",
-    "longitude": "2.1766742",
-    "thumbnail_url": ""
-  },
-  {
     "id": 15632,
     "name": "Rosselló 120 (2 parkings separados)",
     "latitude": "41.3888606",
@@ -3588,6 +3420,13 @@
     "name": "Museu Maritim ",
     "latitude": "41.3754857",
     "longitude": "2.1771179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 13871,
+    "name": "Jaume Fabra 1",
+    "latitude": "41.3748053",
+    "longitude": "2.1602048",
     "thumbnail_url": ""
   },
   {
@@ -3661,13 +3500,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12229,
-    "name": "Dr. Aiguader 40",
-    "latitude": "41.3836465",
-    "longitude": "2.1901231",
-    "thumbnail_url": ""
-  },
-  {
     "id": 7033,
     "name": "Paralel x Nou de la Rambla (P x 2)",
     "latitude": "41.3749435",
@@ -3679,13 +3511,6 @@
     "name": "Ciutadella Oeste",
     "latitude": "41.3874316",
     "longitude": "2.1835401",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11243,
-    "name": "Portal del Angel 9",
-    "latitude": "41.3851601",
-    "longitude": "2.1738362",
     "thumbnail_url": ""
   },
   {
@@ -3710,20 +3535,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30283,
-    "name": "Taulat Drets socials",
-    "latitude": "41.4096323",
-    "longitude": "2.2180125",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16067,
-    "name": "Gran Via 572",
-    "latitude": "41.3843919",
-    "longitude": "2.1618317",
-    "thumbnail_url": ""
-  },
-  {
     "id": 368,
     "name": "Pallars 121",
     "latitude": "41.3972316",
@@ -3742,6 +3553,13 @@
     "name": "Corsega 485",
     "latitude": "41.4034711",
     "longitude": "2.1684944",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31369,
+    "name": "Parlament 1",
+    "latitude": "41.3754379",
+    "longitude": "2.1611013",
     "thumbnail_url": ""
   },
   {
@@ -3773,13 +3591,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 7423,
-    "name": "Gas - Barceloneta ",
-    "latitude": "41.3827198",
-    "longitude": "2.1939465",
-    "thumbnail_url": ""
-  },
-  {
     "id": 11130,
     "name": "Diagonal 648",
     "latitude": "41.3902678",
@@ -3787,17 +3598,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 1757,
+    "name": "Còrsega 306",
+    "latitude": "41.3960382",
+    "longitude": "2.158681",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 929,
+    "name": "Calàbria 11",
+    "latitude": "41.3756396",
+    "longitude": "2.1603003",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11833,
+    "name": "Pujades x Ciutat de Granada",
+    "latitude": "41.3990383",
+    "longitude": "2.1973912",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11973,
     "name": "Mallorca 471",
     "latitude": "41.4068174",
     "longitude": "2.1798875",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1404,
-    "name": "Sepúlveda x Vilamari (P x 2)",
-    "latitude": "41.3761139",
-    "longitude": "2.1530678",
     "thumbnail_url": ""
   },
   {
@@ -3829,17 +3654,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23119,
-    "name": "Villarroel 146",
-    "latitude": "41.3871999",
-    "longitude": "2.1542524",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32837,
     "name": "Escola d'Adults",
     "latitude": "41.4042496",
     "longitude": "2.1973629",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4702,
+    "name": "Passeig de Gracia 42",
+    "latitude": "41.3911292",
+    "longitude": "2.166329",
     "thumbnail_url": ""
   },
   {
@@ -3857,24 +3682,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16793,
-    "name": "Sant Oleguer 22 (P x 2)",
-    "latitude": "41.3770964",
-    "longitude": "2.1717642",
-    "thumbnail_url": ""
-  },
-  {
     "id": 11181,
     "name": "Paris 150",
     "latitude": "41.3916881",
     "longitude": "2.150621",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5783,
-    "name": "Passeig de Gracia 54-56",
-    "latitude": "41.3922646",
-    "longitude": "2.1650453",
     "thumbnail_url": ""
   },
   {
@@ -3983,10 +3794,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23625,
-    "name": "Diagonal x Valencia",
-    "latitude": "41.4002407",
-    "longitude": "2.1735133",
+    "id": 2768,
+    "name": "Lluís Companys 18 (2 separate racks)",
+    "latitude": "41.3910474",
+    "longitude": "2.1814962",
     "thumbnail_url": ""
   },
   {
@@ -4039,6 +3850,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 2483,
+    "name": "Marina x Pujades lado Este",
+    "latitude": "41.3931575",
+    "longitude": "2.1893799",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23828,
+    "name": "Metro Catalunya - Lado Zurich",
+    "latitude": "41.3857465",
+    "longitude": "2.1698404",
+    "thumbnail_url": ""
+  },
+  {
     "id": 10547,
     "name": "Torre 9",
     "latitude": "41.4040968",
@@ -4081,6 +3906,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 2329,
+    "name": "Muntaner 25",
+    "latitude": "41.3850359",
+    "longitude": "2.1616942",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11150,
     "name": "Muntaner 314",
     "latitude": "41.3968877",
@@ -4095,20 +3927,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15984,
-    "name": "Espriu 27",
-    "latitude": "41.3885585",
-    "longitude": "2.1964076",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 8156,
-    "name": "Cristóbal Moura 144",
-    "latitude": "41.4129165",
-    "longitude": "2.2092893",
-    "thumbnail_url": ""
-  },
-  {
     "id": 6484,
     "name": "Ronda Sant Pau 3",
     "latitude": "41.3754012",
@@ -4120,13 +3938,6 @@
     "name": "Londres 92",
     "latitude": "41.393433",
     "longitude": "2.150899",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6495,
-    "name": "Pg Colom (Capitanía)",
-    "latitude": "41.3796172",
-    "longitude": "2.1805816",
     "thumbnail_url": ""
   },
   {
@@ -4155,13 +3966,6 @@
     "name": "Diagonal 60",
     "latitude": "41.4093827",
     "longitude": "2.2111533",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31909,
-    "name": "Meridiana Espronceda ",
-    "latitude": "41.4179494",
-    "longitude": "2.1871581",
     "thumbnail_url": ""
   },
   {
@@ -4207,13 +4011,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15162,
-    "name": "Lacuna 98",
-    "latitude": "41.4029934",
-    "longitude": "2.1965214",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28179,
     "name": "CEM Maresme",
     "latitude": "41.4120701",
@@ -4225,13 +4022,6 @@
     "name": "Rambla Prim 152",
     "latitude": "41.4182707",
     "longitude": "2.209927",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12374,
-    "name": "Zamora x Meridiana",
-    "latitude": "41.3981318",
-    "longitude": "2.187056",
     "thumbnail_url": ""
   },
   {
@@ -4274,13 +4064,6 @@
     "name": "Ramon Turro 226",
     "latitude": "41.4004829",
     "longitude": "2.2037076",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11191,
-    "name": "Ronda Sant Pere 50 (3 parking) ",
-    "latitude": "41.3903789",
-    "longitude": "2.1765035",
     "thumbnail_url": ""
   },
   {
@@ -4368,13 +4151,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 7787,
-    "name": "Plaça Real (P x 6)",
-    "latitude": "41.3798356",
-    "longitude": "2.1752886",
-    "thumbnail_url": ""
-  },
-  {
     "id": 4840,
     "name": "Diagonal x Rosselló",
     "latitude": "41.3977287",
@@ -4386,6 +4162,13 @@
     "name": "Placeta Sant Miguel ",
     "latitude": "41.3984271",
     "longitude": "2.1557271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 442,
+    "name": "Roger de Llúria 1",
+    "latitude": "41.3897689",
+    "longitude": "2.1731593",
     "thumbnail_url": ""
   },
   {
@@ -4487,13 +4270,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26344,
-    "name": "Escola A.Galí",
-    "latitude": "41.3812861",
-    "longitude": "2.1935001",
-    "thumbnail_url": ""
-  },
-  {
     "id": 7299,
     "name": "Selva de Mar 53",
     "latitude": "41.4096641",
@@ -4505,6 +4281,13 @@
     "name": "Legalitat 51",
     "latitude": "41.4085162",
     "longitude": "2.1614017",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15001,
+    "name": "Rambla Raval 4",
+    "latitude": "41.3793616",
+    "longitude": "2.1682015",
     "thumbnail_url": ""
   },
   {
@@ -4543,10 +4326,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 734,
-    "name": "Almirall Aixada 30",
-    "latitude": "41.3777251",
-    "longitude": "2.1911083",
+    "id": 15984,
+    "name": "Espriu 27",
+    "latitude": "41.3885585",
+    "longitude": "2.1964076",
     "thumbnail_url": ""
   },
   {
@@ -4568,6 +4351,13 @@
     "name": "Girona 1",
     "latitude": "41.3905537",
     "longitude": "2.1767214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31279,
+    "name": "Institut Sants",
+    "latitude": "41.3813905",
+    "longitude": "2.1402469",
     "thumbnail_url": ""
   },
   {
@@ -4596,6 +4386,13 @@
     "name": "Hipolit Lazaro 13",
     "latitude": "41.4065696",
     "longitude": "2.1645324",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27294,
+    "name": "Hotel Leonardo",
+    "latitude": "41.3576151",
+    "longitude": "2.1384335",
     "thumbnail_url": ""
   },
   {
@@ -4634,17 +4431,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6493,
-    "name": "Joan de Borbó 45",
-    "latitude": "41.3777535",
-    "longitude": "2.1883897",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 843,
-    "name": "Passeig de Gracia 30",
-    "latitude": "41.39028",
-    "longitude": "2.1673123",
+    "id": 11090,
+    "name": "Calàbria 66 y 79 (P x 2)",
+    "latitude": "41.3784861",
+    "longitude": "2.1566905",
     "thumbnail_url": ""
   },
   {
@@ -4659,13 +4449,6 @@
     "name": "Paris 215",
     "latitude": "41.3947566",
     "longitude": "2.1545283",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11839,
-    "name": "Ramon Turró x Bilbao ",
-    "latitude": "41.4017197",
-    "longitude": "2.2052866",
     "thumbnail_url": ""
   },
   {
@@ -4687,13 +4470,6 @@
     "name": "Gran Via x Selva de Mar",
     "latitude": "41.4143094",
     "longitude": "2.2018851",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 10576,
-    "name": "Carolines 17",
-    "latitude": "41.4034082",
-    "longitude": "2.150881",
     "thumbnail_url": ""
   },
   {
@@ -4732,6 +4508,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 13113,
+    "name": "Litoral - Hisenda ",
+    "latitude": "41.388306",
+    "longitude": "2.1977482",
+    "thumbnail_url": ""
+  },
+  {
     "id": 6775,
     "name": "Sardenya 340",
     "latitude": "41.4042442",
@@ -4739,10 +4522,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 6153,
+    "name": "Tarragona 99 - Plaça Espanya ",
+    "latitude": "41.3756838",
+    "longitude": "2.1485343",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11773,
     "name": "Consell de Cent 146",
     "latitude": "41.3820811",
     "longitude": "2.1538695",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26344,
+    "name": "Escola A.Galí",
+    "latitude": "41.3812861",
+    "longitude": "2.1935001",
     "thumbnail_url": ""
   },
   {
@@ -4767,10 +4564,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14066,
-    "name": "Comerç 42 (3 parking separados)",
-    "latitude": "41.3864932",
-    "longitude": "2.1822989",
+    "id": 5405,
+    "name": "Muntaner 130",
+    "latitude": "41.3897366",
+    "longitude": "2.1553802",
     "thumbnail_url": ""
   },
   {
@@ -4802,6 +4599,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 14256,
+    "name": "Doctor Trueta 198",
+    "latitude": "41.3978974",
+    "longitude": "2.2026638",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28621,
     "name": "Vilardell 42",
     "latitude": "41.3745997",
@@ -4813,6 +4617,13 @@
     "name": "Joan de Borbó 191",
     "latitude": "41.3845006",
     "longitude": "2.1532641",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11568,
+    "name": "Exposición 42",
+    "latitude": "41.3715502",
+    "longitude": "2.1616939",
     "thumbnail_url": ""
   },
   {
@@ -4834,6 +4645,13 @@
     "name": "Provença 127",
     "latitude": "41.387612",
     "longitude": "2.1520389",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11405,
+    "name": "Drassanes 21",
+    "latitude": "41.3766453",
+    "longitude": "2.1730279",
     "thumbnail_url": ""
   },
   {
@@ -4865,10 +4683,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 13107,
+    "name": "Creu Coberta 36 ",
+    "latitude": "41.3753549",
+    "longitude": "2.1473407",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1183,
+    "name": "Numància 29",
+    "latitude": "41.3821874",
+    "longitude": "2.1403575",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24545,
     "name": "Rambla del Poblenou 157",
     "latitude": "41.4069263",
     "longitude": "2.193529",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11211,
+    "name": "Pg Sant Joan 25 (2 parkings separados)",
+    "latitude": "41.3930737",
+    "longitude": "2.1779456",
     "thumbnail_url": ""
   },
   {
@@ -4890,6 +4729,13 @@
     "name": "Entença 162",
     "latitude": "41.383353",
     "longitude": "2.1457718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11812,
+    "name": "Castella 3",
+    "latitude": "41.4046646",
+    "longitude": "2.1987257",
     "thumbnail_url": ""
   },
   {
@@ -4963,10 +4809,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11833,
-    "name": "Pujades x Ciutat de Granada",
-    "latitude": "41.3990383",
-    "longitude": "2.1973912",
+    "id": 14061,
+    "name": "Pg. Santa Madrona 51",
+    "latitude": "41.3703946",
+    "longitude": "2.1554642",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31909,
+    "name": "Meridiana Espronceda ",
+    "latitude": "41.4179494",
+    "longitude": "2.1871581",
     "thumbnail_url": ""
   },
   {
@@ -4974,6 +4827,13 @@
     "name": "Sagrera x Garcilaso (P x 2)",
     "latitude": "41.4225202",
     "longitude": "2.1914141",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 10697,
+    "name": "Plaça Virreina",
+    "latitude": "41.4047431",
+    "longitude": "2.1573168",
     "thumbnail_url": ""
   },
   {
@@ -5012,6 +4872,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 14071,
+    "name": "Junta del Comerç 4 y 14 (P x 2)",
+    "latitude": "41.3801923",
+    "longitude": "2.1711205",
+    "thumbnail_url": ""
+  },
+  {
     "id": 10973,
     "name": "Samso 8",
     "latitude": "41.4012461",
@@ -5019,10 +4886,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4652,
-    "name": "Diputació 385",
-    "latitude": "41.3971565",
-    "longitude": "2.1759702",
+    "id": 12385,
+    "name": "Napols - entrada Parque Estació Nord",
+    "latitude": "41.3930258",
+    "longitude": "2.1824812",
     "thumbnail_url": ""
   },
   {
@@ -5030,6 +4897,20 @@
     "name": "Paris 143",
     "latitude": "41.391273",
     "longitude": "2.1500552",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11821,
+    "name": "Pallares x Ciutat de Granada",
+    "latitude": "41.3998928",
+    "longitude": "2.1961176",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6812,
+    "name": "Josep pla",
+    "latitude": "41.4109049",
+    "longitude": "2.2127547",
     "thumbnail_url": ""
   },
   {
@@ -5075,6 +4956,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31548,
+    "name": "Borbo rubianes ",
+    "latitude": "41.3779482",
+    "longitude": "2.1879439",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16761,
+    "name": "Plaça Duc Medinaceli",
+    "latitude": "41.3783397",
+    "longitude": "2.1794846",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16071,
     "name": "Ajuntament de Sant Martí (3 parkings)",
     "latitude": "41.4086565",
@@ -5089,10 +4984,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28254,
-    "name": "Urquinaona - Rda. Sant Pere",
-    "latitude": "41.389182",
-    "longitude": "2.1737508",
+    "id": 12236,
+    "name": "La Fábrica del Sol",
+    "latitude": "41.3823321",
+    "longitude": "2.1916469",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 843,
+    "name": "Passeig de Gracia 30",
+    "latitude": "41.39028",
+    "longitude": "2.1673123",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 436,
+    "name": "Ramon Turró 162",
+    "latitude": "41.3972493",
+    "longitude": "2.1994627",
     "thumbnail_url": ""
   },
   {
@@ -5107,6 +5016,13 @@
     "name": "Fabra i Puig 8",
     "latitude": "41.4301421",
     "longitude": "2.1892411",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 13358,
+    "name": "Gran Via 333",
+    "latitude": "41.37315",
+    "longitude": "2.1462995",
     "thumbnail_url": ""
   },
   {
@@ -5131,6 +5047,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16067,
+    "name": "Gran Via 572",
+    "latitude": "41.3843919",
+    "longitude": "2.1618317",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12229,
+    "name": "Dr. Aiguader 40",
+    "latitude": "41.3836465",
+    "longitude": "2.1901231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 7787,
+    "name": "Plaça Real (P x 6)",
+    "latitude": "41.3798356",
+    "longitude": "2.1752886",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11160,
     "name": "Mestre Nicolau 21",
     "latitude": "41.3942659",
@@ -5138,10 +5075,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5058,
+    "name": "Albareda 23",
+    "latitude": "41.3740328",
+    "longitude": "2.1731495",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22445,
     "name": "Comte d'Urgell 45",
     "latitude": "41.3814593",
     "longitude": "2.159475",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6158,
+    "name": "Comte Borrell x Floridablanca (P x 2)",
+    "latitude": "41.3794871",
+    "longitude": "2.1598461",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16793,
+    "name": "Sant Oleguer 22 (P x 2)",
+    "latitude": "41.3770964",
+    "longitude": "2.1717642",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 7415,
+    "name": "Provença x Marina (P x 3)",
+    "latitude": "41.4047058",
+    "longitude": "2.174556",
     "thumbnail_url": ""
   },
   {
@@ -5166,10 +5131,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 7423,
+    "name": "Gas - Barceloneta ",
+    "latitude": "41.3827198",
+    "longitude": "2.1939465",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11276,
     "name": "Trafalgar 52",
     "latitude": "41.3897787",
     "longitude": "2.1770551",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11563,
+    "name": "Parallel 180",
+    "latitude": "41.3753468",
+    "longitude": "2.1542655",
     "thumbnail_url": ""
   },
   {
@@ -5194,13 +5173,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1323,
-    "name": "Vilamarí - Parc Joan Miró ",
-    "latitude": "41.3779998",
-    "longitude": "2.1505405",
-    "thumbnail_url": ""
-  },
-  {
     "id": 1303,
     "name": "Casp 116",
     "latitude": "41.3950307",
@@ -5222,6 +5194,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23202,
+    "name": "Selva de Mar x Llull",
+    "latitude": "41.4073965",
+    "longitude": "2.2105094",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11626,
     "name": "Alcalde de Mostoles 17",
     "latitude": "41.4104857",
@@ -5236,6 +5215,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 15868,
+    "name": "Ribes 15",
+    "latitude": "41.3936303",
+    "longitude": "2.1814225",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28115,
     "name": "Llacuna x Tanger",
     "latitude": "41.4040124",
@@ -5247,6 +5233,13 @@
     "name": "Espronceda x Antic de Valencia ",
     "latitude": "41.4064623",
     "longitude": "2.2030957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31316,
+    "name": "Sota Muralla 9",
+    "latitude": "41.3813455",
+    "longitude": "2.1840923",
     "thumbnail_url": ""
   },
   {
@@ -5278,10 +5271,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 15960,
+    "name": "Diagonal 545",
+    "latitude": "41.390343",
+    "longitude": "2.1366047",
+    "thumbnail_url": ""
+  },
+  {
     "id": 10691,
     "name": "Magdalena 12",
     "latitude": "41.4037683",
     "longitude": "2.1530383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11675,
+    "name": "Plaça de la Academia",
+    "latitude": "41.3875775",
+    "longitude": "2.1808422",
     "thumbnail_url": ""
   },
   {
@@ -5292,17 +5299,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28212,
-    "name": "Còrsega - Dos de Maig",
-    "latitude": "41.4103328",
-    "longitude": "2.1778116",
+    "id": 11839,
+    "name": "Ramon Turró x Bilbao ",
+    "latitude": "41.4017197",
+    "longitude": "2.2052866",
     "thumbnail_url": ""
   },
   {
-    "id": 30340,
-    "name": "Marina x Roselló",
-    "latitude": "41.4053431",
-    "longitude": "2.1732075",
+    "id": 26361,
+    "name": "Castillejos 290",
+    "latitude": "41.407725",
+    "longitude": "2.1766742",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30283,
+    "name": "Taulat Drets socials",
+    "latitude": "41.4096323",
+    "longitude": "2.2180125",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14454,
+    "name": "Provença 324",
+    "latitude": "41.3969671",
+    "longitude": "2.1645221",
     "thumbnail_url": ""
   },
   {
@@ -5310,6 +5331,13 @@
     "name": "Rambla Poblenou x Pujades",
     "latitude": "41.4015939",
     "longitude": "2.2005983",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23625,
+    "name": "Diagonal x Valencia",
+    "latitude": "41.4002407",
+    "longitude": "2.1735133",
     "thumbnail_url": ""
   },
   {
@@ -5418,17 +5446,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30340,
+    "name": "Marina x Roselló",
+    "latitude": "41.4053431",
+    "longitude": "2.1732075",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26737,
     "name": "Institut Salvador Seguí",
     "latitude": "41.4219321",
     "longitude": "2.1965344",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12171,
-    "name": "Rambla Poblenou 20",
-    "latitude": "41.3984731",
-    "longitude": "2.204637",
     "thumbnail_url": ""
   },
   {
@@ -5467,6 +5495,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 11641,
+    "name": "Rec 34",
+    "latitude": "41.3852365",
+    "longitude": "2.1829613",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22332,
     "name": "Marina 59",
     "latitude": "41.3917185",
@@ -5478,6 +5513,13 @@
     "name": "Roselló 144",
     "latitude": "41.3909438",
     "longitude": "2.1542946",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14561,
+    "name": "Almogavers 200",
+    "latitude": "41.4013447",
+    "longitude": "2.1958285",
     "thumbnail_url": ""
   },
   {
@@ -5590,6 +5632,13 @@
     "name": "S. Antoni M. Claret 135",
     "latitude": "41.4098493",
     "longitude": "2.1724981",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 8156,
+    "name": "Cristóbal Moura 144",
+    "latitude": "41.4129165",
+    "longitude": "2.2092893",
     "thumbnail_url": ""
   },
   {
@@ -5712,6 +5761,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 14333,
+    "name": "Bogatell - blau i blanc",
+    "latitude": "41.3939744",
+    "longitude": "2.2057498",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31078,
     "name": "Rambla poblenou 99",
     "latitude": "41.4028053",
@@ -5761,6 +5817,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 11837,
+    "name": "Llul 239",
+    "latitude": "41.4031",
+    "longitude": "2.2048157",
+    "thumbnail_url": ""
+  },
+  {
     "id": 14932,
     "name": "Palma 22",
     "latitude": "41.372088",
@@ -5782,6 +5845,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 15162,
+    "name": "Lacuna 98",
+    "latitude": "41.4029934",
+    "longitude": "2.1965214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11814,
+    "name": "Dos de Maig 311",
+    "latitude": "41.4110882",
+    "longitude": "2.1764102",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24248,
     "name": "Provença 52",
     "latitude": "41.383128",
@@ -5800,6 +5877,13 @@
     "name": "Valencia 572",
     "latitude": "41.4079167",
     "longitude": "2.1836972",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28254,
+    "name": "Urquinaona - Rda. Sant Pere",
+    "latitude": "41.389182",
+    "longitude": "2.1737508",
     "thumbnail_url": ""
   },
   {
@@ -5845,6 +5929,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23119,
+    "name": "Villarroel 146",
+    "latitude": "41.3871999",
+    "longitude": "2.1542524",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11230,
     "name": "Bailen 30-32 (2 parkings separados)",
     "latitude": "41.3930821",
@@ -5873,17 +5964,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28212,
+    "name": "Còrsega - Dos de Maig",
+    "latitude": "41.4103328",
+    "longitude": "2.1778116",
+    "thumbnail_url": ""
+  },
+  {
     "id": 7152,
     "name": "Josep Pla 163",
     "latitude": "41.4154231",
     "longitude": "2.2069562",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27294,
-    "name": "Hotel Leonardo",
-    "latitude": "41.3576151",
-    "longitude": "2.1384335",
     "thumbnail_url": ""
   },
   {
@@ -5898,6 +5989,13 @@
     "name": "Cartagena 233",
     "latitude": "41.407178",
     "longitude": "2.1795439",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30709,
+    "name": "Les Corts",
+    "latitude": "41.3840583",
+    "longitude": "2.1306641",
     "thumbnail_url": ""
   },
   {
@@ -5940,6 +6038,13 @@
     "name": "Jardins de Montserrat ",
     "latitude": "41.385663",
     "longitude": "2.1454001",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30302,
+    "name": "Plaça Pau Vila x J. Borbó",
+    "latitude": "41.3804965",
+    "longitude": "2.1869024",
     "thumbnail_url": ""
   },
   {
@@ -6090,6 +6195,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27060,
+    "name": "Maternitat",
+    "latitude": "41.3812109",
+    "longitude": "2.1262309",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24363,
     "name": "Roc Boronat 117",
     "latitude": "41.4025964",
@@ -6115,6 +6227,13 @@
     "name": "Consell de Cent 408",
     "latitude": "41.3967571",
     "longitude": "2.173402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26440,
+    "name": "Roma Calabria",
+    "latitude": "41.3835924",
+    "longitude": "2.1500034",
     "thumbnail_url": ""
   },
   {
@@ -6153,10 +6272,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29284,
-    "name": "Drassanes arbol ",
-    "latitude": "41.3753526",
-    "longitude": "2.1893293",
+    "id": 12374,
+    "name": "Zamora x Meridiana",
+    "latitude": "41.3981318",
+    "longitude": "2.187056",
     "thumbnail_url": ""
   },
   {
@@ -6188,6 +6307,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17933,
+    "name": "Mallorca x Lepant (P x 2)",
+    "latitude": "41.404411",
+    "longitude": "2.1767558",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28500,
     "name": "Pelai 40-42",
     "latitude": "41.3856569",
@@ -6199,6 +6325,13 @@
     "name": "Marina 27",
     "latitude": "41.3881975",
     "longitude": "2.1951574",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5775,
+    "name": "Casanova 270",
+    "latitude": "41.3943288",
+    "longitude": "2.1470574",
     "thumbnail_url": ""
   },
   {
@@ -6216,10 +6349,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32079,
+    "name": "Campus Ciutadella",
+    "latitude": "41.3898684",
+    "longitude": "2.1898063",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17089,
     "name": "Jardins d'Ada Byron",
     "latitude": "41.4048415",
     "longitude": "2.1958411",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15754,
+    "name": "Aragó 283",
+    "latitude": "41.3934036",
+    "longitude": "2.1663349",
     "thumbnail_url": ""
   },
   {
@@ -6258,13 +6405,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14256,
-    "name": "Doctor Trueta 198",
-    "latitude": "41.3978974",
-    "longitude": "2.2026638",
-    "thumbnail_url": ""
-  },
-  {
     "id": 7363,
     "name": "Numància 88",
     "latitude": "41.3853724",
@@ -6276,6 +6416,13 @@
     "name": "Diagonal 323",
     "latitude": "41.3991836",
     "longitude": "2.1707627",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 13484,
+    "name": "Plaça Barceloneta",
+    "latitude": "41.3796922",
+    "longitude": "2.1878444",
     "thumbnail_url": ""
   },
   {
@@ -6304,6 +6451,13 @@
     "name": "Aragó x Aribau (2 separados)",
     "latitude": "41.3882174",
     "longitude": "2.1597419",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18772,
+    "name": "Pla de Palau - PORT",
+    "latitude": "41.3824069",
+    "longitude": "2.184424",
     "thumbnail_url": ""
   },
   {
@@ -6342,6 +6496,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 431,
+    "name": "Casanova 38",
+    "latitude": "41.3841193",
+    "longitude": "2.1605529",
+    "thumbnail_url": ""
+  },
+  {
     "id": 11208,
     "name": "Passeig de Sant Joan 7",
     "latitude": "41.3921575",
@@ -6349,10 +6510,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 706,
+    "name": "Maritim Bogatell 111",
+    "latitude": "41.3964786",
+    "longitude": "2.2089709",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14066,
+    "name": "Comerç 42 (3 parking separados)",
+    "latitude": "41.3864932",
+    "longitude": "2.1822989",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31185,
     "name": "Can Clariana",
     "latitude": "41.4275277",
     "longitude": "2.1781133",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2312,
+    "name": "Plaça Colom  (kiosk)",
+    "latitude": "41.3762012",
+    "longitude": "2.1784962",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1321,
+    "name": "Maria Cubí 77",
+    "latitude": "41.3976048",
+    "longitude": "2.1486422",
     "thumbnail_url": ""
   },
   {
@@ -6384,17 +6573,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5782,
+    "name": "Comte Borrell 61",
+    "latitude": "41.3777638",
+    "longitude": "2.1619132",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22221,
     "name": "Valencia x Balmes",
     "latitude": "41.3907642",
     "longitude": "2.1607125",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 7254,
-    "name": "Pujades 4 ",
-    "latitude": "41.3882178",
-    "longitude": "2.182347",
     "thumbnail_url": ""
   },
   {
@@ -6419,6 +6608,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33004,
+    "name": "Playa Sant Miquel",
+    "latitude": "41.3773857",
+    "longitude": "2.1913436",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30635,
     "name": "Viladomat 36",
     "latitude": "41.3766184",
@@ -6430,6 +6626,13 @@
     "name": "Clot Metro",
     "latitude": "41.4091671",
     "longitude": "2.1872889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 11370,
+    "name": "Bonsucces 1",
+    "latitude": "41.3839396",
+    "longitude": "2.1696841",
     "thumbnail_url": ""
   },
   {
@@ -6546,7 +6749,7 @@
   },
   {
     "id": 31572,
-    "name": "corsega indepe",
+    "name": "Còrsega - Independència",
     "latitude": "41.4111405",
     "longitude": "2.1788808",
     "thumbnail_url": ""
@@ -6668,13 +6871,6 @@
     "name": "Metro Marina lado Sul",
     "latitude": "41.3952136",
     "longitude": "2.1870866",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 146,
-    "name": "Sancho de Avila 32",
-    "latitude": "41.3976646",
-    "longitude": "2.1887067",
     "thumbnail_url": ""
   },
   {
@@ -6853,13 +7049,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 8946,
-    "name": "Arc de Triomf lado sur",
-    "latitude": "41.3908847",
-    "longitude": "2.1803154",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26962,
     "name": "Gran Via 675",
     "latitude": "41.3963457",
@@ -6871,20 +7060,6 @@
     "name": "Pujades 228",
     "latitude": "41.4033586",
     "longitude": "2.2030511",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27060,
-    "name": "Maternitat",
-    "latitude": "41.3812109",
-    "longitude": "2.1262309",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2278,
-    "name": "Marina 130",
-    "latitude": "41.3966829",
-    "longitude": "2.1844587",
     "thumbnail_url": ""
   },
   {
@@ -7161,13 +7336,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26440,
-    "name": "Roma Calabria",
-    "latitude": "41.3835924",
-    "longitude": "2.1500034",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27411,
     "name": "Consell de Cent 126",
     "latitude": "41.38163",
@@ -7203,24 +7371,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11794,
-    "name": "Glories - entrada principal",
-    "latitude": "41.4043998",
-    "longitude": "2.1898558",
-    "thumbnail_url": ""
-  },
-  {
     "id": 10969,
     "name": "Carrer de Gracia 7",
     "latitude": "41.3983786",
     "longitude": "2.1582113",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5539,
-    "name": "Badajoz 168 - AGBAR",
-    "latitude": "41.4030038",
-    "longitude": "2.1901953",
     "thumbnail_url": ""
   },
   {
@@ -7235,13 +7389,6 @@
     "name": "Diputación x Rocafort",
     "latitude": "41.3796524",
     "longitude": "2.1529354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32079,
-    "name": "Campus Ciutadella",
-    "latitude": "41.3898684",
-    "longitude": "2.1898063",
     "thumbnail_url": ""
   },
   {
@@ -7504,13 +7651,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15754,
-    "name": "Aragó 283",
-    "latitude": "41.3934036",
-    "longitude": "2.1663349",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23069,
     "name": "Meridiana x Murcia",
     "latitude": "41.4141651",
@@ -7595,13 +7735,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12236,
-    "name": "La Fábrica del Sol",
-    "latitude": "41.3823321",
-    "longitude": "2.1916469",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17699,
     "name": "Guipúzcoa 23",
     "latitude": "41.4145025",
@@ -7648,20 +7781,6 @@
     "name": "Gran Vía Corts Catalanes 602",
     "latitude": "41.3869138",
     "longitude": "2.165214",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11641,
-    "name": "Rec 34",
-    "latitude": "41.3852365",
-    "longitude": "2.1829613",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31369,
-    "name": "Parlament 1",
-    "latitude": "41.3754379",
-    "longitude": "2.1611013",
     "thumbnail_url": ""
   },
   {
@@ -7784,13 +7903,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5110,
-    "name": "Parc de la Barceloneta - Marítim",
-    "latitude": "41.3816911",
-    "longitude": "2.1939906",
-    "thumbnail_url": ""
-  },
-  {
     "id": 15025,
     "name": "Metro Verdaguer ",
     "latitude": "41.3984344",
@@ -7830,13 +7942,6 @@
     "name": "Rosa Sensat 36",
     "latitude": "41.3920686",
     "longitude": "2.1949361",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6482,
-    "name": "Plaça Goya",
-    "latitude": "41.3839597",
-    "longitude": "2.163732",
     "thumbnail_url": ""
   },
   {
@@ -8134,13 +8239,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1422,
-    "name": "Litoral 145",
-    "latitude": "41.4038211",
-    "longitude": "2.2158936",
-    "thumbnail_url": ""
-  },
-  {
     "id": 10765,
     "name": "Augusta 21",
     "latitude": "41.3970962",
@@ -8299,20 +8397,6 @@
     "name": "Sardenya x Almogavers",
     "latitude": "41.3939681",
     "longitude": "2.1858545",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11935,
-    "name": "Valencia 448",
-    "latitude": "41.4027186",
-    "longitude": "2.1766711",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5408,
-    "name": "Urgell 128",
-    "latitude": "41.3847525",
-    "longitude": "2.1553097",
     "thumbnail_url": ""
   },
   {
@@ -8694,27 +8778,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14061,
-    "name": "Pg. Santa Madrona 51",
-    "latitude": "41.3703946",
-    "longitude": "2.1554642",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30302,
-    "name": "Plaça Pau Vila x J. Borbó",
-    "latitude": "41.3804965",
-    "longitude": "2.1869024",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20961,
-    "name": "Portal del Angel 26",
-    "latitude": "41.38611",
-    "longitude": "2.1723751",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24352,
     "name": "Ramón Llull 430",
     "latitude": "41.4149591",
@@ -8974,13 +9037,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 11211,
-    "name": "Pg Sant Joan 25 (2 parkings separados)",
-    "latitude": "41.3930737",
-    "longitude": "2.1779456",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22405,
     "name": "Valencia di Sicilia (P x 2)",
     "latitude": "41.4009921",
@@ -9027,13 +9083,6 @@
     "name": "Joan de Borbó 39",
     "latitude": "41.3781226",
     "longitude": "2.1881667",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1793,
-    "name": "Icaria 200 (2 lados)",
-    "latitude": "41.3941595",
-    "longitude": "2.2004561",
     "thumbnail_url": ""
   },
   {
@@ -9118,13 +9167,6 @@
     "name": "Sant Luís 4",
     "latitude": "41.404143",
     "longitude": "2.158278",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6429,
-    "name": "Plaça Pons i Clerch ",
-    "latitude": "41.3868207",
-    "longitude": "2.1818458",
     "thumbnail_url": ""
   },
   {
@@ -9289,13 +9331,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1421,
-    "name": "Bac de Roda 35",
-    "latitude": "41.403296",
-    "longitude": "2.2092953",
-    "thumbnail_url": ""
-  },
-  {
     "id": 11727,
     "name": "Comte Borrell 48",
     "latitude": "41.3774175",
@@ -9335,13 +9370,6 @@
     "name": "Roger de Llúria 15",
     "latitude": "41.3907204",
     "longitude": "2.1719536",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31316,
-    "name": "Sota Muralla 9",
-    "latitude": "41.3813455",
-    "longitude": "2.1840923",
     "thumbnail_url": ""
   },
   {
@@ -9506,13 +9534,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12176,
-    "name": "Lull 199",
-    "latitude": "41.4015835",
-    "longitude": "2.2028555",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17085,
     "name": "Trav. de les Corts 361",
     "latitude": "41.3897354",
@@ -9524,13 +9545,6 @@
     "name": "Torrent de l’Olla 58",
     "latitude": "41.4001084",
     "longitude": "2.1597292",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 7056,
-    "name": "Casino",
-    "latitude": "41.3865001",
-    "longitude": "2.1976729",
     "thumbnail_url": ""
   },
   {
@@ -9786,13 +9800,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15868,
-    "name": "Ribes 15",
-    "latitude": "41.3936303",
-    "longitude": "2.1814225",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26342,
     "name": "Mercaders",
     "latitude": "41.3858736",
@@ -9909,13 +9916,6 @@
     "name": "Sicilia x Casp",
     "latitude": "41.3963431",
     "longitude": "2.180242",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11563,
-    "name": "Parallel 180",
-    "latitude": "41.3753468",
-    "longitude": "2.1542655",
     "thumbnail_url": ""
   },
   {
@@ -10315,13 +10315,6 @@
     "name": "Diputació 142",
     "latitude": "41.3827017",
     "longitude": "2.15701",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 11635,
-    "name": "Pla de Palau ",
-    "latitude": "41.3831547",
-    "longitude": "2.1830057",
     "thumbnail_url": ""
   },
   {

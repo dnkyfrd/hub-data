@@ -1,12 +1,5 @@
 [
   {
-    "id": 32721,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32694,
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9024072",
@@ -28,6 +21,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32700,
+    "name": "Landshuter Str. Aldi",
+    "latitude": "48.8633673",
+    "longitude": "12.5751719",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
@@ -39,6 +39,13 @@
     "name": "Campingplatz",
     "latitude": "48.8932739",
     "longitude": "12.5757808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32721,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
     "thumbnail_url": ""
   },
   {
@@ -60,13 +67,6 @@
     "name": "Am Hagen Straubing",
     "latitude": "48.8868628",
     "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32700,
-    "name": "Landshuter Str. Aldi",
-    "latitude": "48.8633673",
-    "longitude": "12.5751719",
     "thumbnail_url": ""
   },
   {
@@ -126,13 +126,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32720,
-    "name": "Schlesische Strasse 112 (Mangal)",
-    "latitude": "48.8894663",
-    "longitude": "12.6049892",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32710,
     "name": "Theresienplatz vor Pustet (Fahrradständer)",
     "latitude": "48.8811806",
@@ -147,10 +140,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32717,
+    "name": "Bahnhof",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32707,
     "name": "Klinikum (vor Parkhaus)",
     "latitude": "48.8874557",
     "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32720,
+    "name": "Schlesische Strasse 112 (Mangal)",
+    "latitude": "48.8894663",
+    "longitude": "12.6049892",
     "thumbnail_url": ""
   },
   {
@@ -165,13 +172,6 @@
     "name": "Alte Ziegelei - Boulderhalle",
     "latitude": "48.8781558",
     "longitude": "12.564369",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32717,
-    "name": "Bahnhof",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {

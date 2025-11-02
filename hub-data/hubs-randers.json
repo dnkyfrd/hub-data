@@ -1,9 +1,30 @@
 [
   {
-    "id": 19796,
-    "name": "Netto",
-    "latitude": "56.4648162",
-    "longitude": "10.0309605",
+    "id": 32848,
+    "name": "Pure gym",
+    "latitude": "56.4719266",
+    "longitude": "10.0178508",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33218,
+    "name": "Temporary hub",
+    "latitude": "56.4897722",
+    "longitude": "10.0561612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
     "thumbnail_url": ""
   },
   {
@@ -14,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32848,
-    "name": "Pure gym",
-    "latitude": "56.4719266",
-    "longitude": "10.0178508",
+    "id": 24009,
+    "name": "Mad Mad",
+    "latitude": "56.4832198",
+    "longitude": "10.0378246",
     "thumbnail_url": ""
   },
   {
@@ -105,10 +126,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19589,
+    "name": "Arena Randers",
+    "latitude": "56.4648476",
+    "longitude": "10.0149023",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30118,
     "name": "Kombardo Expressen Randers",
     "latitude": "56.4681563",
     "longitude": "9.9781892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19796,
+    "name": "Netto",
+    "latitude": "56.4648162",
+    "longitude": "10.0309605",
     "thumbnail_url": ""
   },
   {
@@ -119,31 +154,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27091,
-    "name": "Thorsgade",
-    "latitude": "56.4641138",
-    "longitude": "10.0386772",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19576,
     "name": "J. V. Martines Pl",
     "latitude": "56.4634219",
     "longitude": "10.0498271",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19582,
-    "name": "Spurvevej",
-    "latitude": "56.4711583",
-    "longitude": "10.0407893",
     "thumbnail_url": ""
   },
   {
@@ -161,20 +175,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19651,
-    "name": "Havnegade",
-    "latitude": "56.4584286",
-    "longitude": "10.0409785",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19562,
     "name": "Kirkegade 15",
     "latitude": "56.4598707",
@@ -186,6 +186,13 @@
     "name": "Torvegade 19",
     "latitude": "56.4594141",
     "longitude": "10.0363073",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24001,
+    "name": "Rema 1000 Hobrovej",
+    "latitude": "56.4803568",
+    "longitude": "9.9985416",
     "thumbnail_url": ""
   },
   {
@@ -238,13 +245,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23665,
     "name": "Vorup Blvd",
     "latitude": "56.4441818",
@@ -284,6 +284,13 @@
     "name": "Jernbanegade",
     "latitude": "56.460371",
     "longitude": "10.0295278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19651,
+    "name": "Havnegade",
+    "latitude": "56.4584286",
+    "longitude": "10.0409785",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +350,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19588,
     "name": "Stadfeldtsvej 31",
     "latitude": "56.4675757",
     "longitude": "10.0514539",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
     "thumbnail_url": ""
   },
   {
@@ -364,13 +385,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24009,
-    "name": "Mad Mad",
-    "latitude": "56.4832198",
-    "longitude": "10.0378246",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24008,
     "name": "Netto Mariagervej ",
     "latitude": "56.4807406",
@@ -382,6 +396,13 @@
     "name": "Aldi Mariagervej ",
     "latitude": "56.4719735",
     "longitude": "10.0312606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27091,
+    "name": "Thorsgade",
+    "latitude": "56.4641138",
+    "longitude": "10.0386772",
     "thumbnail_url": ""
   },
   {
@@ -406,10 +427,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30714,
     "name": "Gunhildsvej",
     "latitude": "56.4713474",
     "longitude": "10.0162673",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -424,6 +459,13 @@
     "name": "Mølletoften 10",
     "latitude": "56.4494074",
     "longitude": "10.0438864",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -490,13 +532,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19585,
     "name": "Nørregade 7",
     "latitude": "56.4618473",
@@ -525,13 +560,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19589,
-    "name": "Arena Randers",
-    "latitude": "56.4648476",
-    "longitude": "10.0149023",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19806,
     "name": "Viborgvejens Børnehave",
     "latitude": "56.4653428",
@@ -550,13 +578,6 @@
     "name": "ABC Lavpris",
     "latitude": "56.4743436",
     "longitude": "10.0113793",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19536,
-    "name": "Donkey Republic-DSB",
-    "latitude": "56.4620012",
-    "longitude": "10.0214531",
     "thumbnail_url": ""
   },
   {
@@ -658,13 +679,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24003,
-    "name": "Netto Hobrovej",
-    "latitude": "56.4675211",
-    "longitude": "10.0219855",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19522,
     "name": "Stemannsgade",
     "latitude": "56.4603333",
@@ -760,13 +774,6 @@
     "name": "Mariagervej 89",
     "latitude": "56.473385",
     "longitude": "10.0292496",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24001,
-    "name": "Rema 1000 Hobrovej",
-    "latitude": "56.4803568",
-    "longitude": "9.9985416",
     "thumbnail_url": ""
   },
   {
