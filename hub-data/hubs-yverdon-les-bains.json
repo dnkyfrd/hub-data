@@ -1,16 +1,9 @@
 [
   {
-    "id": 20010,
-    "name": "Sports",
-    "latitude": "46.7803201",
-    "longitude": "6.6530063",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
     "thumbnail_url": ""
   },
   {
@@ -21,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16285,
     "name": "HEIG-VD Cheseaux",
     "latitude": "46.7788408",
@@ -28,10 +28,66 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20010,
+    "name": "Sports",
+    "latitude": "46.7803201",
+    "longitude": "6.6530063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16288,
+    "name": "CPNV",
+    "latitude": "46.7737937",
+    "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16388,
     "name": "Boulodrome",
     "latitude": "46.7909522",
     "longitude": "6.6395616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21308,
+    "name": "Pierre de Savoie",
+    "latitude": "46.7684825",
+    "longitude": "6.64101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {
@@ -46,20 +102,6 @@
     "name": "Moulins",
     "latitude": "46.7722606",
     "longitude": "6.6310059",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
     "thumbnail_url": ""
   },
   {
@@ -88,6 +130,13 @@
     "name": "Prés du Lac",
     "latitude": "46.7913781",
     "longitude": "6.6319157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
     "thumbnail_url": ""
   },
   {
@@ -140,20 +189,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19549,
     "name": "Oiseaux",
     "latitude": "46.7752041",
@@ -182,24 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17240,
     "name": "Mont d'Or",
     "latitude": "46.778133",
     "longitude": "6.6344066",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21308,
-    "name": "Pierre de Savoie",
-    "latitude": "46.7684825",
-    "longitude": "6.64101",
     "thumbnail_url": ""
   },
   {
@@ -235,13 +256,6 @@
     "name": "Roselière",
     "latitude": "46.7875291",
     "longitude": "6.6392243",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
     "thumbnail_url": ""
   },
   {
@@ -308,13 +322,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16288,
-    "name": "CPNV",
-    "latitude": "46.7737937",
-    "longitude": "6.6342311",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17296,
     "name": "Centre funéraire",
     "latitude": "46.7725906",
@@ -340,13 +347,6 @@
     "name": "Champs-Lovats",
     "latitude": "46.7666082",
     "longitude": "6.6510047",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {

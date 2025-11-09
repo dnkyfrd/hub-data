@@ -1,12 +1,5 @@
 [
   {
-    "id": 24182,
-    "name": "Krommedijk - Paul Krugerstraat",
-    "latitude": "51.8076436",
-    "longitude": "4.6785923",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24163,
     "name": "Maasstraat - Ijsselstraat",
     "latitude": "51.8177062",
@@ -25,6 +18,13 @@
     "name": "Thomas Estill",
     "latitude": "51.8129811",
     "longitude": "4.7013483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28942,
+    "name": "Rivierenplien Bike Rack",
+    "latitude": "51.8152302",
+    "longitude": "4.7150753",
     "thumbnail_url": ""
   },
   {
@@ -91,6 +91,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24182,
+    "name": "Krommedijk - Paul Krugerstraat",
+    "latitude": "51.8076436",
+    "longitude": "4.6785923",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29848,
     "name": "Schendeldijk",
     "latitude": "51.7777237",
@@ -126,13 +133,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21120,
-    "name": "Q-Park P+R (Park Upstairs)",
-    "latitude": "51.8067461",
-    "longitude": "4.6683224",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29873,
     "name": "Wantijbad",
     "latitude": "51.8150205",
@@ -165,13 +165,6 @@
     "name": "Burgemeester de Raadtsingel",
     "latitude": "51.8079746",
     "longitude": "4.6644336",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27549,
-    "name": "Difference (New Hub Location)",
-    "latitude": "51.7772531",
-    "longitude": "4.682406",
     "thumbnail_url": ""
   },
   {
@@ -214,6 +207,27 @@
     "name": "Sportplaza",
     "latitude": "51.796718",
     "longitude": "4.6533239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27549,
+    "name": "Difference (New Hub Location)",
+    "latitude": "51.7772531",
+    "longitude": "4.682406",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29104,
+    "name": "4* Grill",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
     "thumbnail_url": ""
   },
   {
@@ -333,13 +347,6 @@
     "name": "AH Stadspolders",
     "latitude": "51.8037596",
     "longitude": "4.7180758",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28942,
-    "name": "Rivierenplien Bike Rack",
-    "latitude": "51.8152302",
-    "longitude": "4.7150753",
     "thumbnail_url": ""
   },
   {
@@ -697,13 +704,6 @@
     "name": "Bankastraat",
     "latitude": "51.8112648",
     "longitude": "4.6823491",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29104,
-    "name": "4* Grill",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
     "thumbnail_url": ""
   },
   {
