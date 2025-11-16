@@ -1,12 +1,5 @@
 [
   {
-    "id": 32848,
-    "name": "Pure gym",
-    "latitude": "56.4719266",
-    "longitude": "10.0178508",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19582,
     "name": "Spurvevej",
     "latitude": "56.4711583",
@@ -21,10 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32868,
-    "name": "Regionspsykiatrien Randers",
-    "latitude": "56.4725002",
-    "longitude": "10.0466491",
+    "id": 33304,
+    "name": "Glarbjergvej",
+    "latitude": "56.4801238",
+    "longitude": "10.0399013",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
     "thumbnail_url": ""
   },
   {
@@ -35,10 +35,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19644,
-    "name": "Bøsbrovej 47",
-    "latitude": "56.4446312",
-    "longitude": "10.0386913",
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32868,
+    "name": "Regionspsykiatrien Randers",
+    "latitude": "56.4725002",
+    "longitude": "10.0466491",
     "thumbnail_url": ""
   },
   {
@@ -46,6 +53,20 @@
     "name": "Valdemarsvej 2",
     "latitude": "56.4471889",
     "longitude": "10.0548372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19655,
+    "name": "Vester boulevard arena 2",
+    "latitude": "56.4673733",
+    "longitude": "10.0106488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19644,
+    "name": "Bøsbrovej 47",
+    "latitude": "56.4446312",
+    "longitude": "10.0386913",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +84,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32848,
+    "name": "Pure gym",
+    "latitude": "56.4719266",
+    "longitude": "10.0178508",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19649,
     "name": "Randers Sejlklubben",
     "latitude": "56.4626479",
     "longitude": "10.053026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19556,
+    "name": "Randers Regnskov Front",
+    "latitude": "56.4574448",
+    "longitude": "10.0326837",
     "thumbnail_url": ""
   },
   {
@@ -88,13 +123,6 @@
     "name": "Klatre Automaten",
     "latitude": "56.4833223",
     "longitude": "10.0440104",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19556,
-    "name": "Randers Regnskov Front",
-    "latitude": "56.4574448",
-    "longitude": "10.0326837",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +151,13 @@
     "name": "Arena Randers",
     "latitude": "56.4648476",
     "longitude": "10.0149023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19585,
+    "name": "Nørregade 7",
+    "latitude": "56.4618473",
+    "longitude": "10.0356278",
     "thumbnail_url": ""
   },
   {
@@ -182,6 +217,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19562,
     "name": "Kirkegade 15",
     "latitude": "56.4598707",
@@ -217,6 +259,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19517,
     "name": "Vester Alle 35",
     "latitude": "56.4678249",
@@ -245,10 +294,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19506,
     "name": "2 Sankt Mortens Gade",
     "latitude": "56.4597777",
     "longitude": "10.0368784",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -371,13 +434,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24003,
-    "name": "Netto Hobrovej",
-    "latitude": "56.4675211",
-    "longitude": "10.0219855",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29819,
     "name": "Tirsdalens Skole",
     "latitude": "56.4397595",
@@ -389,13 +445,6 @@
     "name": "Spindervej",
     "latitude": "56.4679673",
     "longitude": "10.0362733",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24008,
-    "name": "Netto Mariagervej ",
-    "latitude": "56.4807406",
-    "longitude": "10.0261291",
     "thumbnail_url": ""
   },
   {
@@ -420,31 +469,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19655,
-    "name": "Vester boulevard arena 2",
-    "latitude": "56.4673733",
-    "longitude": "10.0106488",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30714,
     "name": "Gunhildsvej",
     "latitude": "56.4713474",
     "longitude": "10.0162673",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -459,13 +487,6 @@
     "name": "Mølletoften 10",
     "latitude": "56.4494074",
     "longitude": "10.0438864",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -529,13 +550,6 @@
     "name": "Parkboulevarden",
     "latitude": "56.4663017",
     "longitude": "9.9971918",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19585,
-    "name": "Nørregade 7",
-    "latitude": "56.4618473",
-    "longitude": "10.0356278",
     "thumbnail_url": ""
   },
   {
@@ -700,13 +714,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32501,
-    "name": "Dronningborg dart klub/Skyttekreds",
-    "latitude": "56.4467872",
-    "longitude": "10.022199",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20982,
     "name": "Udbyhøjvej 62",
     "latitude": "56.4660879",
@@ -795,13 +802,6 @@
     "name": "Slotspladsen",
     "latitude": "56.4604086",
     "longitude": "10.0389269",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {

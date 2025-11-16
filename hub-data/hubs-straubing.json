@@ -1,5 +1,26 @@
 [
   {
+    "id": 32721,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32675,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32694,
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9024072",
@@ -35,34 +56,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32696,
-    "name": "Niederalteicher Str.",
-    "latitude": "48.8797146",
-    "longitude": "12.6313375",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32721,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
@@ -77,17 +70,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32719,
     "name": "Äussere Passauer Strasse _ Antoniusberg",
     "latitude": "48.8745709",
     "longitude": "12.5858091",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32696,
+    "name": "Niederalteicher Str.",
+    "latitude": "48.8797146",
+    "longitude": "12.6313375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32701,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {
