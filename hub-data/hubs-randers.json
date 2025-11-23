@@ -1,9 +1,9 @@
 [
   {
-    "id": 19582,
-    "name": "Spurvevej",
-    "latitude": "56.4711583",
-    "longitude": "10.0407893",
+    "id": 19655,
+    "name": "Vester boulevard arena 2",
+    "latitude": "56.4673733",
+    "longitude": "10.0106488",
     "thumbnail_url": ""
   },
   {
@@ -21,10 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24008,
-    "name": "Netto Mariagervej ",
-    "latitude": "56.4807406",
-    "longitude": "10.0261291",
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -42,6 +42,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19527,
+    "name": "Århusvej 4",
+    "latitude": "56.4543486",
+    "longitude": "10.041028",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32868,
     "name": "Regionspsykiatrien Randers",
     "latitude": "56.4725002",
@@ -49,24 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19655,
-    "name": "Vester boulevard arena 2",
-    "latitude": "56.4673733",
-    "longitude": "10.0106488",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19644,
     "name": "Bøsbrovej 47",
     "latitude": "56.4446312",
     "longitude": "10.0386913",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +98,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19556,
     "name": "Randers Regnskov Front",
     "latitude": "56.4574448",
@@ -105,10 +112,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19527,
-    "name": "Århusvej 4",
-    "latitude": "56.4543486",
-    "longitude": "10.041028",
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
     "thumbnail_url": ""
   },
   {
@@ -203,10 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19560,
-    "name": "Lille Rosengård",
-    "latitude": "56.4574444",
-    "longitude": "10.0368216",
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -217,10 +231,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19560,
+    "name": "Lille Rosengård",
+    "latitude": "56.4574444",
+    "longitude": "10.0368216",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -256,13 +284,6 @@
     "name": "Østervangsskolen",
     "latitude": "56.4726729",
     "longitude": "10.0511548",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -305,13 +326,6 @@
     "name": "2 Sankt Mortens Gade",
     "latitude": "56.4597777",
     "longitude": "10.0368784",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -417,13 +431,6 @@
     "name": " Kirketorvet",
     "latitude": "56.4599519",
     "longitude": "10.0355235",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19536,
-    "name": "Donkey Republic-DSB",
-    "latitude": "56.4620012",
-    "longitude": "10.0214531",
     "thumbnail_url": ""
   },
   {
@@ -907,13 +914,6 @@
     "name": "Nørresundbyvej",
     "latitude": "56.4448909",
     "longitude": "10.0409484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {

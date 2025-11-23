@@ -1,33 +1,5 @@
 [
   {
-    "id": 16288,
-    "name": "CPNV",
-    "latitude": "46.7737937",
-    "longitude": "6.6342311",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18762,
-    "name": "Y-Parc, Innovation",
-    "latitude": "46.7638726",
-    "longitude": "6.6364354",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17240,
     "name": "Mont d'Or",
     "latitude": "46.778133",
@@ -42,10 +14,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
+    "id": 16288,
+    "name": "CPNV",
+    "latitude": "46.7737937",
+    "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18762,
+    "name": "Y-Parc, Innovation",
+    "latitude": "46.7638726",
+    "longitude": "6.6364354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -56,6 +42,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17298,
+    "name": "Roselière",
+    "latitude": "46.7875291",
+    "longitude": "6.6392243",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20010,
     "name": "Sports",
     "latitude": "46.7803201",
@@ -63,17 +56,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17295,
+    "name": "Aulus Faustus",
+    "latitude": "46.774497",
+    "longitude": "6.6456452",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17642,
+    "name": "Prés du Lac",
+    "latitude": "46.7913781",
+    "longitude": "6.6319157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16330,
     "name": "Avenue des Bains",
     "latitude": "46.7724618",
     "longitude": "6.6496881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
     "thumbnail_url": ""
   },
   {
@@ -105,13 +126,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17234,
     "name": "St-Georges",
     "latitude": "46.7816423",
@@ -140,10 +154,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17642,
-    "name": "Prés du Lac",
-    "latitude": "46.7913781",
-    "longitude": "6.6319157",
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
     "thumbnail_url": ""
   },
   {
@@ -193,13 +207,6 @@
     "name": "Jean-André Venel",
     "latitude": "46.7694474",
     "longitude": "6.6451896",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17295,
-    "name": "Aulus Faustus",
-    "latitude": "46.774497",
-    "longitude": "6.6456452",
     "thumbnail_url": ""
   },
   {
@@ -270,13 +277,6 @@
     "name": "Rives du Lac",
     "latitude": "46.7851494",
     "longitude": "6.6439231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17298,
-    "name": "Roselière",
-    "latitude": "46.7875291",
-    "longitude": "6.6392243",
     "thumbnail_url": ""
   },
   {

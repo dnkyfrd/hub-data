@@ -28,20 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29512,
-    "name": "Wijttenbachweg",
-    "latitude": "52.1877514",
-    "longitude": "4.4667631",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29523,
-    "name": "Endegeest",
-    "latitude": "52.1749757",
-    "longitude": "4.4631013",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29577,
     "name": "Fietsenstalling VDS",
     "latitude": "52.1826239",
@@ -60,13 +46,6 @@
     "name": "Corpus Hilton",
     "latitude": "52.1702991",
     "longitude": "4.4531188",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29518,
-    "name": "AH Oegstgeest",
-    "latitude": "52.1774412",
-    "longitude": "4.4686548",
     "thumbnail_url": ""
   },
   {
@@ -107,8 +86,8 @@
   {
     "id": 29516,
     "name": "Leidsebuurt",
-    "latitude": "52.1795944",
-    "longitude": "4.4652174",
+    "latitude": "52.1800785",
+    "longitude": "4.4648877",
     "thumbnail_url": ""
   },
   {
@@ -155,7 +134,7 @@
   },
   {
     "id": 29511,
-    "name": "Dorpstraat",
+    "name": "Dorpstraat Oegstgeest",
     "latitude": "52.1896871",
     "longitude": "4.4672374",
     "thumbnail_url": ""
@@ -266,13 +245,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31375,
-    "name": "Lijsterstraat III",
-    "latitude": "52.1724821",
-    "longitude": "4.4716739",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29568,
     "name": "Snellius",
     "latitude": "52.1696544",
@@ -315,13 +287,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29592,
-    "name": "Leiden Atlethiek",
-    "latitude": "52.1734716",
-    "longitude": "4.4791441",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29502,
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
@@ -340,6 +305,13 @@
     "name": "Corpus",
     "latitude": "52.170238",
     "longitude": "4.4585543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -378,13 +350,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29565,
-    "name": "oortgebouw",
-    "latitude": "52.1688352",
-    "longitude": "4.4587112",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32355,
     "name": "De Vink Leiden",
     "latitude": "52.1475188",
@@ -399,13 +364,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29531,
-    "name": "Mezenstraat",
-    "latitude": "52.1723928",
-    "longitude": "4.4706043",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29555,
     "name": "Uni van Steenis",
     "latitude": "52.1655613",
@@ -417,13 +375,6 @@
     "name": "Studentenhuisvesting",
     "latitude": "52.1687456",
     "longitude": "4.4713879",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -672,6 +623,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29475,
+    "name": "Dirk Asterstraat",
+    "latitude": "52.1862902",
+    "longitude": "4.4219663",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29395,
     "name": "Cleijn Duinplein 2",
     "latitude": "52.2006492",
@@ -679,24 +637,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29441,
-    "name": "Princestraat 2",
-    "latitude": "52.2039059",
-    "longitude": "4.3941534",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29587,
     "name": "Anjelierstraat",
     "latitude": "52.1923465",
     "longitude": "4.4425133",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29475,
-    "name": "Dirk Asterstraat",
-    "latitude": "52.1862902",
-    "longitude": "4.4219663",
     "thumbnail_url": ""
   },
   {
@@ -728,20 +672,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29425,
-    "name": "Boulevard 12",
-    "latitude": "52.1990604",
-    "longitude": "4.3884498",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29369,
-    "name": "Duinrand",
-    "latitude": "52.2084517",
-    "longitude": "4.4101326",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29366,
     "name": "Hoorneslaan 1",
     "latitude": "52.2059222",
@@ -753,27 +683,6 @@
     "name": "Sporthal Rijnsoever",
     "latitude": "52.2083207",
     "longitude": "4.4179586",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29384,
-    "name": "MVKV Tennisclub",
-    "latitude": "52.2105463",
-    "longitude": "4.4356938",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29431,
-    "name": "Havenstraat ",
-    "latitude": "52.2054429",
-    "longitude": "4.3981882",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29404,
-    "name": "J. van der Vegt",
-    "latitude": "52.2043703",
-    "longitude": "4.4076346",
     "thumbnail_url": ""
   },
   {
@@ -798,20 +707,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29574,
-    "name": "Laan van Verhof",
-    "latitude": "52.1869212",
-    "longitude": "4.4541019",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29575,
-    "name": "Laan van Verhof 2",
-    "latitude": "52.1875691",
-    "longitude": "4.454486",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29576,
     "name": "Laan van Verhof 3",
     "latitude": "52.1880131",
@@ -819,17 +714,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29602,
+    "name": "Laan van Verhof 4",
+    "latitude": "52.1873367",
+    "longitude": "4.458159",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29600,
     "name": "Heemskerk",
     "latitude": "52.1916755",
     "longitude": "4.4596117",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29602,
-    "name": "Laan van Verhof 3",
-    "latitude": "52.1873367",
-    "longitude": "4.458159",
     "thumbnail_url": ""
   },
   {
@@ -865,20 +760,6 @@
     "name": "Rijnsburgse Ijsclub",
     "latitude": "52.2005695",
     "longitude": "4.44383",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29383,
-    "name": "AV Rijnsoever",
-    "latitude": "52.2126994",
-    "longitude": "4.4309647",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29382,
-    "name": "Voetbalvereniging Katwijk",
-    "latitude": "52.209737",
-    "longitude": "4.4308294",
     "thumbnail_url": ""
   },
   {
@@ -938,13 +819,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29400,
-    "name": "Politiebureau Katwijk ",
-    "latitude": "52.2015304",
-    "longitude": "4.4148336",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29351,
     "name": "Rijnsburg Sportpark",
     "latitude": "52.2019547",
@@ -977,20 +851,6 @@
     "name": "Boulevard",
     "latitude": "52.2093116",
     "longitude": "4.3975075",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29434,
-    "name": "Sluisweg",
-    "latitude": "52.2052796",
-    "longitude": "4.3966864",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29453,
-    "name": "Duinvallei West",
-    "latitude": "52.1903185",
-    "longitude": "4.4193578",
     "thumbnail_url": ""
   },
   {
@@ -1043,10 +903,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29364,
-    "name": "Strand",
-    "latitude": "52.2051046",
-    "longitude": "4.4233845",
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
@@ -1054,20 +914,6 @@
     "name": "Andreasplein 2",
     "latitude": "52.2029142",
     "longitude": "4.3933729",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29407,
-    "name": "Zwaaikom 2",
-    "latitude": "52.2049552",
-    "longitude": "4.3995631",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29432,
-    "name": "Tunnel",
-    "latitude": "52.205099",
-    "longitude": "4.3971253",
     "thumbnail_url": ""
   },
   {
@@ -1092,6 +938,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29481,
+    "name": "Torenvlietslaan",
+    "latitude": "52.1745127",
+    "longitude": "4.4404774",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29596,
     "name": "Vianen Flowers",
     "latitude": "52.1918629",
@@ -1099,10 +952,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29481,
-    "name": "Torenvlietslaan",
-    "latitude": "52.1745127",
-    "longitude": "4.4404774",
+    "id": 29432,
+    "name": "Tunnel",
+    "latitude": "52.205099",
+    "longitude": "4.3971253",
     "thumbnail_url": ""
   },
   {
@@ -1155,10 +1008,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29380,
-    "name": "Hockeyclub Catwyck",
-    "latitude": "52.2108925",
-    "longitude": "4.4267241",
+    "id": 29453,
+    "name": "Duinvallei West",
+    "latitude": "52.1903185",
+    "longitude": "4.4193578",
     "thumbnail_url": ""
   },
   {
@@ -1166,13 +1019,6 @@
     "name": "Bosplein",
     "latitude": "52.1971545",
     "longitude": "4.4115806",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29394,
-    "name": "Cleijn Duinplein ",
-    "latitude": "52.2011511",
-    "longitude": "4.4190797",
     "thumbnail_url": ""
   },
   {
@@ -1309,10 +1155,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29445,
-    "name": "Parklaan ",
-    "latitude": "52.197463",
-    "longitude": "4.3944971",
+    "id": 29431,
+    "name": "Havenstraat ",
+    "latitude": "52.2054429",
+    "longitude": "4.3981882",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29369,
+    "name": "Duinrand",
+    "latitude": "52.2084517",
+    "longitude": "4.4101326",
     "thumbnail_url": ""
   },
   {
@@ -1383,13 +1236,6 @@
     "name": "Rijnstraat",
     "latitude": "52.1965083",
     "longitude": "4.4245131",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29413,
-    "name": "Boulevard 3",
-    "latitude": "52.2078851",
-    "longitude": "4.3964001",
     "thumbnail_url": ""
   },
   {
@@ -1600,13 +1446,6 @@
     "name": "Voorstraat",
     "latitude": "52.2034907",
     "longitude": "4.3977307",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
