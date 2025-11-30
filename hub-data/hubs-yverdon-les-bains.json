@@ -1,12 +1,5 @@
 [
   {
-    "id": 17240,
-    "name": "Mont d'Or",
-    "latitude": "46.778133",
-    "longitude": "6.6344066",
-    "thumbnail_url": ""
-  },
-  {
     "id": 16284,
     "name": "HEIG-VD St-Roch",
     "latitude": "46.7813519",
@@ -14,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16288,
-    "name": "CPNV",
-    "latitude": "46.7737937",
-    "longitude": "6.6342311",
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
     "thumbnail_url": ""
   },
   {
@@ -28,45 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17298,
-    "name": "Roselière",
-    "latitude": "46.7875291",
-    "longitude": "6.6392243",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20010,
-    "name": "Sports",
-    "latitude": "46.7803201",
-    "longitude": "6.6530063",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
     "thumbnail_url": ""
   },
   {
@@ -84,17 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16330,
-    "name": "Avenue des Bains",
-    "latitude": "46.7724618",
-    "longitude": "6.6496881",
+    "id": 17298,
+    "name": "Roselière",
+    "latitude": "46.7875291",
+    "longitude": "6.6392243",
     "thumbnail_url": ""
   },
   {
@@ -105,31 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
     "thumbnail_url": ""
   },
   {
-    "id": 17233,
-    "name": "Verdan",
-    "latitude": "46.7873595",
-    "longitude": "6.6270974",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17232,
-    "name": "Condémines",
-    "latitude": "46.7695009",
-    "longitude": "6.6526667",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17234,
-    "name": "St-Georges",
-    "latitude": "46.7816423",
-    "longitude": "6.6290342",
+    "id": 16330,
+    "name": "Avenue des Bains",
+    "latitude": "46.7724618",
+    "longitude": "6.6496881",
     "thumbnail_url": ""
   },
   {
@@ -140,10 +77,52 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17234,
+    "name": "St-Georges",
+    "latitude": "46.7816423",
+    "longitude": "6.6290342",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20010,
+    "name": "Sports",
+    "latitude": "46.7803201",
+    "longitude": "6.6530063",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24061,
     "name": "Y-Parc, Pythagore",
     "latitude": "46.7655784",
     "longitude": "6.6430736",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17240,
+    "name": "Mont d'Or",
+    "latitude": "46.778133",
+    "longitude": "6.6344066",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
     "thumbnail_url": ""
   },
   {
@@ -154,10 +133,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
+    "id": 17233,
+    "name": "Verdan",
+    "latitude": "46.7873595",
+    "longitude": "6.6270974",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16288,
+    "name": "CPNV",
+    "latitude": "46.7737937",
+    "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19985,
+    "name": "Fleurettes",
+    "latitude": "46.7847644",
+    "longitude": "6.6296161",
     "thumbnail_url": ""
   },
   {
@@ -175,10 +168,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
     "thumbnail_url": ""
   },
   {
@@ -186,13 +179,6 @@
     "name": "Pierre de Savoie",
     "latitude": "46.7684825",
     "longitude": "6.64101",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +193,27 @@
     "name": "Jean-André Venel",
     "latitude": "46.7694474",
     "longitude": "6.6451896",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17232,
+    "name": "Condémines",
+    "latitude": "46.7695009",
+    "longitude": "6.6526667",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -354,13 +361,6 @@
     "name": "Champs-Lovats",
     "latitude": "46.7666082",
     "longitude": "6.6510047",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19985,
-    "name": "Fleurettes",
-    "latitude": "46.7847644",
-    "longitude": "6.6296161",
     "thumbnail_url": ""
   },
   {

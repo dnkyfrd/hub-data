@@ -1,12 +1,5 @@
 [
   {
-    "id": 19655,
-    "name": "Vester boulevard arena 2",
-    "latitude": "56.4673733",
-    "longitude": "10.0106488",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33218,
     "name": "Temporary hub",
     "latitude": "56.4897722",
@@ -21,13 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20310,
     "name": "Haveforeningen Venezuela",
     "latitude": "56.4636237",
@@ -39,13 +25,6 @@
     "name": "Netto Hobrovej",
     "latitude": "56.4675211",
     "longitude": "10.0219855",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19527,
-    "name": "Århusvej 4",
-    "latitude": "56.4543486",
-    "longitude": "10.041028",
     "thumbnail_url": ""
   },
   {
@@ -98,20 +77,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19536,
-    "name": "Donkey Republic-DSB",
-    "latitude": "56.4620012",
-    "longitude": "10.0214531",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19556,
-    "name": "Randers Regnskov Front",
-    "latitude": "56.4574448",
-    "longitude": "10.0326837",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19578,
     "name": "Valdemarsvej 2",
     "latitude": "56.4471889",
@@ -133,10 +98,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19556,
+    "name": "Randers Regnskov Front",
+    "latitude": "56.4574448",
+    "longitude": "10.0326837",
+    "thumbnail_url": ""
+  },
+  {
     "id": 23118,
     "name": "Klatre Automaten",
     "latitude": "56.4833223",
     "longitude": "10.0440104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19527,
+    "name": "Århusvej 4",
+    "latitude": "56.4543486",
+    "longitude": "10.041028",
     "thumbnail_url": ""
   },
   {
@@ -189,6 +175,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19655,
+    "name": "Vester boulevard arena 2",
+    "latitude": "56.4673733",
+    "longitude": "10.0106488",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27971,
     "name": "Randersvej",
     "latitude": "56.4460012",
@@ -231,24 +224,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19560,
     "name": "Lille Rosengård",
     "latitude": "56.4574444",
     "longitude": "10.0368216",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -329,6 +308,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
+    "thumbnail_url": ""
+  },
+  {
     "id": 23665,
     "name": "Vorup Blvd",
     "latitude": "56.4441818",
@@ -340,6 +326,20 @@
     "name": "Tradium",
     "latitude": "56.4309103",
     "longitude": "10.0706545",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {

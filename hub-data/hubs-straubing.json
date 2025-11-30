@@ -1,23 +1,16 @@
 [
   {
+    "id": 32711,
+    "name": "Alburg Bayerg. neben Schranke",
+    "latitude": "48.8686911",
+    "longitude": "12.5423566",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32695,
     "name": "Campingplatz",
     "latitude": "48.8932739",
     "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32696,
-    "name": "Niederalteicher Str.",
-    "latitude": "48.8797146",
-    "longitude": "12.6313375",
     "thumbnail_url": ""
   },
   {
@@ -32,13 +25,6 @@
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9024072",
     "longitude": "12.5136484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32708,
-    "name": "Beim Römerschatz",
-    "latitude": "48.8701578",
-    "longitude": "12.5499594",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32711,
-    "name": "Alburg Bayerg. neben Schranke",
-    "latitude": "48.8686911",
-    "longitude": "12.5423566",
+    "id": 32675,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32696,
+    "name": "Niederalteicher Str.",
+    "latitude": "48.8797146",
+    "longitude": "12.6313375",
     "thumbnail_url": ""
   },
   {
@@ -81,13 +74,6 @@
     "name": "Äussere Passauer Strasse _ Antoniusberg",
     "latitude": "48.8745709",
     "longitude": "12.5858091",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {
@@ -116,6 +102,20 @@
     "name": "Bahnhof Ittling (Fahrradabstellanlage)",
     "latitude": "48.8848476",
     "longitude": "12.6371181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32708,
+    "name": "Beim Römerschatz",
+    "latitude": "48.8701578",
+    "longitude": "12.5499594",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32701,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {

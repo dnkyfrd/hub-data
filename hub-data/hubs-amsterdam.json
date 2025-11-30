@@ -14,24 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27226,
-    "name": "!PARK INDOOR! CS Center",
-    "latitude": "52.377613",
-    "longitude": "4.9026312",
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
     "thumbnail_url": ""
   },
   {
@@ -42,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26613,
-    "name": "Max Planckstraat",
-    "latitude": "52.351708",
-    "longitude": "4.9462154",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31755,
     "name": "Station Diemen Zuid",
     "latitude": "52.3302353",
@@ -56,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31763,
-    "name": "Station Nieuw Vennep",
-    "latitude": "52.2591352",
-    "longitude": "4.6452648",
+    "id": 26613,
+    "name": "Max Planckstraat",
+    "latitude": "52.351708",
+    "longitude": "4.9462154",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +49,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28890,
-    "name": "Appeltjesmarkt",
-    "latitude": "52.368809",
-    "longitude": "4.8774985",
+    "id": 31763,
+    "name": "Station Nieuw Vennep",
+    "latitude": "52.2591352",
+    "longitude": "4.6452648",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
     "thumbnail_url": ""
   },
   {
@@ -84,24 +70,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28890,
+    "name": "Appeltjesmarkt",
+    "latitude": "52.368809",
+    "longitude": "4.8774985",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31768,
     "name": "Station Krommenie Assendelft I",
     "latitude": "52.4951634",
     "longitude": "4.7553058",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31769,
-    "name": "Station Krommenie Assendelft II",
-    "latitude": "52.494637",
-    "longitude": "4.7557598",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
     "thumbnail_url": ""
   },
   {
@@ -112,17 +91,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31769,
+    "name": "Station Krommenie Assendelft II",
+    "latitude": "52.494637",
+    "longitude": "4.7557598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26611,
+    "name": "De Boelelaan 30",
+    "latitude": "52.3350187",
+    "longitude": "4.88523",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26619,
     "name": "Science Park campus",
     "latitude": "52.3550805",
     "longitude": "4.9558884",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28747,
-    "name": "Marine Buurthub",
-    "latitude": "52.372797",
-    "longitude": "4.9173944",
     "thumbnail_url": ""
   },
   {
@@ -147,13 +140,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23523,
-    "name": "Henk Sneevlietweg",
-    "latitude": "52.3455372",
-    "longitude": "4.8338295",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31896,
     "name": "Station Purmerend Weidevenne II",
     "latitude": "52.4967467",
@@ -161,10 +147,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20883,
+    "name": "!PARK INDOOR! Amstelstation",
+    "latitude": "52.3468462",
+    "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31770,
     "name": "Station Zaandam Kogerveld",
     "latitude": "52.4569946",
     "longitude": "4.8192717",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28747,
+    "name": "Marine Buurthub",
+    "latitude": "52.372797",
+    "longitude": "4.9173944",
     "thumbnail_url": ""
   },
   {
@@ -196,10 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26611,
-    "name": "De Boelelaan 30",
-    "latitude": "52.3351598",
-    "longitude": "4.8863163",
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
     "thumbnail_url": ""
   },
   {
@@ -214,6 +214,13 @@
     "name": "Admiralengracht",
     "latitude": "52.3724046",
     "longitude": "4.8565964",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23523,
+    "name": "Henk Sneevlietweg",
+    "latitude": "52.3455372",
+    "longitude": "4.8338295",
     "thumbnail_url": ""
   },
   {
@@ -354,13 +361,6 @@
     "name": "Banneplein",
     "latitude": "52.4074635",
     "longitude": "4.9175288",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20883,
-    "name": "!PARK INDOOR! Amstelstation",
-    "latitude": "52.3468462",
-    "longitude": "4.9188123",
     "thumbnail_url": ""
   },
   {

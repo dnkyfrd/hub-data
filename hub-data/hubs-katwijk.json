@@ -84,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29516,
-    "name": "Leidsebuurt",
-    "latitude": "52.1800785",
-    "longitude": "4.4648877",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29496,
     "name": "Zwembad Poelmeer",
     "latitude": "52.1840542",
     "longitude": "4.4865418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29516,
+    "name": "Leidsebuurt",
+    "latitude": "52.1800785",
+    "longitude": "4.4648877",
     "thumbnail_url": ""
   },
   {
@@ -155,7 +155,7 @@
   },
   {
     "id": 29509,
-    "name": "Jumbo ommevoort",
+    "name": "Jumbo Ommevoort",
     "latitude": "52.1857026",
     "longitude": "4.4696242",
     "thumbnail_url": ""
@@ -308,13 +308,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29567,
     "name": "SRON",
     "latitude": "52.1691082",
@@ -382,6 +375,13 @@
     "name": "Lijsterstraat I",
     "latitude": "52.1734886",
     "longitude": "4.473183",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -595,24 +595,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29440,
-    "name": "Princestraat",
-    "latitude": "52.2043185",
-    "longitude": "4.3944752",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29444,
     "name": "Drieplassenweg",
     "latitude": "52.1977779",
     "longitude": "4.3932325",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29408,
-    "name": "Tramstraat",
-    "latitude": "52.2040169",
-    "longitude": "4.3990495",
     "thumbnail_url": ""
   },
   {
@@ -623,24 +609,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29475,
-    "name": "Dirk Asterstraat",
-    "latitude": "52.1862902",
-    "longitude": "4.4219663",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29395,
     "name": "Cleijn Duinplein 2",
     "latitude": "52.2006492",
     "longitude": "4.4185792",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29587,
-    "name": "Anjelierstraat",
-    "latitude": "52.1923465",
-    "longitude": "4.4425133",
     "thumbnail_url": ""
   },
   {
@@ -658,6 +630,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29475,
+    "name": "Dirk Asterstraat",
+    "latitude": "52.1862902",
+    "longitude": "4.4219663",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29483,
     "name": "Fietsenstalling Dorpsweide",
     "latitude": "52.1775666",
@@ -665,10 +644,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29370,
-    "name": "Katwijk Camping Noord",
-    "latitude": "52.2092702",
-    "longitude": "4.4084636",
+    "id": 29596,
+    "name": "Vianen Flowers",
+    "latitude": "52.1918629",
+    "longitude": "4.4562499",
     "thumbnail_url": ""
   },
   {
@@ -714,24 +693,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29602,
-    "name": "Laan van Verhof 4",
-    "latitude": "52.1873367",
-    "longitude": "4.458159",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29600,
     "name": "Heemskerk",
     "latitude": "52.1916755",
     "longitude": "4.4596117",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29603,
-    "name": "De Wilbert",
-    "latitude": "52.1919895",
-    "longitude": "4.4257038",
     "thumbnail_url": ""
   },
   {
@@ -882,13 +847,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29368,
-    "name": "Hoornespassage 2",
-    "latitude": "52.2065093",
-    "longitude": "4.4186604",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29403,
     "name": "Rederijstraat ",
     "latitude": "52.2045935",
@@ -945,20 +903,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29596,
-    "name": "Vianen Flowers",
-    "latitude": "52.1918629",
-    "longitude": "4.4562499",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29432,
-    "name": "Tunnel",
-    "latitude": "52.205099",
-    "longitude": "4.3971253",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29415,
     "name": "Boulevard 5",
     "latitude": "52.2061878",
@@ -973,6 +917,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29368,
+    "name": "Hoornespassage 2",
+    "latitude": "52.2065093",
+    "longitude": "4.4186604",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29386,
     "name": "'s Gravendijck",
     "latitude": "52.2124822",
@@ -980,17 +931,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29414,
-    "name": "Boulevard 4",
-    "latitude": "52.2072153",
-    "longitude": "4.3959548",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29459,
     "name": "Smalspoormuseum",
     "latitude": "52.1593462",
     "longitude": "4.4435179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29414,
+    "name": "Boulevard 4",
+    "latitude": "52.2072153",
+    "longitude": "4.3959548",
     "thumbnail_url": ""
   },
   {
@@ -1012,6 +963,13 @@
     "name": "Duinvallei West",
     "latitude": "52.1903185",
     "longitude": "4.4193578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29438,
+    "name": "Hoogvliet",
+    "latitude": "52.2035163",
+    "longitude": "4.3970837",
     "thumbnail_url": ""
   },
   {
@@ -1071,10 +1029,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29420,
-    "name": "Boulevard 8",
-    "latitude": "52.20257",
-    "longitude": "4.3921045",
+    "id": 29587,
+    "name": "Anjelierstraat",
+    "latitude": "52.1923465",
+    "longitude": "4.4425133",
     "thumbnail_url": ""
   },
   {
@@ -1082,13 +1040,6 @@
     "name": "Vakcollege Rijnmond ",
     "latitude": "52.1964196",
     "longitude": "4.4170069",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29392,
-    "name": "Koningin Julianalaan",
-    "latitude": "52.2005305",
-    "longitude": "4.4158772",
     "thumbnail_url": ""
   },
   {
@@ -1103,13 +1054,6 @@
     "name": "AH Rijnsoever",
     "latitude": "52.2023129",
     "longitude": "4.4269712",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29438,
-    "name": "Hoogvliet",
-    "latitude": "52.2035163",
-    "longitude": "4.3970837",
     "thumbnail_url": ""
   },
   {
@@ -1246,13 +1190,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29421,
-    "name": "Boulevard 9",
-    "latitude": "52.201373",
-    "longitude": "4.390998",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29360,
     "name": "Gemeentewerf Katwijk",
     "latitude": "52.2035062",
@@ -1264,13 +1201,6 @@
     "name": "Sporthal Cleijn Duin",
     "latitude": "52.2002132",
     "longitude": "4.4168481",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29416,
-    "name": "Boulevard 6",
-    "latitude": "52.2055013",
-    "longitude": "4.3944152",
     "thumbnail_url": ""
   },
   {
@@ -1313,13 +1243,6 @@
     "name": "Royal Flora Holland",
     "latitude": "52.1855182",
     "longitude": "4.4518675",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29406,
-    "name": "Zwaaikom",
-    "latitude": "52.2045775",
-    "longitude": "4.3997318",
     "thumbnail_url": ""
   },
   {
