@@ -1,5 +1,12 @@
 [
   {
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33218,
     "name": "Temporary hub",
     "latitude": "56.4897722",
@@ -39,13 +46,6 @@
     "name": "Bøsbrovej 47",
     "latitude": "56.4446312",
     "longitude": "10.0386913",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19582,
-    "name": "Spurvevej",
-    "latitude": "56.4711583",
-    "longitude": "10.0407893",
     "thumbnail_url": ""
   },
   {
@@ -112,20 +112,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19536,
-    "name": "Donkey Republic-DSB",
-    "latitude": "56.4620012",
-    "longitude": "10.0214531",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19527,
-    "name": "Århusvej 4",
-    "latitude": "56.4543486",
-    "longitude": "10.041028",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23206,
     "name": "P-Huset City",
     "latitude": "56.4595444",
@@ -168,17 +154,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19796,
-    "name": "Netto",
-    "latitude": "56.4648162",
-    "longitude": "10.0309605",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19655,
     "name": "Vester boulevard arena 2",
     "latitude": "56.4673733",
     "longitude": "10.0106488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19531,
+    "name": "Laksetorvet 1",
+    "latitude": "56.4582965",
+    "longitude": "10.0350221",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19527,
+    "name": "Århusvej 4",
+    "latitude": "56.4543486",
+    "longitude": "10.041028",
     "thumbnail_url": ""
   },
   {
@@ -196,10 +189,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19576,
-    "name": "J. V. Martines Pl",
-    "latitude": "56.4634219",
-    "longitude": "10.0498271",
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19796,
+    "name": "Netto",
+    "latitude": "56.4648162",
+    "longitude": "10.0309605",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -210,10 +217,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
+    "id": 19576,
+    "name": "J. V. Martines Pl",
+    "latitude": "56.4634219",
+    "longitude": "10.0498271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -224,17 +238,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19560,
     "name": "Lille Rosengård",
     "latitude": "56.4574444",
     "longitude": "10.0368216",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19562,
-    "name": "Kirkegade 15",
-    "latitude": "56.4598707",
-    "longitude": "10.0338497",
     "thumbnail_url": ""
   },
   {
@@ -245,17 +259,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19562,
+    "name": "Kirkegade 15",
+    "latitude": "56.4598707",
+    "longitude": "10.0338497",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24001,
     "name": "Rema 1000 Hobrovej",
     "latitude": "56.4803568",
     "longitude": "9.9985416",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19531,
-    "name": "Laksetorvet 1",
-    "latitude": "56.4582965",
-    "longitude": "10.0350221",
     "thumbnail_url": ""
   },
   {
@@ -308,13 +322,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23665,
     "name": "Vorup Blvd",
     "latitude": "56.4441818",
@@ -329,17 +336,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {
@@ -912,8 +912,8 @@
   {
     "id": 23666,
     "name": "Nørresundbyvej",
-    "latitude": "56.4448909",
-    "longitude": "10.0409484",
+    "latitude": "56.4451245",
+    "longitude": "10.0401279",
     "thumbnail_url": ""
   },
   {

@@ -1,5 +1,12 @@
 [
   {
+    "id": 4109,
+    "name": "Place Pury",
+    "latitude": "46.9897038",
+    "longitude": "6.9287524",
+    "thumbnail_url": ""
+  },
+  {
     "id": 3721,
     "name": "Pourtalès",
     "latitude": "46.9961145",
@@ -7,45 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17035,
-    "name": "Battieux",
-    "latitude": "46.9825555",
-    "longitude": "6.9030986",
+    "id": 4113,
+    "name": "Monruz",
+    "latitude": "47.0056002",
+    "longitude": "6.9639054",
     "thumbnail_url": ""
   },
   {
-    "id": 16492,
-    "name": "Riveraine",
-    "latitude": "46.9962042",
-    "longitude": "6.9463045",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4332,
-    "name": "Bevaix",
-    "latitude": "46.9297259",
-    "longitude": "6.8151062",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6448,
-    "name": "UniLac",
-    "latitude": "46.9937227",
-    "longitude": "6.9416517",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18447,
-    "name": "Fun'ambule - Nord",
-    "latitude": "46.994127",
-    "longitude": "6.9378518",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5066,
-    "name": "Petit-Cortaillod",
-    "latitude": "46.940307",
-    "longitude": "6.8518176",
+    "id": 12541,
+    "name": "Gorgier-St-Aubin",
+    "latitude": "46.8991139",
+    "longitude": "6.7815325",
     "thumbnail_url": ""
   },
   {
@@ -63,17 +42,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5065,
-    "name": "Areuse",
-    "latitude": "46.9542865",
-    "longitude": "6.8536375",
+    "id": 3720,
+    "name": "Alexis-Marie-Piaget",
+    "latitude": "46.991655",
+    "longitude": "6.9323596",
     "thumbnail_url": ""
   },
   {
-    "id": 4113,
-    "name": "Monruz",
-    "latitude": "47.0056002",
-    "longitude": "6.9639054",
+    "id": 2446,
+    "name": "Fun'ambule",
+    "latitude": "46.99312",
+    "longitude": "6.9387849",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16492,
+    "name": "Riveraine",
+    "latitude": "46.9962042",
+    "longitude": "6.9463045",
     "thumbnail_url": ""
   },
   {
@@ -84,24 +70,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3720,
-    "name": "Alexis-Marie-Piaget",
-    "latitude": "46.991655",
-    "longitude": "6.9323596",
+    "id": 4112,
+    "name": "Bains romains",
+    "latitude": "46.9818826",
+    "longitude": "6.9053649",
     "thumbnail_url": ""
   },
   {
-    "id": 4109,
-    "name": "Place Pury",
-    "latitude": "46.9897038",
-    "longitude": "6.9287524",
+    "id": 6448,
+    "name": "UniLac",
+    "latitude": "46.9937227",
+    "longitude": "6.9416517",
     "thumbnail_url": ""
   },
   {
-    "id": 26393,
-    "name": "Vauvilliers",
-    "latitude": "46.9528425",
-    "longitude": "6.8344684",
+    "id": 4111,
+    "name": "Station du Port",
+    "latitude": "46.9910334",
+    "longitude": "6.9347913",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30336,
+    "name": "Cort'Agora",
+    "latitude": "46.9440905",
+    "longitude": "6.8440795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5066,
+    "name": "Petit-Cortaillod",
+    "latitude": "46.940307",
+    "longitude": "6.8518176",
     "thumbnail_url": ""
   },
   {
@@ -112,10 +112,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5064,
-    "name": "Bas des Allées",
-    "latitude": "46.9680625",
-    "longitude": "6.8700157",
+    "id": 4330,
+    "name": "St-Blaise",
+    "latitude": "47.0120688",
+    "longitude": "6.9852833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4332,
+    "name": "Bevaix",
+    "latitude": "46.9297259",
+    "longitude": "6.8151062",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20166,
+    "name": "Colombier - Administration",
+    "latitude": "46.9656686",
+    "longitude": "6.8590677",
     "thumbnail_url": ""
   },
   {
@@ -126,17 +140,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4112,
-    "name": "Bains romains",
-    "latitude": "46.9818826",
-    "longitude": "6.9053649",
+    "id": 5065,
+    "name": "Areuse",
+    "latitude": "46.9542865",
+    "longitude": "6.8536375",
     "thumbnail_url": ""
   },
   {
-    "id": 12541,
-    "name": "Gorgier-St-Aubin",
-    "latitude": "46.8991139",
-    "longitude": "6.7815325",
+    "id": 19322,
+    "name": "Rosière",
+    "latitude": "46.9915794",
+    "longitude": "6.9166439",
     "thumbnail_url": ""
   },
   {
@@ -144,13 +158,6 @@
     "name": "Fornel",
     "latitude": "46.9938241",
     "longitude": "6.9358932",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17033,
-    "name": "Lycée Denis-de-Rougemont",
-    "latitude": "46.9948541",
-    "longitude": "6.940603",
     "thumbnail_url": ""
   },
   {
@@ -168,24 +175,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2446,
-    "name": "Fun'ambule",
-    "latitude": "46.99312",
-    "longitude": "6.9387849",
+    "id": 18447,
+    "name": "Fun'ambule - Nord",
+    "latitude": "46.994127",
+    "longitude": "6.9378518",
     "thumbnail_url": ""
   },
   {
-    "id": 20166,
-    "name": "Colombier - Administration",
-    "latitude": "46.9656686",
-    "longitude": "6.8590677",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30336,
-    "name": "Cort'Agora",
-    "latitude": "46.9440905",
-    "longitude": "6.8440795",
+    "id": 26393,
+    "name": "Vauvilliers",
+    "latitude": "46.9528425",
+    "longitude": "6.8344684",
     "thumbnail_url": ""
   },
   {
@@ -196,10 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4111,
-    "name": "Station du Port",
-    "latitude": "46.9910334",
-    "longitude": "6.9347913",
+    "id": 17032,
+    "name": "Saars 17",
+    "latitude": "46.9979602",
+    "longitude": "6.9530494",
     "thumbnail_url": ""
   },
   {
@@ -210,17 +210,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4329,
-    "name": "Hauterive",
-    "latitude": "47.0083989",
-    "longitude": "6.9726219",
+    "id": 4114,
+    "name": "Quai Jeanrenaud",
+    "latitude": "46.9790096",
+    "longitude": "6.89676",
     "thumbnail_url": ""
   },
   {
-    "id": 4330,
-    "name": "St-Blaise",
-    "latitude": "47.0120688",
-    "longitude": "6.9852833",
+    "id": 17035,
+    "name": "Battieux",
+    "latitude": "46.9825555",
+    "longitude": "6.9030986",
     "thumbnail_url": ""
   },
   {
@@ -238,10 +238,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17037,
-    "name": "Oriette",
-    "latitude": "46.9907005",
-    "longitude": "6.9263918",
+    "id": 4110,
+    "name": "Evole",
+    "latitude": "46.988599",
+    "longitude": "6.9212462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5064,
+    "name": "Bas des Allées",
+    "latitude": "46.9680625",
+    "longitude": "6.8700157",
     "thumbnail_url": ""
   },
   {
@@ -266,17 +273,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17032,
-    "name": "Saars 17",
-    "latitude": "46.9979602",
-    "longitude": "6.9530494",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4110,
-    "name": "Evole",
-    "latitude": "46.988599",
-    "longitude": "6.9212462",
+    "id": 17037,
+    "name": "Oriette",
+    "latitude": "46.9907005",
+    "longitude": "6.9263918",
     "thumbnail_url": ""
   },
   {
@@ -294,6 +294,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4329,
+    "name": "Hauterive",
+    "latitude": "47.0083989",
+    "longitude": "6.9726219",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26171,
     "name": "Vieux-Châtel",
     "latitude": "46.995327",
@@ -301,17 +308,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19322,
-    "name": "Rosière",
-    "latitude": "46.9915794",
-    "longitude": "6.9166439",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20989,
     "name": "Corcelles - Grand'Rue",
     "latitude": "46.9816303",
     "longitude": "6.8686083",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17033,
+    "name": "Lycée Denis-de-Rougemont",
+    "latitude": "46.9948541",
+    "longitude": "6.940603",
     "thumbnail_url": ""
   },
   {
@@ -382,13 +389,6 @@
     "name": "Tivoli",
     "latitude": "46.9834609",
     "longitude": "6.906401",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4114,
-    "name": "Quai Jeanrenaud",
-    "latitude": "46.9790096",
-    "longitude": "6.89676",
     "thumbnail_url": ""
   },
   {
