@@ -1,9 +1,9 @@
 [
   {
-    "id": 19582,
-    "name": "Spurvevej",
-    "latitude": "56.4711583",
-    "longitude": "10.0407893",
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
     "thumbnail_url": ""
   },
   {
@@ -28,17 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24003,
-    "name": "Netto Hobrovej",
-    "latitude": "56.4675211",
-    "longitude": "10.0219855",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32868,
     "name": "Regionspsykiatrien Randers",
     "latitude": "56.4725002",
     "longitude": "10.0466491",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
     "thumbnail_url": ""
   },
   {
@@ -77,13 +77,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24008,
     "name": "Netto Mariagervej ",
     "latitude": "56.4807406",
@@ -91,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19509,
     "name": "Snaregade 1",
     "latitude": "56.4607416",
     "longitude": "10.0353067",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19556,
-    "name": "Randers Regnskov Front",
-    "latitude": "56.4574448",
-    "longitude": "10.0326837",
     "thumbnail_url": ""
   },
   {
@@ -189,17 +182,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19796,
     "name": "Netto",
     "latitude": "56.4648162",
     "longitude": "10.0309605",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -245,24 +238,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19560,
-    "name": "Lille Rosengård",
-    "latitude": "56.4574444",
-    "longitude": "10.0368216",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19558,
     "name": "Torvegade 19",
     "latitude": "56.4594141",
     "longitude": "10.0363073",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19562,
-    "name": "Kirkegade 15",
-    "latitude": "56.4598707",
-    "longitude": "10.0338497",
     "thumbnail_url": ""
   },
   {
@@ -336,10 +315,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
+    "id": 19562,
+    "name": "Kirkegade 15",
+    "latitude": "56.4598707",
+    "longitude": "10.0338497",
     "thumbnail_url": ""
   },
   {
@@ -385,6 +364,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19556,
+    "name": "Randers Regnskov Front",
+    "latitude": "56.4574448",
+    "longitude": "10.0326837",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32050,
     "name": "bilka to go",
     "latitude": "56.431705",
@@ -396,6 +382,13 @@
     "name": "Borgergade 1",
     "latitude": "56.4614284",
     "longitude": "10.0339602",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19560,
+    "name": "Lille Rosengård",
+    "latitude": "56.4574444",
+    "longitude": "10.0368216",
     "thumbnail_url": ""
   },
   {
@@ -417,6 +410,13 @@
     "name": "St. Voldgade 1",
     "latitude": "56.4607198",
     "longitude": "10.0343079",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {

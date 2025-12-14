@@ -1,16 +1,16 @@
 [
   {
-    "id": 22530,
-    "name": "Bahnhof Lengwil ",
-    "latitude": "47.6261744",
-    "longitude": "9.1899964",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22532,
     "name": "Parkplatz Hafenfeld",
     "latitude": "47.6344818",
     "longitude": "9.22306",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22530,
+    "name": "Bahnhof Lengwil ",
+    "latitude": "47.6261744",
+    "longitude": "9.1899964",
     "thumbnail_url": ""
   },
   {
@@ -28,20 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27219,
-    "name": "Bahnhof Tägerwilen-Gottlieben",
-    "latitude": "47.6596514",
-    "longitude": "9.1327185",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22523,
-    "name": "Einkaufszentrum Karussell",
-    "latitude": "47.6502535",
-    "longitude": "9.1735334",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27178,
     "name": "Grenze Klein Venedig ",
     "latitude": "47.654836",
@@ -53,6 +39,20 @@
     "name": "Bahnhof Hafen",
     "latitude": "47.649461",
     "longitude": "9.1816299",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27219,
+    "name": "Bahnhof Tägerwilen-Gottlieben",
+    "latitude": "47.6596514",
+    "longitude": "9.1327185",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22523,
+    "name": "Einkaufszentrum Karussell",
+    "latitude": "47.6502535",
+    "longitude": "9.1735334",
     "thumbnail_url": ""
   },
   {

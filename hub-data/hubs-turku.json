@@ -1,16 +1,9 @@
 [
   {
-    "id": 22989,
-    "name": "Koulu",
-    "latitude": "60.4496953",
-    "longitude": "22.2641104",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31569,
-    "name": "Littoistentie",
-    "latitude": "60.442327",
-    "longitude": "22.340951",
+    "id": 27845,
+    "name": "Kalevanpuisto",
+    "latitude": "60.4505537",
+    "longitude": "22.3091826",
     "thumbnail_url": ""
   },
   {
@@ -21,45 +14,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22934,
+    "name": "Yo-kylä 24-28",
+    "latitude": "60.4642606",
+    "longitude": "22.2940543",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22952,
     "name": "Educarium",
     "latitude": "60.4580762",
     "longitude": "22.2861068",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27845,
-    "name": "Kalevanpuisto",
-    "latitude": "60.4505537",
-    "longitude": "22.3091826",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22932,
-    "name": "Tyyssija",
-    "latitude": "60.4625973",
-    "longitude": "22.28813",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23042,
-    "name": "Kupittaan palloiluhalli",
-    "latitude": "60.4461602",
-    "longitude": "22.3003524",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26586,
-    "name": "Kauppatori",
-    "latitude": "60.4517292",
-    "longitude": "22.2683004",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22953,
-    "name": "Calonia",
-    "latitude": "60.4568824",
-    "longitude": "22.2856822",
     "thumbnail_url": ""
   },
   {
@@ -70,24 +35,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23268,
-    "name": "Päärautatieasema",
-    "latitude": "60.4557036",
-    "longitude": "22.2589086",
+    "id": 22953,
+    "name": "Calonia",
+    "latitude": "60.4568824",
+    "longitude": "22.2856822",
     "thumbnail_url": ""
   },
   {
-    "id": 22929,
-    "name": "Jarkko Laineen puistikko",
-    "latitude": "60.4391034",
-    "longitude": "22.2612626",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26665,
-    "name": "Pääkirjasto",
-    "latitude": "60.4503024",
-    "longitude": "22.2705702",
+    "id": 22932,
+    "name": "Tyyssija",
+    "latitude": "60.4625973",
+    "longitude": "22.28813",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22504,
-    "name": "Stålarminkatu",
-    "latitude": "60.4387745",
-    "longitude": "22.2563723",
+    "id": 23042,
+    "name": "Kupittaan palloiluhalli",
+    "latitude": "60.4461602",
+    "longitude": "22.3003524",
     "thumbnail_url": ""
   },
   {
@@ -112,10 +70,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23650,
-    "name": "Linnanmalmi",
-    "latitude": "60.4388333",
-    "longitude": "22.236256",
+    "id": 22487,
+    "name": "Satama",
+    "latitude": "60.4350687",
+    "longitude": "22.2233336",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31569,
+    "name": "Littoistentie",
+    "latitude": "60.442327",
+    "longitude": "22.340951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22504,
+    "name": "Stålarminkatu",
+    "latitude": "60.4387745",
+    "longitude": "22.2563723",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22929,
+    "name": "Jarkko Laineen puistikko",
+    "latitude": "60.4391034",
+    "longitude": "22.2612626",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22989,
+    "name": "Koulu",
+    "latitude": "60.4496953",
+    "longitude": "22.2641104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26586,
+    "name": "Kauppatori",
+    "latitude": "60.4517292",
+    "longitude": "22.2683004",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +116,13 @@
     "name": "Sairashuoneenpuisto",
     "latitude": "60.4442444",
     "longitude": "22.2524026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23268,
+    "name": "Päärautatieasema",
+    "latitude": "60.4557036",
+    "longitude": "22.2589086",
     "thumbnail_url": ""
   },
   {
@@ -140,6 +140,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22475,
+    "name": "Ikituuri",
+    "latitude": "60.4610987",
+    "longitude": "22.2862437",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22489,
     "name": "T-sairaala",
     "latitude": "60.4550184",
@@ -151,20 +158,6 @@
     "name": "Akatemiatalo",
     "latitude": "60.4510956",
     "longitude": "22.2791829",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23634,
-    "name": "Assari",
-    "latitude": "60.4538963",
-    "longitude": "22.2873736",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22499,
-    "name": "Puistokatu",
-    "latitude": "60.4481579",
-    "longitude": "22.2500941",
     "thumbnail_url": ""
   },
   {
@@ -224,17 +217,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22925,
-    "name": "Ispoinen",
-    "latitude": "60.427216",
-    "longitude": "22.2686891",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22973,
     "name": "Forum Marinum",
     "latitude": "60.4369299",
     "longitude": "22.2369289",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26665,
+    "name": "Pääkirjasto",
+    "latitude": "60.4503024",
+    "longitude": "22.2705702",
     "thumbnail_url": ""
   },
   {
@@ -245,10 +238,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23148,
-    "name": "Kaakelitehdas",
-    "latitude": "60.4571084",
-    "longitude": "22.2365246",
+    "id": 22482,
+    "name": "Linja-autoasema",
+    "latitude": "60.4573008",
+    "longitude": "22.2683685",
     "thumbnail_url": ""
   },
   {
@@ -256,20 +249,6 @@
     "name": "Yo-kylä 62-64",
     "latitude": "60.4624938",
     "longitude": "22.3013666",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22931,
-    "name": "Kirjastosilta",
-    "latitude": "60.4495967",
-    "longitude": "22.2714027",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22485,
-    "name": "Vesibussi",
-    "latitude": "60.4433794",
-    "longitude": "22.253913",
     "thumbnail_url": ""
   },
   {
@@ -284,13 +263,6 @@
     "name": "Rautatientori",
     "latitude": "60.4532626",
     "longitude": "22.2533649",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22475,
-    "name": "Ikituuri",
-    "latitude": "60.4610987",
-    "longitude": "22.2862437",
     "thumbnail_url": ""
   },
   {
@@ -371,31 +343,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22487,
-    "name": "Satama",
-    "latitude": "60.4350687",
-    "longitude": "22.2233336",
+    "id": 22931,
+    "name": "Kirjastosilta",
+    "latitude": "60.4495967",
+    "longitude": "22.2714027",
     "thumbnail_url": ""
   },
   {
-    "id": 22934,
-    "name": "Yo-kylä 24-28",
-    "latitude": "60.4642606",
-    "longitude": "22.2940543",
+    "id": 22925,
+    "name": "Ispoinen",
+    "latitude": "60.427216",
+    "longitude": "22.2686891",
     "thumbnail_url": ""
   },
   {
-    "id": 22946,
-    "name": "Puropellonpolku",
-    "latitude": "60.4404091",
-    "longitude": "22.2715258",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22482,
-    "name": "Linja-autoasema",
-    "latitude": "60.4573008",
-    "longitude": "22.2683685",
+    "id": 23650,
+    "name": "Linnanmalmi",
+    "latitude": "60.4388333",
+    "longitude": "22.236256",
     "thumbnail_url": ""
   },
   {
@@ -410,6 +375,41 @@
     "name": "eCargo bikes: Kauppatori",
     "latitude": "60.4517639",
     "longitude": "22.2682669",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23148,
+    "name": "Kaakelitehdas",
+    "latitude": "60.4571084",
+    "longitude": "22.2365246",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23634,
+    "name": "Assari",
+    "latitude": "60.4538963",
+    "longitude": "22.2873736",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22485,
+    "name": "Vesibussi",
+    "latitude": "60.4433794",
+    "longitude": "22.253913",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22499,
+    "name": "Puistokatu",
+    "latitude": "60.4481579",
+    "longitude": "22.2500941",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22946,
+    "name": "Puropellonpolku",
+    "latitude": "60.4404091",
+    "longitude": "22.2715258",
     "thumbnail_url": ""
   },
   {
@@ -872,13 +872,6 @@
     "name": "Patterinhaka",
     "latitude": "60.4458938",
     "longitude": "22.2256995",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22992,
-    "name": "Jarkko Haavion polku",
-    "latitude": "60.4739872",
-    "longitude": "22.3050745",
     "thumbnail_url": ""
   },
   {

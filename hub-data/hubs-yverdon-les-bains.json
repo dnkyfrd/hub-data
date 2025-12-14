@@ -1,16 +1,16 @@
 [
   {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18762,
     "name": "Y-Parc, Innovation",
     "latitude": "46.7638726",
     "longitude": "6.6364354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17234,
+    "name": "St-Georges",
+    "latitude": "46.7816423",
+    "longitude": "6.6290342",
     "thumbnail_url": ""
   },
   {
@@ -28,24 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {
-    "id": 17234,
-    "name": "St-Georges",
-    "latitude": "46.7816423",
-    "longitude": "6.6290342",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
     "thumbnail_url": ""
   },
   {
@@ -53,6 +46,20 @@
     "name": "Roselière",
     "latitude": "46.7875291",
     "longitude": "6.6392243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14993,
+    "name": "Collège des Rives",
+    "latitude": "46.785265",
+    "longitude": "6.6411045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
     "thumbnail_url": ""
   },
   {
@@ -70,17 +77,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16330,
     "name": "Avenue des Bains",
     "latitude": "46.7724618",
     "longitude": "6.6496881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
@@ -95,6 +102,13 @@
     "name": "Sports",
     "latitude": "46.7803201",
     "longitude": "6.6530063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17232,
+    "name": "Condémines",
+    "latitude": "46.7695009",
+    "longitude": "6.6526667",
     "thumbnail_url": ""
   },
   {
@@ -119,24 +133,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
+    "id": 20011,
+    "name": "Sport 5",
+    "latitude": "46.7819652",
+    "longitude": "6.6494833",
     "thumbnail_url": ""
   },
   {
@@ -147,10 +147,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17233,
     "name": "Verdan",
     "latitude": "46.7873595",
     "longitude": "6.6270974",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
     "thumbnail_url": ""
   },
   {
@@ -165,13 +179,6 @@
     "name": "Boulodrome",
     "latitude": "46.7909522",
     "longitude": "6.6395616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
     "thumbnail_url": ""
   },
   {
@@ -196,6 +203,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21308,
     "name": "Pierre de Savoie",
     "latitude": "46.7684825",
@@ -203,17 +217,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17232,
-    "name": "Condémines",
-    "latitude": "46.7695009",
-    "longitude": "6.6526667",
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
     "thumbnail_url": ""
   },
   {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
     "thumbnail_url": ""
   },
   {
@@ -224,10 +238,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
     "thumbnail_url": ""
   },
   {
@@ -263,13 +277,6 @@
     "name": "Batellerie",
     "latitude": "46.7887594",
     "longitude": "6.6412567",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14993,
-    "name": "Collège des Rives",
-    "latitude": "46.785265",
-    "longitude": "6.6411045",
     "thumbnail_url": ""
   },
   {
@@ -487,13 +494,6 @@
     "name": "Fontenay",
     "latitude": "46.7831",
     "longitude": "6.6318728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20011,
-    "name": "Sport 5",
-    "latitude": "46.7819652",
-    "longitude": "6.6494833",
     "thumbnail_url": ""
   },
   {
