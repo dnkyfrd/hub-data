@@ -1,12 +1,5 @@
 [
   {
-    "id": 29104,
-    "name": "4* Grill",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28942,
     "name": "Rivierenplien Bike Rack",
     "latitude": "51.8152302",
@@ -18,6 +11,13 @@
     "name": "Wolwevershaven",
     "latitude": "51.818905",
     "longitude": "4.6673214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27548,
+    "name": "De Sterrenhoe",
+    "latitude": "51.7823557",
+    "longitude": "4.6868308",
     "thumbnail_url": ""
   },
   {
@@ -42,13 +42,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21125,
-    "name": "Lijnbaan",
-    "latitude": "51.8156265",
-    "longitude": "4.6809241",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29874,
     "name": "Roeiclub",
     "latitude": "51.8162809",
@@ -60,13 +53,6 @@
     "name": "Maasstraat - Ijsselstraat",
     "latitude": "51.8177062",
     "longitude": "4.6923679",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27548,
-    "name": "De Sterrenhoe",
-    "latitude": "51.7823557",
-    "longitude": "4.6868308",
     "thumbnail_url": ""
   },
   {
@@ -84,10 +70,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21125,
+    "name": "Lijnbaan",
+    "latitude": "51.8156265",
+    "longitude": "4.6809241",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29890,
     "name": "Windkracht**",
     "latitude": "51.813947",
     "longitude": "4.7349256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29104,
+    "name": "4* Grill Central Station ",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +98,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21120,
-    "name": "Q-Park P+R (Park Upstairs)",
-    "latitude": "51.8067461",
-    "longitude": "4.6683224",
+    "id": 29845,
+    "name": "Oldenbarneveltplein",
+    "latitude": "51.7916543",
+    "longitude": "4.6637901",
     "thumbnail_url": ""
   },
   {
@@ -112,17 +112,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29845,
-    "name": "Oldenbarneveltplein",
-    "latitude": "51.7916543",
-    "longitude": "4.6637901",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21132,
-    "name": "Gemeente Dordrecht",
-    "latitude": "51.8118796",
-    "longitude": "4.6618067",
+    "id": 24182,
+    "name": "Krommedijk - Paul Krugerstraat",
+    "latitude": "51.8076436",
+    "longitude": "4.6785923",
     "thumbnail_url": ""
   },
   {
@@ -130,13 +123,6 @@
     "name": "Volley Dordrecht",
     "latitude": "51.7783935",
     "longitude": "4.6935712",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30784,
-    "name": "Asahai",
-    "latitude": "51.8081166",
-    "longitude": "4.6678209",
     "thumbnail_url": ""
   },
   {
@@ -154,13 +140,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24182,
-    "name": "Krommedijk - Paul Krugerstraat",
-    "latitude": "51.8076436",
-    "longitude": "4.6785923",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29873,
     "name": "Wantijbad",
     "latitude": "51.8150205",
@@ -175,6 +154,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32038,
+    "name": "Samen Werkplein",
+    "latitude": "51.8117687",
+    "longitude": "4.6626536",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21110,
     "name": "Maarten Harpertsz Trompweg (ALDI)",
     "latitude": "51.7915789",
@@ -186,6 +172,13 @@
     "name": "Dental 365",
     "latitude": "51.8091995",
     "longitude": "4.6683432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30784,
+    "name": "Asahai",
+    "latitude": "51.8081166",
+    "longitude": "4.6678209",
     "thumbnail_url": ""
   },
   {
@@ -217,10 +210,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21132,
+    "name": "Gemeente Dordrecht",
+    "latitude": "51.8118796",
+    "longitude": "4.6618067",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29223,
     "name": "Slangenburg",
     "latitude": "51.7747208",
     "longitude": "4.6751899",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
     "thumbnail_url": ""
   },
   {
@@ -239,7 +246,7 @@
   },
   {
     "id": 27549,
-    "name": "Difference (New Hub Location)",
+    "name": "Walenburg",
     "latitude": "51.7772531",
     "longitude": "4.682406",
     "thumbnail_url": ""
@@ -270,13 +277,6 @@
     "name": "JP Van Eesteren 2",
     "latitude": "51.8110341",
     "longitude": "4.6660087",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32038,
-    "name": "Samen Werkplein",
-    "latitude": "51.8117687",
-    "longitude": "4.6626536",
     "thumbnail_url": ""
   },
   {
@@ -578,13 +578,6 @@
     "name": "Nationaal Onderwijsmuseum",
     "latitude": "51.8085203",
     "longitude": "4.6609786",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29867,
-    "name": "Gymnastiekvereniging",
-    "latitude": "51.7929851",
-    "longitude": "4.7073535",
     "thumbnail_url": ""
   },
   {

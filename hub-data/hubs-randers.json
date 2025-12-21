@@ -1,12 +1,5 @@
 [
   {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33218,
     "name": "Temporary hub",
     "latitude": "56.4897722",
@@ -14,17 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33304,
-    "name": "Glarbjergvej",
-    "latitude": "56.4801238",
-    "longitude": "10.0399013",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20310,
-    "name": "Haveforeningen Venezuela",
-    "latitude": "56.4636237",
-    "longitude": "10.0630781",
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
     "thumbnail_url": ""
   },
   {
@@ -35,10 +21,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24003,
-    "name": "Netto Hobrovej",
-    "latitude": "56.4675211",
-    "longitude": "10.0219855",
+    "id": 20310,
+    "name": "Haveforeningen Venezuela",
+    "latitude": "56.4636237",
+    "longitude": "10.0630781",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19649,
+    "name": "Randers Sejlklubben",
+    "latitude": "56.4626479",
+    "longitude": "10.053026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19589,
+    "name": "Arena Randers",
+    "latitude": "56.4648476",
+    "longitude": "10.0149023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33304,
+    "name": "Glarbjergvej",
+    "latitude": "56.4801238",
+    "longitude": "10.0399013",
     "thumbnail_url": ""
   },
   {
@@ -70,24 +77,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19649,
-    "name": "Randers Sejlklubben",
-    "latitude": "56.4626479",
-    "longitude": "10.053026",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24008,
     "name": "Netto Mariagervej ",
     "latitude": "56.4807406",
     "longitude": "10.0261291",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19582,
-    "name": "Spurvevej",
-    "latitude": "56.4711583",
-    "longitude": "10.0407893",
     "thumbnail_url": ""
   },
   {
@@ -102,6 +95,13 @@
     "name": "Klatre Automaten",
     "latitude": "56.4833223",
     "longitude": "10.0440104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -126,13 +126,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19589,
-    "name": "Arena Randers",
-    "latitude": "56.4648476",
-    "longitude": "10.0149023",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19585,
     "name": "Nørregade 7",
     "latitude": "56.4618473",
@@ -144,13 +137,6 @@
     "name": "Kombardo Expressen Randers",
     "latitude": "56.4681563",
     "longitude": "9.9781892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19655,
-    "name": "Vester boulevard arena 2",
-    "latitude": "56.4673733",
-    "longitude": "10.0106488",
     "thumbnail_url": ""
   },
   {
@@ -189,17 +175,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -217,10 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
+    "id": 19510,
+    "name": "St. Voldgade 1",
+    "latitude": "56.4607198",
+    "longitude": "10.0343079",
     "thumbnail_url": ""
   },
   {
@@ -235,6 +214,13 @@
     "name": "Donkey Republic-DSB",
     "latitude": "56.4620012",
     "longitude": "10.0214531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19517,
+    "name": "Vester Alle 35",
+    "latitude": "56.4678249",
+    "longitude": "10.0273948",
     "thumbnail_url": ""
   },
   {
@@ -259,10 +245,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19517,
-    "name": "Vester Alle 35",
-    "latitude": "56.4678249",
-    "longitude": "10.0273948",
+    "id": 19582,
+    "name": "Spurvevej",
+    "latitude": "56.4711583",
+    "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19655,
+    "name": "Vester boulevard arena 2",
+    "latitude": "56.4673733",
+    "longitude": "10.0106488",
     "thumbnail_url": ""
   },
   {
@@ -287,10 +280,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -312,6 +305,13 @@
     "name": "Tradium",
     "latitude": "56.4309103",
     "longitude": "10.0706545",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -406,13 +406,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19510,
-    "name": "St. Voldgade 1",
-    "latitude": "56.4607198",
-    "longitude": "10.0343079",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22473,
     "name": "Torup Dal",
     "latitude": "56.4739117",
@@ -438,6 +431,13 @@
     "name": "Stadfeldtsvej 31",
     "latitude": "56.4675757",
     "longitude": "10.0514539",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
     "thumbnail_url": ""
   },
   {

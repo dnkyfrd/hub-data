@@ -21,13 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32721,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32694,
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9024072",
@@ -39,6 +32,13 @@
     "name": "JVA (Hinter Pflanztrögen)",
     "latitude": "48.8715442",
     "longitude": "12.5889301",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32696,
+    "name": "Niederalteicher Str.",
+    "latitude": "48.8797146",
+    "longitude": "12.6313375",
     "thumbnail_url": ""
   },
   {
@@ -63,24 +63,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32696,
-    "name": "Niederalteicher Str.",
-    "latitude": "48.8797146",
-    "longitude": "12.6313375",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32719,
     "name": "Äussere Passauer Strasse _ Antoniusberg",
     "latitude": "48.8745709",
     "longitude": "12.5858091",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32712,
-    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
-    "latitude": "48.8820179",
-    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +84,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32712,
+    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
+    "latitude": "48.8820179",
+    "longitude": "12.5710989",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32697,
     "name": "Bahnhof Ittling (Fahrradabstellanlage)",
     "latitude": "48.8848476",
     "longitude": "12.6371181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32721,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
     "thumbnail_url": ""
   },
   {
@@ -119,6 +119,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32713,
+    "name": "Aquatherm",
+    "latitude": "48.8739041",
+    "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32720,
+    "name": "Schlesische Strasse 112 (Mangal)",
+    "latitude": "48.8894663",
+    "longitude": "12.6049892",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32688,
     "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
     "latitude": "48.8733045",
@@ -130,20 +144,6 @@
     "name": "Theresienplatz vor Pustet (Fahrradständer)",
     "latitude": "48.8811806",
     "longitude": "12.5655164",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32720,
-    "name": "Schlesische Strasse 112 (Mangal)",
-    "latitude": "48.8894663",
-    "longitude": "12.6049892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32713,
-    "name": "Aquatherm",
-    "latitude": "48.8739041",
-    "longitude": "12.5603465",
     "thumbnail_url": ""
   },
   {

@@ -7,31 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17234,
-    "name": "St-Georges",
-    "latitude": "46.7816423",
-    "longitude": "6.6290342",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17240,
-    "name": "Mont d'Or",
-    "latitude": "46.778133",
-    "longitude": "6.6344066",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17181,
-    "name": "Four",
-    "latitude": "46.7785389",
-    "longitude": "6.6386812",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
+    "id": 19319,
+    "name": "Chateau",
+    "latitude": "46.778004",
+    "longitude": "6.6410482",
     "thumbnail_url": ""
   },
   {
@@ -42,17 +21,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17298,
-    "name": "Roselière",
-    "latitude": "46.7875291",
-    "longitude": "6.6392243",
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
-    "id": 14993,
-    "name": "Collège des Rives",
-    "latitude": "46.785265",
-    "longitude": "6.6411045",
+    "id": 17232,
+    "name": "Condémines",
+    "latitude": "46.7695009",
+    "longitude": "6.6526667",
     "thumbnail_url": ""
   },
   {
@@ -70,6 +49,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16877,
     "name": "Vautier",
     "latitude": "46.7818434",
@@ -77,10 +63,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
+    "id": 18779,
+    "name": "Maison-Rouge",
+    "latitude": "46.7792686",
+    "longitude": "6.6453401",
     "thumbnail_url": ""
   },
   {
@@ -91,45 +77,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17181,
+    "name": "Four",
+    "latitude": "46.7785389",
+    "longitude": "6.6386812",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19550,
     "name": "Moulins",
     "latitude": "46.7722606",
     "longitude": "6.6310059",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20010,
-    "name": "Sports",
-    "latitude": "46.7803201",
-    "longitude": "6.6530063",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17232,
-    "name": "Condémines",
-    "latitude": "46.7695009",
-    "longitude": "6.6526667",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24061,
-    "name": "Y-Parc, Pythagore",
-    "latitude": "46.7655784",
-    "longitude": "6.6430736",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17248,
-    "name": "Y-Parc, Découvertes",
-    "latitude": "46.7665527",
-    "longitude": "6.6451659",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -140,17 +98,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16288,
-    "name": "CPNV",
-    "latitude": "46.7737937",
-    "longitude": "6.6342311",
+    "id": 17298,
+    "name": "Roselière",
+    "latitude": "46.7875291",
+    "longitude": "6.6392243",
     "thumbnail_url": ""
   },
   {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
+    "id": 20010,
+    "name": "Sports",
+    "latitude": "46.7803201",
+    "longitude": "6.6530063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17240,
+    "name": "Mont d'Or",
+    "latitude": "46.778133",
+    "longitude": "6.6344066",
     "thumbnail_url": ""
   },
   {
@@ -175,45 +147,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16388,
-    "name": "Boulodrome",
-    "latitude": "46.7909522",
-    "longitude": "6.6395616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17642,
-    "name": "Prés du Lac",
-    "latitude": "46.7913781",
-    "longitude": "6.6319157",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19319,
-    "name": "Chateau",
-    "latitude": "46.778004",
-    "longitude": "6.6410482",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 15147,
-    "name": "Jean-André Venel",
-    "latitude": "46.7694474",
-    "longitude": "6.6451896",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21308,
-    "name": "Pierre de Savoie",
-    "latitude": "46.7684825",
-    "longitude": "6.64101",
+    "id": 16283,
+    "name": "Conservatoire",
+    "latitude": "46.7849178",
+    "longitude": "6.6360569",
     "thumbnail_url": ""
   },
   {
@@ -224,6 +161,48 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16288,
+    "name": "CPNV",
+    "latitude": "46.7737937",
+    "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17642,
+    "name": "Prés du Lac",
+    "latitude": "46.7913781",
+    "longitude": "6.6319157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21308,
+    "name": "Pierre de Savoie",
+    "latitude": "46.7684825",
+    "longitude": "6.64101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17248,
+    "name": "Y-Parc, Découvertes",
+    "latitude": "46.7665527",
+    "longitude": "6.6451659",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17291,
     "name": "Mujon",
     "latitude": "46.7844836",
@@ -231,17 +210,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
+    "id": 24061,
+    "name": "Y-Parc, Pythagore",
+    "latitude": "46.7655784",
+    "longitude": "6.6430736",
     "thumbnail_url": ""
   },
   {
@@ -252,6 +224,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 15147,
+    "name": "Jean-André Venel",
+    "latitude": "46.7694474",
+    "longitude": "6.6451896",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17242,
     "name": "Collesano",
     "latitude": "46.7867249",
@@ -259,10 +238,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16388,
+    "name": "Boulodrome",
+    "latitude": "46.7909522",
+    "longitude": "6.6395616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17234,
+    "name": "St-Georges",
+    "latitude": "46.7816423",
+    "longitude": "6.6290342",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20133,
     "name": "Pro Natura",
     "latitude": "46.7852411",
     "longitude": "6.6661551",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14993,
+    "name": "Collège des Rives",
+    "latitude": "46.785265",
+    "longitude": "6.6411045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
     "thumbnail_url": ""
   },
   {
@@ -364,24 +378,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16283,
-    "name": "Conservatoire",
-    "latitude": "46.7849178",
-    "longitude": "6.6360569",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17529,
     "name": "Champs-Lovats",
     "latitude": "46.7666082",
     "longitude": "6.6510047",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18779,
-    "name": "Maison-Rouge",
-    "latitude": "46.7792686",
-    "longitude": "6.6453401",
     "thumbnail_url": ""
   },
   {
