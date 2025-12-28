@@ -1,30 +1,9 @@
 [
   {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31755,
-    "name": "Station Diemen Zuid",
-    "latitude": "52.3302353",
-    "longitude": "4.9541849",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31540,
-    "name": "Parnassusweg 126-128",
-    "latitude": "52.3426983",
-    "longitude": "4.8677067",
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
     "thumbnail_url": ""
   },
   {
@@ -32,6 +11,13 @@
     "name": "!PARK INDOOR! Amstelstation",
     "latitude": "52.3468462",
     "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23523,
+    "name": "Henk Sneevlietweg",
+    "latitude": "52.3455372",
+    "longitude": "4.8338295",
     "thumbnail_url": ""
   },
   {
@@ -49,17 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2436,
-    "name": "Hotel Jansen",
-    "latitude": "52.341955",
-    "longitude": "4.8454602",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28747,
-    "name": "Marine Buurthub",
-    "latitude": "52.372797",
-    "longitude": "4.9173944",
+    "id": 30417,
+    "name": "B Amsterdam",
+    "latitude": "52.3428284",
+    "longitude": "4.8284728",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30417,
-    "name": "B Amsterdam",
-    "latitude": "52.3428284",
-    "longitude": "4.8284728",
+    "id": 30416,
+    "name": "Bullewijk",
+    "latitude": "52.3061406",
+    "longitude": "4.9532287",
     "thumbnail_url": ""
   },
   {
@@ -81,6 +60,13 @@
     "name": "Station Nieuw Vennep",
     "latitude": "52.2591352",
     "longitude": "4.6452648",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28747,
+    "name": "Marine Buurthub",
+    "latitude": "52.372797",
+    "longitude": "4.9173944",
     "thumbnail_url": ""
   },
   {
@@ -98,24 +84,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23620,
-    "name": "Isolatorweg",
-    "latitude": "52.3949845",
-    "longitude": "4.8506925",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28890,
-    "name": "Appeltjesmarkt",
-    "latitude": "52.368809",
-    "longitude": "4.8774985",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30416,
-    "name": "Bullewijk",
-    "latitude": "52.3061406",
-    "longitude": "4.9532287",
+    "id": 2436,
+    "name": "Hotel Jansen",
+    "latitude": "52.341955",
+    "longitude": "4.8454602",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +95,27 @@
     "name": "Kraaiennest",
     "latitude": "52.3161541",
     "longitude": "4.9796106",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23620,
+    "name": "Isolatorweg",
+    "latitude": "52.3949845",
+    "longitude": "4.8506925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31755,
+    "name": "Station Diemen Zuid",
+    "latitude": "52.3302353",
+    "longitude": "4.9541849",
     "thumbnail_url": ""
   },
   {
@@ -140,6 +133,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 2417,
+    "name": "Tetterode Parking",
+    "latitude": "52.3803082",
+    "longitude": "4.8615548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26611,
     "name": "De Boelelaan 30",
     "latitude": "52.3350187",
@@ -154,17 +161,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2417,
-    "name": "Tetterode Parking",
-    "latitude": "52.3803082",
-    "longitude": "4.8615548",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31772,
     "name": "Station Purmerend Overwere",
     "latitude": "52.5111173",
     "longitude": "4.9670869",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31540,
+    "name": "Parnassusweg 126-128",
+    "latitude": "52.3426983",
+    "longitude": "4.8677067",
     "thumbnail_url": ""
   },
   {
@@ -189,6 +196,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28890,
+    "name": "Appeltjesmarkt",
+    "latitude": "52.368809",
+    "longitude": "4.8774985",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31828,
     "name": "Halte Oostzaan Lisweg",
     "latitude": "52.4369425",
@@ -196,24 +210,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30415,
     "name": "Hoekenrodepad",
     "latitude": "52.3136718",
     "longitude": "4.9481016",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27226,
-    "name": "!PARK INDOOR! CS Center",
-    "latitude": "52.377613",
-    "longitude": "4.9026312",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23523,
-    "name": "Henk Sneevlietweg",
-    "latitude": "52.3455372",
-    "longitude": "4.8338295",
     "thumbnail_url": ""
   },
   {
@@ -263,13 +270,6 @@
     "name": "Station Purmerend",
     "latitude": "52.5037628",
     "longitude": "4.9546884",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
     "thumbnail_url": ""
   },
   {
