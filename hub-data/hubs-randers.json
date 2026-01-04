@@ -1,5 +1,12 @@
 [
   {
+    "id": 19560,
+    "name": "Lille Rosengård",
+    "latitude": "56.4574444",
+    "longitude": "10.0368216",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33218,
     "name": "Temporary hub",
     "latitude": "56.4897722",
@@ -21,10 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24003,
-    "name": "Netto Hobrovej",
-    "latitude": "56.4675211",
-    "longitude": "10.0219855",
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -63,13 +70,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19589,
-    "name": "Arena Randers",
-    "latitude": "56.4648476",
-    "longitude": "10.0149023",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19648,
     "name": "Stadfeldtsvej 1",
     "latitude": "56.4670435",
@@ -105,24 +105,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23206,
     "name": "P-Huset City",
     "latitude": "56.4595444",
     "longitude": "10.041975",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30459,
-    "name": "Schaldemosevej",
-    "latitude": "56.4676204",
-    "longitude": "10.0448761",
     "thumbnail_url": ""
   },
   {
@@ -147,10 +133,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19531,
-    "name": "Laksetorvet 1",
-    "latitude": "56.4582965",
-    "longitude": "10.0350221",
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
     "thumbnail_url": ""
   },
   {
@@ -175,24 +161,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19557,
     "name": "Randers Street Food",
     "latitude": "56.4573729",
     "longitude": "10.0416139",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19576,
-    "name": "J. V. Martines Pl",
-    "latitude": "56.4634219",
-    "longitude": "10.0498271",
     "thumbnail_url": ""
   },
   {
@@ -210,10 +182,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19536,
-    "name": "Donkey Republic-DSB",
-    "latitude": "56.4620012",
-    "longitude": "10.0214531",
+    "id": 30459,
+    "name": "Schaldemosevej",
+    "latitude": "56.4676204",
+    "longitude": "10.0448761",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19531,
+    "name": "Laksetorvet 1",
+    "latitude": "56.4582965",
+    "longitude": "10.0350221",
     "thumbnail_url": ""
   },
   {
@@ -224,10 +203,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19558,
-    "name": "Torvegade 19",
-    "latitude": "56.4594141",
-    "longitude": "10.0363073",
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
     "thumbnail_url": ""
   },
   {
@@ -252,13 +231,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19655,
-    "name": "Vester boulevard arena 2",
-    "latitude": "56.4673733",
-    "longitude": "10.0106488",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32502,
     "name": "Mølletoften 2",
     "latitude": "56.4484377",
@@ -280,17 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19506,
-    "name": "2 Sankt Mortens Gade",
-    "latitude": "56.4597777",
-    "longitude": "10.0368784",
+    "id": 19655,
+    "name": "Vester boulevard arena 2",
+    "latitude": "56.4673733",
+    "longitude": "10.0106488",
     "thumbnail_url": ""
   },
   {
@@ -305,13 +270,6 @@
     "name": "Tradium",
     "latitude": "56.4309103",
     "longitude": "10.0706545",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -385,13 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19560,
-    "name": "Lille Rosengård",
-    "latitude": "56.4574444",
-    "longitude": "10.0368216",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19573,
     "name": "GI. Stationvej parkering",
     "latitude": "56.4530425",
@@ -403,13 +354,6 @@
     "name": "Apotekerstræde 3",
     "latitude": "56.4587937",
     "longitude": "10.0362981",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {
@@ -427,10 +371,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22738,
+    "name": "Romalt Aktivitetshal",
+    "latitude": "56.4491502",
+    "longitude": "10.090006",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19588,
     "name": "Stadfeldtsvej 31",
     "latitude": "56.4675757",
     "longitude": "10.0514539",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19576,
+    "name": "J. V. Martines Pl",
+    "latitude": "56.4634219",
+    "longitude": "10.0498271",
     "thumbnail_url": ""
   },
   {
@@ -455,6 +413,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19589,
+    "name": "Arena Randers",
+    "latitude": "56.4648476",
+    "longitude": "10.0149023",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24005,
     "name": "Aldi Mariagervej ",
     "latitude": "56.4719735",
@@ -473,6 +445,48 @@
     "name": "Slotsgade 7",
     "latitude": "56.4611337",
     "longitude": "10.0395028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19558,
+    "name": "Torvegade 19",
+    "latitude": "56.4594141",
+    "longitude": "10.0363073",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19506,
+    "name": "2 Sankt Mortens Gade",
+    "latitude": "56.4597777",
+    "longitude": "10.0368784",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20981,
+    "name": "Parkboulevarden",
+    "latitude": "56.4663017",
+    "longitude": "9.9971918",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -550,13 +564,6 @@
     "name": "Bjellerupparken",
     "latitude": "56.4746081",
     "longitude": "10.0634021",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20981,
-    "name": "Parkboulevarden",
-    "latitude": "56.4663017",
-    "longitude": "9.9971918",
     "thumbnail_url": ""
   },
   {
@@ -886,13 +893,6 @@
     "name": "Coop 365 Kristrup",
     "latitude": "56.4482031",
     "longitude": "10.0552301",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22738,
-    "name": "Romalt Aktivitetshal",
-    "latitude": "56.4491502",
-    "longitude": "10.090006",
     "thumbnail_url": ""
   },
   {

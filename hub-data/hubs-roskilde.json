@@ -1,19 +1,5 @@
 [
   {
-    "id": 21636,
-    "name": "Algade v. Hestetorvet",
-    "latitude": "55.6406284",
-    "longitude": "12.0889464",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21524,
-    "name": "Roskilde Station - syd",
-    "latitude": "55.6376438",
-    "longitude": "12.0876918",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21627,
     "name": "Østervangscentret",
     "latitude": "55.6298444",
@@ -53,13 +39,6 @@
     "name": "Algade v. Hersegade",
     "latitude": "55.6410874",
     "longitude": "12.0848259",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21632,
-    "name": "Algade v. Stændertorvet",
-    "latitude": "55.641105",
-    "longitude": "12.0820942",
     "thumbnail_url": ""
   },
   {
@@ -133,13 +112,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29993,
-    "name": "Kristiansminde Plejecenter nord",
-    "latitude": "55.6357475",
-    "longitude": "12.0475778",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28563,
     "name": "Kildegården øst",
     "latitude": "55.6378287",
@@ -168,6 +140,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21636,
+    "name": "Algade v. Hestetorvet",
+    "latitude": "55.6406284",
+    "longitude": "12.0889464",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21632,
+    "name": "Algade v. Stændertorvet",
+    "latitude": "55.641105",
+    "longitude": "12.0820942",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21633,
     "name": "Folkeparken, Frøspringvandet",
     "latitude": "55.6442213",
@@ -186,6 +172,20 @@
     "name": "Kristiansminde Plejecenter",
     "latitude": "55.635487",
     "longitude": "12.0483221",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29993,
+    "name": "Kristiansminde Plejecenter nord",
+    "latitude": "55.6357475",
+    "longitude": "12.0475778",
     "thumbnail_url": ""
   },
   {

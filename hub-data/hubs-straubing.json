@@ -1,12 +1,5 @@
 [
   {
-    "id": 32711,
-    "name": "Alburg Bayerg. neben Schranke",
-    "latitude": "48.8686911",
-    "longitude": "12.5423566",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32695,
     "name": "Campingplatz",
     "latitude": "48.8932739",
@@ -42,17 +35,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32691,
-    "name": "JVA (Hinter Pflanztrögen)",
-    "latitude": "48.8715442",
-    "longitude": "12.5889301",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
     "longitude": "12.5737951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32691,
+    "name": "JVA (Hinter Pflanztrögen)",
+    "latitude": "48.8715442",
+    "longitude": "12.5889301",
     "thumbnail_url": ""
   },
   {
@@ -119,13 +112,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32713,
-    "name": "Aquatherm",
-    "latitude": "48.8739041",
-    "longitude": "12.5603465",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32720,
     "name": "Schlesische Strasse 112 (Mangal)",
     "latitude": "48.8894663",
@@ -154,10 +140,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32713,
+    "name": "Aquatherm",
+    "latitude": "48.8739041",
+    "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32717,
     "name": "Bahnhof",
     "latitude": "48.8775773",
     "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32711,
+    "name": "Alburg Bayerg. neben Schranke",
+    "latitude": "48.8686911",
+    "longitude": "12.5423566",
     "thumbnail_url": ""
   },
   {
