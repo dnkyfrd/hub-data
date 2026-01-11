@@ -1,9 +1,23 @@
 [
   {
+    "id": 16552,
+    "name": "EPFL - ME",
+    "latitude": "46.5199649",
+    "longitude": "6.5671437",
+    "thumbnail_url": ""
+  },
+  {
     "id": 3129,
     "name": "EPFL Innovation Park cargobike (bât. QIH)",
     "latitude": "46.5171987",
     "longitude": "6.5607173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16550,
+    "name": "EPFL - BC",
+    "latitude": "46.5189597",
+    "longitude": "6.5621178",
     "thumbnail_url": ""
   },
   {
@@ -49,13 +63,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16552,
-    "name": "EPFL - ME",
-    "latitude": "46.5199649",
-    "longitude": "6.5671437",
-    "thumbnail_url": ""
-  },
-  {
     "id": 3126,
     "name": "EPFL Cargobike - Av. Forel (bât. BS)",
     "latitude": "46.5206146",
@@ -88,13 +95,6 @@
     "name": "EPFL - Forel",
     "latitude": "46.5206971",
     "longitude": "6.5716092",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16550,
-    "name": "EPFL - BC",
-    "latitude": "46.5189597",
-    "longitude": "6.5621178",
     "thumbnail_url": ""
   }
 ]
