@@ -1,12 +1,5 @@
 [
   {
-    "id": 21132,
-    "name": "Gemeente Dordrecht",
-    "latitude": "51.8118796",
-    "longitude": "4.6618067",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28942,
     "name": "Rivierenplien Bike Rack",
     "latitude": "51.8152302",
@@ -14,17 +7,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27548,
-    "name": "De Sterrenhoe",
-    "latitude": "51.7823557",
-    "longitude": "4.6868308",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29869,
     "name": "Thomas Estill",
     "latitude": "51.8129811",
     "longitude": "4.7013483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21132,
+    "name": "Gemeente Dordrecht",
+    "latitude": "51.8118796",
+    "longitude": "4.6618067",
     "thumbnail_url": ""
   },
   {
@@ -49,10 +42,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24163,
     "name": "Maasstraat - Ijsselstraat",
     "latitude": "51.8177062",
     "longitude": "4.6923679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27548,
+    "name": "De Sterrenhoe",
+    "latitude": "51.7823557",
+    "longitude": "4.6868308",
     "thumbnail_url": ""
   },
   {
@@ -84,24 +91,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21120,
-    "name": "Q-Park P+R (Park Upstairs)",
-    "latitude": "51.8067461",
-    "longitude": "4.6683224",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29890,
     "name": "Windkracht**",
     "latitude": "51.813947",
     "longitude": "4.7349256",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29104,
-    "name": "4* Grill Central Station ",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +200,13 @@
     "name": "Reeweg Oost",
     "latitude": "51.8085082",
     "longitude": "4.6799933",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29104,
+    "name": "4* Grill Central Station ",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
     "thumbnail_url": ""
   },
   {

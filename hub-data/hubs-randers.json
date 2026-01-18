@@ -1,19 +1,5 @@
 [
   {
-    "id": 33218,
-    "name": "Temporary hub",
-    "latitude": "56.4897722",
-    "longitude": "10.0561612",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19560,
-    "name": "Lille Rosengård",
-    "latitude": "56.4574444",
-    "longitude": "10.0368216",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19525,
     "name": "Randers Busterminalen 2",
     "latitude": "56.4581239",
@@ -21,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32848,
-    "name": "Pure gym",
-    "latitude": "56.4719266",
-    "longitude": "10.0178508",
+    "id": 33218,
+    "name": "Temporary hub",
+    "latitude": "56.4897722",
+    "longitude": "10.0561612",
     "thumbnail_url": ""
   },
   {
@@ -49,17 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19571,
-    "name": "Dansk Revision",
-    "latitude": "56.455439",
-    "longitude": "10.0449808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24008,
-    "name": "Netto Mariagervej ",
-    "latitude": "56.4807406",
-    "longitude": "10.0261291",
+    "id": 19648,
+    "name": "Stadfeldtsvej 1",
+    "latitude": "56.4670435",
+    "longitude": "10.0527487",
     "thumbnail_url": ""
   },
   {
@@ -77,17 +56,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33304,
     "name": "Glarbjergvej",
     "latitude": "56.4801238",
     "longitude": "10.0399013",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19648,
-    "name": "Stadfeldtsvej 1",
-    "latitude": "56.4670435",
-    "longitude": "10.0527487",
     "thumbnail_url": ""
   },
   {
@@ -105,6 +84,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19560,
+    "name": "Lille Rosengård",
+    "latitude": "56.4574444",
+    "longitude": "10.0368216",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19509,
     "name": "Snaregade 1",
     "latitude": "56.4607416",
@@ -116,6 +102,20 @@
     "name": "Klatre Automaten",
     "latitude": "56.4833223",
     "longitude": "10.0440104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19571,
+    "name": "Dansk Revision",
+    "latitude": "56.455439",
+    "longitude": "10.0449808",
     "thumbnail_url": ""
   },
   {
@@ -168,6 +168,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32848,
+    "name": "Pure gym",
+    "latitude": "56.4719266",
+    "longitude": "10.0178508",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24009,
     "name": "Mad Mad",
     "latitude": "56.4832198",
@@ -207,6 +214,13 @@
     "name": "Schaldemosevej",
     "latitude": "56.4676204",
     "longitude": "10.0448761",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30303,
+    "name": "Bambushaven",
+    "latitude": "56.4793389",
+    "longitude": "10.0084677",
     "thumbnail_url": ""
   },
   {
@@ -480,13 +494,6 @@
     "name": "Central Station ",
     "latitude": "56.4618859",
     "longitude": "10.023177",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -935,13 +942,6 @@
     "name": "Nyvej 19",
     "latitude": "56.4689545",
     "longitude": "10.0225231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30303,
-    "name": "Bambushaven",
-    "latitude": "56.4793389",
-    "longitude": "10.0084677",
     "thumbnail_url": ""
   },
   {
