@@ -1,65 +1,9 @@
 [
   {
-    "id": 16330,
-    "name": "Avenue des Bains",
-    "latitude": "46.7724618",
-    "longitude": "6.6496881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19986,
-    "name": "Trois-Lacs",
-    "latitude": "46.7715449",
-    "longitude": "6.6346759",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18762,
-    "name": "Y-Parc, Innovation",
-    "latitude": "46.7638726",
-    "longitude": "6.6364354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17295,
-    "name": "Aulus Faustus",
-    "latitude": "46.774497",
-    "longitude": "6.6456452",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
+    "id": 14993,
+    "name": "Collège des Rives",
+    "latitude": "46.785265",
+    "longitude": "6.6411045",
     "thumbnail_url": ""
   },
   {
@@ -70,38 +14,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17248,
-    "name": "Y-Parc, Découvertes",
-    "latitude": "46.7665527",
-    "longitude": "6.6451659",
+    "id": 19986,
+    "name": "Trois-Lacs",
+    "latitude": "46.7715449",
+    "longitude": "6.6346759",
     "thumbnail_url": ""
   },
   {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
     "thumbnail_url": ""
   },
   {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
-    "id": 19319,
-    "name": "Chateau",
-    "latitude": "46.778004",
-    "longitude": "6.6410482",
+    "id": 18762,
+    "name": "Y-Parc, Innovation",
+    "latitude": "46.7638726",
+    "longitude": "6.6364354",
     "thumbnail_url": ""
   },
   {
-    "id": 17232,
-    "name": "Condémines",
-    "latitude": "46.7695009",
-    "longitude": "6.6526667",
+    "id": 17295,
+    "name": "Aulus Faustus",
+    "latitude": "46.774497",
+    "longitude": "6.6456452",
     "thumbnail_url": ""
   },
   {
@@ -112,10 +56,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19319,
+    "name": "Chateau",
+    "latitude": "46.778004",
+    "longitude": "6.6410482",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17232,
+    "name": "Condémines",
+    "latitude": "46.7695009",
+    "longitude": "6.6526667",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
     "thumbnail_url": ""
   },
   {
@@ -140,10 +119,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16330,
+    "name": "Avenue des Bains",
+    "latitude": "46.7724618",
+    "longitude": "6.6496881",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17248,
+    "name": "Y-Parc, Découvertes",
+    "latitude": "46.7665527",
+    "longitude": "6.6451659",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17181,
     "name": "Four",
     "latitude": "46.7785389",
     "longitude": "6.6386812",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -179,13 +193,6 @@
     "name": "Sports",
     "latitude": "46.7803201",
     "longitude": "6.6530063",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
     "thumbnail_url": ""
   },
   {
@@ -249,13 +256,6 @@
     "name": "Pro Natura",
     "latitude": "46.7852411",
     "longitude": "6.6661551",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14993,
-    "name": "Collège des Rives",
-    "latitude": "46.785265",
-    "longitude": "6.6411045",
     "thumbnail_url": ""
   },
   {
