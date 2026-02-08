@@ -1,12 +1,5 @@
 [
   {
-    "id": 29509,
-    "name": "Jumbo Ommevoort",
-    "latitude": "52.1857026",
-    "longitude": "4.4696242",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29495,
     "name": "Ajax Sportman",
     "latitude": "52.1863824",
@@ -18,6 +11,13 @@
     "name": "Zwemstrand",
     "latitude": "52.1957475",
     "longitude": "4.4854559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29509,
+    "name": "Jumbo Ommevoort",
+    "latitude": "52.1857026",
+    "longitude": "4.4696242",
     "thumbnail_url": ""
   },
   {
@@ -56,17 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29521,
-    "name": "Mi Casa",
-    "latitude": "52.1775055",
-    "longitude": "4.4725386",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29506,
     "name": "Dahlialaan",
     "latitude": "52.1897529",
     "longitude": "4.4729593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29521,
+    "name": "Mi Casa",
+    "latitude": "52.1775055",
+    "longitude": "4.4725386",
     "thumbnail_url": ""
   },
   {
@@ -252,10 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
+    "id": 33556,
+    "name": "P+R Naturalis - Park Indoors",
+    "latitude": "52.165189",
+    "longitude": "4.4712776",
     "thumbnail_url": ""
   },
   {
@@ -312,6 +312,13 @@
     "name": "Corpus",
     "latitude": "52.170238",
     "longitude": "4.4585543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1664615",
+    "longitude": "4.4814157",
     "thumbnail_url": ""
   },
   {
@@ -581,10 +588,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33534,
-    "name": "Duinvallei west(new)",
-    "latitude": "52.1899293",
-    "longitude": "4.4194268",
+    "id": 29401,
+    "name": "Aquamar",
+    "latitude": "52.2016355",
+    "longitude": "4.4107977",
     "thumbnail_url": ""
   },
   {
@@ -592,13 +599,6 @@
     "name": "Wibra Rijnstraat",
     "latitude": "52.1950572",
     "longitude": "4.4253809",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29401,
-    "name": "Aquamar",
-    "latitude": "52.2016355",
-    "longitude": "4.4107977",
     "thumbnail_url": ""
   },
   {
@@ -616,6 +616,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29367,
+    "name": "Biltlaan ",
+    "latitude": "52.2066111",
+    "longitude": "4.421205",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29398,
     "name": "Piet Heinlaan",
     "latitude": "52.2011005",
@@ -627,13 +634,6 @@
     "name": "Fietsenstalling Dorpsweide",
     "latitude": "52.1775666",
     "longitude": "4.442766",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29444,
-    "name": "Drieplassenweg",
-    "latitude": "52.1977779",
-    "longitude": "4.3932325",
     "thumbnail_url": ""
   },
   {
@@ -686,17 +686,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29367,
-    "name": "Biltlaan ",
-    "latitude": "52.2066111",
-    "longitude": "4.421205",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29576,
     "name": "Laan van Verhof 3",
     "latitude": "52.1880131",
     "longitude": "4.4547274",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29444,
+    "name": "Drieplassenweg",
+    "latitude": "52.1977779",
+    "longitude": "4.3932325",
     "thumbnail_url": ""
   },
   {
@@ -954,8 +954,8 @@
   {
     "id": 29453,
     "name": "Duinvallei West",
-    "latitude": "52.1903185",
-    "longitude": "4.4193578",
+    "latitude": "52.19004",
+    "longitude": "4.4192277",
     "thumbnail_url": ""
   },
   {
