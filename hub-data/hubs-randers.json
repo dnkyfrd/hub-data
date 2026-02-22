@@ -1,12 +1,5 @@
 [
   {
-    "id": 19649,
-    "name": "Randers Sejlklubben",
-    "latitude": "56.4626479",
-    "longitude": "10.053026",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19525,
     "name": "Randers Busterminalen 2",
     "latitude": "56.4581239",
@@ -35,38 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19576,
-    "name": "J. V. Martines Pl",
-    "latitude": "56.4634219",
-    "longitude": "10.0498271",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19585,
     "name": "Nørregade 7",
     "latitude": "56.4618473",
     "longitude": "10.0356278",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20981,
-    "name": "Parkboulevarden",
-    "latitude": "56.4663017",
-    "longitude": "9.9971918",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20310,
-    "name": "Haveforeningen Venezuela",
-    "latitude": "56.4636237",
-    "longitude": "10.0630781",
     "thumbnail_url": ""
   },
   {
@@ -77,17 +42,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20310,
+    "name": "Haveforeningen Venezuela",
+    "latitude": "56.4636237",
+    "longitude": "10.0630781",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19644,
     "name": "Bøsbrovej 47",
     "latitude": "56.4446312",
     "longitude": "10.0386913",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -102,6 +67,13 @@
     "name": "Glarbjergvej",
     "latitude": "56.4801238",
     "longitude": "10.0399013",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19649,
+    "name": "Randers Sejlklubben",
+    "latitude": "56.4626479",
+    "longitude": "10.053026",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +105,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19576,
+    "name": "J. V. Martines Pl",
+    "latitude": "56.4634219",
+    "longitude": "10.0498271",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19571,
     "name": "Dansk Revision",
     "latitude": "56.455439",
@@ -144,6 +123,13 @@
     "name": "P-Huset City",
     "latitude": "56.4595444",
     "longitude": "10.041975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -224,13 +210,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27971,
-    "name": "Randersvej",
-    "latitude": "56.4460012",
-    "longitude": "9.9616472",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30459,
     "name": "Schaldemosevej",
     "latitude": "56.4676204",
@@ -273,10 +252,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27971,
+    "name": "Randersvej",
+    "latitude": "56.4460012",
+    "longitude": "9.9616472",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19582,
     "name": "Spurvevej",
     "latitude": "56.4711583",
     "longitude": "10.0407893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20981,
+    "name": "Parkboulevarden",
+    "latitude": "56.4663017",
+    "longitude": "9.9971918",
     "thumbnail_url": ""
   },
   {
