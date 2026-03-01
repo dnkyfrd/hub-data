@@ -1,12 +1,5 @@
 [
   {
-    "id": 19525,
-    "name": "Randers Busterminalen 2",
-    "latitude": "56.4581239",
-    "longitude": "10.0396767",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33218,
     "name": "Temporary hub",
     "latitude": "56.4897722",
@@ -25,20 +18,6 @@
     "name": "Regionspsykiatrien Randers",
     "latitude": "56.4725002",
     "longitude": "10.0466491",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19585,
-    "name": "Nørregade 7",
-    "latitude": "56.4618473",
-    "longitude": "10.0356278",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19648,
-    "name": "Stadfeldtsvej 1",
-    "latitude": "56.4670435",
-    "longitude": "10.0527487",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +42,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19648,
+    "name": "Stadfeldtsvej 1",
+    "latitude": "56.4670435",
+    "longitude": "10.0527487",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33304,
     "name": "Glarbjergvej",
     "latitude": "56.4801238",
     "longitude": "10.0399013",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19525,
+    "name": "Randers Busterminalen 2",
+    "latitude": "56.4581239",
+    "longitude": "10.0396767",
     "thumbnail_url": ""
   },
   {
@@ -119,17 +112,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19585,
+    "name": "Nørregade 7",
+    "latitude": "56.4618473",
+    "longitude": "10.0356278",
+    "thumbnail_url": ""
+  },
+  {
     "id": 23206,
     "name": "P-Huset City",
     "latitude": "56.4595444",
     "longitude": "10.041975",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -182,6 +175,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24001,
     "name": "Rema 1000 Hobrovej",
     "latitude": "56.4803568",
@@ -203,6 +203,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20524,
+    "name": "Scandiasporet",
+    "latitude": "56.4693748",
+    "longitude": "10.063957",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24029,
     "name": "Tradium 2",
     "latitude": "56.4311509",
@@ -214,6 +221,13 @@
     "name": "Schaldemosevej",
     "latitude": "56.4676204",
     "longitude": "10.0448761",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {
@@ -438,13 +452,6 @@
     "name": "Spindervej",
     "latitude": "56.4679673",
     "longitude": "10.0362733",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {
@@ -851,13 +858,6 @@
     "name": "sprogcenter vestergade",
     "latitude": "56.4612285",
     "longitude": "10.0291788",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20524,
-    "name": "Scandiasporet",
-    "latitude": "56.4693748",
-    "longitude": "10.063957",
     "thumbnail_url": ""
   },
   {
