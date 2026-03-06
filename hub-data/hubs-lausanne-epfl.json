@@ -1,9 +1,9 @@
 [
   {
-    "id": 16552,
-    "name": "EPFL - ME",
-    "latitude": "46.5199649",
-    "longitude": "6.5671437",
+    "id": 16550,
+    "name": "EPFL - BC",
+    "latitude": "46.5189597",
+    "longitude": "6.5621178",
     "thumbnail_url": ""
   },
   {
@@ -11,13 +11,6 @@
     "name": "EPFL Innovation Park cargobike (bât. QIH)",
     "latitude": "46.5171987",
     "longitude": "6.5607173",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16550,
-    "name": "EPFL - BC",
-    "latitude": "46.5189597",
-    "longitude": "6.5621178",
     "thumbnail_url": ""
   },
   {
@@ -32,20 +25,6 @@
     "name": "EPFL Cargobike - Place Alan Turing",
     "latitude": "46.5189477",
     "longitude": "6.5621018",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16549,
-    "name": "EPFL Innovation Park",
-    "latitude": "46.5171929",
-    "longitude": "6.5607714",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16548,
-    "name": "EPFL - Piccard",
-    "latitude": "46.5206921",
-    "longitude": "6.5681846",
     "thumbnail_url": ""
   },
   {
@@ -95,6 +74,27 @@
     "name": "EPFL - Forel",
     "latitude": "46.5206971",
     "longitude": "6.5716092",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16552,
+    "name": "EPFL - ME",
+    "latitude": "46.5199649",
+    "longitude": "6.5671437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16549,
+    "name": "EPFL Innovation Park",
+    "latitude": "46.5171929",
+    "longitude": "6.5607714",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16548,
+    "name": "EPFL - Piccard",
+    "latitude": "46.5206921",
+    "longitude": "6.5681846",
     "thumbnail_url": ""
   }
 ]

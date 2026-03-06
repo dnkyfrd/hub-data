@@ -1,19 +1,5 @@
 [
   {
-    "id": 24648,
-    "name": "Sporthal De Panne",
-    "latitude": "51.0926795",
-    "longitude": "2.6122456",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24650,
-    "name": "Esplanade Dynastielaan",
-    "latitude": "51.0973574",
-    "longitude": "2.5818994",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29960,
     "name": "De Panne P Verhaerenlaan ",
     "latitude": "51.0961625",
@@ -21,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24647,
-    "name": "Markt De Panne",
-    "latitude": "51.0988779",
-    "longitude": "2.5921114",
+    "id": 24650,
+    "name": "Esplanade Dynastielaan",
+    "latitude": "51.0973574",
+    "longitude": "2.5818994",
     "thumbnail_url": ""
   },
   {
@@ -39,20 +25,6 @@
     "name": "De Panne Royal Sand Yacht Club ",
     "latitude": "51.0970701",
     "longitude": "2.5773609",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29957,
-    "name": "De Panne Moeder Lambik",
-    "latitude": "51.0867934",
-    "longitude": "2.6006668",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26524,
-    "name": "Keesjesdreef ",
-    "latitude": "51.0969756",
-    "longitude": "2.5979729",
     "thumbnail_url": ""
   },
   {
@@ -112,13 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24646,
-    "name": "Station Adinkerke",
-    "latitude": "51.0774928",
-    "longitude": "2.6021004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29958,
     "name": "De Panne Calmeynsbossen  - fietsrek",
     "latitude": "51.0914525",
@@ -137,6 +102,41 @@
     "name": "De Panne Schuilhavenlaan",
     "latitude": "51.0932875",
     "longitude": "2.5654219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26524,
+    "name": "Keesjesdreef ",
+    "latitude": "51.0969756",
+    "longitude": "2.5979729",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24646,
+    "name": "Station Adinkerke",
+    "latitude": "51.0774928",
+    "longitude": "2.6021004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24648,
+    "name": "Sporthal De Panne",
+    "latitude": "51.0926795",
+    "longitude": "2.6122456",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29957,
+    "name": "De Panne Moeder Lambik",
+    "latitude": "51.0867934",
+    "longitude": "2.6006668",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24647,
+    "name": "Markt De Panne",
+    "latitude": "51.0988779",
+    "longitude": "2.5921114",
     "thumbnail_url": ""
   }
 ]

@@ -56,24 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28099,
-    "name": "AZ West",
-    "latitude": "51.0618241",
-    "longitude": "2.666867",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27327,
     "name": "Bakkerijmuseum",
     "latitude": "51.0573178",
     "longitude": "2.6671783",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24662,
-    "name": "Station Veurne",
-    "latitude": "51.0734316",
-    "longitude": "2.6718705",
     "thumbnail_url": ""
   },
   {
@@ -88,6 +74,20 @@
     "name": "Stadspark Veurne",
     "latitude": "51.0730738",
     "longitude": "2.6617394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28099,
+    "name": "AZ West",
+    "latitude": "51.0618241",
+    "longitude": "2.666867",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24662,
+    "name": "Station Veurne",
+    "latitude": "51.0734316",
+    "longitude": "2.6718705",
     "thumbnail_url": ""
   }
 ]

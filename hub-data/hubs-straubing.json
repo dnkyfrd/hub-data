@@ -1,5 +1,12 @@
 [
   {
+    "id": 32675,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
@@ -11,6 +18,13 @@
     "name": "Landshuter Str. Aldi",
     "latitude": "48.8633673",
     "longitude": "12.5751719",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32712,
+    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
+    "latitude": "48.8820179",
+    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {
@@ -42,13 +56,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32695,
     "name": "Campingplatz",
     "latitude": "48.8932739",
@@ -74,13 +81,6 @@
     "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
     "latitude": "48.8853393",
     "longitude": "12.6008593",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32712,
-    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
-    "latitude": "48.8820179",
-    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {
@@ -112,13 +112,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32720,
     "name": "Schlesische Strasse 112 (Mangal)",
     "latitude": "48.8894663",
@@ -133,24 +126,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32710,
-    "name": "Theresienplatz vor Pustet (Fahrradständer)",
-    "latitude": "48.8811806",
-    "longitude": "12.5655164",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32681,
     "name": "Seminargasse",
     "latitude": "48.8822361",
     "longitude": "12.5686705",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32713,
-    "name": "Aquatherm",
-    "latitude": "48.8739041",
-    "longitude": "12.5603465",
     "thumbnail_url": ""
   },
   {
@@ -172,13 +151,6 @@
     "name": "Alte Ziegelei - Boulderhalle",
     "latitude": "48.8781558",
     "longitude": "12.564369",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32699,
-    "name": "Schulgasse (TFZ), Wallbox",
-    "latitude": "48.8838232",
-    "longitude": "12.5837345",
     "thumbnail_url": ""
   },
   {
@@ -210,6 +182,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32713,
+    "name": "Aquatherm",
+    "latitude": "48.8739041",
+    "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32706,
     "name": "TUM Uferstrasse",
     "latitude": "48.8864081",
@@ -217,10 +196,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32717,
+    "name": "Bahnhof",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32710,
+    "name": "Theresienplatz vor Pustet (Fahrradständer)",
+    "latitude": "48.8811806",
+    "longitude": "12.5655164",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32714,
     "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
     "latitude": "48.8734229",
     "longitude": "12.5453889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32699,
+    "name": "Schulgasse (TFZ), Wallbox",
+    "latitude": "48.8838232",
+    "longitude": "12.5837345",
     "thumbnail_url": ""
   }
 ]

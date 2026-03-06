@@ -1,5 +1,12 @@
 [
   {
+    "id": 29265,
+    "name": "Centralmagasinet",
+    "latitude": "55.6549004",
+    "longitude": "12.0583146",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21604,
     "name": "Roskilde Station ved Føtex",
     "latitude": "55.6376829",
@@ -77,13 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21624,
-    "name": "Roskilde Bibliotek, Bibliotekshaven",
-    "latitude": "55.6416359",
-    "longitude": "12.0880172",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21663,
     "name": "Hyrdehøj Centret",
     "latitude": "55.6345597",
@@ -154,13 +154,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21632,
-    "name": "Algade v. Stændertorvet",
-    "latitude": "55.641105",
-    "longitude": "12.0820942",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21633,
     "name": "Folkeparken, Frøspringvandet",
     "latitude": "55.6442213",
@@ -168,10 +161,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30849,
-    "name": "Københavnsvej v. Lidl",
-    "latitude": "55.6424211",
-    "longitude": "12.1092135",
+    "id": 21542,
+    "name": "Roskilde Station ved Kirkegården",
+    "latitude": "55.6394026",
+    "longitude": "12.0881065",
     "thumbnail_url": ""
   },
   {
@@ -179,13 +172,6 @@
     "name": "Kristiansminde Plejecenter",
     "latitude": "55.635487",
     "longitude": "12.0483221",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21524,
-    "name": "Roskilde Station - syd",
-    "latitude": "55.6376438",
-    "longitude": "12.0876918",
     "thumbnail_url": ""
   },
   {
@@ -238,13 +224,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21665,
-    "name": "Jobcenter",
-    "latitude": "55.6332803",
-    "longitude": "12.0879367",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23277,
     "name": "Elisagårdsvej",
     "latitude": "55.6423875",
@@ -256,13 +235,6 @@
     "name": "Havnekontoret",
     "latitude": "55.6502892",
     "longitude": "12.0762005",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21618,
-    "name": "Rabalderstræde v. Containerstriben",
-    "latitude": "55.6285757",
-    "longitude": "12.0847068",
     "thumbnail_url": ""
   },
   {
@@ -284,13 +256,6 @@
     "name": "Stændertorvet",
     "latitude": "55.6416079",
     "longitude": "12.0814395",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30850,
-    "name": "McDonald's Københavnsvej",
-    "latitude": "55.6423147",
-    "longitude": "12.1156664",
     "thumbnail_url": ""
   },
   {
@@ -340,6 +305,13 @@
     "name": "Holbækvej Øst",
     "latitude": "55.6342032",
     "longitude": "12.0699394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30849,
+    "name": "Københavnsvej v. Lidl",
+    "latitude": "55.6424211",
+    "longitude": "12.1092135",
     "thumbnail_url": ""
   },
   {
@@ -434,13 +406,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21542,
-    "name": "Roskilde Station ved Kirkegården",
-    "latitude": "55.6394026",
-    "longitude": "12.0881065",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21648,
     "name": "Kildegaarden, Idrættens Hus",
     "latitude": "55.6374963",
@@ -455,24 +420,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29265,
-    "name": "Centralmagasinet",
-    "latitude": "55.6549004",
-    "longitude": "12.0583146",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22560,
-    "name": "Fælledvej",
-    "latitude": "55.6353913",
-    "longitude": "12.062779",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29991,
-    "name": "Møllehusvej v. Låddenhøj",
-    "latitude": "55.6478411",
-    "longitude": "12.066236",
+    "id": 21624,
+    "name": "Roskilde Bibliotek, Bibliotekshaven",
+    "latitude": "55.6416359",
+    "longitude": "12.0880172",
     "thumbnail_url": ""
   },
   {
@@ -480,13 +431,6 @@
     "name": "Retten i Roskilde",
     "latitude": "55.6327843",
     "longitude": "12.0787448",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21943,
-    "name": "Trekroner Station",
-    "latitude": "55.6481927",
-    "longitude": "12.1314188",
     "thumbnail_url": ""
   },
   {
@@ -518,6 +462,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21665,
+    "name": "Jobcenter",
+    "latitude": "55.6332803",
+    "longitude": "12.0879367",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21943,
+    "name": "Trekroner Station",
+    "latitude": "55.6481927",
+    "longitude": "12.1314188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21623,
     "name": "RO's Torv øst",
     "latitude": "55.6413555",
@@ -525,10 +490,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22560,
+    "name": "Fælledvej",
+    "latitude": "55.6353913",
+    "longitude": "12.062779",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21632,
+    "name": "Algade v. Stændertorvet",
+    "latitude": "55.641105",
+    "longitude": "12.0820942",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21625,
     "name": "Roskildebadet",
     "latitude": "55.6387728",
     "longitude": "12.1041729",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29991,
+    "name": "Møllehusvej v. Låddenhøj",
+    "latitude": "55.6478411",
+    "longitude": "12.066236",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21618,
+    "name": "Rabalderstræde v. Containerstriben",
+    "latitude": "55.6285757",
+    "longitude": "12.0847068",
     "thumbnail_url": ""
   }
 ]
