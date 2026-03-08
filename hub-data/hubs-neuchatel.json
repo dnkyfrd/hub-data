@@ -1,30 +1,9 @@
 [
   {
-    "id": 3721,
-    "name": "Pourtalès",
-    "latitude": "46.9961145",
-    "longitude": "6.9429132",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2391,
-    "name": "LJP - Robert Comtesse",
-    "latitude": "46.9942096",
-    "longitude": "6.9428846",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5065,
-    "name": "Areuse",
-    "latitude": "46.9542865",
-    "longitude": "6.8536375",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17037,
-    "name": "Oriette",
-    "latitude": "46.9907005",
-    "longitude": "6.9263918",
+    "id": 4111,
+    "name": "Station du Port",
+    "latitude": "46.9910334",
+    "longitude": "6.9347913",
     "thumbnail_url": ""
   },
   {
@@ -35,6 +14,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5061,
+    "name": "Auvernier",
+    "latitude": "46.9744476",
+    "longitude": "6.8788529",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17037,
+    "name": "Oriette",
+    "latitude": "46.9907005",
+    "longitude": "6.9263918",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3721,
+    "name": "Pourtalès",
+    "latitude": "46.9961145",
+    "longitude": "6.9429132",
+    "thumbnail_url": ""
+  },
+  {
     "id": 4109,
     "name": "Place Pury",
     "latitude": "46.9897038",
@@ -42,10 +42,59 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4112,
+    "name": "Bains romains",
+    "latitude": "46.9818826",
+    "longitude": "6.9053649",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4329,
+    "name": "Hauterive",
+    "latitude": "47.0083989",
+    "longitude": "6.9726219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3722,
+    "name": "Microcity",
+    "latitude": "46.9974785",
+    "longitude": "6.9454239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2446,
+    "name": "Fun'ambule",
+    "latitude": "46.99312",
+    "longitude": "6.9387849",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2391,
+    "name": "LJP - Robert Comtesse",
+    "latitude": "46.9942096",
+    "longitude": "6.9428846",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3720,
+    "name": "Alexis-Marie-Piaget",
+    "latitude": "46.991655",
+    "longitude": "6.9323596",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19358,
     "name": "Cressier - Prélards",
     "latitude": "47.0462619",
     "longitude": "7.0287946",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5065,
+    "name": "Areuse",
+    "latitude": "46.9542865",
+    "longitude": "6.8536375",
     "thumbnail_url": ""
   },
   {
@@ -217,13 +266,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4111,
-    "name": "Station du Port",
-    "latitude": "46.9910334",
-    "longitude": "6.9347913",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26171,
     "name": "Vieux-Châtel",
     "latitude": "46.995327",
@@ -235,20 +277,6 @@
     "name": "Bas de la Main",
     "latitude": "46.9880209",
     "longitude": "6.9179436",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2446,
-    "name": "Fun'ambule",
-    "latitude": "46.99312",
-    "longitude": "6.9387849",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4329,
-    "name": "Hauterive",
-    "latitude": "47.0083989",
-    "longitude": "6.9726219",
     "thumbnail_url": ""
   },
   {
@@ -301,13 +329,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5061,
-    "name": "Auvernier",
-    "latitude": "46.9744476",
-    "longitude": "6.8788529",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18447,
     "name": "Fun'ambule - Nord",
     "latitude": "46.994127",
@@ -347,13 +368,6 @@
     "name": "Sablons",
     "latitude": "46.996223",
     "longitude": "6.9325156",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3720,
-    "name": "Alexis-Marie-Piaget",
-    "latitude": "46.991655",
-    "longitude": "6.9323596",
     "thumbnail_url": ""
   },
   {
@@ -413,13 +427,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4112,
-    "name": "Bains romains",
-    "latitude": "46.9818826",
-    "longitude": "6.9053649",
-    "thumbnail_url": ""
-  },
-  {
     "id": 4108,
     "name": "Piscine Nid-du-crô",
     "latitude": "46.9980064",
@@ -452,13 +459,6 @@
     "name": "Fornel",
     "latitude": "46.9938241",
     "longitude": "6.9358932",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3722,
-    "name": "Microcity",
-    "latitude": "46.9974785",
-    "longitude": "6.9454239",
     "thumbnail_url": ""
   }
 ]

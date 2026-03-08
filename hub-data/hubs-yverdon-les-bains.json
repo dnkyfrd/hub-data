@@ -7,27 +7,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14435,
-    "name": "Y-Parc, Galilée",
-    "latitude": "46.764909",
-    "longitude": "6.6461271",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19553,
     "name": "Villette",
     "latitude": "46.7774189",
@@ -39,6 +18,27 @@
     "name": "Plaine",
     "latitude": "46.7775368",
     "longitude": "6.6434345",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14435,
+    "name": "Y-Parc, Galilée",
+    "latitude": "46.764909",
+    "longitude": "6.6461271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
     "thumbnail_url": ""
   },
   {
@@ -60,6 +60,27 @@
     "name": "Collège des Rives",
     "latitude": "46.785265",
     "longitude": "6.6411045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21308,
+    "name": "Pierre de Savoie",
+    "latitude": "46.7684825",
+    "longitude": "6.64101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18764,
+    "name": "Chatelard",
+    "latitude": "46.7783539",
+    "longitude": "6.6174077",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {
@@ -476,24 +497,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18764,
-    "name": "Chatelard",
-    "latitude": "46.7783539",
-    "longitude": "6.6174077",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17234,
     "name": "St-Georges",
     "latitude": "46.7816423",
     "longitude": "6.6290342",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21308,
-    "name": "Pierre de Savoie",
-    "latitude": "46.7684825",
-    "longitude": "6.64101",
     "thumbnail_url": ""
   },
   {
@@ -557,13 +564,6 @@
     "name": "Scierie",
     "latitude": "46.7780072",
     "longitude": "6.6522819",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
     "thumbnail_url": ""
   }
 ]
