@@ -1,12 +1,5 @@
 [
   {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
@@ -14,17 +7,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32675,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32700,
     "name": "Landshuter Str. Aldi",
     "latitude": "48.8633673",
     "longitude": "12.5751719",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32712,
-    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
-    "latitude": "48.8820179",
-    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {
@@ -151,6 +144,13 @@
     "name": "Alte Ziegelei - Boulderhalle",
     "latitude": "48.8781558",
     "longitude": "12.564369",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32712,
+    "name": "Ludwigsplatz beim Kaffeestand (Alter Kiosk)",
+    "latitude": "48.8820179",
+    "longitude": "12.5710989",
     "thumbnail_url": ""
   },
   {

@@ -1,12 +1,5 @@
 [
   {
-    "id": 32978,
-    "name": "Wachtel Street",
-    "latitude": "52.009885",
-    "longitude": "4.7004218",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33400,
     "name": "Aakwerf",
     "latitude": "52.034295",
@@ -74,13 +67,6 @@
     "name": "Oosthaven 2",
     "latitude": "52.01018",
     "longitude": "4.7105816",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32860,
-    "name": "Bernadottelaan",
-    "latitude": "52.0125812",
-    "longitude": "4.7279761",
     "thumbnail_url": ""
   },
   {
@@ -207,13 +193,6 @@
     "name": "Raam 1",
     "latitude": "52.0093652",
     "longitude": "4.706219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32925,
-    "name": "Vuurdoornlaan 1",
-    "latitude": "52.0251203",
-    "longitude": "4.695392",
     "thumbnail_url": ""
   },
   {
@@ -350,6 +329,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32978,
+    "name": "Wachtel Street",
+    "latitude": "52.009885",
+    "longitude": "4.7004218",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32909,
     "name": "MBO Rijnland 2",
     "latitude": "52.0275546",
@@ -385,13 +371,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32985,
-    "name": "Lepelaerstraat",
-    "latitude": "52.0136902",
-    "longitude": "4.7032542",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33403,
     "name": "Hulkestein",
     "latitude": "52.0297111",
@@ -420,10 +399,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32925,
+    "name": "Vuurdoornlaan 1",
+    "latitude": "52.0251203",
+    "longitude": "4.695392",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32920,
     "name": "Plataanstraat 2",
     "latitude": "52.02938",
     "longitude": "4.6905087",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32860,
+    "name": "Bernadottelaan",
+    "latitude": "52.0125812",
+    "longitude": "4.7279761",
     "thumbnail_url": ""
   },
   {
@@ -732,6 +725,13 @@
     "name": "Klein Amerika",
     "latitude": "52.011979",
     "longitude": "4.7163437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32985,
+    "name": "Lepelaerstraat",
+    "latitude": "52.0136902",
+    "longitude": "4.7032542",
     "thumbnail_url": ""
   },
   {
