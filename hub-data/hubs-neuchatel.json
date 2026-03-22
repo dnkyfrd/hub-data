@@ -1,79 +1,16 @@
 [
   {
-    "id": 5061,
-    "name": "Auvernier",
-    "latitude": "46.9744476",
-    "longitude": "6.8788529",
+    "id": 5065,
+    "name": "Areuse",
+    "latitude": "46.9542865",
+    "longitude": "6.8536375",
     "thumbnail_url": ""
   },
   {
-    "id": 12541,
-    "name": "Gorgier-St-Aubin",
-    "latitude": "46.8991139",
-    "longitude": "6.7815325",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3721,
-    "name": "Pourtalès",
-    "latitude": "46.9961145",
-    "longitude": "6.9429132",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5064,
-    "name": "Bas des Allées",
-    "latitude": "46.9680625",
-    "longitude": "6.8700157",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4330,
-    "name": "St-Blaise",
-    "latitude": "47.0120688",
-    "longitude": "6.9852833",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16492,
-    "name": "Riveraine",
-    "latitude": "46.9962042",
-    "longitude": "6.9463045",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6448,
-    "name": "UniLac",
-    "latitude": "46.9937227",
-    "longitude": "6.9416517",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4115,
-    "name": "P+R Serrières",
-    "latitude": "46.979309",
-    "longitude": "6.8947487",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4108,
-    "name": "Piscine Nid-du-crô",
-    "latitude": "46.9980064",
-    "longitude": "6.9560452",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3720,
-    "name": "Alexis-Marie-Piaget",
-    "latitude": "46.991655",
-    "longitude": "6.9323596",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4110,
-    "name": "Evole",
-    "latitude": "46.988599",
-    "longitude": "6.9212462",
+    "id": 2446,
+    "name": "Fun'ambule",
+    "latitude": "46.99312",
+    "longitude": "6.9387849",
     "thumbnail_url": ""
   },
   {
@@ -84,17 +21,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4109,
-    "name": "Place Pury",
-    "latitude": "46.9897038",
-    "longitude": "6.9287524",
+    "id": 5061,
+    "name": "Auvernier",
+    "latitude": "46.9744476",
+    "longitude": "6.8788529",
     "thumbnail_url": ""
   },
   {
-    "id": 19358,
-    "name": "Cressier - Prélards",
-    "latitude": "47.0462619",
-    "longitude": "7.0287946",
+    "id": 5067,
+    "name": "Boudry - centre",
+    "latitude": "46.9494609",
+    "longitude": "6.8387727",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3721,
+    "name": "Pourtalès",
+    "latitude": "46.9961145",
+    "longitude": "6.9429132",
     "thumbnail_url": ""
   },
   {
@@ -102,6 +46,104 @@
     "name": "LJP - Robert Comtesse",
     "latitude": "46.9942096",
     "longitude": "6.9428846",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12541,
+    "name": "Gorgier-St-Aubin",
+    "latitude": "46.8991139",
+    "longitude": "6.7815325",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4110,
+    "name": "Evole",
+    "latitude": "46.988599",
+    "longitude": "6.9212462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5066,
+    "name": "Petit-Cortaillod",
+    "latitude": "46.940307",
+    "longitude": "6.8518176",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5064,
+    "name": "Bas des Allées",
+    "latitude": "46.9680625",
+    "longitude": "6.8700157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4109,
+    "name": "Place Pury",
+    "latitude": "46.9897038",
+    "longitude": "6.9287524",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16492,
+    "name": "Riveraine",
+    "latitude": "46.9962042",
+    "longitude": "6.9463045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4108,
+    "name": "Piscine Nid-du-crô",
+    "latitude": "46.9980064",
+    "longitude": "6.9560452",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4330,
+    "name": "St-Blaise",
+    "latitude": "47.0120688",
+    "longitude": "6.9852833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3720,
+    "name": "Alexis-Marie-Piaget",
+    "latitude": "46.991655",
+    "longitude": "6.9323596",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26170,
+    "name": "Fornel",
+    "latitude": "46.9938241",
+    "longitude": "6.9358932",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4115,
+    "name": "P+R Serrières",
+    "latitude": "46.979309",
+    "longitude": "6.8947487",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4112,
+    "name": "Bains romains",
+    "latitude": "46.9818826",
+    "longitude": "6.9053649",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6448,
+    "name": "UniLac",
+    "latitude": "46.9937227",
+    "longitude": "6.9416517",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19358,
+    "name": "Cressier - Prélards",
+    "latitude": "47.0462619",
+    "longitude": "7.0287946",
     "thumbnail_url": ""
   },
   {
@@ -116,20 +158,6 @@
     "name": "Quai Jeanrenaud",
     "latitude": "46.9790096",
     "longitude": "6.89676",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5067,
-    "name": "Boudry - centre",
-    "latitude": "46.9494609",
-    "longitude": "6.8387727",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26170,
-    "name": "Fornel",
-    "latitude": "46.9938241",
-    "longitude": "6.9358932",
     "thumbnail_url": ""
   },
   {
@@ -154,13 +182,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4112,
-    "name": "Bains romains",
-    "latitude": "46.9818826",
-    "longitude": "6.9053649",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31634,
     "name": "Halles - Sud",
     "latitude": "46.9898645",
@@ -175,24 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2446,
-    "name": "Fun'ambule",
-    "latitude": "46.99312",
-    "longitude": "6.9387849",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17160,
     "name": "Corcelles - Collège",
     "latitude": "46.982953",
     "longitude": "6.8752138",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5065,
-    "name": "Areuse",
-    "latitude": "46.9542865",
-    "longitude": "6.8536375",
     "thumbnail_url": ""
   },
   {
@@ -347,13 +354,6 @@
     "name": "P+R Nid-du-Crô",
     "latitude": "46.9969223",
     "longitude": "6.9538669",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5066,
-    "name": "Petit-Cortaillod",
-    "latitude": "46.940307",
-    "longitude": "6.8518176",
     "thumbnail_url": ""
   },
   {
