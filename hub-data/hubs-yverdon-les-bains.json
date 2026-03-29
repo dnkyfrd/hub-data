@@ -1,5 +1,47 @@
 [
   {
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16308,
+    "name": "Piscine couverte",
+    "latitude": "46.7850132",
+    "longitude": "6.6466891",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
     "id": 14992,
     "name": "Bel-Air",
     "latitude": "46.7804518",
@@ -7,10 +49,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17246,
-    "name": "Sous-Bois",
-    "latitude": "46.7757291",
-    "longitude": "6.6520961",
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19983,
+    "name": "Kiener",
+    "latitude": "46.7787539",
+    "longitude": "6.6270091",
     "thumbnail_url": ""
   },
   {
@@ -21,17 +70,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17113,
     "name": "Stade ",
     "latitude": "46.7827357",
     "longitude": "6.6457893",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
@@ -49,24 +98,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
+    "id": 17246,
+    "name": "Sous-Bois",
+    "latitude": "46.7757291",
+    "longitude": "6.6520961",
     "thumbnail_url": ""
   },
   {
@@ -77,17 +112,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19983,
-    "name": "Kiener",
-    "latitude": "46.7787539",
-    "longitude": "6.6270091",
+    "id": 15147,
+    "name": "Jean-André Venel",
+    "latitude": "46.7694474",
+    "longitude": "6.6451896",
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
@@ -140,13 +175,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15147,
-    "name": "Jean-André Venel",
-    "latitude": "46.7694474",
-    "longitude": "6.6451896",
-    "thumbnail_url": ""
-  },
-  {
     "id": 14435,
     "name": "Y-Parc, Galilée",
     "latitude": "46.764909",
@@ -168,13 +196,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17001,
     "name": "Rives du Lac",
     "latitude": "46.7851494",
@@ -193,13 +214,6 @@
     "name": "Avenue de Grandson",
     "latitude": "46.7877183",
     "longitude": "6.6306181",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
     "thumbnail_url": ""
   },
   {
@@ -235,13 +249,6 @@
     "name": "Conservatoire",
     "latitude": "46.7849178",
     "longitude": "6.6360569",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -487,13 +494,6 @@
     "name": "Office du Tourisme",
     "latitude": "46.780168",
     "longitude": "6.6429209",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16308,
-    "name": "Piscine couverte",
-    "latitude": "46.7850132",
-    "longitude": "6.6466891",
     "thumbnail_url": ""
   },
   {
