@@ -1,317 +1,9 @@
 [
   {
-    "id": 32000,
-    "name": "Station25",
-    "latitude": "52.3779719",
-    "longitude": "9.7238566",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28670,
-    "name": "Lavesallee",
-    "latitude": "52.3682508",
-    "longitude": "9.7284748",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28448,
-    "name": "Leibniz Universität/Schlosswender Strasse",
-    "latitude": "52.3798391",
-    "longitude": "9.7240259",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28435,
-    "name": "Werderstrasse",
-    "latitude": "52.387214",
-    "longitude": "9.73453",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28388,
-    "name": "U Glocksee",
-    "latitude": "52.3739414",
-    "longitude": "9.7188959",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28976,
-    "name": "Glocksee",
-    "latitude": "52.3717435",
-    "longitude": "9.7192139",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31225,
-    "name": "Bodestrasse ",
-    "latitude": "52.3917625",
-    "longitude": "9.7214219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28715,
-    "name": "Bismarckstrasse",
-    "latitude": "52.3567134",
-    "longitude": "9.7689459",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28398,
-    "name": "Uni Sporthalle - Lodyweg",
-    "latitude": "52.3783134",
-    "longitude": "9.7142436",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30968,
-    "name": "Hub: Fernoderstrasse",
-    "latitude": "52.3757875",
-    "longitude": "9.7421406",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28336,
-    "name": "Hauptbahnhof N2",
-    "latitude": "52.375805",
-    "longitude": "9.7411864",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29181,
-    "name": "Pizza Garten",
-    "latitude": "52.3808049",
-    "longitude": "9.682275",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28385,
-    "name": "Thielenplatz - Schauspielhaus",
-    "latitude": "52.3745178",
-    "longitude": "9.7447101",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30957,
-    "name": "Hub: Körnerstrasse",
-    "latitude": "52.3793875",
-    "longitude": "9.7254219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30133,
-    "name": "Maschseefest: Kurt-Schwitters-Platz",
-    "latitude": "52.3633633",
-    "longitude": "9.7392085",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30132,
-    "name": "Maschseefest: Culemannstrasse",
-    "latitude": "52.3634583",
-    "longitude": "9.7380981",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31999,
-    "name": "Station24",
-    "latitude": "52.3785499",
-    "longitude": "9.7229994",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31600,
-    "name": "Leibniz-Uni-Hauptmensa",
-    "latitude": "52.3866776",
-    "longitude": "9.7148528",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28432,
-    "name": "Herrenhäuser Kirchweg",
-    "latitude": "52.3908168",
-    "longitude": "9.7057785",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29701,
-    "name": "Franziusweg",
-    "latitude": "52.3934232",
-    "longitude": "9.7071196",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28303,
-    "name": "Berggarten/Sealife",
-    "latitude": "52.3918451",
-    "longitude": "9.6985856",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32022,
-    "name": "Station48",
-    "latitude": "52.3778927",
-    "longitude": "9.7434423",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28983,
-    "name": "Noltestrasse",
-    "latitude": "52.3720531",
-    "longitude": "9.7056778",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28408,
-    "name": "Limmerstrasse/Offensteinstrasse",
-    "latitude": "52.3739796",
-    "longitude": "9.7051745",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28410,
-    "name": "Leibniz Universität/Nienburger Strasse",
-    "latitude": "52.3811452",
-    "longitude": "9.7184435",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28294,
-    "name": "Fortunastrasse",
-    "latitude": "52.3723602",
-    "longitude": "9.7101838",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31601,
-    "name": "Leibniz-Uni-TIB",
-    "latitude": "52.3818116",
-    "longitude": "9.7195406",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28346,
-    "name": "Langensalzastrasse 22",
-    "latitude": "52.3644919",
-    "longitude": "9.7436961",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28405,
-    "name": "Hauptbahnhof Süd",
-    "latitude": "52.376343",
-    "longitude": "9.740046",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30190,
-    "name": "Schneiderberg",
-    "latitude": "52.3890332",
-    "longitude": "9.7173556",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30970,
-    "name": "Hub: Rudolf Hillebrecht Platz",
-    "latitude": "52.3678375",
-    "longitude": "9.7358281",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28737,
-    "name": "Am Kläperberg",
-    "latitude": "52.3900632",
-    "longitude": "9.7213504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28349,
-    "name": "Lindener Schmuckplatz",
-    "latitude": "52.372557",
-    "longitude": "9.7055778",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28437,
-    "name": "Niedersachsenring",
-    "latitude": "52.3990903",
-    "longitude": "9.7364938",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29292,
-    "name": "Jahnplaz",
-    "latitude": "52.3942336",
-    "longitude": "9.7290329",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28397,
-    "name": "U Strangriede",
-    "latitude": "52.390791",
-    "longitude": "9.72104",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28407,
-    "name": "Raschplatz",
-    "latitude": "52.379661",
-    "longitude": "9.744232",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28667,
-    "name": "Altenbekener Damm",
-    "latitude": "52.3553722",
-    "longitude": "9.7548368",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29010,
     "name": "Kopernikusstrasse 1",
     "latitude": "52.3910837",
     "longitude": "9.7305867",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28415,
-    "name": "Marienstrasse",
-    "latitude": "52.3702556",
-    "longitude": "9.7532563",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29133,
-    "name": "Pfarrstrasse/Ricklinger Stadtweg",
-    "latitude": "52.3470235",
-    "longitude": "9.7236118",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28678,
-    "name": "Humboldtstrasse",
-    "latitude": "52.3701298",
-    "longitude": "9.7234647",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28387,
-    "name": "U Am Küchengarten",
-    "latitude": "52.3712029",
-    "longitude": "9.7132883",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31247,
-    "name": "Moltkeplatz",
-    "latitude": "52.3925676",
-    "longitude": "9.7465353",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28391,
-    "name": "U Leinaustrasse",
-    "latitude": "52.373457",
-    "longitude": "9.7070048",
     "thumbnail_url": ""
   },
   {
@@ -322,59 +14,101 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28655,
-    "name": "Nedderfeldstrasse",
-    "latitude": "52.3753958",
-    "longitude": "9.710438",
+    "id": 29133,
+    "name": "Pfarrstrasse/Ricklinger Stadtweg",
+    "latitude": "52.3470235",
+    "longitude": "9.7236118",
     "thumbnail_url": ""
   },
   {
-    "id": 30796,
-    "name": "Bahnhof Leinhausen",
-    "latitude": "52.3976893",
-    "longitude": "9.6743678",
+    "id": 28324,
+    "name": "Franz-Nause-Strasse 3",
+    "latitude": "52.3746595",
+    "longitude": "9.6944948",
     "thumbnail_url": ""
   },
   {
-    "id": 28694,
-    "name": "Lützerodestrasse",
-    "latitude": "52.3854201",
-    "longitude": "9.7454549",
+    "id": 31247,
+    "name": "Moltkeplatz",
+    "latitude": "52.3925676",
+    "longitude": "9.7465353",
     "thumbnail_url": ""
   },
   {
-    "id": 28672,
-    "name": "Herrenhäuser Kirchweg",
-    "latitude": "52.3931088",
-    "longitude": "9.7139653",
+    "id": 30133,
+    "name": "Maschseefest: Kurt-Schwitters-Platz",
+    "latitude": "52.3633633",
+    "longitude": "9.7392085",
     "thumbnail_url": ""
   },
   {
-    "id": 28309,
-    "name": "Callinstrasse - Mineralogie",
-    "latitude": "52.3858009",
-    "longitude": "9.7177216",
+    "id": 28388,
+    "name": "U Glocksee",
+    "latitude": "52.3739414",
+    "longitude": "9.7188959",
     "thumbnail_url": ""
   },
   {
-    "id": 28441,
-    "name": "Braunschweiger Platz",
-    "latitude": "52.3707017",
-    "longitude": "9.7617537",
+    "id": 28346,
+    "name": "Langensalzastrasse 22",
+    "latitude": "52.3644919",
+    "longitude": "9.7436961",
     "thumbnail_url": ""
   },
   {
-    "id": 28421,
-    "name": "Schwarzer Bär",
-    "latitude": "52.3680446",
-    "longitude": "9.7194755",
+    "id": 28311,
+    "name": "Christuskirche",
+    "latitude": "52.3817394",
+    "longitude": "9.7258337",
     "thumbnail_url": ""
   },
   {
-    "id": 28997,
-    "name": "Jägerstrasse",
-    "latitude": "52.3798484",
-    "longitude": "9.7175789",
+    "id": 28410,
+    "name": "Leibniz Universität/Nienburger Strasse",
+    "latitude": "52.3811452",
+    "longitude": "9.7184435",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28988,
+    "name": "Nienburgerstrasse",
+    "latitude": "52.3898406",
+    "longitude": "9.7068665",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31225,
+    "name": "Bodestrasse ",
+    "latitude": "52.3917625",
+    "longitude": "9.7214219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30132,
+    "name": "Maschseefest: Culemannstrasse",
+    "latitude": "52.3634583",
+    "longitude": "9.7380981",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28974,
+    "name": "NDR",
+    "latitude": "52.36065",
+    "longitude": "9.7413071",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28437,
+    "name": "Niedersachsenring",
+    "latitude": "52.3990903",
+    "longitude": "9.7364938",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28407,
+    "name": "Raschplatz",
+    "latitude": "52.379661",
+    "longitude": "9.744232",
     "thumbnail_url": ""
   },
   {
@@ -385,10 +119,248 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29046,
-    "name": "Pfarrlandstrasse",
-    "latitude": "52.3764535",
-    "longitude": "9.7076209",
+    "id": 29181,
+    "name": "Pizza Garten",
+    "latitude": "52.3808049",
+    "longitude": "9.682275",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29292,
+    "name": "Jahnplaz",
+    "latitude": "52.3942336",
+    "longitude": "9.7290329",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28408,
+    "name": "Limmerstrasse/Offensteinstrasse",
+    "latitude": "52.3739796",
+    "longitude": "9.7051745",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28433,
+    "name": "Scheffelstrasse",
+    "latitude": "52.384019",
+    "longitude": "9.725321",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31601,
+    "name": "Leibniz-Uni-TIB",
+    "latitude": "52.3818116",
+    "longitude": "9.7195406",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28397,
+    "name": "U Strangriede",
+    "latitude": "52.390791",
+    "longitude": "9.72104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28737,
+    "name": "Am Kläperberg",
+    "latitude": "52.3900632",
+    "longitude": "9.7213504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28997,
+    "name": "Jägerstrasse",
+    "latitude": "52.3798484",
+    "longitude": "9.7175789",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30157,
+    "name": "Gfl Hannover ",
+    "latitude": "52.3512455",
+    "longitude": "9.748835",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28431,
+    "name": "Glocksee/Braunstrasse",
+    "latitude": "52.3732824",
+    "longitude": "9.7202753",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28349,
+    "name": "Lindener Schmuckplatz",
+    "latitude": "52.372557",
+    "longitude": "9.7055778",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30190,
+    "name": "Schneiderberg",
+    "latitude": "52.3890332",
+    "longitude": "9.7173556",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28435,
+    "name": "Werderstrasse",
+    "latitude": "52.387214",
+    "longitude": "9.73453",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28387,
+    "name": "U Am Küchengarten",
+    "latitude": "52.3712029",
+    "longitude": "9.7132883",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32022,
+    "name": "Station48",
+    "latitude": "52.3778927",
+    "longitude": "9.7434423",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28715,
+    "name": "Bismarckstrasse",
+    "latitude": "52.3567134",
+    "longitude": "9.7689459",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28983,
+    "name": "Noltestrasse",
+    "latitude": "52.3720531",
+    "longitude": "9.7056778",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28303,
+    "name": "Berggarten/Sealife",
+    "latitude": "52.3918451",
+    "longitude": "9.6985856",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28647,
+    "name": "Neustädter Strasse",
+    "latitude": "52.3702806",
+    "longitude": "9.727164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28672,
+    "name": "Herrenhäuser Kirchweg",
+    "latitude": "52.3931088",
+    "longitude": "9.7139653",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28667,
+    "name": "Altenbekener Damm",
+    "latitude": "52.3553722",
+    "longitude": "9.7548368",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28694,
+    "name": "Lützerodestrasse",
+    "latitude": "52.3854201",
+    "longitude": "9.7454549",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28644,
+    "name": "Hamburger Allee",
+    "latitude": "52.383363",
+    "longitude": "9.7370193",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30968,
+    "name": "Hub: Fernoderstrasse",
+    "latitude": "52.3757875",
+    "longitude": "9.7421406",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28700,
+    "name": "An der Lutherkirche",
+    "latitude": "52.3875021",
+    "longitude": "9.721071",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29701,
+    "name": "Franziusweg",
+    "latitude": "52.3934232",
+    "longitude": "9.7071196",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29743,
+    "name": "Allerweg/Ritter-Brüning-Strasse",
+    "latitude": "52.3620376",
+    "longitude": "9.721173",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28398,
+    "name": "Uni Sporthalle - Lodyweg",
+    "latitude": "52.3783134",
+    "longitude": "9.7142436",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28391,
+    "name": "U Leinaustrasse",
+    "latitude": "52.373457",
+    "longitude": "9.7070048",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28361,
+    "name": "Oeltzenstrasse 11",
+    "latitude": "52.3759118",
+    "longitude": "9.7228927",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28975,
+    "name": "LUX",
+    "latitude": "52.3682244",
+    "longitude": "9.7207216",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28415,
+    "name": "Marienstrasse",
+    "latitude": "52.3702556",
+    "longitude": "9.7532563",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30796,
+    "name": "Bahnhof Leinhausen",
+    "latitude": "52.3976893",
+    "longitude": "9.6743678",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28336,
+    "name": "Hauptbahnhof N2",
+    "latitude": "52.375805",
+    "longitude": "9.7411864",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28976,
+    "name": "Glocksee",
+    "latitude": "52.3717435",
+    "longitude": "9.7192139",
     "thumbnail_url": ""
   },
   {
@@ -396,6 +368,13 @@
     "name": "Friesenstrasse",
     "latitude": "52.3803097",
     "longitude": "9.7416557",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28405,
+    "name": "Hauptbahnhof Süd",
+    "latitude": "52.376343",
+    "longitude": "9.740046",
     "thumbnail_url": ""
   },
   {
@@ -413,10 +392,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28324,
-    "name": "Franz-Nause-Strasse 3",
-    "latitude": "52.3746595",
-    "longitude": "9.6944948",
+    "id": 28432,
+    "name": "Herrenhäuser Kirchweg",
+    "latitude": "52.3908168",
+    "longitude": "9.7057785",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28385,
+    "name": "Thielenplatz - Schauspielhaus",
+    "latitude": "52.3745178",
+    "longitude": "9.7447101",
     "thumbnail_url": ""
   },
   {
@@ -427,10 +413,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28656,
-    "name": "Charlottenstrasse",
-    "latitude": "52.360543",
-    "longitude": "9.7183001",
+    "id": 28688,
+    "name": "Fahrradkontor GmbH",
+    "latitude": "52.3876325",
+    "longitude": "9.7410076",
     "thumbnail_url": ""
   },
   {
@@ -441,31 +427,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28436,
-    "name": "Vahrenwalder Platz",
-    "latitude": "52.391622",
-    "longitude": "9.735144",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29011,
-    "name": "Göhrdestrasse",
-    "latitude": "52.3883704",
-    "longitude": "9.7376975",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28311,
-    "name": "Christuskirche",
-    "latitude": "52.3817394",
-    "longitude": "9.7258337",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28431,
-    "name": "Glocksee/Braunstrasse",
-    "latitude": "52.3732824",
-    "longitude": "9.7202753",
+    "id": 30264,
+    "name": "Am Puttenser Felde",
+    "latitude": "52.3820822",
+    "longitude": "9.7220025",
     "thumbnail_url": ""
   },
   {
@@ -476,10 +441,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28975,
-    "name": "LUX",
-    "latitude": "52.3682244",
-    "longitude": "9.7207216",
+    "id": 28670,
+    "name": "Lavesallee",
+    "latitude": "52.3682508",
+    "longitude": "9.7284748",
     "thumbnail_url": ""
   },
   {
@@ -497,10 +462,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28361,
-    "name": "Oeltzenstrasse 11",
-    "latitude": "52.3759118",
-    "longitude": "9.7228927",
+    "id": 28436,
+    "name": "Vahrenwalder Platz",
+    "latitude": "52.391622",
+    "longitude": "9.735144",
     "thumbnail_url": ""
   },
   {
@@ -511,17 +476,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31602,
+    "name": "Leibniz-Uni-Audimax",
+    "latitude": "52.3825213",
+    "longitude": "9.7191489",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28441,
+    "name": "Braunschweiger Platz",
+    "latitude": "52.3707017",
+    "longitude": "9.7617537",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28645,
     "name": "Münzstrasse",
     "latitude": "52.3758154",
     "longitude": "9.7315714",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28651,
-    "name": "Asternstrasse",
-    "latitude": "52.38551",
-    "longitude": "9.7241786",
     "thumbnail_url": ""
   },
   {
@@ -532,10 +504,66 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28655,
+    "name": "Nedderfeldstrasse",
+    "latitude": "52.3753958",
+    "longitude": "9.710438",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29011,
+    "name": "Göhrdestrasse",
+    "latitude": "52.3883704",
+    "longitude": "9.7376975",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31999,
+    "name": "Station24",
+    "latitude": "52.3785499",
+    "longitude": "9.7229994",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29259,
+    "name": "Hans Meyer Strasse",
+    "latitude": "52.3860569",
+    "longitude": "9.7147683",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30958,
+    "name": "Hub: Am Klagesmarkt/Otto-Brenner",
+    "latitude": "52.3784125",
+    "longitude": "9.7298594",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28685,
     "name": "Hotel Am Schloss",
     "latitude": "52.3918838",
     "longitude": "9.689171",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28651,
+    "name": "Asternstrasse",
+    "latitude": "52.38551",
+    "longitude": "9.7241786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28421,
+    "name": "Schwarzer Bär",
+    "latitude": "52.3680446",
+    "longitude": "9.7194755",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31600,
+    "name": "Leibniz-Uni-Hauptmensa",
+    "latitude": "52.3866776",
+    "longitude": "9.7148528",
     "thumbnail_url": ""
   },
   {
@@ -546,10 +574,94 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28419,
+    "name": "Kurt-Schumacher-Strasse",
+    "latitude": "52.3767685",
+    "longitude": "9.7364831",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32000,
+    "name": "Station25",
+    "latitude": "52.3779719",
+    "longitude": "9.7238566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29046,
+    "name": "Pfarrlandstrasse",
+    "latitude": "52.3764535",
+    "longitude": "9.7076209",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29690,
     "name": "Hanomag",
     "latitude": "52.3579889",
     "longitude": "9.7104368",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28309,
+    "name": "Callinstrasse - Mineralogie",
+    "latitude": "52.3858009",
+    "longitude": "9.7177216",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28333,
+    "name": "Hamburger Allee- Lister Meile",
+    "latitude": "52.3791466",
+    "longitude": "9.7435399",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30957,
+    "name": "Hub: Körnerstrasse",
+    "latitude": "52.3793875",
+    "longitude": "9.7254219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28422,
+    "name": "Schneiderberg/Wilhelm-Busch-Museum",
+    "latitude": "52.384996",
+    "longitude": "9.712872",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30970,
+    "name": "Hub: Rudolf Hillebrecht Platz",
+    "latitude": "52.3678375",
+    "longitude": "9.7358281",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28656,
+    "name": "Charlottenstrasse",
+    "latitude": "52.360543",
+    "longitude": "9.7183001",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28678,
+    "name": "Humboldtstrasse",
+    "latitude": "52.3701298",
+    "longitude": "9.7234647",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28448,
+    "name": "Leibniz Universität/Schlosswender Strasse",
+    "latitude": "52.3798391",
+    "longitude": "9.7240259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28294,
+    "name": "Fortunastrasse",
+    "latitude": "52.3723602",
+    "longitude": "9.7101838",
     "thumbnail_url": ""
   },
   {
@@ -658,20 +770,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30157,
-    "name": "Gfl Hannover ",
-    "latitude": "52.3512455",
-    "longitude": "9.748835",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28988,
-    "name": "Nienburgerstrasse",
-    "latitude": "52.3898406",
-    "longitude": "9.7068665",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28344,
     "name": "Augustenstrasse ",
     "latitude": "52.3777487",
@@ -690,13 +788,6 @@
     "name": "Station4",
     "latitude": "52.3711423",
     "longitude": "9.7328472",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28419,
-    "name": "Kurt-Schumacher-Strasse",
-    "latitude": "52.3767685",
-    "longitude": "9.7364831",
     "thumbnail_url": ""
   },
   {
@@ -1022,13 +1113,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29743,
-    "name": "Allerweg/Ritter-Brüning-Strasse",
-    "latitude": "52.3620376",
-    "longitude": "9.721173",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30203,
     "name": "Lister Bad",
     "latitude": "52.4065121",
@@ -1148,13 +1232,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30958,
-    "name": "Hub: Am Klagesmarkt/Otto-Brenner",
-    "latitude": "52.3784125",
-    "longitude": "9.7298594",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28371,
     "name": "An der Weide",
     "latitude": "52.3633938",
@@ -1246,13 +1323,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28647,
-    "name": "Neustädter Strasse",
-    "latitude": "52.3702806",
-    "longitude": "9.727164",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28661,
     "name": "Bischofsholer Damm",
     "latitude": "52.3673949",
@@ -1337,13 +1407,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28700,
-    "name": "An der Lutherkirche",
-    "latitude": "52.3875021",
-    "longitude": "9.721071",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28702,
     "name": "An der Lutherkirche",
     "latitude": "52.3871247",
@@ -1372,13 +1435,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28333,
-    "name": "Hamburger Allee- Lister Meile",
-    "latitude": "52.3791466",
-    "longitude": "9.7435399",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28434,
     "name": "Im Moore",
     "latitude": "52.384453",
@@ -1390,13 +1446,6 @@
     "name": "Kopernikusstrasse / Weidendamm",
     "latitude": "52.3886875",
     "longitude": "9.7263281",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28422,
-    "name": "Schneiderberg/Wilhelm-Busch-Museum",
-    "latitude": "52.384996",
-    "longitude": "9.712872",
     "thumbnail_url": ""
   },
   {
@@ -1435,13 +1484,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28688,
-    "name": "Fahrradkontor GmbH",
-    "latitude": "52.3876325",
-    "longitude": "9.7410076",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31860,
     "name": "Brabeckstr",
     "latitude": "52.3600375",
@@ -1467,27 +1509,6 @@
     "name": "Schmiedestrasse",
     "latitude": "52.3747854",
     "longitude": "9.7342076",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28974,
-    "name": "NDR",
-    "latitude": "52.36065",
-    "longitude": "9.7413071",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30264,
-    "name": "Am Puttenser Felde",
-    "latitude": "52.3820822",
-    "longitude": "9.7220025",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31602,
-    "name": "Leibniz-Uni-Audimax",
-    "latitude": "52.3825213",
-    "longitude": "9.7191489",
     "thumbnail_url": ""
   },
   {
@@ -1523,13 +1544,6 @@
     "name": "Welfenstrasse",
     "latitude": "52.3841634",
     "longitude": "9.7363322",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28644,
-    "name": "Hamburger Allee",
-    "latitude": "52.383363",
-    "longitude": "9.7370193",
     "thumbnail_url": ""
   },
   {
@@ -1593,13 +1607,6 @@
     "name": "Augustenstrasse/Königstrasse ",
     "latitude": "52.3762498",
     "longitude": "9.7452742",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28433,
-    "name": "Scheffelstrasse",
-    "latitude": "52.384019",
-    "longitude": "9.725321",
     "thumbnail_url": ""
   },
   {
@@ -2576,13 +2583,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29259,
-    "name": "Hans Meyer Strasse",
-    "latitude": "52.3860569",
-    "longitude": "9.7147683",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28964,
     "name": "Lavesallee",
     "latitude": "52.3684927",
@@ -3066,13 +3066,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30904,
-    "name": "Empelde Schilfweg",
-    "latitude": "52.3457242",
-    "longitude": "9.6768009",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32067,
     "name": "Humboldtstraße ",
     "latitude": "52.2936375",
@@ -3084,13 +3077,6 @@
     "name": "Am Weingarten 20",
     "latitude": "52.3166625",
     "longitude": "9.6543906",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30780,
-    "name": "Bürgerstrasse ",
-    "latitude": "52.2763112",
-    "longitude": "9.6619331",
     "thumbnail_url": ""
   },
   {
@@ -3133,13 +3119,6 @@
     "name": "Meiergarten ",
     "latitude": "52.3208625",
     "longitude": "9.6544219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31095,
-    "name": "EDEKA Ladage",
-    "latitude": "52.3189875",
-    "longitude": "9.6576406",
     "thumbnail_url": ""
   },
   {
@@ -3192,6 +3171,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32065,
+    "name": "Am Bettenser Berg",
+    "latitude": "52.2998375",
+    "longitude": "9.6436406",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32063,
     "name": "Hinter Dem Dorfe",
     "latitude": "52.3171375",
@@ -3220,10 +3206,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32065,
-    "name": "Am Bettenser Berg",
-    "latitude": "52.2998375",
-    "longitude": "9.6436406",
+    "id": 30736,
+    "name": "Berliner Strasse, Ronnenberg",
+    "latitude": "52.3407364",
+    "longitude": "9.6676097",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30780,
+    "name": "Bürgerstrasse ",
+    "latitude": "52.2763112",
+    "longitude": "9.6619331",
     "thumbnail_url": ""
   },
   {
@@ -3231,20 +3224,6 @@
     "name": "Wertstoffinsel",
     "latitude": "52.2998125",
     "longitude": "9.6368281",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32055,
-    "name": "Rügenerstr",
-    "latitude": "52.3372875",
-    "longitude": "9.6650781",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30736,
-    "name": "Berliner Strasse, Ronnenberg",
-    "latitude": "52.3407364",
-    "longitude": "9.6676097",
     "thumbnail_url": ""
   },
   {
@@ -3304,10 +3283,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31095,
+    "name": "EDEKA Ladage",
+    "latitude": "52.3189875",
+    "longitude": "9.6576406",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32064,
     "name": "Hagentor",
     "latitude": "52.3177875",
     "longitude": "9.6548906",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30904,
+    "name": "Empelde Schilfweg",
+    "latitude": "52.3457242",
+    "longitude": "9.6768009",
     "thumbnail_url": ""
   },
   {
@@ -3322,6 +3315,13 @@
     "name": "An der alten Eiche",
     "latitude": "52.2827296",
     "longitude": "9.6481643",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32055,
+    "name": "Rügenerstr",
+    "latitude": "52.3372875",
+    "longitude": "9.6650781",
     "thumbnail_url": ""
   },
   {
