@@ -7,31 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32868,
     "name": "Regionspsykiatrien Randers",
     "latitude": "56.4725002",
     "longitude": "10.0466491",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34317,
-    "name": "Gamle Stationsvej",
-    "latitude": "56.4541007",
-    "longitude": "10.0403656",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24004,
-    "name": "Co-op 365 Mariagervej ",
-    "latitude": "56.4710801",
-    "longitude": "10.0302225",
     "thumbnail_url": ""
   },
   {
@@ -42,13 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21174,
-    "name": "Fyensgade 1",
-    "latitude": "56.4638743",
-    "longitude": "10.0144612",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19662,
     "name": "Århusvej/Paderup blvd",
     "latitude": "56.4299285",
@@ -56,17 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19648,
-    "name": "Stadfeldtsvej 1",
-    "latitude": "56.4670435",
-    "longitude": "10.0527487",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33304,
-    "name": "Glarbjergvej",
-    "latitude": "56.4801238",
-    "longitude": "10.0399013",
+    "id": 24004,
+    "name": "Co-op 365 Mariagervej ",
+    "latitude": "56.4710801",
+    "longitude": "10.0302225",
     "thumbnail_url": ""
   },
   {
@@ -91,10 +56,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33304,
+    "name": "Glarbjergvej",
+    "latitude": "56.4801238",
+    "longitude": "10.0399013",
+    "thumbnail_url": ""
+  },
+  {
     "id": 23118,
     "name": "Klatre Automaten",
     "latitude": "56.4833223",
     "longitude": "10.0440104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21174,
+    "name": "Fyensgade 1",
+    "latitude": "56.4638743",
+    "longitude": "10.0144612",
     "thumbnail_url": ""
   },
   {
@@ -126,6 +105,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19648,
+    "name": "Stadfeldtsvej 1",
+    "latitude": "56.4670435",
+    "longitude": "10.0527487",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19520,
     "name": "Kulturhuset",
     "latitude": "56.4605853",
@@ -140,10 +126,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
+    "id": 34317,
+    "name": "Gamle Stationsvej",
+    "latitude": "56.4541007",
+    "longitude": "10.0403656",
     "thumbnail_url": ""
   },
   {
@@ -154,13 +140,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19647,
-    "name": "Coop 365 Kristrup",
-    "latitude": "56.4482031",
-    "longitude": "10.0552301",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32848,
     "name": "Pure gym",
     "latitude": "56.4719266",
@@ -168,17 +147,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22738,
-    "name": "Romalt Aktivitetshal",
-    "latitude": "56.4491502",
-    "longitude": "10.090006",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19502,
     "name": "Central Station ",
     "latitude": "56.4618859",
     "longitude": "10.023177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19647,
+    "name": "Coop 365 Kristrup",
+    "latitude": "56.4482031",
+    "longitude": "10.0552301",
     "thumbnail_url": ""
   },
   {
@@ -214,6 +193,20 @@
     "name": "Dansk Revision",
     "latitude": "56.455439",
     "longitude": "10.0449808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22738,
+    "name": "Romalt Aktivitetshal",
+    "latitude": "56.4491502",
+    "longitude": "10.090006",
     "thumbnail_url": ""
   },
   {
@@ -263,6 +256,13 @@
     "name": "Volkswagen Park Randers",
     "latitude": "56.4633946",
     "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
