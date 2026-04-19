@@ -1,12 +1,5 @@
 [
   {
-    "id": 2417,
-    "name": "Tetterode Parking",
-    "latitude": "52.3803082",
-    "longitude": "4.8615548",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31768,
     "name": "Station Krommenie Assendelft I",
     "latitude": "52.495152",
@@ -21,38 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27226,
-    "name": "!PARK INDOOR! CS Center",
-    "latitude": "52.377613",
-    "longitude": "4.9026312",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31774,
     "name": "Halte Edam Busstation",
     "latitude": "52.5102944",
     "longitude": "5.0447229",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20883,
-    "name": "!PARK INDOOR! Amstelstation",
-    "latitude": "52.3468462",
-    "longitude": "4.9188123",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31769,
-    "name": "Station Krommenie Assendelft II",
-    "latitude": "52.494679",
-    "longitude": "4.7547616",
     "thumbnail_url": ""
   },
   {
@@ -63,20 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23565,
-    "name": "TotalEnergies Burg de Vlugtlaan",
-    "latitude": "52.3801295",
-    "longitude": "4.8281348",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31763,
     "name": "Station Nieuw Vennep",
     "latitude": "52.2592382",
@@ -84,17 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21830,
-    "name": "!PARK UNDERGROUND! Station Zuidplein",
-    "latitude": "52.3399475",
-    "longitude": "4.8728958",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2436,
-    "name": "Hotel Jansen",
-    "latitude": "52.3419838",
-    "longitude": "4.8456161",
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
     "thumbnail_url": ""
   },
   {
@@ -105,10 +49,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
+    "id": 2417,
+    "name": "Tetterode Parking",
+    "latitude": "52.3803082",
+    "longitude": "4.8615548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2436,
+    "name": "Hotel Jansen",
+    "latitude": "52.3419838",
+    "longitude": "4.8456161",
     "thumbnail_url": ""
   },
   {
@@ -119,10 +77,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31828,
-    "name": "Halte Oostzaan Lisweg",
-    "latitude": "52.4369425",
-    "longitude": "4.8775592",
+    "id": 26619,
+    "name": "Science Park campus",
+    "latitude": "52.3550805",
+    "longitude": "4.9558884",
     "thumbnail_url": ""
   },
   {
@@ -133,17 +91,52 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26619,
-    "name": "Science Park campus",
-    "latitude": "52.3550805",
-    "longitude": "4.9558884",
+    "id": 21830,
+    "name": "!PARK UNDERGROUND! Station Zuidplein",
+    "latitude": "52.3399475",
+    "longitude": "4.8728958",
     "thumbnail_url": ""
   },
   {
-    "id": 31765,
-    "name": "Station Halfweg Zwanenburg",
-    "latitude": "52.3860205",
-    "longitude": "4.7453457",
+    "id": 31828,
+    "name": "Halte Oostzaan Lisweg",
+    "latitude": "52.4369425",
+    "longitude": "4.8775592",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23565,
+    "name": "TotalEnergies Burg de Vlugtlaan",
+    "latitude": "52.3801295",
+    "longitude": "4.8281348",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20883,
+    "name": "!PARK INDOOR! Amstelstation",
+    "latitude": "52.3468462",
+    "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31769,
+    "name": "Station Krommenie Assendelft II",
+    "latitude": "52.494679",
+    "longitude": "4.7547616",
     "thumbnail_url": ""
   },
   {
@@ -158,6 +151,13 @@
     "name": "Station Hoofddorp",
     "latitude": "52.2921885",
     "longitude": "4.6992054",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31765,
+    "name": "Station Halfweg Zwanenburg",
+    "latitude": "52.3860205",
+    "longitude": "4.7453457",
     "thumbnail_url": ""
   },
   {

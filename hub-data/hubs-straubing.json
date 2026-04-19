@@ -1,5 +1,12 @@
 [
   {
+    "id": 32702,
+    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
+    "latitude": "48.8853393",
+    "longitude": "12.6008593",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
@@ -21,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
@@ -39,13 +39,6 @@
     "name": "JVA (Hinter Pflanztrögen)",
     "latitude": "48.8715442",
     "longitude": "12.5889301",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
     "thumbnail_url": ""
   },
   {
@@ -70,17 +63,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32675,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32719,
     "name": "Äussere Passauer Strasse _ Antoniusberg",
     "latitude": "48.8745709",
     "longitude": "12.5858091",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32702,
-    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-    "latitude": "48.8853393",
-    "longitude": "12.6008593",
     "thumbnail_url": ""
   },
   {

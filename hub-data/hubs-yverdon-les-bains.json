@@ -1,82 +1,5 @@
 [
   {
-    "id": 17001,
-    "name": "Rives du Lac",
-    "latitude": "46.7851494",
-    "longitude": "6.6439231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16280,
-    "name": "Plage",
-    "latitude": "46.7839414",
-    "longitude": "6.6525422",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18762,
-    "name": "Y-Parc, Innovation",
-    "latitude": "46.7638726",
-    "longitude": "6.6364354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17264,
-    "name": "Camping",
-    "latitude": "46.7848784",
-    "longitude": "6.6488543",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16308,
-    "name": "Piscine couverte",
-    "latitude": "46.7850132",
-    "longitude": "6.6466891",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17233,
-    "name": "Verdan",
-    "latitude": "46.7873595",
-    "longitude": "6.6270974",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17113,
-    "name": "Stade ",
-    "latitude": "46.7827357",
-    "longitude": "6.6457893",
-    "thumbnail_url": ""
-  },
-  {
     "id": 16284,
     "name": "HEIG-VD St-Roch",
     "latitude": "46.7813519",
@@ -84,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17252,
-    "name": "Indépendance",
-    "latitude": "46.773037",
-    "longitude": "6.6384993",
+    "id": 17233,
+    "name": "Verdan",
+    "latitude": "46.7873595",
+    "longitude": "6.6270974",
     "thumbnail_url": ""
   },
   {
@@ -105,17 +28,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17246,
-    "name": "Sous-Bois",
-    "latitude": "46.7757291",
-    "longitude": "6.6520961",
+    "id": 17113,
+    "name": "Stade ",
+    "latitude": "46.7827357",
+    "longitude": "6.6457893",
     "thumbnail_url": ""
   },
   {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
+    "id": 18762,
+    "name": "Y-Parc, Innovation",
+    "latitude": "46.7638726",
+    "longitude": "6.6364354",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16308,
+    "name": "Piscine couverte",
+    "latitude": "46.7850132",
+    "longitude": "6.6466891",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17264,
+    "name": "Camping",
+    "latitude": "46.7848784",
+    "longitude": "6.6488543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17001,
+    "name": "Rives du Lac",
+    "latitude": "46.7851494",
+    "longitude": "6.6439231",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +77,55 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19547,
+    "name": "Blancherie",
+    "latitude": "46.7836317",
+    "longitude": "6.6236722",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17290,
+    "name": "Avenue de Grandson",
+    "latitude": "46.7877183",
+    "longitude": "6.6306181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16314,
+    "name": "Rue de Montagny",
+    "latitude": "46.7813291",
+    "longitude": "6.6255055",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15147,
+    "name": "Jean-André Venel",
+    "latitude": "46.7694474",
+    "longitude": "6.6451896",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16280,
+    "name": "Plage",
+    "latitude": "46.7839414",
+    "longitude": "6.6525422",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19983,
     "name": "Kiener",
     "latitude": "46.7787539",
@@ -147,6 +140,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17246,
+    "name": "Sous-Bois",
+    "latitude": "46.7757291",
+    "longitude": "6.6520961",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17252,
+    "name": "Indépendance",
+    "latitude": "46.773037",
+    "longitude": "6.6384993",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16304,
     "name": "Plaine",
     "latitude": "46.7775368",
@@ -154,24 +168,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17290,
-    "name": "Avenue de Grandson",
-    "latitude": "46.7877183",
-    "longitude": "6.6306181",
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
     "thumbnail_url": ""
   },
   {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
     "thumbnail_url": ""
   },
   {
-    "id": 15147,
-    "name": "Jean-André Venel",
-    "latitude": "46.7694474",
-    "longitude": "6.6451896",
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -287,13 +308,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16314,
-    "name": "Rue de Montagny",
-    "latitude": "46.7813291",
-    "longitude": "6.6255055",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19723,
     "name": "Plaisance",
     "latitude": "46.7700928",
@@ -340,13 +354,6 @@
     "name": "Avenue des Bains",
     "latitude": "46.7724618",
     "longitude": "6.6496881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
     "thumbnail_url": ""
   },
   {

@@ -7,17 +7,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29485,
+    "name": "Klinkenbergerplas",
+    "latitude": "52.2000026",
+    "longitude": "4.4852704",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29486,
     "name": "Zwemstrand",
     "latitude": "52.1957475",
     "longitude": "4.4854559",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29490,
-    "name": "LIDL Boerhaaveplein",
-    "latitude": "52.1915051",
-    "longitude": "4.4756063",
     "thumbnail_url": ""
   },
   {
@@ -42,10 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29485,
-    "name": "Klinkenbergerplas",
-    "latitude": "52.2000026",
-    "longitude": "4.4852704",
+    "id": 29572,
+    "name": "Oude Rijnsburgerweg",
+    "latitude": "52.1781305",
+    "longitude": "4.4518346",
     "thumbnail_url": ""
   },
   {
@@ -67,6 +67,13 @@
     "name": "Duinzichtstraat",
     "latitude": "52.1836898",
     "longitude": "4.4660032",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29490,
+    "name": "LIDL Boerhaaveplein",
+    "latitude": "52.1915051",
+    "longitude": "4.4756063",
     "thumbnail_url": ""
   },
   {
@@ -128,22 +135,8 @@
   {
     "id": 29461,
     "name": "Bio Science park West",
-    "latitude": "52.1671489",
-    "longitude": "4.4476155",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29572,
-    "name": "Oude Rijnsburgerweg",
-    "latitude": "52.1781305",
-    "longitude": "4.4518346",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29462,
-    "name": "McDonalds Leiden A44",
-    "latitude": "52.1670189",
-    "longitude": "4.446155",
+    "latitude": "52.1669288",
+    "longitude": "4.4475123",
     "thumbnail_url": ""
   },
   {
@@ -245,10 +238,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29559,
+    "name": "Hall Allergy",
+    "latitude": "52.1684053",
+    "longitude": "4.4648202",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29530,
     "name": "Zweilandlaan",
     "latitude": "52.1726259",
     "longitude": "4.48704",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1665621",
+    "longitude": "4.4813332",
     "thumbnail_url": ""
   },
   {
@@ -259,17 +266,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29559,
-    "name": "Hall Allergy",
-    "latitude": "52.1684053",
-    "longitude": "4.4648202",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33556,
-    "name": "P+R Naturalis - Park Indoors",
-    "latitude": "52.165189",
-    "longitude": "4.4712776",
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -284,13 +284,6 @@
     "name": "De Vink Leiden",
     "latitude": "52.1475188",
     "longitude": "4.4561504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +336,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1664615",
-    "longitude": "4.4814157",
+    "id": 33556,
+    "name": "P+R Naturalis - Park Indoors",
+    "latitude": "52.165189",
+    "longitude": "4.4712776",
     "thumbnail_url": ""
   },
   {
@@ -560,17 +553,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29436,
-    "name": "Bibliotheek Katwijk",
-    "latitude": "52.2010344",
-    "longitude": "4.3969628",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29398,
-    "name": "Piet Heinlaan",
-    "latitude": "52.2011005",
-    "longitude": "4.4154789",
+    "id": 29501,
+    "name": "Marelaan",
+    "latitude": "52.1792048",
+    "longitude": "4.4782432",
     "thumbnail_url": ""
   },
   {
@@ -581,10 +567,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29373,
-    "name": "Fietsparkeerplaats Noordduinen",
-    "latitude": "52.2123027",
-    "longitude": "4.4035973",
+    "id": 29365,
+    "name": "Hoorneslaan 3",
+    "latitude": "52.2051331",
+    "longitude": "4.4243578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29475,
+    "name": "Dirk Asterstraat",
+    "latitude": "52.1862902",
+    "longitude": "4.4219663",
     "thumbnail_url": ""
   },
   {
@@ -602,6 +595,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29373,
+    "name": "Fietsparkeerplaats Noordduinen",
+    "latitude": "52.2123027",
+    "longitude": "4.4035973",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29600,
     "name": "Heemskerk",
     "latitude": "52.1916755",
@@ -609,24 +609,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29365,
-    "name": "Hoorneslaan 3",
-    "latitude": "52.2051331",
-    "longitude": "4.4243578",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29444,
     "name": "Drieplassenweg",
     "latitude": "52.1977779",
     "longitude": "4.3932325",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29475,
-    "name": "Dirk Asterstraat",
-    "latitude": "52.1862902",
-    "longitude": "4.4219663",
     "thumbnail_url": ""
   },
   {
@@ -704,13 +690,6 @@
     "name": "Brasserie Buitenhuis",
     "latitude": "52.159775",
     "longitude": "4.4429728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29501,
-    "name": "Marelaan",
-    "latitude": "52.1792048",
-    "longitude": "4.4782432",
     "thumbnail_url": ""
   },
   {
@@ -840,6 +819,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29481,
+    "name": "Torenvlietslaan",
+    "latitude": "52.1745127",
+    "longitude": "4.4404774",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29368,
     "name": "Hoornespassage 2",
     "latitude": "52.2065093",
@@ -868,13 +854,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29481,
-    "name": "Torenvlietslaan",
-    "latitude": "52.1745127",
-    "longitude": "4.4404774",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29415,
     "name": "Boulevard 5",
     "latitude": "52.2061878",
@@ -886,6 +865,20 @@
     "name": "Spinozalaan",
     "latitude": "52.1896046",
     "longitude": "4.433768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29398,
+    "name": "Piet Heinlaan",
+    "latitude": "52.2011005",
+    "longitude": "4.4154789",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29436,
+    "name": "Bibliotheek Katwijk",
+    "latitude": "52.2010344",
+    "longitude": "4.3969628",
     "thumbnail_url": ""
   },
   {
