@@ -7,17 +7,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20400,
-    "name": "Ranta",
-    "latitude": "59.9764796",
-    "longitude": "23.432067",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19860,
     "name": "Lehtomäki (S-Market)",
     "latitude": "60.8880698",
     "longitude": "26.7235099",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20190,
+    "name": "Käyrälampi",
+    "latitude": "60.8875206",
+    "longitude": "26.7737574",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20400,
+    "name": "Ranta",
+    "latitude": "59.9764796",
+    "longitude": "23.432067",
     "thumbnail_url": ""
   },
   {
@@ -35,24 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19841,
-    "name": "Kiskokatu",
-    "latitude": "60.8647606",
-    "longitude": "26.7058765",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19846,
     "name": "Kasarminmäki XAMK",
     "latitude": "60.8726236",
     "longitude": "26.6803491",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19839,
-    "name": "Hansatori",
-    "latitude": "60.868859",
-    "longitude": "26.7002779",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19842,
-    "name": "Eskolanmäki (Sale)",
-    "latitude": "60.8516654",
-    "longitude": "26.7081405",
+    "id": 26650,
+    "name": "Kuusankoski",
+    "latitude": "60.9072388",
+    "longitude": "26.6235986",
     "thumbnail_url": ""
   },
   {
@@ -77,17 +70,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26650,
-    "name": "Kuusankoski",
-    "latitude": "60.9072388",
-    "longitude": "26.6235986",
+    "id": 19841,
+    "name": "Kiskokatu",
+    "latitude": "60.8647606",
+    "longitude": "26.7058765",
     "thumbnail_url": ""
   },
   {
-    "id": 20190,
-    "name": "Käyrälampi",
-    "latitude": "60.8875206",
-    "longitude": "26.7737574",
+    "id": 19839,
+    "name": "Hansatori",
+    "latitude": "60.868859",
+    "longitude": "26.7002779",
     "thumbnail_url": ""
   },
   {
@@ -193,6 +186,13 @@
     "name": "Tekniikantie",
     "latitude": "60.1808984",
     "longitude": "24.8246011",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19842,
+    "name": "Eskolanmäki (Sale)",
+    "latitude": "60.8516654",
+    "longitude": "26.7081405",
     "thumbnail_url": ""
   },
   {

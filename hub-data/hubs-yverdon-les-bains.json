@@ -1,54 +1,5 @@
 [
   {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17233,
-    "name": "Verdan",
-    "latitude": "46.7873595",
-    "longitude": "6.6270974",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17291,
-    "name": "Mujon",
-    "latitude": "46.7844836",
-    "longitude": "6.6333266",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17113,
-    "name": "Stade ",
-    "latitude": "46.7827357",
-    "longitude": "6.6457893",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18762,
-    "name": "Y-Parc, Innovation",
-    "latitude": "46.7638726",
-    "longitude": "6.6364354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16308,
-    "name": "Piscine couverte",
-    "latitude": "46.7850132",
-    "longitude": "6.6466891",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17264,
     "name": "Camping",
     "latitude": "46.7848784",
@@ -56,66 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17001,
-    "name": "Rives du Lac",
-    "latitude": "46.7851494",
-    "longitude": "6.6439231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21308,
-    "name": "Pierre de Savoie",
-    "latitude": "46.7684825",
-    "longitude": "6.64101",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19547,
-    "name": "Blancherie",
-    "latitude": "46.7836317",
-    "longitude": "6.6236722",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17290,
-    "name": "Avenue de Grandson",
-    "latitude": "46.7877183",
-    "longitude": "6.6306181",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16314,
-    "name": "Rue de Montagny",
-    "latitude": "46.7813291",
-    "longitude": "6.6255055",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 15147,
-    "name": "Jean-André Venel",
-    "latitude": "46.7694474",
-    "longitude": "6.6451896",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
+    "id": 18762,
+    "name": "Y-Parc, Innovation",
+    "latitude": "46.7638726",
+    "longitude": "6.6364354",
     "thumbnail_url": ""
   },
   {
@@ -133,45 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16279,
-    "name": "Casernes",
-    "latitude": "46.7793069",
-    "longitude": "6.6373107",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17246,
-    "name": "Sous-Bois",
-    "latitude": "46.7757291",
-    "longitude": "6.6520961",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17252,
-    "name": "Indépendance",
-    "latitude": "46.773037",
-    "longitude": "6.6384993",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16304,
-    "name": "Plaine",
-    "latitude": "46.7775368",
-    "longitude": "6.6434345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
+    "id": 19547,
+    "name": "Blancherie",
+    "latitude": "46.7836317",
+    "longitude": "6.6236722",
     "thumbnail_url": ""
   },
   {
@@ -182,17 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
+    "id": 16308,
+    "name": "Piscine couverte",
+    "latitude": "46.7850132",
+    "longitude": "6.6466891",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +60,13 @@
     "name": "Collesano",
     "latitude": "46.7867249",
     "longitude": "6.6437606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16279,
+    "name": "Casernes",
+    "latitude": "46.7793069",
+    "longitude": "6.6373107",
     "thumbnail_url": ""
   },
   {
@@ -231,10 +91,150 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16304,
+    "name": "Plaine",
+    "latitude": "46.7775368",
+    "longitude": "6.6434345",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16288,
+    "name": "CPNV",
+    "latitude": "46.7737937",
+    "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19546,
     "name": "Batellerie",
     "latitude": "46.7887594",
     "longitude": "6.6412567",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17113,
+    "name": "Stade ",
+    "latitude": "46.7827357",
+    "longitude": "6.6457893",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17233,
+    "name": "Verdan",
+    "latitude": "46.7873595",
+    "longitude": "6.6270974",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16314,
+    "name": "Rue de Montagny",
+    "latitude": "46.7813291",
+    "longitude": "6.6255055",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21308,
+    "name": "Pierre de Savoie",
+    "latitude": "46.7684825",
+    "longitude": "6.64101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17291,
+    "name": "Mujon",
+    "latitude": "46.7844836",
+    "longitude": "6.6333266",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17252,
+    "name": "Indépendance",
+    "latitude": "46.773037",
+    "longitude": "6.6384993",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17290,
+    "name": "Avenue de Grandson",
+    "latitude": "46.7877183",
+    "longitude": "6.6306181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15147,
+    "name": "Jean-André Venel",
+    "latitude": "46.7694474",
+    "longitude": "6.6451896",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17246,
+    "name": "Sous-Bois",
+    "latitude": "46.7757291",
+    "longitude": "6.6520961",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
     "thumbnail_url": ""
   },
   {
@@ -249,6 +249,20 @@
     "name": "Boulodrome",
     "latitude": "46.7909522",
     "longitude": "6.6395616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17001,
+    "name": "Rives du Lac",
+    "latitude": "46.7851494",
+    "longitude": "6.6439231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
     "thumbnail_url": ""
   },
   {
@@ -336,13 +350,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16288,
-    "name": "CPNV",
-    "latitude": "46.7737937",
-    "longitude": "6.6342311",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17231,
     "name": "4 Marronniers",
     "latitude": "46.7757214",
@@ -375,13 +382,6 @@
     "name": "Aérodrome",
     "latitude": "46.7651446",
     "longitude": "6.6159699",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
     "thumbnail_url": ""
   },
   {

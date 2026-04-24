@@ -7,10 +7,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19649,
     "name": "Randers Sejlklubben",
     "latitude": "56.4626479",
     "longitude": "10.053026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19510,
+    "name": "St. Voldgade 1",
+    "latitude": "56.4607198",
+    "longitude": "10.0343079",
     "thumbnail_url": ""
   },
   {
@@ -28,10 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19510,
-    "name": "St. Voldgade 1",
-    "latitude": "56.4607198",
-    "longitude": "10.0343079",
+    "id": 24001,
+    "name": "Rema 1000 Hobrovej",
+    "latitude": "56.4803568",
+    "longitude": "9.9985416",
     "thumbnail_url": ""
   },
   {
@@ -60,6 +74,13 @@
     "name": "Klatre Automaten",
     "latitude": "56.4833223",
     "longitude": "10.0440104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19576,
+    "name": "J. V. Martines Pl",
+    "latitude": "56.4634219",
+    "longitude": "10.0498271",
     "thumbnail_url": ""
   },
   {
@@ -105,24 +126,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24008,
-    "name": "Netto Mariagervej ",
-    "latitude": "56.4807406",
-    "longitude": "10.0261291",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34317,
     "name": "Gamle Stationsvej",
     "latitude": "56.4541007",
     "longitude": "10.0403656",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21174,
-    "name": "Fyensgade 1",
-    "latitude": "56.4638743",
-    "longitude": "10.0144612",
     "thumbnail_url": ""
   },
   {
@@ -175,13 +182,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24001,
-    "name": "Rema 1000 Hobrovej",
-    "latitude": "56.4803568",
-    "longitude": "9.9985416",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19571,
     "name": "Dansk Revision",
     "latitude": "56.455439",
@@ -193,13 +193,6 @@
     "name": "Valdemarsvej 2",
     "latitude": "56.4471889",
     "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -221,13 +214,6 @@
     "name": "Tradium 2",
     "latitude": "56.4311509",
     "longitude": "10.0719086",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -273,13 +259,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32502,
     "name": "Mølletoften 2",
     "latitude": "56.4484377",
@@ -291,13 +270,6 @@
     "name": "Vester boulevard arena 2",
     "latitude": "56.4673733",
     "longitude": "10.0106488",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19527,
-    "name": "Århusvej 4",
-    "latitude": "56.4543486",
-    "longitude": "10.041028",
     "thumbnail_url": ""
   },
   {
@@ -357,6 +329,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19527,
+    "name": "Århusvej 4",
+    "latitude": "56.4543486",
+    "longitude": "10.041028",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19587,
     "name": "Apotekerstræde 3",
     "latitude": "56.4587937",
@@ -375,13 +354,6 @@
     "name": "Stadfeldtsvej 31",
     "latitude": "56.4675757",
     "longitude": "10.0514539",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24003,
-    "name": "Netto Hobrovej",
-    "latitude": "56.4675211",
-    "longitude": "10.0219855",
     "thumbnail_url": ""
   },
   {
@@ -406,6 +378,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19511,
     "name": "Slotsgade 7",
     "latitude": "56.4611337",
@@ -424,13 +403,6 @@
     "name": "2 Sankt Mortens Gade",
     "latitude": "56.4597777",
     "longitude": "10.0368784",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19576,
-    "name": "J. V. Martines Pl",
-    "latitude": "56.4634219",
-    "longitude": "10.0498271",
     "thumbnail_url": ""
   },
   {
@@ -469,10 +441,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21174,
+    "name": "Fyensgade 1",
+    "latitude": "56.4638743",
+    "longitude": "10.0144612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19562,
     "name": "Kirkegade 15",
     "latitude": "56.4598707",
     "longitude": "10.0338497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24003,
+    "name": "Netto Hobrovej",
+    "latitude": "56.4675211",
+    "longitude": "10.0219855",
     "thumbnail_url": ""
   },
   {
