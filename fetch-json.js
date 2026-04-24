@@ -62,7 +62,8 @@ const cities = [
   { name: 'neuchatel', endpoints: ['https://stables.donkey.bike/api/public/cities/142/hubs/'] },
   { name: 'thun', endpoints: ['https://stables.donkey.bike/api/public/cities/242/hubs/'] },
   { name: 'yverdon-les-bains', endpoints: ['https://stables.donkey.bike/api/public/cities/240/hubs/'] },
-  { name: 'gouda', endpoints: ['https://stables.donkey.bike/api/public/cities/726/hubs/'] }
+  { name: 'gouda', endpoints: ['https://stables.donkey.bike/api/public/cities/726/hubs/'] },
+  { name: 'delft', endpoints: ['https://stables.donkey.bike/api/public/cities/744/hubs/'] },
 ];
 
 /**
