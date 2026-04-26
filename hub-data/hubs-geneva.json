@@ -1,9 +1,23 @@
 [
   {
-    "id": 18496,
-    "name": "Gare Cornavin Montbrillant",
-    "latitude": "46.2099986",
-    "longitude": "6.1406665",
+    "id": 18548,
+    "name": "Baby-Plage ",
+    "latitude": "46.2080538",
+    "longitude": "6.1634415",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18407,
+    "name": "P+R Genève-Plage",
+    "latitude": "46.2128125",
+    "longitude": "6.1738125",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20628,
+    "name": "Rue des Bains 31",
+    "latitude": "46.198606",
+    "longitude": "6.1371926",
     "thumbnail_url": ""
   },
   {
@@ -14,24 +28,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21460,
-    "name": "Route des Jeunes",
-    "latitude": "46.1927468",
-    "longitude": "6.1284563",
+    "id": 18805,
+    "name": "Carl-Vogt 20",
+    "latitude": "46.2003679",
+    "longitude": "6.1318601",
     "thumbnail_url": ""
   },
   {
-    "id": 22121,
-    "name": "P+R Vailly",
-    "latitude": "46.1751267",
-    "longitude": "6.0606508",
+    "id": 18613,
+    "name": "Pont des Bergues",
+    "latitude": "46.2067751",
+    "longitude": "6.1464734",
     "thumbnail_url": ""
   },
   {
-    "id": 22227,
-    "name": "Coulouvrenière",
-    "latitude": "46.2038939",
-    "longitude": "6.1380224",
+    "id": 21991,
+    "name": "Rue de Lausanne 147",
+    "latitude": "46.2236673",
+    "longitude": "6.1484331",
     "thumbnail_url": ""
   },
   {
@@ -42,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18512,
-    "name": "HEG Tambourine 2",
-    "latitude": "46.1753433",
-    "longitude": "6.1390055",
+    "id": 22141,
+    "name": "Solitude",
+    "latitude": "46.1900893",
+    "longitude": "6.1151462",
     "thumbnail_url": ""
   },
   {
@@ -70,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22234,
+    "name": "Place du Cirque",
+    "latitude": "46.2011859",
+    "longitude": "6.1398463",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18841,
     "name": "Délices 2",
     "latitude": "46.2061679",
     "longitude": "6.1328757",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22025,
-    "name": "Michel-Simon",
-    "latitude": "46.2011213",
-    "longitude": "6.1335254",
     "thumbnail_url": ""
   },
   {
@@ -91,17 +105,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18833,
-    "name": "Rue du Prince",
-    "latitude": "46.2031806",
-    "longitude": "6.1514251",
+    "id": 21902,
+    "name": "Rue des Jardins",
+    "latitude": "46.2014061",
+    "longitude": "6.1327143",
     "thumbnail_url": ""
   },
   {
-    "id": 22344,
-    "name": "Quai de Cologny 1",
-    "latitude": "46.2150029",
-    "longitude": "6.1756257",
+    "id": 18406,
+    "name": "Rive",
+    "latitude": "46.2014375",
+    "longitude": "6.1530625",
     "thumbnail_url": ""
   },
   {
@@ -119,13 +133,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21967,
-    "name": "Place des Alpes",
-    "latitude": "46.208764",
-    "longitude": "6.1481129",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21518,
     "name": "Carteret",
     "latitude": "46.2141172",
@@ -133,10 +140,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27198,
-    "name": "En Chardon (tpg_event)",
-    "latitude": "46.2234543",
-    "longitude": "6.0909951",
+    "id": 18751,
+    "name": "Cité et Centre Sportif Universitaire ",
+    "latitude": "46.1870167",
+    "longitude": "6.1594558",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31881,
+    "name": "Baby-Plage 2",
+    "latitude": "46.2087099",
+    "longitude": "6.1652666",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18394,
+    "name": "Bains des Pâquis",
+    "latitude": "46.2112069",
+    "longitude": "6.1526709",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18611,
+    "name": "Plainpalais",
+    "latitude": "46.1995996",
+    "longitude": "6.141155",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18584,
+    "name": "Rue Jacques Grosselin 15",
+    "latitude": "46.1845",
+    "longitude": "6.1355833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18559,
+    "name": "Rhône Quai général Guisan",
+    "latitude": "46.2046392",
+    "longitude": "6.1473441",
     "thumbnail_url": ""
   },
   {
@@ -154,10 +196,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22007,
-    "name": "Av. de la Jonction",
-    "latitude": "46.2012492",
-    "longitude": "6.1282267",
+    "id": 33297,
+    "name": "Lancy-Pont-Rouge, gare (Pôle de Mobilité)",
+    "latitude": "46.187372",
+    "longitude": "6.1261721",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22025,
+    "name": "Michel-Simon",
+    "latitude": "46.2011213",
+    "longitude": "6.1335254",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21460,
+    "name": "Route des Jeunes",
+    "latitude": "46.1927468",
+    "longitude": "6.1284563",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22227,
+    "name": "Coulouvrenière",
+    "latitude": "46.2038939",
+    "longitude": "6.1380224",
     "thumbnail_url": ""
   },
   {
@@ -182,10 +245,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22344,
+    "name": "Quai de Cologny 1",
+    "latitude": "46.2150029",
+    "longitude": "6.1756257",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28462,
     "name": "Centre Sportif Cologny",
     "latitude": "46.2059284",
     "longitude": "6.1850462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27198,
+    "name": "En Chardon (tpg_event)",
+    "latitude": "46.2234543",
+    "longitude": "6.0909951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18575,
+    "name": "Rue du Grand Bureau 21",
+    "latitude": "46.1898914",
+    "longitude": "6.1372298",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18393,
+    "name": "La Praille ",
+    "latitude": "46.1801691",
+    "longitude": "6.1285301",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21479,
+    "name": "Bourg de Four",
+    "latitude": "46.2000917",
+    "longitude": "6.1484456",
     "thumbnail_url": ""
   },
   {
@@ -196,10 +294,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31881,
-    "name": "Baby-Plage 2",
-    "latitude": "46.2087099",
-    "longitude": "6.1652666",
+    "id": 18538,
+    "name": "Place de Grenus",
+    "latitude": "46.2069752",
+    "longitude": "6.1428894",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18413,
+    "name": "Palladium",
+    "latitude": "46.2030625",
+    "longitude": "6.1340625",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22225,
+    "name": "Route de Chêne 61",
+    "latitude": "46.1998548",
+    "longitude": "6.1736274",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22009,
+    "name": "Carl-Vogt 80",
+    "latitude": "46.1963724",
+    "longitude": "6.1387761",
     "thumbnail_url": ""
   },
   {
@@ -210,10 +329,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23242,
-    "name": "François-Chavaz",
-    "latitude": "46.1877354",
-    "longitude": "6.0965641",
+    "id": 18500,
+    "name": "Genève Cornavin",
+    "latitude": "46.2093526",
+    "longitude": "6.1425051",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18517,
+    "name": "Jonction",
+    "latitude": "46.2009968",
+    "longitude": "6.13053",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18422,
+    "name": "Place St-Gervais",
+    "latitude": "46.2057147",
+    "longitude": "6.1427931",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21475,
+    "name": "Uni Bastions",
+    "latitude": "46.1987529",
+    "longitude": "6.1441602",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18483,
+    "name": "Châtelaine 74",
+    "latitude": "46.2113397",
+    "longitude": "6.1129031",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22121,
+    "name": "P+R Vailly",
+    "latitude": "46.1751267",
+    "longitude": "6.0606508",
     "thumbnail_url": ""
   },
   {
@@ -224,10 +378,66 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18527,
+    "name": "Gare Thônex-Moillesulaz",
+    "latitude": "46.1926476",
+    "longitude": "6.2068293",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27950,
     "name": "Centre sportif Bellevue",
     "latitude": "46.2566883",
     "longitude": "6.1408877",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21901,
+    "name": "Plantaporrêts 4",
+    "latitude": "46.2024573",
+    "longitude": "6.1315325",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18567,
+    "name": "Rue de la Confédération 2",
+    "latitude": "46.2038067",
+    "longitude": "6.1433116",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22007,
+    "name": "Av. de la Jonction",
+    "latitude": "46.2012492",
+    "longitude": "6.1282267",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18399,
+    "name": "Gare Chêne-Bourg ",
+    "latitude": "46.1968767",
+    "longitude": "6.1951589",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26784,
+    "name": "Lancy-Bachet-Gare (Pôle de Mobilité)",
+    "latitude": "46.1739743",
+    "longitude": "6.1299527",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21458,
+    "name": "Gravière",
+    "latitude": "46.1969002",
+    "longitude": "6.129928",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23242,
+    "name": "François-Chavaz",
+    "latitude": "46.1877354",
+    "longitude": "6.0965641",
     "thumbnail_url": ""
   },
   {
@@ -238,10 +448,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22009,
-    "name": "Carl-Vogt 80",
-    "latitude": "46.1963724",
-    "longitude": "6.1387761",
+    "id": 18833,
+    "name": "Rue du Prince",
+    "latitude": "46.2031806",
+    "longitude": "6.1514251",
     "thumbnail_url": ""
   },
   {
@@ -259,17 +469,80 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18575,
-    "name": "Rue du Grand Bureau 21",
-    "latitude": "46.1898914",
-    "longitude": "6.1372298",
+    "id": 18397,
+    "name": "Gare Lancy Pont-Rouge",
+    "latitude": "46.1877149",
+    "longitude": "6.1270083",
     "thumbnail_url": ""
   },
   {
-    "id": 21917,
-    "name": "Gare de Champel",
-    "latitude": "46.1916875",
-    "longitude": "6.1534958",
+    "id": 26772,
+    "name": "P+R Etoile (Pôle de Mobilité)",
+    "latitude": "46.1874263",
+    "longitude": "6.1279698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18596,
+    "name": "Vernets",
+    "latitude": "46.1935454",
+    "longitude": "6.1333333",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18534,
+    "name": "Piscine du Lignon",
+    "latitude": "46.2041211",
+    "longitude": "6.1004238",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21448,
+    "name": "Sciences II",
+    "latitude": "46.1978244",
+    "longitude": "6.1323619",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18471,
+    "name": "Basilique Notre Dame",
+    "latitude": "46.2085539",
+    "longitude": "6.1424073",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18840,
+    "name": "Servette 18",
+    "latitude": "46.2102756",
+    "longitude": "6.1374097",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30074,
+    "name": "Rue Eugène-Marziano 22",
+    "latitude": "46.1939318",
+    "longitude": "6.1284453",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26655,
+    "name": "WTC",
+    "latitude": "46.2294623",
+    "longitude": "6.106326",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24678,
+    "name": "Gare Zimeysa",
+    "latitude": "46.2215413",
+    "longitude": "6.0645316",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21975,
+    "name": "Route de Veyrier",
+    "latitude": "46.184996",
+    "longitude": "6.1472321",
     "thumbnail_url": ""
   },
   {
@@ -280,10 +553,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18496,
+    "name": "Gare Cornavin Montbrillant",
+    "latitude": "46.2099986",
+    "longitude": "6.1406665",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26475,
     "name": "P-50",
     "latitude": "46.2281028",
     "longitude": "6.1022876",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18475,
+    "name": "Boulevard Saint Georges",
+    "latitude": "46.2013743",
+    "longitude": "6.1344404",
     "thumbnail_url": ""
   },
   {
@@ -322,17 +609,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21475,
-    "name": "Uni Bastions",
-    "latitude": "46.1987529",
-    "longitude": "6.1441602",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21448,
-    "name": "Sciences II",
-    "latitude": "46.1978244",
-    "longitude": "6.1323619",
+    "id": 21451,
+    "name": "École de Médecine 20",
+    "latitude": "46.1960095",
+    "longitude": "6.13688",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +623,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18399,
-    "name": "Gare Chêne-Bourg ",
-    "latitude": "46.1968767",
-    "longitude": "6.1951589",
+    "id": 21967,
+    "name": "Place des Alpes",
+    "latitude": "46.208764",
+    "longitude": "6.1481129",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18530,
+    "name": "Perly - Certoux",
+    "latitude": "46.1554031",
+    "longitude": "6.0943918",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21917,
+    "name": "Gare de Champel",
+    "latitude": "46.1916875",
+    "longitude": "6.1534958",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21474,
+    "name": "Leschot",
+    "latitude": "46.1965365",
+    "longitude": "6.1432303",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18402,
+    "name": "Gare des Eaux-Vives",
+    "latitude": "46.2006875",
+    "longitude": "6.1663125",
     "thumbnail_url": ""
   },
   {
@@ -357,6 +665,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 18801,
+    "name": "Léonard-Baulacre 20",
+    "latitude": "46.2152604",
+    "longitude": "6.1398214",
+    "thumbnail_url": ""
+  },
+  {
     "id": 18577,
     "name": "Rue du Nant 12",
     "latitude": "46.2023981",
@@ -364,10 +679,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21451,
-    "name": "École de Médecine 20",
-    "latitude": "46.1960095",
-    "longitude": "6.13688",
+    "id": 22130,
+    "name": "Ecole de Tivoli",
+    "latitude": "46.1949565",
+    "longitude": "6.1235895",
     "thumbnail_url": ""
   },
   {
@@ -375,13 +690,6 @@
     "name": "Centre sportif des Cherpines",
     "latitude": "46.1743345",
     "longitude": "6.1037942",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18840,
-    "name": "Servette 18",
-    "latitude": "46.2102756",
-    "longitude": "6.1374097",
     "thumbnail_url": ""
   },
   {
@@ -427,24 +735,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18534,
-    "name": "Piscine du Lignon",
-    "latitude": "46.2041211",
-    "longitude": "6.1004238",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18503,
     "name": "Gare Routière",
     "latitude": "46.2084035",
     "longitude": "6.1463984",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30074,
-    "name": "Rue Eugène-Marziano 22",
-    "latitude": "46.1939318",
-    "longitude": "6.1284453",
     "thumbnail_url": ""
   },
   {
@@ -483,13 +777,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21901,
-    "name": "Plantaporrêts 4",
-    "latitude": "46.2024573",
-    "longitude": "6.1315325",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28545,
     "name": "Troinex-Zone Sportive",
     "latitude": "46.1632679",
@@ -518,13 +805,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18471,
-    "name": "Basilique Notre Dame",
-    "latitude": "46.2085539",
-    "longitude": "6.1424073",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20188,
     "name": "Vélodrome, Chemin de Champ-Joly",
     "latitude": "46.1691526",
@@ -536,13 +816,6 @@
     "name": "Belle-Cour",
     "latitude": "46.1797269",
     "longitude": "6.1040497",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22130,
-    "name": "Ecole de Tivoli",
-    "latitude": "46.1949565",
-    "longitude": "6.1235895",
     "thumbnail_url": ""
   },
   {
@@ -693,13 +966,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18402,
-    "name": "Gare des Eaux-Vives",
-    "latitude": "46.2006875",
-    "longitude": "6.1663125",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33090,
     "name": "Chemin Thury",
     "latitude": "46.1928399",
@@ -742,20 +1008,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21902,
-    "name": "Rue des Jardins",
-    "latitude": "46.2014061",
-    "longitude": "6.1327143",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18559,
-    "name": "Rhône Quai général Guisan",
-    "latitude": "46.2046392",
-    "longitude": "6.1473441",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23243,
     "name": "Place Duchêne ",
     "latitude": "46.1818081",
@@ -770,20 +1022,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18422,
-    "name": "Place St-Gervais",
-    "latitude": "46.2057147",
-    "longitude": "6.1427931",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18475,
-    "name": "Boulevard Saint Georges",
-    "latitude": "46.2013743",
-    "longitude": "6.1344404",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22289,
     "name": "Montchoisy 21",
     "latitude": "46.2036159",
@@ -791,31 +1029,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18548,
-    "name": "Baby-Plage ",
-    "latitude": "46.2080538",
-    "longitude": "6.1634415",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18851,
     "name": "Rue Dentand",
     "latitude": "46.2176638",
     "longitude": "6.1468508",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26784,
-    "name": "Lancy-Bachet-Gare (Pôle de Mobilité)",
-    "latitude": "46.1739743",
-    "longitude": "6.1299527",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18413,
-    "name": "Palladium",
-    "latitude": "46.2030625",
-    "longitude": "6.1340625",
     "thumbnail_url": ""
   },
   {
@@ -854,13 +1071,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26655,
-    "name": "WTC",
-    "latitude": "46.2294623",
-    "longitude": "6.106326",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21485,
     "name": "Rond-Point de Rive",
     "latitude": "46.2017247",
@@ -893,20 +1103,6 @@
     "name": "Place du Temple 6",
     "latitude": "46.1852293",
     "longitude": "6.1405322",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21458,
-    "name": "Gravière",
-    "latitude": "46.1969002",
-    "longitude": "6.129928",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33297,
-    "name": "Lancy-Pont-Rouge, gare (Pôle de Mobilité)",
-    "latitude": "46.187372",
-    "longitude": "6.1261721",
     "thumbnail_url": ""
   },
   {
@@ -945,13 +1141,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22141,
-    "name": "Solitude",
-    "latitude": "46.1900893",
-    "longitude": "6.1151462",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21909,
     "name": "Cours des Bastions 10",
     "latitude": "46.1977578",
@@ -970,34 +1159,6 @@
     "name": "Château-Bloch SIG",
     "latitude": "46.2063477",
     "longitude": "6.1026049",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18613,
-    "name": "Pont des Bergues",
-    "latitude": "46.2067751",
-    "longitude": "6.1464734",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21991,
-    "name": "Rue de Lausanne 147",
-    "latitude": "46.2236673",
-    "longitude": "6.1484331",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22234,
-    "name": "Place du Cirque",
-    "latitude": "46.2011859",
-    "longitude": "6.1398463",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18397,
-    "name": "Gare Lancy Pont-Rouge",
-    "latitude": "46.1877149",
-    "longitude": "6.1270083",
     "thumbnail_url": ""
   },
   {
@@ -1029,13 +1190,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21975,
-    "name": "Route de Veyrier",
-    "latitude": "46.184996",
-    "longitude": "6.1472321",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21969,
     "name": "Jardin des Alpes",
     "latitude": "46.2080078",
@@ -1043,24 +1197,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18751,
-    "name": "Cité et Centre Sportif Universitaire ",
-    "latitude": "46.1870167",
-    "longitude": "6.1594558",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30704,
     "name": "Place des Trois-Perdrix",
     "latitude": "46.2030061",
     "longitude": "6.1453593",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18596,
-    "name": "Vernets",
-    "latitude": "46.1935454",
-    "longitude": "6.1333333",
     "thumbnail_url": ""
   },
   {
@@ -1103,13 +1243,6 @@
     "name": "Seujet",
     "latitude": "46.2041192",
     "longitude": "6.1338794",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18407,
-    "name": "P+R Genève-Plage",
-    "latitude": "46.2128125",
-    "longitude": "6.1738125",
     "thumbnail_url": ""
   },
   {
@@ -1190,27 +1323,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18611,
-    "name": "Plainpalais",
-    "latitude": "46.1995996",
-    "longitude": "6.141155",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26772,
-    "name": "P+R Etoile (Pôle de Mobilité)",
-    "latitude": "46.1874263",
-    "longitude": "6.1279698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18393,
-    "name": "La Praille ",
-    "latitude": "46.1801691",
-    "longitude": "6.1285301",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26757,
     "name": "Gros Chêne 26",
     "latitude": "46.1892298",
@@ -1274,31 +1386,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18517,
-    "name": "Jonction",
-    "latitude": "46.2009968",
-    "longitude": "6.13053",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18406,
-    "name": "Rive",
-    "latitude": "46.2014375",
-    "longitude": "6.1530625",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18552,
     "name": "Pont Mont Blanc S",
     "latitude": "46.2041793",
     "longitude": "6.149528",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21474,
-    "name": "Leschot",
-    "latitude": "46.1965365",
-    "longitude": "6.1432303",
     "thumbnail_url": ""
   },
   {
@@ -1344,13 +1435,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18538,
-    "name": "Place de Grenus",
-    "latitude": "46.2069752",
-    "longitude": "6.1428894",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22140,
     "name": "Banc-Bénit 35",
     "latitude": "46.1857474",
@@ -1386,38 +1470,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18527,
-    "name": "Gare Thônex-Moillesulaz",
-    "latitude": "46.1926476",
-    "longitude": "6.2068293",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20855,
     "name": "Palais des Nations - Portail Pregny",
     "latitude": "46.227458",
     "longitude": "6.1384996",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22225,
-    "name": "Route de Chêne 61",
-    "latitude": "46.1998548",
-    "longitude": "6.1736274",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18805,
-    "name": "Carl-Vogt 20",
-    "latitude": "46.2003679",
-    "longitude": "6.1318601",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18567,
-    "name": "Rue de la Confédération 2",
-    "latitude": "46.2038067",
-    "longitude": "6.1433116",
     "thumbnail_url": ""
   },
   {
@@ -1456,13 +1512,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18801,
-    "name": "Léonard-Baulacre 20",
-    "latitude": "46.2152604",
-    "longitude": "6.1398214",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21898,
     "name": "Ernest-Pictet 17",
     "latitude": "46.2121062",
@@ -1474,13 +1523,6 @@
     "name": "Champendale",
     "latitude": "46.1917611",
     "longitude": "6.1663264",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18483,
-    "name": "Châtelaine 74",
-    "latitude": "46.2113397",
-    "longitude": "6.1129031",
     "thumbnail_url": ""
   },
   {
@@ -1498,13 +1540,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20628,
-    "name": "Rue des Bains 31",
-    "latitude": "46.198606",
-    "longitude": "6.1371926",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18418,
     "name": "Gare de Champel - Dumas",
     "latitude": "46.1923125",
@@ -1512,31 +1547,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18500,
-    "name": "Genève Cornavin",
-    "latitude": "46.2093526",
-    "longitude": "6.1425051",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18401,
     "name": "P+R Bout-du-Monde",
     "latitude": "46.1815773",
     "longitude": "6.156994",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24678,
-    "name": "Gare Zimeysa",
-    "latitude": "46.2215413",
-    "longitude": "6.0645316",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18394,
-    "name": "Bains des Pâquis",
-    "latitude": "46.2112069",
-    "longitude": "6.1526709",
     "thumbnail_url": ""
   },
   {
@@ -1698,13 +1712,6 @@
     "name": "Bâtiment-La Seymaz",
     "latitude": "46.2063523",
     "longitude": "6.2075828",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18530,
-    "name": "Perly - Certoux",
-    "latitude": "46.1554031",
-    "longitude": "6.0943918",
     "thumbnail_url": ""
   },
   {
@@ -2265,13 +2272,6 @@
     "name": "Hôpital 1",
     "latitude": "46.1933165",
     "longitude": "6.1475439",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21479,
-    "name": "Bourg de Four",
-    "latitude": "46.2000917",
-    "longitude": "6.1484456",
     "thumbnail_url": ""
   },
   {
@@ -3672,13 +3672,6 @@
     "name": "Rue des Photographe 14",
     "latitude": "46.2026229",
     "longitude": "6.1602472",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18584,
-    "name": "Rue Jacques Grosselin 15",
-    "latitude": "46.1845",
-    "longitude": "6.1355833",
     "thumbnail_url": ""
   },
   {
