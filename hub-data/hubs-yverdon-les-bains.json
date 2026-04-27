@@ -1,16 +1,9 @@
 [
   {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16284,
-    "name": "HEIG-VD St-Roch",
-    "latitude": "46.7813519",
-    "longitude": "6.6477014",
+    "id": 17264,
+    "name": "Camping",
+    "latitude": "46.7848784",
+    "longitude": "6.6488543",
     "thumbnail_url": ""
   },
   {
@@ -21,17 +14,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16304,
     "name": "Plaine",
     "latitude": "46.7775368",
     "longitude": "6.6434345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17264,
-    "name": "Camping",
-    "latitude": "46.7848784",
-    "longitude": "6.6488543",
     "thumbnail_url": ""
   },
   {
@@ -42,10 +35,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
+    "id": 16284,
+    "name": "HEIG-VD St-Roch",
+    "latitude": "46.7813519",
+    "longitude": "6.6477014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {
@@ -56,10 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
+    "id": 17243,
+    "name": "Général-Guisan",
+    "latitude": "46.7774187",
+    "longitude": "6.6318273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17001,
+    "name": "Rives du Lac",
+    "latitude": "46.7851494",
+    "longitude": "6.6439231",
     "thumbnail_url": ""
   },
   {
@@ -77,6 +84,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
+    "thumbnail_url": ""
+  },
+  {
     "id": 15147,
     "name": "Jean-André Venel",
     "latitude": "46.7694474",
@@ -88,6 +102,13 @@
     "name": "Blancherie",
     "latitude": "46.7836317",
     "longitude": "6.6236722",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -161,13 +182,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17243,
-    "name": "Général-Guisan",
-    "latitude": "46.7774187",
-    "longitude": "6.6318273",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17233,
     "name": "Verdan",
     "latitude": "46.7873595",
@@ -186,13 +200,6 @@
     "name": "Pierre de Savoie",
     "latitude": "46.7684825",
     "longitude": "6.64101",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -256,13 +263,6 @@
     "name": "Boulodrome",
     "latitude": "46.7909522",
     "longitude": "6.6395616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17001,
-    "name": "Rives du Lac",
-    "latitude": "46.7851494",
-    "longitude": "6.6439231",
     "thumbnail_url": ""
   },
   {
