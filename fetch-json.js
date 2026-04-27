@@ -71,6 +71,7 @@ const cities = [
       'https://stables.donkey.bike/api/public/cities/690/hubs/', // zwijndrecht
     ]
   },
+  { name: 'skive', endpoints: ['https://stables.donkey.bike/api/public/cities/843/hubs/'] },  
 ];
 
 /**
