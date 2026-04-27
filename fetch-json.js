@@ -4,12 +4,6 @@ import fetch from "node-fetch";
 
 // All your hub cities + endpoints
 const cities = [
-  {
-    name: 'antwerptest',
-    endpoints: [
-      'https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803'
-    ]
-  },
   { name: 'de-panne', endpoints: ['https://stables.donkey.bike/api/public/cities/561/hubs/'] },
   { name: 'ghent', endpoints: ['https://stables.donkey.bike/api/public/cities/223/hubs/'] },
   { name: 'koksijde', endpoints: ['https://stables.donkey.bike/api/public/cities/8/hubs/'] },
@@ -64,6 +58,15 @@ const cities = [
   { name: 'yverdon-les-bains', endpoints: ['https://stables.donkey.bike/api/public/cities/240/hubs/'] },
   { name: 'gouda', endpoints: ['https://stables.donkey.bike/api/public/cities/726/hubs/'] },
   { name: 'delft', endpoints: ['https://stables.donkey.bike/api/public/cities/744/hubs/'] },
+  // qbuzz south
+  { name: 'dordrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/355/hubs/'] },
+  { name: 'gorinchem', endpoints: ['https://stables.donkey.bike/api/public/cities/515/hubs/'] },
+  { name: 'hendrik-ido-ambacht', endpoints: ['https://stables.donkey.bike/api/public/cities/691/hubs/'] },
+  { name: 'papendrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/692/hubs/'] },
+  { name: 'sliedrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/693/hubs/'] },
+  { name: 'hardinxveld-giessendam', endpoints: ['https://stables.donkey.bike/api/public/cities/694/hubs/'] },
+  { name: 'leerdam', endpoints: ['https://stables.donkey.bike/api/public/cities/695/hubs/'] },
+  { name: 'zwijndrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/690/hubs/'] },
 ];
 
 /**
