@@ -21,6 +21,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 60,
+    "name": "Nørreport St.",
+    "latitude": "55.6826828",
+    "longitude": "12.5710932",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21791,
     "name": "Bella Tower Cykel Parkering",
     "latitude": "55.6403956",
@@ -35,10 +42,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 1862,
+    "name": "Lufthavnen St.",
+    "latitude": "55.6300095",
+    "longitude": "12.6493806",
+    "thumbnail_url": ""
+  },
+  {
     "id": 6247,
     "name": "Tap 1 Bike Parking ",
     "latitude": "55.67231",
     "longitude": "12.6201385",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15907,
+    "name": "Skjolds Plads Metro St.",
+    "latitude": "55.7034624",
+    "longitude": "12.5487393",
     "thumbnail_url": ""
   },
   {
@@ -77,13 +98,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2168,
-    "name": "Birkegade",
-    "latitude": "55.6907881",
-    "longitude": "12.5581884",
-    "thumbnail_url": ""
-  },
-  {
     "id": 941,
     "name": "Broagergade",
     "latitude": "55.6685546",
@@ -98,17 +112,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4766,
+    "name": "Marmorvej",
+    "latitude": "55.7037178",
+    "longitude": "12.5970547",
+    "thumbnail_url": ""
+  },
+  {
     "id": 4789,
     "name": "Havnegade 35",
     "latitude": "55.6770226",
     "longitude": "12.5901856",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2824,
-    "name": "Refshalevej",
-    "latitude": "55.6890661",
-    "longitude": "12.611315",
     "thumbnail_url": ""
   },
   {
@@ -147,17 +161,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28073,
-    "name": "Galionsvej 41",
-    "latitude": "55.6796927",
-    "longitude": "12.6009967",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30480,
     "name": "Kenny Drews Vej 1",
     "latitude": "55.6457786",
     "longitude": "12.5487956",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2168,
+    "name": "Birkegade",
+    "latitude": "55.6907881",
+    "longitude": "12.5581884",
     "thumbnail_url": ""
   },
   {
@@ -203,10 +217,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 2162,
+    "name": "Israels Plads",
+    "latitude": "55.6836035",
+    "longitude": "12.568634",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2412,
+    "name": "Ørstedsparken",
+    "latitude": "55.6800879",
+    "longitude": "12.5675428",
+    "thumbnail_url": ""
+  },
+  {
     "id": 1564,
     "name": "Nansensgade",
     "latitude": "55.683475",
     "longitude": "12.5653127",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2358,
+    "name": "Bernstorffsgade",
+    "latitude": "55.6716699",
+    "longitude": "12.5674504",
     "thumbnail_url": ""
   },
   {
@@ -217,17 +252,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 9258,
+    "name": "Øresundskollegiet",
+    "latitude": "55.6665467",
+    "longitude": "12.6024344",
+    "thumbnail_url": ""
+  },
+  {
     "id": 1166,
     "name": "Stefansgade",
     "latitude": "55.6957769",
     "longitude": "12.5442973",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1520,
-    "name": "Gammel Strand",
-    "latitude": "55.6772851",
-    "longitude": "12.5774302",
     "thumbnail_url": ""
   },
   {
@@ -242,6 +277,13 @@
     "name": "Bella Sky Hotel",
     "latitude": "55.6395713",
     "longitude": "12.5788031",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 233,
+    "name": "Høkerboderne",
+    "latitude": "55.6684754",
+    "longitude": "12.5573837",
     "thumbnail_url": ""
   },
   {
@@ -263,6 +305,13 @@
     "name": "Amagerfælledvej",
     "latitude": "55.6577664",
     "longitude": "12.5921511",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2284,
+    "name": "Ved Langebro",
+    "latitude": "55.6690269",
+    "longitude": "12.5794188",
     "thumbnail_url": ""
   },
   {
@@ -294,10 +343,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5529,
-    "name": "Rentemestervej II",
-    "latitude": "55.7082616",
-    "longitude": "12.5228231",
+    "id": 26389,
+    "name": "Nørreport St. V",
+    "latitude": "55.6840649",
+    "longitude": "12.5729024",
     "thumbnail_url": ""
   },
   {
@@ -329,6 +378,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 1514,
+    "name": "Kultorvet",
+    "latitude": "55.6828592",
+    "longitude": "12.5747892",
+    "thumbnail_url": ""
+  },
+  {
     "id": 4123,
     "name": "Leo Mathisens Vej",
     "latitude": "55.6822679",
@@ -340,6 +396,13 @@
     "name": "Sankt Jakobs Gade",
     "latitude": "55.7019993",
     "longitude": "12.5817714",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2251,
+    "name": "3-Way Bridge",
+    "latitude": "55.6779145",
+    "longitude": "12.5979049",
     "thumbnail_url": ""
   },
   {
@@ -361,13 +424,6 @@
     "name": "Skuespilhuset",
     "latitude": "55.6803763",
     "longitude": "12.5940254",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4170,
-    "name": "Langebro",
-    "latitude": "55.6704048",
-    "longitude": "12.5769022",
     "thumbnail_url": ""
   },
   {
@@ -406,6 +462,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5642,
+    "name": "Fælledparken II",
+    "latitude": "55.7022812",
+    "longitude": "12.5696312",
+    "thumbnail_url": ""
+  },
+  {
     "id": 2466,
     "name": "Bellahøj Svømmestadion",
     "latitude": "55.706212",
@@ -413,10 +476,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1750,
-    "name": "Jarmers Tårn",
-    "latitude": "55.6785087",
-    "longitude": "12.5660594",
+    "id": 937,
+    "name": "Åboulevard",
+    "latitude": "55.6850911",
+    "longitude": "12.5531995",
     "thumbnail_url": ""
   },
   {
@@ -427,31 +490,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28030,
-    "name": "Operaparken",
-    "latitude": "55.6802194",
-    "longitude": "12.6006788",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1514,
-    "name": "Kultorvet",
-    "latitude": "55.6828592",
-    "longitude": "12.5747892",
-    "thumbnail_url": ""
-  },
-  {
     "id": 4242,
     "name": "Øster Alle 42",
     "latitude": "55.7015317",
     "longitude": "12.5727783",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 937,
-    "name": "Åboulevard",
-    "latitude": "55.6850911",
-    "longitude": "12.5531995",
     "thumbnail_url": ""
   },
   {
@@ -497,13 +539,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6163,
-    "name": "DR Byen Metro St. ",
-    "latitude": "55.6558272",
-    "longitude": "12.589073",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5862,
     "name": "Klosterstræde",
     "latitude": "55.6794249",
@@ -536,13 +571,6 @@
     "name": "Linnesgade 18",
     "latitude": "55.6838415",
     "longitude": "12.5705055",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2284,
-    "name": "Ved Langebro",
-    "latitude": "55.6690269",
-    "longitude": "12.5794188",
     "thumbnail_url": ""
   },
   {
@@ -592,13 +620,6 @@
     "name": "Brobergsgade",
     "latitude": "55.6752393",
     "longitude": "12.5956624",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1862,
-    "name": "Lufthavnen St.",
-    "latitude": "55.6300095",
-    "longitude": "12.6493806",
     "thumbnail_url": ""
   },
   {
@@ -728,13 +749,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 10161,
-    "name": "Gl. Kongevej",
-    "latitude": "55.6741975",
-    "longitude": "12.5575072",
-    "thumbnail_url": ""
-  },
-  {
     "id": 9141,
     "name": "Esthersvej",
     "latitude": "55.7277343",
@@ -753,13 +767,6 @@
     "name": "Nuuks Pl. ",
     "latitude": "55.6884002",
     "longitude": "12.5440297",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33323,
-    "name": "Polititorvet 14",
-    "latitude": "55.6699746",
-    "longitude": "12.5707697",
     "thumbnail_url": ""
   },
   {
@@ -784,13 +791,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26389,
-    "name": "Nørreport St. V",
-    "latitude": "55.6840649",
-    "longitude": "12.5729024",
-    "thumbnail_url": ""
-  },
-  {
     "id": 8855,
     "name": "August Wimmers Vej III",
     "latitude": "55.6591393",
@@ -802,13 +802,6 @@
     "name": "Artillerivej III",
     "latitude": "55.65357",
     "longitude": "12.5679693",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 7316,
-    "name": "Kongens Nytorv 9",
-    "latitude": "55.6791722",
-    "longitude": "12.5859818",
     "thumbnail_url": ""
   },
   {
@@ -847,24 +840,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5642,
-    "name": "Fælledparken II",
-    "latitude": "55.7022812",
-    "longitude": "12.5696312",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5501,
     "name": "Valbyparken",
     "latitude": "55.6454858",
     "longitude": "12.5227817",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2467,
-    "name": "Svanemøllen St.",
-    "latitude": "55.7151066",
-    "longitude": "12.5781912",
     "thumbnail_url": ""
   },
   {
@@ -879,13 +858,6 @@
     "name": "Asiatisk Plads",
     "latitude": "55.6745673",
     "longitude": "12.5898834",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28930,
-    "name": "Nykredit HQ II",
-    "latitude": "55.7147816",
-    "longitude": "12.5946504",
     "thumbnail_url": ""
   },
   {
@@ -942,13 +914,6 @@
     "name": "Åholmsvej 14",
     "latitude": "55.6712632",
     "longitude": "12.4894032",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 60,
-    "name": "Nørreport St.",
-    "latitude": "55.6826828",
-    "longitude": "12.5710932",
     "thumbnail_url": ""
   },
   {
@@ -1057,13 +1022,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 1512,
-    "name": "Overgaden Oven Vandet",
-    "latitude": "55.6733208",
-    "longitude": "12.5927112",
-    "thumbnail_url": ""
-  },
-  {
     "id": 1768,
     "name": "Otto Baches Alle",
     "latitude": "55.6186881",
@@ -1085,10 +1043,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 9105,
-    "name": "Ekvipagemestervej",
-    "latitude": "55.6816274",
-    "longitude": "12.6018331",
+    "id": 3244,
+    "name": "Box",
+    "latitude": "55.686644",
+    "longitude": "12.5839236",
     "thumbnail_url": ""
   },
   {
@@ -1106,10 +1064,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2346,
-    "name": "Mindeankeret",
-    "latitude": "55.6805177",
-    "longitude": "12.5874544",
+    "id": 1520,
+    "name": "Gammel Strand",
+    "latitude": "55.6772851",
+    "longitude": "12.5774302",
     "thumbnail_url": ""
   },
   {
@@ -1148,6 +1106,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 1750,
+    "name": "Jarmers Tårn",
+    "latitude": "55.6785087",
+    "longitude": "12.5660594",
+    "thumbnail_url": ""
+  },
+  {
     "id": 4807,
     "name": "Nyhavn 17",
     "latitude": "55.6805103",
@@ -1159,6 +1124,13 @@
     "name": "Eik Skaloes Plads",
     "latitude": "55.6829136",
     "longitude": "12.6069617",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 9105,
+    "name": "Ekvipagemestervej",
+    "latitude": "55.6816274",
+    "longitude": "12.6018331",
     "thumbnail_url": ""
   },
   {
@@ -1176,6 +1148,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 87,
+    "name": "Trianglen St.",
+    "latitude": "55.6989095",
+    "longitude": "12.5755856",
+    "thumbnail_url": ""
+  },
+  {
     "id": 15402,
     "name": "Ryparken Station II",
     "latitude": "55.7151014",
@@ -1187,6 +1166,13 @@
     "name": "Kongelundsvej 71C",
     "latitude": "55.6372066",
     "longitude": "12.5903267",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5529,
+    "name": "Rentemestervej II",
+    "latitude": "55.7082616",
+    "longitude": "12.5228231",
     "thumbnail_url": ""
   },
   {
@@ -1204,13 +1190,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4766,
-    "name": "Marmorvej",
-    "latitude": "55.7037178",
-    "longitude": "12.5970547",
-    "thumbnail_url": ""
-  },
-  {
     "id": 152,
     "name": "Founders House",
     "latitude": "55.6665729",
@@ -1222,13 +1201,6 @@
     "name": "Studiestræde II",
     "latitude": "55.6768781",
     "longitude": "12.5648803",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 233,
-    "name": "Høkerboderne",
-    "latitude": "55.6684754",
-    "longitude": "12.5573837",
     "thumbnail_url": ""
   },
   {
@@ -1421,10 +1393,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4788,
+    "name": "Christian IV Bro",
+    "latitude": "55.6760558",
+    "longitude": "12.5873479",
+    "thumbnail_url": ""
+  },
+  {
     "id": 925,
     "name": "Folmer Bendtsens Pl.",
     "latitude": "55.6999928",
     "longitude": "12.5381718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2149,
+    "name": "Black Diamond",
+    "latitude": "55.6728994",
+    "longitude": "12.5812501",
     "thumbnail_url": ""
   },
   {
@@ -1442,6 +1428,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 10161,
+    "name": "Gl. Kongevej",
+    "latitude": "55.6741975",
+    "longitude": "12.5575072",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28930,
+    "name": "Nykredit HQ II",
+    "latitude": "55.7147816",
+    "longitude": "12.5946504",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34475,
     "name": "Store Mølle Vej 13",
     "latitude": "55.6677152",
@@ -1456,10 +1456,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28030,
+    "name": "Operaparken",
+    "latitude": "55.6802194",
+    "longitude": "12.6006788",
+    "thumbnail_url": ""
+  },
+  {
     "id": 5710,
     "name": "Bodenhoffs Plads",
     "latitude": "55.6759861",
     "longitude": "12.599948",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5349,
+    "name": "Rosenborg",
+    "latitude": "55.6861811",
+    "longitude": "12.5763474",
     "thumbnail_url": ""
   },
   {
@@ -1477,17 +1491,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 2412,
-    "name": "Ørstedsparken",
-    "latitude": "55.6800879",
-    "longitude": "12.5675428",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31083,
     "name": "Bykildevej/Valby Langgade ",
     "latitude": "55.6666956",
     "longitude": "12.5190926",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2467,
+    "name": "Svanemøllen St.",
+    "latitude": "55.7151066",
+    "longitude": "12.5781912",
     "thumbnail_url": ""
   },
   {
@@ -1502,6 +1516,13 @@
     "name": "Frederikssundsvej 167",
     "latitude": "55.7045364",
     "longitude": "12.500703",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2238,
+    "name": "Lergravsparken Metro St.",
+    "latitude": "55.6620718",
+    "longitude": "12.6167981",
     "thumbnail_url": ""
   },
   {
@@ -1530,6 +1551,13 @@
     "name": "Amager Helgoland",
     "latitude": "55.6618107",
     "longitude": "12.6315797",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4170,
+    "name": "Langebro",
+    "latitude": "55.6704048",
+    "longitude": "12.5769022",
     "thumbnail_url": ""
   },
   {
@@ -1586,13 +1614,6 @@
     "name": "Amager Strandvej 53",
     "latitude": "55.6606953",
     "longitude": "12.6333017",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2238,
-    "name": "Lergravsparken Metro St.",
-    "latitude": "55.6620718",
-    "longitude": "12.6167981",
     "thumbnail_url": ""
   },
   {
@@ -1666,13 +1687,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3244,
-    "name": "Box",
-    "latitude": "55.686644",
-    "longitude": "12.5839236",
-    "thumbnail_url": ""
-  },
-  {
     "id": 2289,
     "name": "Sundby",
     "latitude": "55.6452988",
@@ -1691,13 +1705,6 @@
     "name": "Lygten 16",
     "latitude": "55.7061873",
     "longitude": "12.5389142",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2149,
-    "name": "Black Diamond",
-    "latitude": "55.6728994",
-    "longitude": "12.5812501",
     "thumbnail_url": ""
   },
   {
@@ -1750,13 +1757,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4788,
-    "name": "Christian IV Bro",
-    "latitude": "55.6760558",
-    "longitude": "12.5873479",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34436,
     "name": "Bøllegård Allé 5",
     "latitude": "55.721143",
@@ -1792,6 +1792,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 7316,
+    "name": "Kongens Nytorv 9",
+    "latitude": "55.6791722",
+    "longitude": "12.5859818",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33323,
+    "name": "Polititorvet 14",
+    "latitude": "55.6699746",
+    "longitude": "12.5707697",
+    "thumbnail_url": ""
+  },
+  {
     "id": 5261,
     "name": "Vækstfonden",
     "latitude": "55.732911",
@@ -1799,10 +1813,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 9258,
-    "name": "Øresundskollegiet",
-    "latitude": "55.6665467",
-    "longitude": "12.6024344",
+    "id": 2346,
+    "name": "Mindeankeret",
+    "latitude": "55.6805177",
+    "longitude": "12.5874544",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6163,
+    "name": "DR Byen Metro St. ",
+    "latitude": "55.6558272",
+    "longitude": "12.589073",
     "thumbnail_url": ""
   },
   {
@@ -1834,6 +1855,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28073,
+    "name": "Galionsvej 41",
+    "latitude": "55.6796927",
+    "longitude": "12.6009967",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2824,
+    "name": "Refshalevej",
+    "latitude": "55.6890661",
+    "longitude": "12.611315",
+    "thumbnail_url": ""
+  },
+  {
     "id": 2156,
     "name": "Højbro Plads",
     "latitude": "55.6784396",
@@ -1845,13 +1880,6 @@
     "name": "Dybbølsbro St. II",
     "latitude": "55.6646972",
     "longitude": "12.559716",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 1511,
-    "name": "Frihedsstøtten",
-    "latitude": "55.673755",
-    "longitude": "12.5623388",
     "thumbnail_url": ""
   },
   {
@@ -1887,6 +1915,13 @@
     "name": "Den Sorte Plads",
     "latitude": "55.7010158",
     "longitude": "12.542979",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1512,
+    "name": "Overgaden Oven Vandet",
+    "latitude": "55.6733208",
+    "longitude": "12.5927112",
     "thumbnail_url": ""
   },
   {
@@ -1985,6 +2020,13 @@
     "name": "Kødbyen [test]",
     "latitude": "55.6684381",
     "longitude": "12.5593575",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 1511,
+    "name": "Frihedsstøtten",
+    "latitude": "55.673755",
+    "longitude": "12.5623388",
     "thumbnail_url": ""
   },
   {
@@ -2191,13 +2233,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5349,
-    "name": "Rosenborg",
-    "latitude": "55.6861811",
-    "longitude": "12.5763474",
-    "thumbnail_url": ""
-  },
-  {
     "id": 3540,
     "name": "Prinsens Bro",
     "latitude": "55.6740187",
@@ -2286,13 +2321,6 @@
     "name": "Tap 1 ",
     "latitude": "55.6715717",
     "longitude": "12.6217193",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2162,
-    "name": "Israels Plads",
-    "latitude": "55.6836035",
-    "longitude": "12.568634",
     "thumbnail_url": ""
   },
   {
@@ -2394,13 +2422,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15907,
-    "name": "Skjolds Plads Metro St.",
-    "latitude": "55.7034624",
-    "longitude": "12.5487393",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20584,
     "name": "Central Station Taxi Stop",
     "latitude": "55.6734329",
@@ -2426,13 +2447,6 @@
     "name": "Drejøgade II",
     "latitude": "55.7117777",
     "longitude": "12.5714175",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2358,
-    "name": "Bernstorffsgade",
-    "latitude": "55.6716699",
-    "longitude": "12.5674504",
     "thumbnail_url": ""
   },
   {
@@ -2485,13 +2499,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 87,
-    "name": "Trianglen St.",
-    "latitude": "55.6989095",
-    "longitude": "12.5755856",
-    "thumbnail_url": ""
-  },
-  {
     "id": 2473,
     "name": "Koldinggade",
     "latitude": "55.7068412",
@@ -2503,13 +2510,6 @@
     "name": "Kløvermarksvej",
     "latitude": "55.6725024",
     "longitude": "12.6084624",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2251,
-    "name": "3-Way Bridge",
-    "latitude": "55.6779145",
-    "longitude": "12.5979049",
     "thumbnail_url": ""
   },
   {
