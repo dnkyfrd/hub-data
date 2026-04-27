@@ -57,16 +57,20 @@ const cities = [
   { name: 'thun', endpoints: ['https://stables.donkey.bike/api/public/cities/242/hubs/'] },
   { name: 'yverdon-les-bains', endpoints: ['https://stables.donkey.bike/api/public/cities/240/hubs/'] },
   { name: 'gouda', endpoints: ['https://stables.donkey.bike/api/public/cities/726/hubs/'] },
-  { name: 'delft', endpoints: ['https://stables.donkey.bike/api/public/cities/744/hubs/'] },
-  // qbuzz south
-  { name: 'dordrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/355/hubs/'] },
-  { name: 'gorinchem', endpoints: ['https://stables.donkey.bike/api/public/cities/515/hubs/'] },
-  { name: 'hendrik-ido-ambacht', endpoints: ['https://stables.donkey.bike/api/public/cities/691/hubs/'] },
-  { name: 'papendrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/692/hubs/'] },
-  { name: 'sliedrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/693/hubs/'] },
-  { name: 'hardinxveld-giessendam', endpoints: ['https://stables.donkey.bike/api/public/cities/694/hubs/'] },
-  { name: 'leerdam', endpoints: ['https://stables.donkey.bike/api/public/cities/695/hubs/'] },
-  { name: 'zwijndrecht', endpoints: ['https://stables.donkey.bike/api/public/cities/690/hubs/'] },
+  { name: 'delft', endpoints: ['https://stables.donkey.bike/api/public/cities/744/hubs/'] },  
+  {
+    name: 'qbuzz-south',
+    endpoints: [
+      'https://stables.donkey.bike/api/public/cities/355/hubs/', // dordrecht
+      'https://stables.donkey.bike/api/public/cities/515/hubs/', // gorinchem
+      'https://stables.donkey.bike/api/public/cities/691/hubs/', // hendrik-ido-ambacht
+      'https://stables.donkey.bike/api/public/cities/692/hubs/', // papendrecht
+      'https://stables.donkey.bike/api/public/cities/693/hubs/', // sliedrecht
+      'https://stables.donkey.bike/api/public/cities/694/hubs/', // hardinxveld-giessendam
+      'https://stables.donkey.bike/api/public/cities/695/hubs/', // leerdam
+      'https://stables.donkey.bike/api/public/cities/690/hubs/', // zwijndrecht
+    ]
+  },
 ];
 
 /**
