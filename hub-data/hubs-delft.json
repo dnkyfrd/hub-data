@@ -7,20 +7,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32118,
-    "name": "VSL National Metrology Institute",
-    "latitude": "51.9855547",
-    "longitude": "4.387637",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32162,
-    "name": "Koster sportclub",
-    "latitude": "52.0080336",
-    "longitude": "4.3730483",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32211,
     "name": "Spoorsingel 4",
     "latitude": "52.0111251",
@@ -35,10 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32249,
-    "name": "IKEA Delft",
-    "latitude": "52.0126251",
-    "longitude": "4.3804788",
+    "id": 32118,
+    "name": "VSL National Metrology Institute",
+    "latitude": "51.9855547",
+    "longitude": "4.387637",
     "thumbnail_url": ""
   },
   {
@@ -46,6 +32,20 @@
     "name": "Snackbar Laurens",
     "latitude": "52.0106421",
     "longitude": "4.3479408",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32162,
+    "name": "Koster sportclub",
+    "latitude": "52.0080336",
+    "longitude": "4.3730483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32124,
+    "name": "De Werelddreef",
+    "latitude": "51.9833127",
+    "longitude": "4.3470939",
     "thumbnail_url": ""
   },
   {
@@ -126,38 +126,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32246,
+    "name": "Faculteit Bouwkunde",
+    "latitude": "52.0058512",
+    "longitude": "4.370078",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32194,
     "name": "Hovenierstraat",
     "latitude": "52.0075062",
     "longitude": "4.3543806",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32170,
-    "name": "Havenstraat 1",
-    "latitude": "52.0092071",
-    "longitude": "4.3544758",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32232,
-    "name": "Lijm & Cultuur",
-    "latitude": "51.9963859",
-    "longitude": "4.3697768",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32124,
-    "name": "De Werelddreef",
-    "latitude": "51.9833127",
-    "longitude": "4.3470939",
     "thumbnail_url": ""
   },
   {
@@ -186,6 +165,13 @@
     "name": "Plateelstraat",
     "latitude": "52.006335",
     "longitude": "4.3514786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32249,
+    "name": "IKEA Delft",
+    "latitude": "52.0126251",
+    "longitude": "4.3804788",
     "thumbnail_url": ""
   },
   {
@@ -231,17 +217,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32248,
     "name": "Mijnbouwstraat",
     "latitude": "52.0069018",
     "longitude": "4.3694555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32170,
+    "name": "Havenstraat 1",
+    "latitude": "52.0092071",
+    "longitude": "4.3544758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32232,
+    "name": "Lijm & Cultuur",
+    "latitude": "51.9963859",
+    "longitude": "4.3697768",
     "thumbnail_url": ""
   },
   {
@@ -259,13 +252,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32246,
-    "name": "Faculteit Bouwkunde",
-    "latitude": "52.0058512",
-    "longitude": "4.370078",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32215,
     "name": "Spoorsingel 7",
     "latitude": "52.0140805",
@@ -277,13 +263,6 @@
     "name": "Lipkensstraat",
     "latitude": "52.0099291",
     "longitude": "4.3729954",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32189,
-    "name": "Westerstraat",
-    "latitude": "52.0076786",
-    "longitude": "4.3551862",
     "thumbnail_url": ""
   },
   {
@@ -329,6 +308,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32189,
+    "name": "Westerstraat",
+    "latitude": "52.0076786",
+    "longitude": "4.3551862",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32206,
     "name": "Westplantsoen",
     "latitude": "52.008939",
@@ -361,13 +347,6 @@
     "name": "Spoorsingel 5",
     "latitude": "52.0121437",
     "longitude": "4.3524865",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32154,
-    "name": "Julianalaan II",
-    "latitude": "52.0101021",
-    "longitude": "4.3705087",
     "thumbnail_url": ""
   },
   {
@@ -413,10 +392,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32154,
+    "name": "Julianalaan II",
+    "latitude": "52.0101021",
+    "longitude": "4.3705087",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32357,
     "name": "Van der Lelijstraat",
     "latitude": "52.0129585",
     "longitude": "4.3343346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -431,6 +424,13 @@
     "name": "De Schaapskooi",
     "latitude": "52.016447",
     "longitude": "4.3761756",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {

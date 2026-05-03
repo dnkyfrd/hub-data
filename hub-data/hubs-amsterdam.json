@@ -1,37 +1,9 @@
 [
   {
-    "id": 2417,
-    "name": "Tetterode Parking",
-    "latitude": "52.3803082",
-    "longitude": "4.8615548",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21830,
-    "name": "!PARK UNDERGROUND! Station Zuidplein",
-    "latitude": "52.3399475",
-    "longitude": "4.8728958",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
-    "thumbnail_url": ""
-  },
-  {
     "id": 2436,
     "name": "Hotel Jansen",
     "latitude": "52.3419838",
     "longitude": "4.8456161",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31838,
-    "name": "Station Diemen II",
-    "latitude": "52.3455106",
-    "longitude": "4.9671671",
     "thumbnail_url": ""
   },
   {
@@ -56,17 +28,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
+    "id": 23567,
+    "name": "TotalEnergies Tweede van der Helststraat",
+    "latitude": "52.3492609",
+    "longitude": "4.8947921",
     "thumbnail_url": ""
   },
   {
-    "id": 20883,
-    "name": "!PARK INDOOR! Amstelstation",
-    "latitude": "52.3468462",
-    "longitude": "4.9188123",
+    "id": 21830,
+    "name": "!PARK UNDERGROUND! Station Zuidplein",
+    "latitude": "52.3399475",
+    "longitude": "4.8728958",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31838,
+    "name": "Station Diemen II",
+    "latitude": "52.3455106",
+    "longitude": "4.9671671",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31771,
+    "name": "Station Purmerend Weidevenne I",
+    "latitude": "52.4961526",
+    "longitude": "4.9349338",
     "thumbnail_url": ""
   },
   {
@@ -84,24 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23565,
-    "name": "TotalEnergies Burg de Vlugtlaan",
-    "latitude": "52.3801295",
-    "longitude": "4.8281348",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31771,
-    "name": "Station Purmerend Weidevenne I",
-    "latitude": "52.4961526",
-    "longitude": "4.9349338",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31761,
-    "name": "Station Zaandijk Zaanse Schans II",
-    "latitude": "52.4690327",
-    "longitude": "4.8048231",
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
     "thumbnail_url": ""
   },
   {
@@ -112,17 +84,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31761,
+    "name": "Station Zaandijk Zaanse Schans II",
+    "latitude": "52.4690327",
+    "longitude": "4.8048231",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2417,
+    "name": "Tetterode Parking",
+    "latitude": "52.3803082",
+    "longitude": "4.8615548",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23565,
+    "name": "TotalEnergies Burg de Vlugtlaan",
+    "latitude": "52.3801295",
+    "longitude": "4.8281348",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20883,
+    "name": "!PARK INDOOR! Amstelstation",
+    "latitude": "52.3468462",
+    "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31770,
     "name": "Station Zaandam Kogerveld",
     "latitude": "52.4569946",
     "longitude": "4.8192717",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23567,
-    "name": "TotalEnergies Tweede van der Helststraat",
-    "latitude": "52.3492609",
-    "longitude": "4.8947921",
     "thumbnail_url": ""
   },
   {
@@ -137,13 +130,6 @@
     "name": "Station Purmerend Weidevenne II",
     "latitude": "52.4967467",
     "longitude": "4.9351717",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
     "thumbnail_url": ""
   },
   {
@@ -165,6 +151,20 @@
     "name": "Station Halfweg Zwanenburg",
     "latitude": "52.3860205",
     "longitude": "4.7453457",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
     "thumbnail_url": ""
   },
   {

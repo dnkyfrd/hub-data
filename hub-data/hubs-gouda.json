@@ -1,12 +1,5 @@
 [
   {
-    "id": 30988,
-    "name": "Gouda Goverwelle",
-    "latitude": "52.0146456",
-    "longitude": "4.7420644",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32860,
     "name": "Bernadottelaan",
     "latitude": "52.0125812",
@@ -56,17 +49,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32969,
+    "name": "Koningin Wilhelminaweg",
+    "latitude": "52.000824",
+    "longitude": "4.6977171",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32917,
     "name": "Aalbersplein",
     "latitude": "52.0217828",
     "longitude": "4.7163558",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32960,
-    "name": "Oosthaven 2",
-    "latitude": "52.01018",
-    "longitude": "4.7105816",
     "thumbnail_url": ""
   },
   {
@@ -196,6 +189,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32960,
+    "name": "Oosthaven 2",
+    "latitude": "52.01018",
+    "longitude": "4.7105816",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32975,
     "name": "Nijverheidsstraat 2",
     "latitude": "52.0131256",
@@ -263,13 +263,6 @@
     "name": "Waterlelie",
     "latitude": "52.0290206",
     "longitude": "4.717554",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32969,
-    "name": "Koningin Wilhelminaweg",
-    "latitude": "52.000824",
-    "longitude": "4.6977171",
     "thumbnail_url": ""
   },
   {
@@ -378,6 +371,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32944,
+    "name": "Stationsingang Zuid-west",
+    "latitude": "52.0169484",
+    "longitude": "4.7057966",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32931,
     "name": "Threestar",
     "latitude": "52.0194398",
@@ -420,13 +420,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32841,
-    "name": "Voorzorg",
-    "latitude": "52.0061617",
-    "longitude": "4.6768817",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32981,
     "name": "Groene Hart 3",
     "latitude": "52.0209419",
@@ -434,17 +427,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32978,
-    "name": "Wachtel Street",
-    "latitude": "52.009885",
-    "longitude": "4.7004218",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33404,
     "name": "Waterlustlaan",
     "latitude": "52.0386557",
     "longitude": "4.7110007",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32841,
+    "name": "Voorzorg",
+    "latitude": "52.0061617",
+    "longitude": "4.6768817",
     "thumbnail_url": ""
   },
   {
@@ -466,6 +459,13 @@
     "name": "Middenmolenplein",
     "latitude": "52.011056",
     "longitude": "4.7432912",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30987,
+    "name": "Station Gouda (Roof Parking Only)",
+    "latitude": "52.0169789",
+    "longitude": "4.7082706",
     "thumbnail_url": ""
   },
   {
@@ -630,17 +630,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32866,
-    "name": "Willensplein",
-    "latitude": "52.014624",
-    "longitude": "4.7416702",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32903,
     "name": "Gildenburg 3",
     "latitude": "52.0325129",
     "longitude": "4.7028525",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30988,
+    "name": "Gouda Goverwelle",
+    "latitude": "52.0146456",
+    "longitude": "4.7420644",
     "thumbnail_url": ""
   },
   {
@@ -651,17 +651,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32866,
+    "name": "Willensplein",
+    "latitude": "52.014624",
+    "longitude": "4.7416702",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32905,
     "name": "Lekkenburg",
     "latitude": "52.0309743",
     "longitude": "4.7057342",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30987,
-    "name": "Station Gouda (Roof Parking Only)",
-    "latitude": "52.0169789",
-    "longitude": "4.7082706",
     "thumbnail_url": ""
   },
   {
@@ -676,6 +676,13 @@
     "name": "Poldermolemplein",
     "latitude": "52.0103657",
     "longitude": "4.7453397",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32978,
+    "name": "Wachtel Street",
+    "latitude": "52.009885",
+    "longitude": "4.7004218",
     "thumbnail_url": ""
   },
   {
@@ -760,13 +767,6 @@
     "name": "Zoutmanstraat",
     "latitude": "52.0115603",
     "longitude": "4.7219374",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32944,
-    "name": "Stationsingang Zuid-west",
-    "latitude": "52.0169484",
-    "longitude": "4.7057966",
     "thumbnail_url": ""
   }
 ]
