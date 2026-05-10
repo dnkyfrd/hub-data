@@ -1,16 +1,16 @@
 [
   {
-    "id": 32165,
-    "name": "SPAR Olierook",
-    "latitude": "52.0043184",
-    "longitude": "4.3508226",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32211,
     "name": "Spoorsingel 4",
     "latitude": "52.0111251",
     "longitude": "4.3534333",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32165,
+    "name": "SPAR Olierook",
+    "latitude": "52.0043184",
+    "longitude": "4.3508226",
     "thumbnail_url": ""
   },
   {
@@ -39,13 +39,6 @@
     "name": "Koster sportclub",
     "latitude": "52.0080336",
     "longitude": "4.3730483",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32124,
-    "name": "De Werelddreef",
-    "latitude": "51.9833127",
-    "longitude": "4.3470939",
     "thumbnail_url": ""
   },
   {
@@ -126,17 +119,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32246,
-    "name": "Faculteit Bouwkunde",
-    "latitude": "52.0058512",
-    "longitude": "4.370078",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32194,
     "name": "Hovenierstraat",
     "latitude": "52.0075062",
     "longitude": "4.3543806",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32124,
+    "name": "De Werelddreef",
+    "latitude": "51.9833127",
+    "longitude": "4.3470939",
     "thumbnail_url": ""
   },
   {
@@ -154,6 +147,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32246,
+    "name": "Faculteit Bouwkunde",
+    "latitude": "52.0058512",
+    "longitude": "4.370078",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32157,
     "name": "Delftechpark",
     "latitude": "51.9972105",
@@ -168,13 +168,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32249,
-    "name": "IKEA Delft",
-    "latitude": "52.0126251",
-    "longitude": "4.3804788",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32185,
     "name": "Raamstraat",
     "latitude": "52.0058058",
@@ -186,13 +179,6 @@
     "name": "Bikolaan",
     "latitude": "51.9810713",
     "longitude": "4.3418504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32210,
-    "name": "Spoorsingel 3",
-    "latitude": "52.0105453",
-    "longitude": "4.3540214",
     "thumbnail_url": ""
   },
   {
@@ -245,13 +231,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32251,
-    "name": "Vesteplein",
-    "latitude": "52.0080851",
-    "longitude": "4.3626219",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32215,
     "name": "Spoorsingel 7",
     "latitude": "52.0140805",
@@ -263,13 +242,6 @@
     "name": "Lipkensstraat",
     "latitude": "52.0099291",
     "longitude": "4.3729954",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32131,
-    "name": "Lidl Multatuliweg",
-    "latitude": "51.993267",
-    "longitude": "4.3593357",
     "thumbnail_url": ""
   },
   {
@@ -301,6 +273,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32251,
+    "name": "Vesteplein",
+    "latitude": "52.0080851",
+    "longitude": "4.3626219",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32172,
     "name": "Hugo de Grootstraat",
     "latitude": "52.0094358",
@@ -315,10 +294,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32206,
-    "name": "Westplantsoen",
-    "latitude": "52.008939",
-    "longitude": "4.3465597",
+    "id": 32249,
+    "name": "IKEA Delft",
+    "latitude": "52.0126251",
+    "longitude": "4.3804788",
     "thumbnail_url": ""
   },
   {
@@ -326,6 +305,13 @@
     "name": "XTU Delft",
     "latitude": "51.9954206",
     "longitude": "4.377132",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32131,
+    "name": "Lidl Multatuliweg",
+    "latitude": "51.993267",
+    "longitude": "4.3593357",
     "thumbnail_url": ""
   },
   {
@@ -378,6 +364,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32206,
+    "name": "Westplantsoen",
+    "latitude": "52.008939",
+    "longitude": "4.3465597",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32125,
     "name": "Sadatweg",
     "latitude": "51.9844441",
@@ -406,13 +399,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32181,
     "name": "Ireneboulevard",
     "latitude": "52.0040981",
@@ -427,10 +413,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32210,
+    "name": "Spoorsingel 3",
+    "latitude": "52.0105453",
+    "longitude": "4.3540214",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32335,
     "name": "De Gist",
     "latitude": "52.0097662",
     "longitude": "4.3555718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
