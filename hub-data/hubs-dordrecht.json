@@ -1,5 +1,12 @@
 [
   {
+    "id": 34621,
+    "name": "Dordrecht Zuid - Cereslaan",
+    "latitude": "51.7900748",
+    "longitude": "4.6731243",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29860,
     "name": "Duurzaamheidscentrum",
     "latitude": "51.806614",
@@ -21,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29874,
-    "name": "Roeiclub",
-    "latitude": "51.8162809",
-    "longitude": "4.6950887",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29841,
     "name": "Leen Bakker Dordrecht",
     "latitude": "51.7938591",
@@ -35,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
+    "id": 29874,
+    "name": "Roeiclub",
+    "latitude": "51.8162809",
+    "longitude": "4.6950887",
     "thumbnail_url": ""
   },
   {
@@ -63,13 +63,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34621,
-    "name": "Dordrecht Zuid - Cereslaan",
-    "latitude": "51.7900748",
-    "longitude": "4.6731243",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29869,
     "name": "Thomas Estill",
     "latitude": "51.8129811",
@@ -84,10 +77,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34640,
-    "name": "Boogjes",
-    "latitude": "51.8127987",
-    "longitude": "4.6600716",
+    "id": 34724,
+    "name": "Bunsenstraat",
+    "latitude": "51.7760857",
+    "longitude": "4.6318265",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34723,
+    "name": "Zeemanweg",
+    "latitude": "51.7744385",
+    "longitude": "4.6375242",
     "thumbnail_url": ""
   },
   {
@@ -140,6 +140,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34640,
+    "name": "Boogjes",
+    "latitude": "51.8127987",
+    "longitude": "4.6600716",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29849,
     "name": "Volley Dordrecht",
     "latitude": "51.7783935",
@@ -151,13 +158,6 @@
     "name": "Hellenburg - Goudestein",
     "latitude": "51.7742267",
     "longitude": "4.6715733",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30818,
-    "name": "CS Dordrecht II",
-    "latitude": "51.8072777",
-    "longitude": "4.6718814",
     "thumbnail_url": ""
   },
   {
@@ -196,6 +196,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30818,
+    "name": "CS Dordrecht II",
+    "latitude": "51.8072777",
+    "longitude": "4.6718814",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30186,
     "name": "Amazone",
     "latitude": "51.8074872",
@@ -207,6 +214,13 @@
     "name": "Bagijnhof 2",
     "latitude": "51.8121946",
     "longitude": "4.6683275",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
     "thumbnail_url": ""
   },
   {
