@@ -21,13 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32957,
-    "name": "Oosthaven 1",
-    "latitude": "52.0089386",
-    "longitude": "4.7122225",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32947,
     "name": "Nonnenwater",
     "latitude": "52.0106827",
@@ -42,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32928,
-    "name": "Ronsseweg 2",
-    "latitude": "52.0201238",
-    "longitude": "4.7071511",
+    "id": 32842,
+    "name": "De Wadden",
+    "latitude": "52.0031525",
+    "longitude": "4.6823531",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32842,
-    "name": "De Wadden",
-    "latitude": "52.0031525",
-    "longitude": "4.6823531",
+    "id": 32957,
+    "name": "Oosthaven 1",
+    "latitude": "52.0089386",
+    "longitude": "4.7122225",
     "thumbnail_url": ""
   },
   {
@@ -74,6 +67,20 @@
     "name": "Coonhert Gymnasium",
     "latitude": "52.0219365",
     "longitude": "4.7199291",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32856,
+    "name": "John Mottstraat",
+    "latitude": "52.0115015",
+    "longitude": "4.7263976",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32928,
+    "name": "Ronsseweg 2",
+    "latitude": "52.0201238",
+    "longitude": "4.7071511",
     "thumbnail_url": ""
   },
   {
@@ -133,13 +140,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32856,
-    "name": "John Mottstraat",
-    "latitude": "52.0115015",
-    "longitude": "4.7263976",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32854,
     "name": "De Kortestraat",
     "latitude": "52.0109835",
@@ -154,31 +154,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32945,
-    "name": "Nieuwehaven 1",
-    "latitude": "52.0118546",
-    "longitude": "4.7044749",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32948,
     "name": "Raam 1",
     "latitude": "52.0093652",
     "longitude": "4.706219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32841,
-    "name": "Voorzorg",
-    "latitude": "52.0061617",
-    "longitude": "4.6768817",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32973,
-    "name": "Goudkade",
-    "latitude": "52.0109221",
-    "longitude": "4.6908526",
     "thumbnail_url": ""
   },
   {
@@ -217,6 +196,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32973,
+    "name": "Goudkade",
+    "latitude": "52.0109221",
+    "longitude": "4.6908526",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32943,
     "name": "Nieuwehaven 2",
     "latitude": "52.0126417",
@@ -252,13 +238,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33402,
-    "name": "Waterlelie",
-    "latitude": "52.0290206",
-    "longitude": "4.717554",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32958,
     "name": "Westhaven",
     "latitude": "52.0088728",
@@ -273,10 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32960,
-    "name": "Oosthaven 2",
-    "latitude": "52.01018",
-    "longitude": "4.7105816",
+    "id": 32841,
+    "name": "Voorzorg",
+    "latitude": "52.0061617",
+    "longitude": "4.6768817",
     "thumbnail_url": ""
   },
   {
@@ -340,13 +319,6 @@
     "name": "Willem and Marialaan 2",
     "latitude": "52.0190569",
     "longitude": "4.7169636",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32912,
-    "name": "Wibautstraat",
-    "latitude": "52.0238888",
-    "longitude": "4.7148705",
     "thumbnail_url": ""
   },
   {
@@ -420,13 +392,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32944,
-    "name": "Stationsingang Zuid-west",
-    "latitude": "52.0169484",
-    "longitude": "4.7057966",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33404,
     "name": "Waterlustlaan",
     "latitude": "52.0386557",
@@ -445,6 +410,13 @@
     "name": "Herpstraat",
     "latitude": "52.0142048",
     "longitude": "4.7079819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33402,
+    "name": "Waterlelie",
+    "latitude": "52.0290206",
+    "longitude": "4.717554",
     "thumbnail_url": ""
   },
   {
@@ -473,6 +445,20 @@
     "name": "Plataanstraat 1",
     "latitude": "52.0290458",
     "longitude": "4.6898787",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32960,
+    "name": "Oosthaven 2",
+    "latitude": "52.01018",
+    "longitude": "4.7105816",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32944,
+    "name": "Stationsingang Zuid-west",
+    "latitude": "52.0169484",
+    "longitude": "4.7057966",
     "thumbnail_url": ""
   },
   {
@@ -539,6 +525,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32945,
+    "name": "Nieuwehaven 1",
+    "latitude": "52.0118546",
+    "longitude": "4.7044749",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32963,
     "name": "Turfmarkt 2",
     "latitude": "52.0125247",
@@ -553,10 +546,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32918,
-    "name": "Thorbeckelaan",
-    "latitude": "52.0215051",
-    "longitude": "4.7095926",
+    "id": 30987,
+    "name": "Station Gouda (Roof Parking Only)",
+    "latitude": "52.0169789",
+    "longitude": "4.7082706",
     "thumbnail_url": ""
   },
   {
@@ -606,13 +599,6 @@
     "name": "GHMC",
     "latitude": "52.026174",
     "longitude": "4.6862674",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30987,
-    "name": "Station Gouda (Roof Parking Only)",
-    "latitude": "52.0169789",
-    "longitude": "4.7082706",
     "thumbnail_url": ""
   },
   {
@@ -690,6 +676,20 @@
     "name": "Lethmaetstraat",
     "latitude": "52.0077231",
     "longitude": "4.7019473",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32912,
+    "name": "Wibautstraat",
+    "latitude": "52.0238888",
+    "longitude": "4.7148705",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32918,
+    "name": "Thorbeckelaan",
+    "latitude": "52.0215051",
+    "longitude": "4.7095926",
     "thumbnail_url": ""
   },
   {

@@ -1,12 +1,5 @@
 [
   {
-    "id": 21524,
-    "name": "Roskilde Station - syd",
-    "latitude": "55.6376438",
-    "longitude": "12.0876918",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29993,
     "name": "Kristiansminde Plejecenter nord",
     "latitude": "55.6357475",
@@ -25,6 +18,13 @@
     "name": "Østervangscentret",
     "latitude": "55.6298444",
     "longitude": "12.0976187",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22560,
+    "name": "Fælledvej",
+    "latitude": "55.6353913",
+    "longitude": "12.062779",
     "thumbnail_url": ""
   },
   {
@@ -116,6 +116,13 @@
     "name": "Absalon Skole",
     "latitude": "55.640074",
     "longitude": "12.0743741",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
     "thumbnail_url": ""
   },
   {
@@ -494,13 +501,6 @@
     "name": "RO's Torv øst",
     "latitude": "55.6413555",
     "longitude": "12.1007814",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22560,
-    "name": "Fælledvej",
-    "latitude": "55.6353913",
-    "longitude": "12.062779",
     "thumbnail_url": ""
   },
   {

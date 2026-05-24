@@ -1,16 +1,44 @@
 [
   {
+    "id": 29841,
+    "name": "Leen Bakker Dordrecht",
+    "latitude": "51.7938591",
+    "longitude": "4.6479753",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34767,
+    "name": "Patersweg",
+    "latitude": "51.7964696",
+    "longitude": "4.6598082",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34768,
+    "name": "Maxwellstraat",
+    "latitude": "51.7815185",
+    "longitude": "4.6364366",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34770,
+    "name": "Kamerlingh Omnesweg II",
+    "latitude": "51.7800243",
+    "longitude": "4.6409096",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34769,
+    "name": "Kamerlingh Omnesweg I",
+    "latitude": "51.7802138",
+    "longitude": "4.6327067",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34621,
     "name": "Dordrecht Zuid - Cereslaan",
     "latitude": "51.7900748",
     "longitude": "4.6731243",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29860,
-    "name": "Duurzaamheidscentrum",
-    "latitude": "51.806614",
-    "longitude": "4.6631912",
     "thumbnail_url": ""
   },
   {
@@ -28,24 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29841,
-    "name": "Leen Bakker Dordrecht",
-    "latitude": "51.7938591",
-    "longitude": "4.6479753",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29874,
     "name": "Roeiclub",
     "latitude": "51.8162809",
     "longitude": "4.6950887",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21139,
-    "name": "Korte Kolfstraat",
-    "latitude": "51.8137635",
-    "longitude": "4.6696716",
     "thumbnail_url": ""
   },
   {
@@ -63,6 +77,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21139,
+    "name": "Korte Kolfstraat",
+    "latitude": "51.8137635",
+    "longitude": "4.6696716",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29869,
     "name": "Thomas Estill",
     "latitude": "51.8129811",
@@ -70,17 +91,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24167,
-    "name": "Torenstraat - Torenplaats",
-    "latitude": "51.816772",
-    "longitude": "4.6742462",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34724,
     "name": "Bunsenstraat",
     "latitude": "51.7760857",
     "longitude": "4.6318265",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29860,
+    "name": "Duurzaamheidscentrum",
+    "latitude": "51.806614",
+    "longitude": "4.6631912",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +119,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34765,
+    "name": "Louis Apolstraat",
+    "latitude": "51.7999485",
+    "longitude": "4.6581146",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28942,
+    "name": "Rivierenplien Bike Rack",
+    "latitude": "51.8152302",
+    "longitude": "4.7150753",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27548,
     "name": "De Sterrenhoe",
     "latitude": "51.7823557",
@@ -109,13 +144,6 @@
     "name": "Windkracht**",
     "latitude": "51.813947",
     "longitude": "4.7349256",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21144,
-    "name": "VVV Dordrecht",
-    "latitude": "51.8117591",
-    "longitude": "4.6666959",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +161,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21144,
+    "name": "VVV Dordrecht",
+    "latitude": "51.8117591",
+    "longitude": "4.6666959",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29848,
     "name": "Schendeldijk",
     "latitude": "51.7777237",
@@ -140,10 +175,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34640,
-    "name": "Boogjes",
-    "latitude": "51.8127987",
-    "longitude": "4.6600716",
+    "id": 24167,
+    "name": "Torenstraat - Torenplaats",
+    "latitude": "51.816772",
+    "longitude": "4.6742462",
     "thumbnail_url": ""
   },
   {
@@ -203,6 +238,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34640,
+    "name": "Boogjes",
+    "latitude": "51.8127987",
+    "longitude": "4.6600716",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30186,
     "name": "Amazone",
     "latitude": "51.8074872",
@@ -228,13 +270,6 @@
     "name": "Jumbo Dordrecht",
     "latitude": "51.7864628",
     "longitude": "4.675859",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28942,
-    "name": "Rivierenplien Bike Rack",
-    "latitude": "51.8152302",
-    "longitude": "4.7150753",
     "thumbnail_url": ""
   },
   {
@@ -266,6 +301,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30645,
     "name": "J.P Heijeplein",
     "latitude": "51.8010144",
@@ -284,13 +326,6 @@
     "name": "Recklinghausenweg - Provinciale weg",
     "latitude": "51.7971903",
     "longitude": "4.7144174",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21120,
-    "name": "Q-Park P+R (Park Upstairs)",
-    "latitude": "51.8067461",
-    "longitude": "4.6683224",
     "thumbnail_url": ""
   },
   {
@@ -910,17 +945,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24282,
-    "name": "VVV/Bibliotheek",
-    "latitude": "51.8294046",
-    "longitude": "4.9743135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24540,
-    "name": "Appeldijk",
-    "latitude": "51.8298566",
-    "longitude": "4.9769314",
+    "id": 30002,
+    "name": "Station Gorinchem 2",
+    "latitude": "51.8334745",
+    "longitude": "4.9669737",
     "thumbnail_url": ""
   },
   {
@@ -945,13 +973,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30002,
-    "name": "Station Gorinchem 2",
-    "latitude": "51.8334745",
-    "longitude": "4.9669737",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29907,
     "name": "MFC de Lingehof",
     "latitude": "51.8616402",
@@ -959,10 +980,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24282,
+    "name": "VVV/Bibliotheek",
+    "latitude": "51.8294046",
+    "longitude": "4.9743135",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24535,
     "name": "Vroedschapstraat",
     "latitude": "51.8353319",
     "longitude": "4.9615895",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24540,
+    "name": "Appeldijk",
+    "latitude": "51.8298566",
+    "longitude": "4.9769314",
     "thumbnail_url": ""
   },
   {
@@ -1176,13 +1211,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29838,
-    "name": "Happy Italy",
-    "latitude": "51.8441983",
-    "longitude": "4.6221039",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21082,
     "name": "Laan van Welhorst",
     "latitude": "51.8320393",
@@ -1295,13 +1323,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21092,
-    "name": "Burgemeester Keijzerweg",
-    "latitude": "51.8328656",
-    "longitude": "4.7002283",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21087,
     "name": "Papendrecht",
     "latitude": "51.8340528",
@@ -1348,6 +1369,13 @@
     "name": "Jan Steenlaan",
     "latitude": "51.8365847",
     "longitude": "4.6844305",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21092,
+    "name": "Burgemeester Keijzerweg",
+    "latitude": "51.8328656",
+    "longitude": "4.7002283",
     "thumbnail_url": ""
   },
   {
@@ -1512,6 +1540,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34766,
+    "name": "Gemeentehuis Hardinxveld-Giessemdam",
+    "latitude": "51.8241391",
+    "longitude": "4.8343045",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29901,
     "name": "Zwembad de Duikelaar",
     "latitude": "51.8284593",
@@ -1562,16 +1597,23 @@
   },
   {
     "id": 34611,
-    "name": "Merwedestraat 1 *",
+    "name": "Merwedestraat 1",
     "latitude": "51.8172068",
     "longitude": "4.7047787",
     "thumbnail_url": ""
   },
   {
     "id": 34605,
-    "name": "Fietsenstalling Oceanco *",
-    "latitude": "51.8579259",
-    "longitude": "4.6596371",
+    "name": "Fietsenstalling Oceanco",
+    "latitude": "51.8580524",
+    "longitude": "4.6598379",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29833,
+    "name": "Koninginneweg",
+    "latitude": "51.819175",
+    "longitude": "4.6438141",
     "thumbnail_url": ""
   },
   {
@@ -1589,10 +1631,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34630,
-    "name": "Distripark",
-    "latitude": "51.7561358",
-    "longitude": "4.6360189",
+    "id": 34772,
+    "name": "Noorderkroonstraat",
+    "latitude": "51.7872751",
+    "longitude": "4.6838909",
     "thumbnail_url": ""
   },
   {
@@ -1610,10 +1652,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34397,
-    "name": "Raadhuisplein",
-    "latitude": "51.8640778",
-    "longitude": "4.9969926",
+    "id": 34771,
+    "name": "Herschelstraat",
+    "latitude": "51.7870805",
+    "longitude": "4.6828243",
     "thumbnail_url": ""
   },
   {
@@ -1625,16 +1667,9 @@
   },
   {
     "id": 34612,
-    "name": "Merwedestraat 2 *",
+    "name": "Merwedestraat 2",
     "latitude": "51.817062",
     "longitude": "4.7030262",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29833,
-    "name": "Koninginneweg",
-    "latitude": "51.819175",
-    "longitude": "4.6438141",
     "thumbnail_url": ""
   },
   {
@@ -1645,10 +1680,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33397,
-    "name": "Zwijndrecht station Noord",
-    "latitude": "51.8154661",
-    "longitude": "4.6414718",
+    "id": 34397,
+    "name": "Raadhuisplein",
+    "latitude": "51.8640778",
+    "longitude": "4.9969926",
     "thumbnail_url": ""
   },
   {
@@ -1666,6 +1701,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33397,
+    "name": "Zwijndrecht station Noord",
+    "latitude": "51.8154661",
+    "longitude": "4.6414718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34764,
+    "name": "B&B",
+    "latitude": "51.805029",
+    "longitude": "4.7741584",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29832,
     "name": "Veerleplein",
     "latitude": "51.8179329",
@@ -1677,6 +1726,13 @@
     "name": "Albert Schweitzer",
     "latitude": "51.8268471",
     "longitude": "4.6304002",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34630,
+    "name": "Distripark",
+    "latitude": "51.7561358",
+    "longitude": "4.6360189",
     "thumbnail_url": ""
   },
   {
@@ -1694,24 +1750,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34734,
-    "name": "IQIP (05:00 - 18:00)",
-    "latitude": "51.8226788",
-    "longitude": "4.7599956",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29831,
     "name": "Ringdijk",
     "latitude": "51.8184302",
     "longitude": "4.6565477",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29836,
-    "name": "Albert Heijn Zwijndrecht",
-    "latitude": "51.8187856",
-    "longitude": "4.6101364",
     "thumbnail_url": ""
   },
   {
@@ -1722,10 +1764,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29836,
+    "name": "Albert Heijn Zwijndrecht",
+    "latitude": "51.8187856",
+    "longitude": "4.6101364",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21241,
     "name": "Gemeente Zwijndrecht",
     "latitude": "51.8178207",
     "longitude": "4.6470156",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34734,
+    "name": "IQIP (05:00 - 18:00)",
+    "latitude": "51.8226788",
+    "longitude": "4.7599956",
     "thumbnail_url": ""
   },
   {
