@@ -112,6 +112,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32228,
+    "name": "Yes Delft 2",
+    "latitude": "51.9939083",
+    "longitude": "4.387351",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32194,
     "name": "Hovenierstraat",
     "latitude": "52.0075062",
@@ -133,24 +140,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32234,
-    "name": "Collegezaal A",
-    "latitude": "51.9995048",
-    "longitude": "4.3748013",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32246,
     "name": "Faculteit Bouwkunde",
     "latitude": "52.0058512",
     "longitude": "4.370078",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32211,
-    "name": "Spoorsingel 4",
-    "latitude": "52.0111251",
-    "longitude": "4.3534333",
     "thumbnail_url": ""
   },
   {
@@ -189,6 +182,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32164,
+    "name": "XIOR Antionia Veerstraat",
+    "latitude": "52.0017772",
+    "longitude": "4.344085",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32147,
     "name": "Collegezaal A Oost",
     "latitude": "51.9997317",
@@ -224,13 +224,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32215,
-    "name": "Spoorsingel 7",
-    "latitude": "52.0140805",
-    "longitude": "4.350495",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32163,
     "name": "Lipkensstraat",
     "latitude": "52.0099291",
@@ -252,31 +245,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32129,
-    "name": "Reinier de Graaf Gasthuis",
-    "latitude": "51.9977619",
-    "longitude": "4.3402315",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32170,
     "name": "Havenstraat 1",
     "latitude": "52.0092071",
     "longitude": "4.3544758",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32164,
-    "name": "XIOR Antionia Veerstraat",
-    "latitude": "52.0017772",
-    "longitude": "4.344085",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32252,
-    "name": "Nieuwe Langendijk",
-    "latitude": "52.0132742",
-    "longitude": "4.36385",
     "thumbnail_url": ""
   },
   {
@@ -371,13 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32214,
-    "name": "Spoorsingel 6",
-    "latitude": "52.013102",
-    "longitude": "4.35149",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32160,
     "name": "Kloosterkade",
     "latitude": "52.0063871",
@@ -389,6 +354,13 @@
     "name": "Westplantsoen",
     "latitude": "52.008939",
     "longitude": "4.3465597",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32215,
+    "name": "Spoorsingel 7",
+    "latitude": "52.0140805",
+    "longitude": "4.350495",
     "thumbnail_url": ""
   },
   {
@@ -427,10 +399,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32210,
-    "name": "Spoorsingel 3",
-    "latitude": "52.0105453",
-    "longitude": "4.3540214",
+    "id": 32252,
+    "name": "Nieuwe Langendijk",
+    "latitude": "52.0132742",
+    "longitude": "4.36385",
     "thumbnail_url": ""
   },
   {
@@ -448,6 +420,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32129,
+    "name": "Reinier de Graaf Gasthuis",
+    "latitude": "51.9977619",
+    "longitude": "4.3402315",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32188,
     "name": "Raamstraat 1",
     "latitude": "52.0064832",
@@ -455,10 +434,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32210,
+    "name": "Spoorsingel 3",
+    "latitude": "52.0105453",
+    "longitude": "4.3540214",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32180,
     "name": "Nieuwe Gracht",
     "latitude": "52.0048774",
     "longitude": "4.3564306",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32234,
+    "name": "Collegezaal A",
+    "latitude": "51.9995048",
+    "longitude": "4.3748013",
     "thumbnail_url": ""
   },
   {
@@ -473,20 +466,6 @@
     "name": "Ruivenstraat",
     "latitude": "51.9915038",
     "longitude": "4.3732035",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32228,
-    "name": "Yes Delft 2",
-    "latitude": "51.9939083",
-    "longitude": "4.387351",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
     "thumbnail_url": ""
   },
   {
@@ -553,6 +532,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32214,
+    "name": "Spoorsingel 6",
+    "latitude": "52.013102",
+    "longitude": "4.35149",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32156,
     "name": "Professor Snijdersstraat",
     "latitude": "52.0074573",
@@ -564,6 +550,20 @@
     "name": "Dashof",
     "latitude": "51.9849099",
     "longitude": "4.3609071",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32211,
+    "name": "Spoorsingel 4",
+    "latitude": "52.0111251",
+    "longitude": "4.3534333",
     "thumbnail_url": ""
   },
   {

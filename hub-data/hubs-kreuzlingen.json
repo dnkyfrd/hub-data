@@ -1,12 +1,5 @@
 [
   {
-    "id": 22532,
-    "name": "Parkplatz Hafenfeld",
-    "latitude": "47.6344818",
-    "longitude": "9.22306",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27221,
     "name": "Bahnhof Tägerwilen-Dorf ",
     "latitude": "47.6537621",
@@ -14,17 +7,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22520,
-    "name": "Bahnhof Bernrain",
-    "latitude": "47.6424447",
-    "longitude": "9.1624843",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22526,
     "name": "Kursschifffahrtshafen",
     "latitude": "47.6512313",
     "longitude": "9.1807834",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22532,
+    "name": "Parkplatz Hafenfeld",
+    "latitude": "47.6344818",
+    "longitude": "9.22306",
     "thumbnail_url": ""
   },
   {
@@ -46,6 +39,13 @@
     "name": "Bärenplatz/Festwiese",
     "latitude": "47.6468718",
     "longitude": "9.1761214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22520,
+    "name": "Bahnhof Bernrain",
+    "latitude": "47.6424447",
+    "longitude": "9.1624843",
     "thumbnail_url": ""
   },
   {
