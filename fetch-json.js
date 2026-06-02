@@ -72,6 +72,7 @@ const cities = [
     ]
   },
   { name: 'skive', endpoints: ['https://stables.donkey.bike/api/public/cities/843/hubs/'] },  
+  { name: 'oulu', endpoints: ['https://stables.donkey.bike/api/public/cities/844/hubs/'] },  
 ];
 
 /**
