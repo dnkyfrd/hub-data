@@ -1,5 +1,12 @@
 [
   {
+    "id": 34888,
+    "name": "Vondelstraat Dordrecht",
+    "latitude": "51.8044798",
+    "longitude": "4.659763",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34768,
     "name": "Maxwellstraat",
     "latitude": "51.7815185",
@@ -14,13 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34621,
-    "name": "Dordrecht Zuid - Cereslaan",
-    "latitude": "51.7900748",
-    "longitude": "4.6731243",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34769,
     "name": "Kamerlingh Omnesweg I",
     "latitude": "51.7802138",
@@ -28,10 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21147,
-    "name": "Huis van Gijn",
-    "latitude": "51.8163349",
-    "longitude": "4.6639682",
+    "id": 34891,
+    "name": "Genestetstraat",
+    "latitude": "51.8004251",
+    "longitude": "4.6642252",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29841,
+    "name": "Leen Bakker Dordrecht",
+    "latitude": "51.7938591",
+    "longitude": "4.6479753",
     "thumbnail_url": ""
   },
   {
@@ -70,6 +77,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21147,
+    "name": "Huis van Gijn",
+    "latitude": "51.8163349",
+    "longitude": "4.6639682",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21139,
     "name": "Korte Kolfstraat",
     "latitude": "51.8137635",
@@ -81,13 +95,6 @@
     "name": "Bunsenstraat",
     "latitude": "51.7760857",
     "longitude": "4.6318265",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29841,
-    "name": "Leen Bakker Dordrecht",
-    "latitude": "51.7938591",
-    "longitude": "4.6479753",
     "thumbnail_url": ""
   },
   {
@@ -127,9 +134,16 @@
   },
   {
     "id": 29890,
-    "name": "Windkracht**",
+    "name": "Windkracht",
     "latitude": "51.813947",
     "longitude": "4.7349256",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34621,
+    "name": "Dordrecht Zuid - Cereslaan",
+    "latitude": "51.7900748",
+    "longitude": "4.6731243",
     "thumbnail_url": ""
   },
   {
@@ -154,6 +168,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34955,
+    "name": "Handelskade ",
+    "latitude": "51.8068748",
+    "longitude": "4.6485077",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29848,
     "name": "Schendeldijk",
     "latitude": "51.7777237",
@@ -161,10 +182,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34954,
+    "name": "Handelskade ",
+    "latitude": "51.80685",
+    "longitude": "4.6485479",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24167,
     "name": "Torenstraat - Torenplaats",
     "latitude": "51.816772",
     "longitude": "4.6742462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34887,
+    "name": "Nassauweg",
+    "latitude": "51.8035146",
+    "longitude": "4.6700039",
     "thumbnail_url": ""
   },
   {
@@ -221,6 +256,13 @@
     "name": "Wantijbad",
     "latitude": "51.8150205",
     "longitude": "4.692375",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
     "thumbnail_url": ""
   },
   {
@@ -287,13 +329,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30818,
-    "name": "CS Dordrecht II",
-    "latitude": "51.8072777",
-    "longitude": "4.6718814",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24145,
     "name": "Recklinghausenweg - Provinciale weg",
     "latitude": "51.7971903",
@@ -305,6 +340,13 @@
     "name": "De Jagerweg - Bushalte Vredenburg",
     "latitude": "51.7750693",
     "longitude": "4.6809996",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30818,
+    "name": "CS Dordrecht II",
+    "latitude": "51.8072777",
+    "longitude": "4.6718814",
     "thumbnail_url": ""
   },
   {
@@ -410,13 +452,6 @@
     "name": "Q-Park P+R (Park Upstairs)",
     "latitude": "51.8067461",
     "longitude": "4.6683224",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
     "thumbnail_url": ""
   },
   {
@@ -757,7 +792,7 @@
   },
   {
     "id": 21159,
-    "name": "**De Waag",
+    "name": "*De Waag",
     "latitude": "51.8157166",
     "longitude": "4.6667989",
     "thumbnail_url": ""
