@@ -1,12 +1,5 @@
 [
   {
-    "id": 34803,
-    "name": "Skive College, Erhvervskollegiet",
-    "latitude": "56.557268",
-    "longitude": "9.0188086",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34472,
     "name": "Hotel Strandtangen ",
     "latitude": "56.5749",
@@ -21,13 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34471,
-    "name": " Søndercenteret",
-    "latitude": "56.5650901",
-    "longitude": "9.0314857",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34470,
     "name": "Skive Banegaard",
     "latitude": "56.5619015",
@@ -35,10 +21,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34471,
+    "name": " Søndercenteret",
+    "latitude": "56.5650901",
+    "longitude": "9.0314857",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34468,
     "name": "Skive Collage",
     "latitude": "56.5549563",
     "longitude": "9.0226383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34803,
+    "name": "Skive College, Erhvervskollegiet",
+    "latitude": "56.557268",
+    "longitude": "9.0188086",
     "thumbnail_url": ""
   }
 ]

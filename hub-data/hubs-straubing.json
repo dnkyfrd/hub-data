@@ -1,5 +1,12 @@
 [
   {
+    "id": 32702,
+    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
+    "latitude": "48.8853393",
+    "longitude": "12.6008593",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
@@ -11,13 +18,6 @@
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9024072",
     "longitude": "12.5136484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32702,
-    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-    "latitude": "48.8853393",
-    "longitude": "12.6008593",
     "thumbnail_url": ""
   },
   {
@@ -35,24 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32700,
-    "name": "Landshuter Str. Aldi",
-    "latitude": "48.8633673",
-    "longitude": "12.5751719",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32686,
-    "name": "Landshuter Str. Netto (Laterne)",
-    "latitude": "48.8690376",
-    "longitude": "12.5737951",
+    "id": 32701,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {
@@ -63,17 +49,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32700,
+    "name": "Landshuter Str. Aldi",
+    "latitude": "48.8633673",
+    "longitude": "12.5751719",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32686,
+    "name": "Landshuter Str. Netto (Laterne)",
+    "latitude": "48.8690376",
+    "longitude": "12.5737951",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32721,
     "name": "Förderzentrum (gegenüber) an Laterne",
     "latitude": "48.8686327",
     "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {
@@ -105,20 +105,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32688,
-    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
-    "latitude": "48.8733045",
-    "longitude": "12.564136",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32719,
-    "name": "Äussere Passauer Strasse _ Antoniusberg",
-    "latitude": "48.8745709",
-    "longitude": "12.5858091",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32681,
     "name": "Seminargasse",
     "latitude": "48.8822361",
@@ -137,6 +123,20 @@
     "name": "Alburg Bayerg. neben Schranke",
     "latitude": "48.8686911",
     "longitude": "12.5423566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32688,
+    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
+    "latitude": "48.8733045",
+    "longitude": "12.564136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32719,
+    "name": "Äussere Passauer Strasse _ Antoniusberg",
+    "latitude": "48.8745709",
+    "longitude": "12.5858091",
     "thumbnail_url": ""
   },
   {

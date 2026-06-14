@@ -35,17 +35,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29506,
+    "name": "Dahlialaan",
+    "latitude": "52.1897529",
+    "longitude": "4.4729593",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29486,
     "name": "Zwemstrand",
     "latitude": "52.1957475",
     "longitude": "4.4854559",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29497,
-    "name": "Poelgeest",
-    "latitude": "52.1805772",
-    "longitude": "4.4824559",
     "thumbnail_url": ""
   },
   {
@@ -105,13 +105,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29506,
-    "name": "Dahlialaan",
-    "latitude": "52.1897529",
-    "longitude": "4.4729593",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29525,
     "name": "Curium 2",
     "latitude": "52.1721083",
@@ -144,6 +137,13 @@
     "name": "Dorpstraat Oegstgeest",
     "latitude": "52.1896871",
     "longitude": "4.4672374",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29497,
+    "name": "Poelgeest",
+    "latitude": "52.1805772",
+    "longitude": "4.4824559",
     "thumbnail_url": ""
   },
   {
@@ -259,6 +259,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31373,
+    "name": "Studentenhuisvesting",
+    "latitude": "52.1687456",
+    "longitude": "4.4713879",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29502,
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
@@ -273,20 +287,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29927,
-    "name": "Museum Marinevliegkamp",
-    "latitude": "52.1747519",
-    "longitude": "4.4178164",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1665621",
-    "longitude": "4.4813332",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29533,
     "name": "Basalt",
     "latitude": "52.1705307",
@@ -294,17 +294,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29927,
+    "name": "Museum Marinevliegkamp",
+    "latitude": "52.1747519",
+    "longitude": "4.4178164",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29537,
     "name": "Corpus",
     "latitude": "52.170238",
     "longitude": "4.4585543",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29530,
-    "name": "Zweilandlaan",
-    "latitude": "52.1726259",
-    "longitude": "4.48704",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +343,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31373,
-    "name": "Studentenhuisvesting",
-    "latitude": "52.1687456",
-    "longitude": "4.4713879",
+    "id": 29530,
+    "name": "Zweilandlaan",
+    "latitude": "52.1726259",
+    "longitude": "4.48704",
     "thumbnail_url": ""
   },
   {
@@ -357,17 +357,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31362,
-    "name": "ECC Leiden",
-    "latitude": "52.163774",
-    "longitude": "4.4568115",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1665621",
+    "longitude": "4.4813332",
     "thumbnail_url": ""
   },
   {
@@ -375,6 +368,13 @@
     "name": "Blauwe vogelweg",
     "latitude": "52.1694844",
     "longitude": "4.4709798",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31362,
+    "name": "ECC Leiden",
+    "latitude": "52.163774",
+    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -581,24 +581,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29482,
-    "name": "Voetbalvereniging Valken",
-    "latitude": "52.1751207",
-    "longitude": "4.4432543",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29465,
     "name": "Wibra Rijnstraat",
     "latitude": "52.1950572",
     "longitude": "4.4253809",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29454,
-    "name": "Duinvallei 2",
-    "latitude": "52.1903801",
-    "longitude": "4.4207027",
     "thumbnail_url": ""
   },
   {
@@ -693,13 +679,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29373,
-    "name": "Fietsparkeerplaats Noordduinen",
-    "latitude": "52.2123027",
-    "longitude": "4.4035973",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29460,
     "name": "Brasserie Buitenhuis",
     "latitude": "52.159775",
@@ -742,6 +721,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29373,
+    "name": "Fietsparkeerplaats Noordduinen",
+    "latitude": "52.2123027",
+    "longitude": "4.4035973",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29591,
     "name": "Valkenburg strand",
     "latitude": "52.1579228",
@@ -767,6 +753,13 @@
     "name": "Hoorneslaan 3",
     "latitude": "52.2051331",
     "longitude": "4.4243578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29482,
+    "name": "Voetbalvereniging Valken",
+    "latitude": "52.1751207",
+    "longitude": "4.4432543",
     "thumbnail_url": ""
   },
   {
@@ -882,24 +875,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29351,
     "name": "Rijnsburg Sportpark",
     "latitude": "52.2019547",
     "longitude": "4.4459734",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29501,
-    "name": "Marelaan",
-    "latitude": "52.1792048",
-    "longitude": "4.4782432",
     "thumbnail_url": ""
   },
   {
@@ -949,6 +928,13 @@
     "name": "Dirk van den Broek",
     "latitude": "52.2047739",
     "longitude": "4.4078392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
@@ -1050,13 +1036,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29417,
-    "name": "Boulevard 6",
-    "latitude": "52.2049336",
-    "longitude": "4.3940062",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29436,
     "name": "Bibliotheek Katwijk",
     "latitude": "52.2010344",
@@ -1141,6 +1120,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29501,
+    "name": "Marelaan",
+    "latitude": "52.1792048",
+    "longitude": "4.4782432",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29473,
     "name": "Rijnstraat 2",
     "latitude": "52.1930748",
@@ -1152,6 +1138,13 @@
     "name": "Gemeentewerf Katwijk",
     "latitude": "52.2035062",
     "longitude": "4.4338814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29417,
+    "name": "Boulevard 6",
+    "latitude": "52.2049336",
+    "longitude": "4.3940062",
     "thumbnail_url": ""
   },
   {
