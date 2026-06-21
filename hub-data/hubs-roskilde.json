@@ -1,12 +1,5 @@
 [
   {
-    "id": 22560,
-    "name": "Fælledvej",
-    "latitude": "55.6353913",
-    "longitude": "12.062779",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29993,
     "name": "Kristiansminde Plejecenter nord",
     "latitude": "55.6357475",
@@ -14,10 +7,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22560,
+    "name": "Fælledvej",
+    "latitude": "55.6353913",
+    "longitude": "12.062779",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21635,
+    "name": "Algade v. Hersegade",
+    "latitude": "55.6410874",
+    "longitude": "12.0848259",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21663,
     "name": "Hyrdehøj Centret",
     "latitude": "55.6345597",
     "longitude": "12.0538536",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21942,
+    "name": "Vigen Strandpark",
+    "latitude": "55.6737912",
+    "longitude": "12.0819559",
     "thumbnail_url": ""
   },
   {
@@ -42,13 +56,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21942,
-    "name": "Vigen Strandpark",
-    "latitude": "55.6737912",
-    "longitude": "12.0819559",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21630,
     "name": "Byparken, Pipers Hus",
     "latitude": "55.6461588",
@@ -56,17 +63,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21628,
+    "name": "Sankt Ols Stræde",
+    "latitude": "55.6421406",
+    "longitude": "12.083878",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21621,
     "name": "Roskilde Sygehus, hovedindgang nord",
     "latitude": "55.636902",
     "longitude": "12.0904945",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21635,
-    "name": "Algade v. Hersegade",
-    "latitude": "55.6410874",
-    "longitude": "12.0848259",
     "thumbnail_url": ""
   },
   {
@@ -119,13 +126,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21618,
-    "name": "Rabalderstræde v. Containerstriben",
-    "latitude": "55.6285757",
-    "longitude": "12.0847068",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21970,
     "name": "Rådhuset, sundhedscentret",
     "latitude": "55.6346803",
@@ -144,13 +144,6 @@
     "name": "Kildegården øst",
     "latitude": "55.6378287",
     "longitude": "12.0718639",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21628,
-    "name": "Sankt Ols Stræde",
-    "latitude": "55.6421406",
-    "longitude": "12.083878",
     "thumbnail_url": ""
   },
   {
@@ -242,6 +235,13 @@
     "name": "HF og VUC ",
     "latitude": "55.6401677",
     "longitude": "12.0825948",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21618,
+    "name": "Rabalderstræde v. Containerstriben",
+    "latitude": "55.6285757",
+    "longitude": "12.0847068",
     "thumbnail_url": ""
   },
   {

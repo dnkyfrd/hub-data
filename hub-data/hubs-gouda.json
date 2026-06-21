@@ -56,6 +56,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32852,
+    "name": "Sportlaan",
+    "latitude": "52.0102598",
+    "longitude": "4.7314901",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32928,
     "name": "Ronsseweg 2",
     "latitude": "52.0201238",
@@ -175,17 +182,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32864,
+    "name": "MIddenmolenplein 2",
+    "latitude": "52.0116414",
+    "longitude": "4.7429857",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32943,
     "name": "Nieuwehaven 2",
     "latitude": "52.0126417",
     "longitude": "4.70635",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32926,
-    "name": "Ronsseweg 1",
-    "latitude": "52.0190014",
-    "longitude": "4.7063391",
     "thumbnail_url": ""
   },
   {
@@ -245,24 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32961,
-    "name": "Long Groenendaal",
-    "latitude": "52.0106653",
-    "longitude": "4.7079346",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32970,
     "name": "de la Reystraat",
     "latitude": "52.0096318",
     "longitude": "4.7227314",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32864,
-    "name": "MIddenmolenplein 2",
-    "latitude": "52.0116414",
-    "longitude": "4.7429857",
     "thumbnail_url": ""
   },
   {
@@ -277,13 +270,6 @@
     "name": "Willem and Marialaan",
     "latitude": "52.0189929",
     "longitude": "4.7163397",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32852,
-    "name": "Sportlaan",
-    "latitude": "52.0102598",
-    "longitude": "4.7314901",
     "thumbnail_url": ""
   },
   {
@@ -371,20 +357,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33404,
-    "name": "Waterlustlaan",
-    "latitude": "52.0386557",
-    "longitude": "4.7110007",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32941,
-    "name": "Herpstraat",
-    "latitude": "52.0142048",
-    "longitude": "4.7079819",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33402,
     "name": "Waterlelie",
     "latitude": "52.0290206",
@@ -399,10 +371,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33404,
+    "name": "Waterlustlaan",
+    "latitude": "52.0386557",
+    "longitude": "4.7110007",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32954,
     "name": "Raoul Wallenbergplantsoen",
     "latitude": "52.0111053",
     "longitude": "4.7135871",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32941,
+    "name": "Herpstraat",
+    "latitude": "52.0142048",
+    "longitude": "4.7079819",
     "thumbnail_url": ""
   },
   {
@@ -546,10 +532,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32926,
+    "name": "Ronsseweg 1",
+    "latitude": "52.0190014",
+    "longitude": "4.7063391",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32986,
     "name": "Parkstraat",
     "latitude": "52.0150902",
     "longitude": "4.6989409",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32961,
+    "name": "Long Groenendaal",
+    "latitude": "52.0106653",
+    "longitude": "4.7079346",
     "thumbnail_url": ""
   },
   {

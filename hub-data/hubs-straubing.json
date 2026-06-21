@@ -1,12 +1,5 @@
 [
   {
-    "id": 32702,
-    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-    "latitude": "48.8853393",
-    "longitude": "12.6008593",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
@@ -21,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32702,
+    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
+    "latitude": "48.8853393",
+    "longitude": "12.6008593",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32697,
     "name": "Bahnhof Ittling (Fahrradabstellanlage)",
     "latitude": "48.8848476",
@@ -28,24 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32709,
-    "name": "Haydnstrasse",
-    "latitude": "48.8688756",
-    "longitude": "12.5682731",
+    "id": 32686,
+    "name": "Landshuter Str. Netto (Laterne)",
+    "latitude": "48.8690376",
+    "longitude": "12.5737951",
     "thumbnail_url": ""
   },
   {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32691,
-    "name": "JVA (Hinter Pflanztrögen)",
-    "latitude": "48.8715442",
-    "longitude": "12.5889301",
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32686,
-    "name": "Landshuter Str. Netto (Laterne)",
-    "latitude": "48.8690376",
-    "longitude": "12.5737951",
+    "id": 32701,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {
@@ -74,6 +67,13 @@
     "name": "Förderzentrum (gegenüber) an Laterne",
     "latitude": "48.8686327",
     "longitude": "12.575624",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32709,
+    "name": "Haydnstrasse",
+    "latitude": "48.8688756",
+    "longitude": "12.5682731",
     "thumbnail_url": ""
   },
   {
@@ -91,17 +91,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32691,
+    "name": "JVA (Hinter Pflanztrögen)",
+    "latitude": "48.8715442",
+    "longitude": "12.5889301",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32682,
     "name": "Europaring 4",
     "latitude": "48.8945392",
     "longitude": "12.6576504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {

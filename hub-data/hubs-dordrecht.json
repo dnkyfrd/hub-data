@@ -1,23 +1,9 @@
 [
   {
-    "id": 21147,
-    "name": "Huis van Gijn",
-    "latitude": "51.8163349",
-    "longitude": "4.6639682",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34888,
     "name": "Vondelstraat Dordrecht",
     "latitude": "51.8044798",
     "longitude": "4.659763",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21139,
-    "name": "Korte Kolfstraat",
-    "latitude": "51.8137635",
-    "longitude": "4.6696716",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29851,
-    "name": "EBOH",
-    "latitude": "51.7815123",
-    "longitude": "4.6910687",
+    "id": 35139,
+    "name": "Haringvlietstraat",
+    "latitude": "51.8113675",
+    "longitude": "4.7203739",
     "thumbnail_url": ""
   },
   {
@@ -84,10 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29841,
-    "name": "Leen Bakker Dordrecht",
-    "latitude": "51.7938591",
-    "longitude": "4.6479753",
+    "id": 29851,
+    "name": "EBOH",
+    "latitude": "51.7815123",
+    "longitude": "4.6910687",
     "thumbnail_url": ""
   },
   {
@@ -95,6 +81,13 @@
     "name": "Thomas Estill",
     "latitude": "51.8129811",
     "longitude": "4.7013483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35487,
+    "name": "Waldeck Pyrmontweg",
+    "latitude": "51.7984354",
+    "longitude": "4.6672786",
     "thumbnail_url": ""
   },
   {
@@ -109,6 +102,13 @@
     "name": "Q-ParkDrievriendenhof",
     "latitude": "51.813793",
     "longitude": "4.6696957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29841,
+    "name": "Leen Bakker Dordrecht",
+    "latitude": "51.7938591",
+    "longitude": "4.6479753",
     "thumbnail_url": ""
   },
   {
@@ -144,6 +144,13 @@
     "name": "Dordrecht Zuid - Cereslaan",
     "latitude": "51.7900748",
     "longitude": "4.6731243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21139,
+    "name": "Korte Kolfstraat",
+    "latitude": "51.8137635",
+    "longitude": "4.6696716",
     "thumbnail_url": ""
   },
   {
@@ -189,10 +196,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29849,
     "name": "Volley Dordrecht",
     "latitude": "51.7783935",
     "longitude": "4.6935712",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35485,
+    "name": "Tak van Poortvlietstraat",
+    "latitude": "51.7961776",
+    "longitude": "4.666446",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35486,
+    "name": "Loudonstraat",
+    "latitude": "51.7950972",
+    "longitude": "4.6625006",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21147,
+    "name": "Huis van Gijn",
+    "latitude": "51.8163349",
+    "longitude": "4.6639682",
     "thumbnail_url": ""
   },
   {
@@ -343,13 +378,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34767,
     "name": "Patersweg",
     "latitude": "51.7964696",
@@ -361,6 +389,13 @@
     "name": "Celebesstraat - Javastraat",
     "latitude": "51.8094726",
     "longitude": "4.6815584",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34640,
+    "name": "Boogjes",
+    "latitude": "51.8127987",
+    "longitude": "4.6600716",
     "thumbnail_url": ""
   },
   {
@@ -417,13 +452,6 @@
     "name": "Wantijpark",
     "latitude": "51.8152804",
     "longitude": "4.6976571",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34640,
-    "name": "Boogjes",
-    "latitude": "51.8127987",
-    "longitude": "4.6600716",
     "thumbnail_url": ""
   },
   {
@@ -484,7 +512,7 @@
   },
   {
     "id": 29857,
-    "name": "Wijkcentrum",
+    "name": "Wijkcentrum Koloriet",
     "latitude": "51.7985054",
     "longitude": "4.6609992",
     "thumbnail_url": ""
@@ -932,7 +960,7 @@
   },
   {
     "id": 22385,
-    "name": "*Leerpark*",
+    "name": "*Leerpark I *",
     "latitude": "51.7988769",
     "longitude": "4.6815434",
     "thumbnail_url": ""

@@ -1,5 +1,12 @@
 [
   {
+    "id": 22532,
+    "name": "Parkplatz Hafenfeld",
+    "latitude": "47.6344818",
+    "longitude": "9.22306",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22530,
     "name": "Bahnhof Lengwil ",
     "latitude": "47.6261744",
@@ -7,10 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22532,
-    "name": "Parkplatz Hafenfeld",
-    "latitude": "47.6344818",
-    "longitude": "9.22306",
+    "id": 22529,
+    "name": "Bahnhof Bottighofen",
+    "latitude": "47.6407932",
+    "longitude": "9.2126815",
     "thumbnail_url": ""
   },
   {
@@ -21,10 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22524,
-    "name": "Bärenplatz/Festwiese",
-    "latitude": "47.6468718",
-    "longitude": "9.1761214",
+    "id": 27178,
+    "name": "Grenze Klein Venedig ",
+    "latitude": "47.654836",
+    "longitude": "9.1773609",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22527,
+    "name": "Sonnenwiesenstrasse",
+    "latitude": "47.6450885",
+    "longitude": "9.1900953",
     "thumbnail_url": ""
   },
   {
@@ -35,10 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27178,
-    "name": "Grenze Klein Venedig ",
-    "latitude": "47.654836",
-    "longitude": "9.1773609",
+    "id": 22524,
+    "name": "Bärenplatz/Festwiese",
+    "latitude": "47.6468718",
+    "longitude": "9.1761214",
     "thumbnail_url": ""
   },
   {
@@ -60,13 +74,6 @@
     "name": "Camping Fischerhaus",
     "latitude": "47.6470182",
     "longitude": "9.1981346",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22527,
-    "name": "Sonnenwiesenstrasse",
-    "latitude": "47.6450885",
-    "longitude": "9.1900953",
     "thumbnail_url": ""
   },
   {
@@ -123,13 +130,6 @@
     "name": "Bahnhof Kreuzlingen",
     "latitude": "47.6527784",
     "longitude": "9.1677532",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22529,
-    "name": "Bahnhof Bottighofen",
-    "latitude": "47.6407932",
-    "longitude": "9.2126815",
     "thumbnail_url": ""
   },
   {
