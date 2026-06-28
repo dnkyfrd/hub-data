@@ -1,9 +1,9 @@
 [
   {
-    "id": 32223,
-    "name": "Hotel Delft Centre",
-    "latitude": "52.0150012",
-    "longitude": "4.367498",
+    "id": 32124,
+    "name": "De Werelddreef",
+    "latitude": "51.9833127",
+    "longitude": "4.3470939",
     "thumbnail_url": ""
   },
   {
@@ -84,20 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32251,
-    "name": "Vesteplein",
-    "latitude": "52.0080851",
-    "longitude": "4.3626219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32161,
-    "name": "Charlotte de Bourbonstraat",
-    "latitude": "52.006442",
-    "longitude": "4.3742221",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32194,
     "name": "Hovenierstraat",
     "latitude": "52.0075062",
@@ -105,17 +91,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32124,
-    "name": "De Werelddreef",
-    "latitude": "51.9833127",
-    "longitude": "4.3470939",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32202,
-    "name": "Revolt Bouldering",
-    "latitude": "52.0252202",
-    "longitude": "4.3644554",
+    "id": 32251,
+    "name": "Vesteplein",
+    "latitude": "52.0080851",
+    "longitude": "4.3626219",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +102,13 @@
     "name": "SPAR Olierook",
     "latitude": "52.0043184",
     "longitude": "4.3508226",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -175,6 +161,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32161,
+    "name": "Charlotte de Bourbonstraat",
+    "latitude": "52.006442",
+    "longitude": "4.3742221",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32241,
     "name": "De Haagse Hogeschool 1",
     "latitude": "52.001075",
@@ -182,10 +175,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32248,
-    "name": "Mijnbouwstraat",
-    "latitude": "52.0069018",
-    "longitude": "4.3694555",
+    "id": 32228,
+    "name": "Yes Delft 2",
+    "latitude": "51.9939083",
+    "longitude": "4.387351",
     "thumbnail_url": ""
   },
   {
@@ -193,6 +186,13 @@
     "name": "Lijm & Cultuur",
     "latitude": "51.9963859",
     "longitude": "4.3697768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +207,20 @@
     "name": "Collegezaal A Oost",
     "latitude": "51.9997317",
     "longitude": "4.3753043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32128,
+    "name": "Lidl Ravelstraat",
+    "latitude": "51.9958967",
+    "longitude": "4.3417149",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32129,
+    "name": "Reinier de Graaf Gasthuis",
+    "latitude": "51.9977619",
+    "longitude": "4.3402315",
     "thumbnail_url": ""
   },
   {
@@ -231,17 +245,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32228,
-    "name": "Yes Delft 2",
-    "latitude": "51.9939083",
-    "longitude": "4.387351",
+    "id": 32202,
+    "name": "Revolt Bouldering",
+    "latitude": "52.0252202",
+    "longitude": "4.3644554",
     "thumbnail_url": ""
   },
   {
@@ -259,6 +266,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32223,
+    "name": "Hotel Delft Centre",
+    "latitude": "52.0150012",
+    "longitude": "4.367498",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32173,
     "name": "Hugo de Grootstraat 1",
     "latitude": "52.0099444",
@@ -270,6 +284,20 @@
     "name": "AH Ruys",
     "latitude": "52.0138415",
     "longitude": "4.3431273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32249,
+    "name": "IKEA Delft",
+    "latitude": "52.0126251",
+    "longitude": "4.3804788",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32248,
+    "name": "Mijnbouwstraat",
+    "latitude": "52.0069018",
+    "longitude": "4.3694555",
     "thumbnail_url": ""
   },
   {
@@ -322,13 +350,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32131,
-    "name": "Lidl Multatuliweg",
-    "latitude": "51.993267",
-    "longitude": "4.3593357",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32181,
     "name": "Ireneboulevard",
     "latitude": "52.0040981",
@@ -350,6 +371,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32188,
     "name": "Raamstraat 1",
     "latitude": "52.0064832",
@@ -357,31 +385,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32129,
-    "name": "Reinier de Graaf Gasthuis",
-    "latitude": "51.9977619",
-    "longitude": "4.3402315",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32237,
     "name": "SPAR TUD",
     "latitude": "52.0003481",
     "longitude": "4.3763484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32252,
-    "name": "Nieuwe Langendijk",
-    "latitude": "52.0132742",
-    "longitude": "4.36385",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32249,
-    "name": "IKEA Delft",
-    "latitude": "52.0126251",
-    "longitude": "4.3804788",
     "thumbnail_url": ""
   },
   {
@@ -427,13 +434,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32176,
     "name": "Coenderstraat 1",
     "latitude": "52.0072242",
@@ -448,10 +448,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32128,
-    "name": "Lidl Ravelstraat",
-    "latitude": "51.9958967",
-    "longitude": "4.3417149",
+    "id": 32252,
+    "name": "Nieuwe Langendijk",
+    "latitude": "52.0132742",
+    "longitude": "4.36385",
     "thumbnail_url": ""
   },
   {
@@ -459,6 +459,13 @@
     "name": "Het Verlaat",
     "latitude": "52.0196977",
     "longitude": "4.3623297",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32131,
+    "name": "Lidl Multatuliweg",
+    "latitude": "51.993267",
+    "longitude": "4.3593357",
     "thumbnail_url": ""
   },
   {
@@ -473,13 +480,6 @@
     "name": "Havenstraat 2",
     "latitude": "52.0092995",
     "longitude": "4.3535746",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {

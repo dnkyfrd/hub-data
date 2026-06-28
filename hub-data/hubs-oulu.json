@@ -1,16 +1,16 @@
 [
   {
+    "id": 34843,
+    "name": "Pikisaarentie",
+    "latitude": "65.0184497",
+    "longitude": "25.4539416",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34861,
     "name": "Värtön uimaranta",
     "latitude": "65.0178254",
     "longitude": "25.5262576",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34852,
-    "name": "Tuiran uimaranta",
-    "latitude": "65.0229939",
-    "longitude": "25.4880663",
     "thumbnail_url": ""
   },
   {
@@ -28,17 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34843,
-    "name": "Pikisaarentie",
-    "latitude": "65.0184497",
-    "longitude": "25.4539416",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34839,
-    "name": "Hupisaaret",
-    "latitude": "65.018201",
-    "longitude": "25.4791383",
+    "id": 34852,
+    "name": "Tuiran uimaranta",
+    "latitude": "65.0229939",
+    "longitude": "25.4880663",
     "thumbnail_url": ""
   },
   {
@@ -49,17 +42,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34828,
-    "name": "Kauppahalli ",
-    "latitude": "65.012986",
-    "longitude": "25.4645383",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34860,
     "name": "Aalto siilo",
     "latitude": "65.0447672",
     "longitude": "25.4329332",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34839,
+    "name": "Hupisaaret",
+    "latitude": "65.018201",
+    "longitude": "25.4791383",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +91,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34859,
-    "name": "Toppila klubi",
-    "latitude": "65.0351533",
-    "longitude": "25.447112",
+    "id": 35501,
+    "name": "Toppila Supermarket",
+    "latitude": "65.0357841",
+    "longitude": "25.4394899",
     "thumbnail_url": ""
   },
   {
@@ -119,13 +112,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34830,
-    "name": "Kauppatori",
-    "latitude": "65.0142008",
-    "longitude": "25.4659321",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34840,
     "name": "Merikoskenkatu",
     "latitude": "65.0245555",
@@ -133,10 +119,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34828,
+    "name": "Kauppahalli ",
+    "latitude": "65.012986",
+    "longitude": "25.4645383",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34833,
     "name": "Valkea",
     "latitude": "65.0110527",
     "longitude": "25.4728703",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34830,
+    "name": "Kauppatori",
+    "latitude": "65.0142008",
+    "longitude": "25.4659321",
     "thumbnail_url": ""
   },
   {

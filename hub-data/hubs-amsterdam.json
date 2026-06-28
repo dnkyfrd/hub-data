@@ -1,23 +1,16 @@
 [
   {
-    "id": 31770,
-    "name": "Station Zaandam Kogerveld",
-    "latitude": "52.4569946",
-    "longitude": "4.8192717",
+    "id": 30417,
+    "name": "B Amsterdam",
+    "latitude": "52.3428284",
+    "longitude": "4.8284728",
     "thumbnail_url": ""
   },
   {
-    "id": 31774,
-    "name": "Halte Edam Busstation",
-    "latitude": "52.5102944",
-    "longitude": "5.0447229",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31828,
-    "name": "Halte Oostzaan Lisweg",
-    "latitude": "52.4369425",
-    "longitude": "4.8775592",
+    "id": 31756,
+    "name": "Station Duivendrecht",
+    "latitude": "52.3232396",
+    "longitude": "4.9363679",
     "thumbnail_url": ""
   },
   {
@@ -35,17 +28,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31755,
+    "name": "Station Diemen Zuid",
+    "latitude": "52.3302353",
+    "longitude": "4.9541849",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31769,
     "name": "Station Krommenie Assendelft II",
     "latitude": "52.494679",
     "longitude": "4.7547616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31763,
-    "name": "Station Nieuw Vennep",
-    "latitude": "52.2592382",
-    "longitude": "4.6450432",
     "thumbnail_url": ""
   },
   {
@@ -60,13 +53,6 @@
     "name": "Station Krommenie Assendelft I",
     "latitude": "52.495152",
     "longitude": "4.7556883",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31765,
-    "name": "Station Halfweg Zwanenburg",
-    "latitude": "52.3860205",
-    "longitude": "4.7453457",
     "thumbnail_url": ""
   },
   {
@@ -91,13 +77,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21830,
     "name": "!PARK UNDERGROUND! Station Zuidplein",
     "latitude": "52.3399475",
@@ -105,10 +84,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26619,
-    "name": "Science Park campus",
-    "latitude": "52.3550805",
-    "longitude": "4.9558884",
+    "id": 23567,
+    "name": "TotalEnergies Tweede van der Helststraat",
+    "latitude": "52.3492609",
+    "longitude": "4.8947921",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
     "thumbnail_url": ""
   },
   {
@@ -119,17 +105,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31763,
+    "name": "Station Nieuw Vennep",
+    "latitude": "52.2592382",
+    "longitude": "4.6450432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31770,
+    "name": "Station Zaandam Kogerveld",
+    "latitude": "52.4569946",
+    "longitude": "4.8192717",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31765,
+    "name": "Station Halfweg Zwanenburg",
+    "latitude": "52.3860205",
+    "longitude": "4.7453457",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23565,
+    "name": "TotalEnergies Burg de Vlugtlaan",
+    "latitude": "52.3801295",
+    "longitude": "4.8281348",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31761,
     "name": "Station Zaandijk Zaanse Schans II",
     "latitude": "52.4690327",
     "longitude": "4.8048231",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31755,
-    "name": "Station Diemen Zuid",
-    "latitude": "52.3302353",
-    "longitude": "4.9541849",
     "thumbnail_url": ""
   },
   {
@@ -147,17 +161,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31756,
-    "name": "Station Duivendrecht",
-    "latitude": "52.3232396",
-    "longitude": "4.9363679",
+    "id": 31828,
+    "name": "Halte Oostzaan Lisweg",
+    "latitude": "52.4369425",
+    "longitude": "4.8775592",
     "thumbnail_url": ""
   },
   {
-    "id": 23567,
-    "name": "TotalEnergies Tweede van der Helststraat",
-    "latitude": "52.3492609",
-    "longitude": "4.8947921",
+    "id": 26619,
+    "name": "Science Park campus",
+    "latitude": "52.3550805",
+    "longitude": "4.9558884",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
     "thumbnail_url": ""
   },
   {
@@ -168,31 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30417,
-    "name": "B Amsterdam",
-    "latitude": "52.3428284",
-    "longitude": "4.8284728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23565,
-    "name": "TotalEnergies Burg de Vlugtlaan",
-    "latitude": "52.3801295",
-    "longitude": "4.8281348",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
+    "id": 31774,
+    "name": "Halte Edam Busstation",
+    "latitude": "52.5102944",
+    "longitude": "5.0447229",
     "thumbnail_url": ""
   },
   {

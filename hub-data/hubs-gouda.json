@@ -161,13 +161,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32920,
-    "name": "Plataanstraat 2",
-    "latitude": "52.02938",
-    "longitude": "4.6905087",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32973,
     "name": "Goudkade",
     "latitude": "52.0109221",
@@ -287,13 +280,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32940,
-    "name": "Clay Road",
-    "latitude": "52.0152248",
-    "longitude": "4.7093073",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32929,
     "name": "Vuurdoornlaan 3",
     "latitude": "52.0248473",
@@ -392,6 +378,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32940,
+    "name": "Clay Road",
+    "latitude": "52.0152248",
+    "longitude": "4.7093073",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32896,
     "name": "Groenhovenpark",
     "latitude": "52.0232967",
@@ -462,6 +455,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32920,
+    "name": "Plataanstraat 2",
+    "latitude": "52.02938",
+    "longitude": "4.6905087",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32914,
     "name": "Olympia",
     "latitude": "52.0240568",
@@ -480,6 +480,13 @@
     "name": "Nieuwehaven 1",
     "latitude": "52.0118546",
     "longitude": "4.7044749",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32986,
+    "name": "Parkstraat",
+    "latitude": "52.0150902",
+    "longitude": "4.6989409",
     "thumbnail_url": ""
   },
   {
@@ -504,13 +511,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32968,
-    "name": "Turfmarkt 1",
-    "latitude": "52.0138909",
-    "longitude": "4.7107624",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32900,
     "name": "Gildenburg 2",
     "latitude": "52.0314452",
@@ -532,17 +532,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32968,
+    "name": "Turfmarkt 1",
+    "latitude": "52.0138909",
+    "longitude": "4.7107624",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32918,
+    "name": "Thorbeckelaan",
+    "latitude": "52.0215051",
+    "longitude": "4.7095926",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32926,
     "name": "Ronsseweg 1",
     "latitude": "52.0190014",
     "longitude": "4.7063391",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32986,
-    "name": "Parkstraat",
-    "latitude": "52.0150902",
-    "longitude": "4.6989409",
     "thumbnail_url": ""
   },
   {
@@ -557,13 +564,6 @@
     "name": "Gildenburg 3",
     "latitude": "52.0325129",
     "longitude": "4.7028525",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32966,
-    "name": "New Street",
-    "latitude": "52.0134846",
-    "longitude": "4.7103523",
     "thumbnail_url": ""
   },
   {
@@ -665,13 +665,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32918,
-    "name": "Thorbeckelaan",
-    "latitude": "52.0215051",
-    "longitude": "4.7095926",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30988,
     "name": "Gouda Goverwelle",
     "latitude": "52.0146456",
@@ -711,6 +704,13 @@
     "name": "Olympiadeplein",
     "latitude": "52.0112246",
     "longitude": "4.7379174",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32966,
+    "name": "New Street",
+    "latitude": "52.0134846",
+    "longitude": "4.7103523",
     "thumbnail_url": ""
   },
   {

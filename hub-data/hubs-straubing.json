@@ -7,13 +7,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32694,
-    "name": "Flugplatz Wallmühle",
-    "latitude": "48.9024072",
-    "longitude": "12.5136484",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32702,
     "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
     "latitude": "48.8853393",
@@ -35,10 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
+    "id": 32694,
+    "name": "Flugplatz Wallmühle",
+    "latitude": "48.9025239",
+    "longitude": "12.5129751",
     "thumbnail_url": ""
   },
   {
@@ -56,20 +49,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32721,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32709,
     "name": "Haydnstrasse",
     "latitude": "48.8688756",
@@ -77,17 +56,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32708,
     "name": "Beim Römerschatz",
     "latitude": "48.8701578",
     "longitude": "12.5499594",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
     "thumbnail_url": ""
   },
   {
@@ -102,6 +81,27 @@
     "name": "Europaring 4",
     "latitude": "48.8945392",
     "longitude": "12.6576504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32701,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32721,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32675,
+    "name": "Am Hagen Straubing",
+    "latitude": "48.8868628",
+    "longitude": "12.5624726",
     "thumbnail_url": ""
   },
   {
@@ -197,7 +197,7 @@
   },
   {
     "id": 32717,
-    "name": "Bahnhof",
+    "name": "Bahnhof Straubing",
     "latitude": "48.8775773",
     "longitude": "12.5740004",
     "thumbnail_url": ""
