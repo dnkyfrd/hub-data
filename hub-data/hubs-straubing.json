@@ -28,6 +28,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32694,
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9025239",
@@ -56,17 +63,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32708,
-    "name": "Beim Römerschatz",
-    "latitude": "48.8701578",
-    "longitude": "12.5499594",
+    "id": 32717,
+    "name": "Bahnhof Straubing",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +98,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32675,
-    "name": "Am Hagen Straubing",
-    "latitude": "48.8868628",
-    "longitude": "12.5624726",
+    "id": 32708,
+    "name": "Beim Römerschatz",
+    "latitude": "48.8701578",
+    "longitude": "12.5499594",
     "thumbnail_url": ""
   },
   {
@@ -196,13 +196,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof Straubing",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32710,
     "name": "Theresienplatz vor Pustet (Fahrradständer)",
     "latitude": "48.8811806",
@@ -214,13 +207,6 @@
     "name": "Georg-Kelnhofer-Strasse, Ladesäule Solar",
     "latitude": "48.8734229",
     "longitude": "12.5453889",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32699,
-    "name": "Schulgasse (TFZ), Wallbox",
-    "latitude": "48.8838232",
-    "longitude": "12.5837345",
     "thumbnail_url": ""
   }
 ]

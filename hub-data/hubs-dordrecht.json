@@ -28,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34770,
-    "name": "Kamerlingh Omnesweg II",
-    "latitude": "51.7800243",
-    "longitude": "4.6409096",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34772,
     "name": "Noorderkroonstraat",
     "latitude": "51.7872751",
@@ -91,13 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34723,
-    "name": "Zeemanweg",
-    "latitude": "51.7744385",
-    "longitude": "4.6375242",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29851,
     "name": "EBOH",
     "latitude": "51.7815123",
@@ -109,6 +95,13 @@
     "name": "Thomas Estill",
     "latitude": "51.8129811",
     "longitude": "4.7013483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34621,
+    "name": "Dordrecht Zuid - Cereslaan",
+    "latitude": "51.7900748",
+    "longitude": "4.6731243",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +126,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34770,
+    "name": "Kamerlingh Omnesweg II",
+    "latitude": "51.7800243",
+    "longitude": "4.6409096",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29860,
     "name": "Duurzaamheidscentrum",
     "latitude": "51.806614",
@@ -154,31 +154,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29890,
     "name": "Windkracht",
     "latitude": "51.813947",
     "longitude": "4.7349256",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34621,
-    "name": "Dordrecht Zuid - Cereslaan",
-    "latitude": "51.7900748",
-    "longitude": "4.6731243",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29853,
-    "name": "Jumbo Dordrecht",
-    "latitude": "51.7864628",
-    "longitude": "4.675859",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35487,
-    "name": "Waldeck Pyrmontweg",
-    "latitude": "51.7984354",
-    "longitude": "4.6672786",
     "thumbnail_url": ""
   },
   {
@@ -200,13 +186,6 @@
     "name": "Wolwevershaven",
     "latitude": "51.818905",
     "longitude": "4.6673214",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34955,
-    "name": "Handelskade ",
-    "latitude": "51.8068748",
-    "longitude": "4.6485077",
     "thumbnail_url": ""
   },
   {
@@ -245,24 +224,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
+    "id": 29853,
+    "name": "Jumbo Dordrecht",
+    "latitude": "51.7864628",
+    "longitude": "4.675859",
     "thumbnail_url": ""
   },
   {
-    "id": 35509,
-    "name": "Dubbelmondestraat",
-    "latitude": "51.8049539",
-    "longitude": "4.682064",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35485,
-    "name": "Tak van Poortvlietstraat",
-    "latitude": "51.7961776",
-    "longitude": "4.666446",
+    "id": 34723,
+    "name": "Zeemanweg",
+    "latitude": "51.7744385",
+    "longitude": "4.6375242",
     "thumbnail_url": ""
   },
   {
@@ -294,17 +266,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21147,
-    "name": "Huis van Gijn",
-    "latitude": "51.8163349",
-    "longitude": "4.6639682",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30794,
     "name": "Dental 365",
     "latitude": "51.8091995",
     "longitude": "4.6683432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35487,
+    "name": "Waldeck Pyrmontweg",
+    "latitude": "51.7984354",
+    "longitude": "4.6672786",
     "thumbnail_url": ""
   },
   {
@@ -336,13 +308,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21143,
-    "name": "Bagijnhof 2",
-    "latitude": "51.8121946",
-    "longitude": "4.6683275",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34610,
     "name": "Chemours *",
     "latitude": "51.8152229",
@@ -350,10 +315,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21147,
+    "name": "Huis van Gijn",
+    "latitude": "51.8163349",
+    "longitude": "4.6639682",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29844,
     "name": "Sportplaza",
     "latitude": "51.796718",
     "longitude": "4.6533239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35509,
+    "name": "Dubbelmondestraat",
+    "latitude": "51.8049539",
+    "longitude": "4.682064",
     "thumbnail_url": ""
   },
   {
@@ -371,6 +350,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21143,
+    "name": "Bagijnhof 2",
+    "latitude": "51.8121946",
+    "longitude": "4.6683275",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27835,
     "name": "JP Van Eesteren 2",
     "latitude": "51.8110341",
@@ -385,6 +371,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24135,
+    "name": "Hellenburg - Goudestein",
+    "latitude": "51.7742267",
+    "longitude": "4.6715733",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29871,
     "name": "Fortiushal",
     "latitude": "51.8055678",
@@ -392,17 +385,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35485,
+    "name": "Tak van Poortvlietstraat",
+    "latitude": "51.7961776",
+    "longitude": "4.666446",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29841,
     "name": "Leen Bakker Dordrecht",
     "latitude": "51.7938591",
     "longitude": "4.6479753",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24135,
-    "name": "Hellenburg - Goudestein",
-    "latitude": "51.7742267",
-    "longitude": "4.6715733",
     "thumbnail_url": ""
   },
   {
@@ -431,13 +424,6 @@
     "name": "Oranje Withal",
     "latitude": "51.8095253",
     "longitude": "4.699979",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24145,
-    "name": "Recklinghausenweg - Provinciale weg",
-    "latitude": "51.7971903",
-    "longitude": "4.7144174",
     "thumbnail_url": ""
   },
   {
@@ -476,6 +462,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24145,
+    "name": "Recklinghausenweg - Provinciale weg",
+    "latitude": "51.7971903",
+    "longitude": "4.7144174",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34640,
     "name": "Boogjes",
     "latitude": "51.8127987",
@@ -484,9 +477,9 @@
   },
   {
     "id": 24155,
-    "name": "Baanhoekweg Merwehal **",
-    "latitude": "51.8150765",
-    "longitude": "4.7263496",
+    "name": "Baanhoekweg Merwehal",
+    "latitude": "51.8151203",
+    "longitude": "4.7262062",
     "thumbnail_url": ""
   },
   {

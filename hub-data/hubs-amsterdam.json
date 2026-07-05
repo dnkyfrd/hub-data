@@ -1,16 +1,9 @@
 [
   {
-    "id": 30417,
-    "name": "B Amsterdam",
-    "latitude": "52.3428284",
-    "longitude": "4.8284728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31756,
-    "name": "Station Duivendrecht",
-    "latitude": "52.3232396",
-    "longitude": "4.9363679",
+    "id": 31774,
+    "name": "Halte Edam Busstation",
+    "latitude": "52.5102944",
+    "longitude": "5.0447229",
     "thumbnail_url": ""
   },
   {
@@ -28,31 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31755,
-    "name": "Station Diemen Zuid",
-    "latitude": "52.3302353",
-    "longitude": "4.9541849",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31769,
     "name": "Station Krommenie Assendelft II",
     "latitude": "52.494679",
     "longitude": "4.7547616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31896,
-    "name": "Station Purmerend Weidevenne II",
-    "latitude": "52.4967467",
-    "longitude": "4.9351717",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31768,
-    "name": "Station Krommenie Assendelft I",
-    "latitude": "52.495152",
-    "longitude": "4.7556883",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +42,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31896,
+    "name": "Station Purmerend Weidevenne II",
+    "latitude": "52.4967467",
+    "longitude": "4.9351717",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20883,
     "name": "!PARK INDOOR! Amstelstation",
     "latitude": "52.3468462",
     "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
     "thumbnail_url": ""
   },
   {
@@ -105,10 +91,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
+    "id": 30417,
+    "name": "B Amsterdam",
+    "latitude": "52.3428284",
+    "longitude": "4.8284728",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31756,
+    "name": "Station Duivendrecht",
+    "latitude": "52.3232396",
+    "longitude": "4.9363679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31768,
+    "name": "Station Krommenie Assendelft I",
+    "latitude": "52.495152",
+    "longitude": "4.7556883",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23565,
+    "name": "TotalEnergies Burg de Vlugtlaan",
+    "latitude": "52.3801295",
+    "longitude": "4.8281348",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26619,
+    "name": "Science Park campus",
+    "latitude": "52.3550805",
+    "longitude": "4.9558884",
     "thumbnail_url": ""
   },
   {
@@ -126,6 +140,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31755,
+    "name": "Station Diemen Zuid",
+    "latitude": "52.3302353",
+    "longitude": "4.9541849",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31765,
     "name": "Station Halfweg Zwanenburg",
     "latitude": "52.3860205",
@@ -133,10 +154,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23565,
-    "name": "TotalEnergies Burg de Vlugtlaan",
-    "latitude": "52.3801295",
-    "longitude": "4.8281348",
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
     "thumbnail_url": ""
   },
   {
@@ -168,31 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26619,
-    "name": "Science Park campus",
-    "latitude": "52.3550805",
-    "longitude": "4.9558884",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31764,
     "name": "Station Hoofddorp",
     "latitude": "52.2921885",
     "longitude": "4.6992054",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31774,
-    "name": "Halte Edam Busstation",
-    "latitude": "52.5102944",
-    "longitude": "5.0447229",
     "thumbnail_url": ""
   },
   {
