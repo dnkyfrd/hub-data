@@ -2,6 +2,20 @@
 
 Fetches public hub data from the Donkey Republic Stables API for each configured city and saves it as JSON in the `hub-data/` directory. A GitHub Action runs weekly (Sundays at 00:00 UTC) and can also be triggered manually.
 
+## GitHub automation
+
+The [`Fetch Hub Data`](./.github/workflows/fetch-data.yml) workflow runs automatically **every Sunday at 00:00 UTC**. It executes `fetch-json.js`, writes any changes to `hub-data/*.json`, and commits them back to `main` as a `🤖 Auto-update hub data` commit.
+
+### Triggering a run manually
+
+If you've just added a new city and don't want to wait for the next scheduled run, kick it off manually:
+
+1. Go to the [Actions tab](../../actions/workflows/fetch-data.yml) of this repo.
+2. Select **Fetch Hub Data** in the left sidebar.
+3. Click **Run workflow** → choose the `main` branch → **Run workflow**.
+
+Within a minute or two the workflow will commit the new `hub-data/hubs-<name>.json` file, and the city will be live in Webflow as soon as it's wired up (see below).
+
 ## Adding a new city
 
 1. **Find the city ID** in Stables:
