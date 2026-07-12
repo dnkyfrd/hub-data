@@ -1,16 +1,16 @@
 [
   {
-    "id": 22524,
-    "name": "Bärenplatz/Festwiese",
-    "latitude": "47.6468718",
-    "longitude": "9.1761214",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22530,
     "name": "Bahnhof Lengwil ",
     "latitude": "47.6261744",
     "longitude": "9.1899964",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30174,
+    "name": "Bhf. Münsterlingen-Scherzingen",
+    "latitude": "47.6334751",
+    "longitude": "9.227371",
     "thumbnail_url": ""
   },
   {
@@ -21,6 +21,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22529,
+    "name": "Bahnhof Bottighofen",
+    "latitude": "47.6407932",
+    "longitude": "9.2126815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27221,
+    "name": "Bahnhof Tägerwilen-Dorf ",
+    "latitude": "47.6537621",
+    "longitude": "9.1394509",
+    "thumbnail_url": ""
+  },
+  {
     "id": 22532,
     "name": "Parkplatz Hafenfeld",
     "latitude": "47.6344818",
@@ -28,10 +42,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30174,
-    "name": "Bhf. Münsterlingen-Scherzingen",
-    "latitude": "47.6334751",
-    "longitude": "9.227371",
+    "id": 22524,
+    "name": "Bärenplatz/Festwiese",
+    "latitude": "47.6468718",
+    "longitude": "9.1761214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27219,
+    "name": "Bahnhof Tägerwilen-Gottlieben",
+    "latitude": "47.6596514",
+    "longitude": "9.1327185",
     "thumbnail_url": ""
   },
   {
@@ -46,27 +67,6 @@
     "name": "Kursschifffahrtshafen",
     "latitude": "47.6512313",
     "longitude": "9.1807834",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27221,
-    "name": "Bahnhof Tägerwilen-Dorf ",
-    "latitude": "47.6537621",
-    "longitude": "9.1394509",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27219,
-    "name": "Bahnhof Tägerwilen-Gottlieben",
-    "latitude": "47.6596514",
-    "longitude": "9.1327185",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22529,
-    "name": "Bahnhof Bottighofen",
-    "latitude": "47.6407932",
-    "longitude": "9.2126815",
     "thumbnail_url": ""
   },
   {

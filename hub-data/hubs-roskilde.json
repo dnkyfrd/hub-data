@@ -7,13 +7,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21609,
-    "name": "Teknisk Skole, HTX",
-    "latitude": "55.6254402",
-    "longitude": "12.082961",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21604,
     "name": "Roskilde Station ved Føtex",
     "latitude": "55.6376829",
@@ -21,10 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29265,
-    "name": "Centralmagasinet",
-    "latitude": "55.6549004",
-    "longitude": "12.0583146",
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
     "thumbnail_url": ""
   },
   {
@@ -32,6 +25,20 @@
     "name": "Rabalderstræde v. Containerstriben",
     "latitude": "55.6285757",
     "longitude": "12.0847068",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21609,
+    "name": "Teknisk Skole, HTX",
+    "latitude": "55.6254402",
+    "longitude": "12.082961",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29265,
+    "name": "Centralmagasinet",
+    "latitude": "55.6549004",
+    "longitude": "12.0583146",
     "thumbnail_url": ""
   },
   {
@@ -49,6 +56,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28740,
+    "name": "Festival North",
+    "latitude": "55.6228863",
+    "longitude": "12.0783195",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21635,
     "name": "Algade v. Hersegade",
     "latitude": "55.6410874",
@@ -63,24 +77,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28740,
-    "name": "Festival North",
-    "latitude": "55.6228863",
-    "longitude": "12.0783195",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21621,
     "name": "Roskilde Sygehus, hovedindgang nord",
     "latitude": "55.636902",
     "longitude": "12.0904945",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28751,
-    "name": "Trekroner Station syd",
-    "latitude": "55.6476658",
-    "longitude": "12.1321158",
     "thumbnail_url": ""
   },
   {
@@ -91,10 +91,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21542,
-    "name": "Roskilde Station ved Kirkegården",
-    "latitude": "55.6394026",
-    "longitude": "12.0881065",
+    "id": 28751,
+    "name": "Trekroner Station syd",
+    "latitude": "55.6476658",
+    "longitude": "12.1321158",
     "thumbnail_url": ""
   },
   {
@@ -119,10 +119,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21633,
-    "name": "Folkeparken, Frøspringvandet",
-    "latitude": "55.6442213",
-    "longitude": "12.0905242",
+    "id": 21542,
+    "name": "Roskilde Station ved Kirkegården",
+    "latitude": "55.6394026",
+    "longitude": "12.0881065",
     "thumbnail_url": ""
   },
   {
@@ -154,13 +154,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21646,
-    "name": "Kildegården",
-    "latitude": "55.6391526",
-    "longitude": "12.0712763",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21970,
     "name": "Rådhuset, sundhedscentret",
     "latitude": "55.6346803",
@@ -175,24 +168,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21524,
-    "name": "Roskilde Station - syd",
-    "latitude": "55.6376438",
-    "longitude": "12.0876918",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21619,
     "name": "Rådhuset",
     "latitude": "55.633969",
     "longitude": "12.0895626",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21808,
-    "name": "TiendeklasseCenter (TCR)",
-    "latitude": "55.6259352",
-    "longitude": "12.0777042",
     "thumbnail_url": ""
   },
   {
@@ -210,6 +189,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21808,
+    "name": "TiendeklasseCenter (TCR)",
+    "latitude": "55.6259352",
+    "longitude": "12.0777042",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21622,
     "name": "Roskilde Bibliotek, Dr. Margrethesvej",
     "latitude": "55.6423699",
@@ -221,6 +207,27 @@
     "name": "Gimle",
     "latitude": "55.639841",
     "longitude": "12.07148",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23542,
+    "name": "Astersvej",
+    "latitude": "55.6298677",
+    "longitude": "12.0962601",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21633,
+    "name": "Folkeparken, Frøspringvandet",
+    "latitude": "55.6442213",
+    "longitude": "12.0905242",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21646,
+    "name": "Kildegården",
+    "latitude": "55.6391526",
+    "longitude": "12.0712763",
     "thumbnail_url": ""
   },
   {
@@ -361,13 +368,6 @@
     "name": "Københavnsvej v. Lidl",
     "latitude": "55.6424211",
     "longitude": "12.1092135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23542,
-    "name": "Astersvej",
-    "latitude": "55.6298677",
-    "longitude": "12.0962601",
     "thumbnail_url": ""
   },
   {

@@ -1,19 +1,5 @@
 [
   {
-    "id": 32228,
-    "name": "Yes Delft 2",
-    "latitude": "51.9939083",
-    "longitude": "4.387351",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32122,
     "name": "Bikolaan",
     "latitude": "51.9810713",
@@ -21,17 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32237,
-    "name": "SPAR TUD",
-    "latitude": "52.0003481",
-    "longitude": "4.3763484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32118,
-    "name": "VSL National Metrology Institute",
-    "latitude": "51.9855547",
-    "longitude": "4.387637",
+    "id": 32221,
+    "name": "AH Ruys",
+    "latitude": "52.0138415",
+    "longitude": "4.3431273",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +77,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32208,
     "name": "Hof van Delftlaan 2",
     "latitude": "52.0124645",
@@ -112,17 +98,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32202,
-    "name": "Revolt Bouldering",
-    "latitude": "52.0252202",
-    "longitude": "4.3644554",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
+    "id": 32228,
+    "name": "Yes Delft 2",
+    "latitude": "51.9939083",
+    "longitude": "4.387351",
     "thumbnail_url": ""
   },
   {
@@ -168,10 +147,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32225,
-    "name": "Het Verlaat",
-    "latitude": "52.0196977",
-    "longitude": "4.3623297",
+    "id": 32118,
+    "name": "VSL National Metrology Institute",
+    "latitude": "51.9855547",
+    "longitude": "4.387637",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32237,
+    "name": "SPAR TUD",
+    "latitude": "52.0003481",
+    "longitude": "4.3763484",
     "thumbnail_url": ""
   },
   {
@@ -179,6 +165,13 @@
     "name": "Lijm & Cultuur",
     "latitude": "51.9963859",
     "longitude": "4.3697768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32178,
+    "name": "Coenderstraat 3",
+    "latitude": "52.0068412",
+    "longitude": "4.3554966",
     "thumbnail_url": ""
   },
   {
@@ -193,6 +186,13 @@
     "name": "Collegezaal A Oost",
     "latitude": "51.9997317",
     "longitude": "4.3753043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32202,
+    "name": "Revolt Bouldering",
+    "latitude": "52.0252202",
+    "longitude": "4.3644554",
     "thumbnail_url": ""
   },
   {
@@ -231,6 +231,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32161,
     "name": "Charlotte de Bourbonstraat",
     "latitude": "52.006442",
@@ -242,13 +249,6 @@
     "name": "Havenstraat 1",
     "latitude": "52.0092071",
     "longitude": "4.3544758",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32128,
-    "name": "Lidl Ravelstraat",
-    "latitude": "51.9958967",
-    "longitude": "4.3417149",
     "thumbnail_url": ""
   },
   {
@@ -287,13 +287,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32223,
     "name": "Hotel Delft Centre",
     "latitude": "52.0150012",
@@ -305,13 +298,6 @@
     "name": "Hugo de Grootstraat 1",
     "latitude": "52.0099444",
     "longitude": "4.3540618",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32221,
-    "name": "AH Ruys",
-    "latitude": "52.0138415",
-    "longitude": "4.3431273",
     "thumbnail_url": ""
   },
   {
@@ -333,6 +319,20 @@
     "name": "Education and Student Affairs",
     "latitude": "52.0027097",
     "longitude": "4.3713567",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32128,
+    "name": "Lidl Ravelstraat",
+    "latitude": "51.9958967",
+    "longitude": "4.3417149",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32251,
+    "name": "Vesteplein",
+    "latitude": "52.0080851",
+    "longitude": "4.3626219",
     "thumbnail_url": ""
   },
   {
@@ -378,6 +378,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32225,
+    "name": "Het Verlaat",
+    "latitude": "52.0196977",
+    "longitude": "4.3623297",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32154,
     "name": "Julianalaan II",
     "latitude": "52.0101021",
@@ -396,6 +403,13 @@
     "name": "Raamstraat 1",
     "latitude": "52.0064832",
     "longitude": "4.3553136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -459,13 +473,6 @@
     "name": "Ruivenstraat",
     "latitude": "51.9915038",
     "longitude": "4.3732035",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32251,
-    "name": "Vesteplein",
-    "latitude": "52.0080851",
-    "longitude": "4.3626219",
     "thumbnail_url": ""
   },
   {
@@ -928,13 +935,6 @@
     "name": "Science Center TU Delft",
     "latitude": "51.9975188",
     "longitude": "4.3782828",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32178,
-    "name": "Coenderstraat 3",
-    "latitude": "52.0068412",
-    "longitude": "4.3554966",
     "thumbnail_url": ""
   },
   {
