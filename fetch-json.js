@@ -13,6 +13,7 @@ const cities = [
   { name: 'randers', endpoints: ['https://stables.donkey.bike/api/public/cities/308/hubs/'] },
   { name: 'roskilde', endpoints: ['https://stables.donkey.bike/api/public/cities/19/hubs/'] },
   { name: 'kouvola', endpoints: ['https://stables.donkey.bike/api/public/cities/208/hubs/'] },
+  { name: 'helsinki', endpoints: ['https://stables.donkey.bike/api/public/cities/283/hubs/'] },
   { name: 'turku', endpoints: ['https://stables.donkey.bike/api/public/cities/345/hubs/'] },
   {
     name: 'hanover', endpoints: [
