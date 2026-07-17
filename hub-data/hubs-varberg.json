@@ -1,58 +1,9 @@
 [
   {
-    "id": 19952,
-    "name": "Torget",
-    "latitude": "57.1058915",
-    "longitude": "12.2500476",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27130,
-    "name": "Varbergs bussterminal",
-    "latitude": "57.1098806",
-    "longitude": "12.250877",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19962,
-    "name": "Apelviken, Surftorget",
-    "latitude": "57.0817015",
-    "longitude": "12.2612407",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20618,
-    "name": "Sjukhuset, huvudentré",
-    "latitude": "57.099626",
-    "longitude": "12.2765769",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20710,
-    "name": "Pingvinen Is- och simarena",
-    "latitude": "57.1188857",
-    "longitude": "12.2793795",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19956,
-    "name": "Getterön 5:e vik",
-    "latitude": "57.1194831",
-    "longitude": "12.2012102",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19961,
-    "name": "Apelviken, Manettorget",
-    "latitude": "57.0851988",
-    "longitude": "12.252593",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19964,
-    "name": "Kåsa, Lilla Apelviken",
-    "latitude": "57.08981",
-    "longitude": "12.2432809",
+    "id": 20177,
+    "name": "Solviken",
+    "latitude": "57.0844212",
+    "longitude": "12.2495765",
     "thumbnail_url": ""
   },
   {
@@ -63,17 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19963,
-    "name": "Apelviken södra, Vikhyddan",
-    "latitude": "57.0772661",
-    "longitude": "12.2631786",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32278,
-    "name": "Varbergs station",
-    "latitude": "57.1124522",
-    "longitude": "12.2500536",
+    "id": 20618,
+    "name": "Sjukhuset, huvudentré",
+    "latitude": "57.099626",
+    "longitude": "12.2765769",
     "thumbnail_url": ""
   },
   {
@@ -84,31 +28,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20710,
+    "name": "Pingvinen Is- och simarena",
+    "latitude": "57.1188857",
+    "longitude": "12.2793795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20373,
+    "name": "Simstadion",
+    "latitude": "57.1033173",
+    "longitude": "12.2412533",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19956,
+    "name": "Getterön 5:e vik",
+    "latitude": "57.1194831",
+    "longitude": "12.2012102",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19959,
+    "name": "Träslövsläge, Strandbackavägen",
+    "latitude": "57.0618042",
+    "longitude": "12.2775492",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20456,
     "name": "Stora Coop",
     "latitude": "57.0821002",
     "longitude": "12.2792548",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35563,
-    "name": "Södra hamnvägen",
-    "latitude": "57.1067619",
-    "longitude": "12.2463804",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22565,
-    "name": "Kallbadhuset",
-    "latitude": "57.1085424",
-    "longitude": "12.2418165",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19955,
-    "name": "Ankaret",
-    "latitude": "57.0985213",
-    "longitude": "12.2435321",
     "thumbnail_url": ""
   },
   {
@@ -119,31 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19953,
-    "name": "Torggatan",
-    "latitude": "57.1054345",
-    "longitude": "12.2524679",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19951,
     "name": "Komedianten",
     "latitude": "57.1082529",
     "longitude": "12.2510151",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20177,
-    "name": "Solviken",
-    "latitude": "57.0844212",
-    "longitude": "12.2495765",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19959,
-    "name": "Träslövsläge, Strandbackavägen",
-    "latitude": "57.0618042",
-    "longitude": "12.2775492",
     "thumbnail_url": ""
   },
   {
@@ -161,10 +91,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20373,
-    "name": "Simstadion",
-    "latitude": "57.1033173",
-    "longitude": "12.2412533",
+    "id": 19961,
+    "name": "Apelviken, Manettorget",
+    "latitude": "57.0851988",
+    "longitude": "12.252593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19952,
+    "name": "Torget",
+    "latitude": "57.1058915",
+    "longitude": "12.2500476",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19955,
+    "name": "Ankaret",
+    "latitude": "57.0985213",
+    "longitude": "12.2435321",
     "thumbnail_url": ""
   },
   {
@@ -172,6 +116,34 @@
     "name": "Brukstorget",
     "latitude": "57.1205692",
     "longitude": "12.2578923",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19953,
+    "name": "Torggatan",
+    "latitude": "57.1054345",
+    "longitude": "12.2524679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27130,
+    "name": "Varbergs bussterminal",
+    "latitude": "57.1098806",
+    "longitude": "12.250877",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19964,
+    "name": "Kåsa, Lilla Apelviken",
+    "latitude": "57.08981",
+    "longitude": "12.2432809",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19962,
+    "name": "Apelviken, Surftorget",
+    "latitude": "57.0817015",
+    "longitude": "12.2612407",
     "thumbnail_url": ""
   },
   {
@@ -186,6 +158,27 @@
     "name": "Naturum Getterön",
     "latitude": "57.1264133",
     "longitude": "12.2530372",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19963,
+    "name": "Apelviken södra, Vikhyddan",
+    "latitude": "57.0772661",
+    "longitude": "12.2631786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32278,
+    "name": "Varbergs station",
+    "latitude": "57.1124522",
+    "longitude": "12.2500536",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22565,
+    "name": "Kallbadhuset",
+    "latitude": "57.1085424",
+    "longitude": "12.2418165",
     "thumbnail_url": ""
   },
   {

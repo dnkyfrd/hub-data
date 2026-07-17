@@ -28,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof Straubing",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32694,
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9025239",
@@ -77,6 +70,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32721,
+    "name": "Förderzentrum (gegenüber) an Laterne",
+    "latitude": "48.8686327",
+    "longitude": "12.575624",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32707,
     "name": "Klinikum (vor Parkhaus)",
     "latitude": "48.8874557",
@@ -84,17 +84,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32701,
-    "name": "Stetthaimer Platz, Wallbox",
-    "latitude": "48.8819705",
-    "longitude": "12.5734564",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32721,
-    "name": "Förderzentrum (gegenüber) an Laterne",
-    "latitude": "48.8686327",
-    "longitude": "12.575624",
+    "id": 32717,
+    "name": "Bahnhof Straubing",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
@@ -158,6 +151,13 @@
     "name": "Westpark",
     "latitude": "48.8761121",
     "longitude": "12.5549708",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32701,
+    "name": "Stetthaimer Platz, Wallbox",
+    "latitude": "48.8819705",
+    "longitude": "12.5734564",
     "thumbnail_url": ""
   },
   {

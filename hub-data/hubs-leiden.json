@@ -1,5 +1,12 @@
 [
   {
+    "id": 29490,
+    "name": "LIDL Boerhaaveplein",
+    "latitude": "52.1915051",
+    "longitude": "4.4756063",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34380,
     "name": "Oegstgeest, Haarlemmerstraatweg",
     "latitude": "52.2007531",
@@ -21,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29569,
-    "name": "Corpus Hilton",
-    "latitude": "52.1702991",
-    "longitude": "4.4531188",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29500,
     "name": "Warmonderweg",
     "latitude": "52.1768989",
@@ -35,17 +35,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29517,
-    "name": "De Kempenaerstraat ",
-    "latitude": "52.1775582",
-    "longitude": "4.4670869",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29515,
     "name": "Duinzichtstraat",
     "latitude": "52.1836898",
     "longitude": "4.4660032",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29572,
+    "name": "Oude Rijnsburgerweg",
+    "latitude": "52.1781305",
+    "longitude": "4.4518346",
     "thumbnail_url": ""
   },
   {
@@ -98,13 +98,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29572,
-    "name": "Oude Rijnsburgerweg",
-    "latitude": "52.1781305",
-    "longitude": "4.4518346",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29506,
     "name": "Dahlialaan",
     "latitude": "52.1897529",
@@ -123,20 +116,6 @@
     "name": "Zwembad Poelmeer",
     "latitude": "52.1840542",
     "longitude": "4.4865418",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29511,
-    "name": "Dorpstraat Oegstgeest",
-    "latitude": "52.1896871",
-    "longitude": "4.4672374",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29490,
-    "name": "LIDL Boerhaaveplein",
-    "latitude": "52.1915051",
-    "longitude": "4.4756063",
     "thumbnail_url": ""
   },
   {
@@ -168,6 +147,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29569,
+    "name": "Corpus Hilton",
+    "latitude": "52.1702991",
+    "longitude": "4.4531188",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29520,
     "name": "Pauw",
     "latitude": "52.1776036",
@@ -179,6 +165,13 @@
     "name": "Hendrik Kramerpark",
     "latitude": "52.1749247",
     "longitude": "4.4710378",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29517,
+    "name": "De Kempenaerstraat ",
+    "latitude": "52.1775582",
+    "longitude": "4.4670869",
     "thumbnail_url": ""
   },
   {
@@ -259,10 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29530,
-    "name": "Zweilandlaan",
-    "latitude": "52.1726259",
-    "longitude": "4.48704",
+    "id": 35536,
+    "name": "Bargelaan",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
     "thumbnail_url": ""
   },
   {
@@ -287,13 +280,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33556,
-    "name": "P+R Naturalis - Park Indoors",
-    "latitude": "52.165189",
-    "longitude": "4.4712776",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31373,
     "name": "Studentenhuisvesting",
     "latitude": "52.1687456",
@@ -315,13 +301,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29492,
-    "name": "Bio Science Park Oost",
-    "latitude": "52.1651075",
-    "longitude": "4.4606197",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29559,
     "name": "Hall Allergy",
     "latitude": "52.1684053",
@@ -333,13 +312,6 @@
     "name": "Gorlaeus Laboratorium",
     "latitude": "52.1697131",
     "longitude": "4.4639314",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -364,10 +336,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1665621",
-    "longitude": "4.4813332",
+    "id": 31362,
+    "name": "ECC Leiden",
+    "latitude": "52.163774",
+    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -385,13 +357,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35536,
-    "name": "Bargelaan",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29595,
     "name": "Nieuweroord",
     "latitude": "52.1719997",
@@ -403,13 +368,6 @@
     "name": "UVS",
     "latitude": "52.1763559",
     "longitude": "4.482458",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31362,
-    "name": "ECC Leiden",
-    "latitude": "52.163774",
-    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -448,6 +406,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29492,
+    "name": "Bio Science Park Oost",
+    "latitude": "52.1651075",
+    "longitude": "4.4606197",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31374,
     "name": "Heurniusstraat",
     "latitude": "52.1681702",
@@ -469,10 +434,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29553,
-    "name": "Z Gebouw",
-    "latitude": "52.1667886",
-    "longitude": "4.4691697",
+    "id": 31006,
+    "name": "Lammenschans",
+    "latitude": "52.1471642",
+    "longitude": "4.4924297",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33556,
+    "name": "P+R Naturalis - Park Indoors",
+    "latitude": "52.165189",
+    "longitude": "4.4712776",
     "thumbnail_url": ""
   },
   {
@@ -483,10 +455,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29562,
     "name": "Sylvius building",
     "latitude": "52.1684841",
     "longitude": "4.4678667",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29553,
+    "name": "Z Gebouw",
+    "latitude": "52.1667886",
+    "longitude": "4.4691697",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1665621",
+    "longitude": "4.4813332",
     "thumbnail_url": ""
   },
   {
@@ -602,24 +595,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29373,
-    "name": "Fietsparkeerplaats Noordduinen",
-    "latitude": "52.2123027",
-    "longitude": "4.4035973",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29483,
     "name": "Fietsenstalling Dorpsweide",
     "latitude": "52.1775666",
     "longitude": "4.442766",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29587,
-    "name": "Anjelierstraat",
-    "latitude": "52.1923465",
-    "longitude": "4.4425133",
     "thumbnail_url": ""
   },
   {
@@ -721,6 +700,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29926,
     "name": "de Verrekijker",
     "latitude": "52.1758724",
@@ -756,13 +742,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29449,
-    "name": "Meeuwenlaan",
-    "latitude": "52.199707",
-    "longitude": "4.4067841",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29371,
     "name": "Camping Noord 2",
     "latitude": "52.2089783",
@@ -781,6 +760,13 @@
     "name": "Hoorneslaan 3",
     "latitude": "52.2051331",
     "longitude": "4.4243578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29373,
+    "name": "Fietsparkeerplaats Noordduinen",
+    "latitude": "52.2123027",
+    "longitude": "4.4035973",
     "thumbnail_url": ""
   },
   {
@@ -844,13 +830,6 @@
     "name": "Torenvlietslaan",
     "latitude": "52.1745127",
     "longitude": "4.4404774",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29368,
-    "name": "Hoornespassage 2",
-    "latitude": "52.2065093",
-    "longitude": "4.4186604",
     "thumbnail_url": ""
   },
   {
@@ -973,6 +952,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29587,
+    "name": "Anjelierstraat",
+    "latitude": "52.1923465",
+    "longitude": "4.4425133",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29356,
     "name": "AH Rijnsoever",
     "latitude": "52.2023129",
@@ -1036,31 +1022,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29374,
-    "name": "Buitensluis",
-    "latitude": "52.2114276",
-    "longitude": "4.4007957",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29598,
     "name": "Sporthal Het Waterbos (New Location)",
     "latitude": "52.1830707",
     "longitude": "4.4337006",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29476,
-    "name": "Zonnebloemstraat",
-    "latitude": "52.1876345",
-    "longitude": "4.4257165",
     "thumbnail_url": ""
   },
   {
@@ -1239,6 +1204,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29476,
+    "name": "Zonnebloemstraat",
+    "latitude": "52.1876345",
+    "longitude": "4.4257165",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29482,
     "name": "Voetbalvereniging Valken",
     "latitude": "52.1751207",
@@ -1267,10 +1239,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29374,
+    "name": "Buitensluis",
+    "latitude": "52.2114276",
+    "longitude": "4.4007957",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29396,
     "name": "Zeeweg",
     "latitude": "52.1994747",
     "longitude": "4.4154404",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29449,
+    "name": "Meeuwenlaan",
+    "latitude": "52.199707",
+    "longitude": "4.4067841",
     "thumbnail_url": ""
   },
   {
@@ -1292,6 +1278,13 @@
     "name": "Turfmarkt",
     "latitude": "52.194021",
     "longitude": "4.4247795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29368,
+    "name": "Hoornespassage 2",
+    "latitude": "52.2065093",
+    "longitude": "4.4186604",
     "thumbnail_url": ""
   },
   {
