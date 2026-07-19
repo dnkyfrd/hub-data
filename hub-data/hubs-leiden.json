@@ -231,13 +231,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34819,
-    "name": "Stolwijkersluis Zuid",
-    "latitude": "52.004833",
-    "longitude": "4.7220833",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34820,
     "name": "Stolwijkersluis Noord",
     "latitude": "52.006299",
@@ -252,10 +245,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35536,
-    "name": "Bargelaan",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
+    "id": 30504,
+    "name": "!PARK IN LINE! Leiden Central Station",
+    "latitude": "52.1665621",
+    "longitude": "4.4813332",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34819,
+    "name": "Stolwijkersluis Zuid",
+    "latitude": "52.004833",
+    "longitude": "4.7220833",
     "thumbnail_url": ""
   },
   {
@@ -270,6 +270,13 @@
     "name": "Museum Marinevliegkamp",
     "latitude": "52.1747519",
     "longitude": "4.4178164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35536,
+    "name": "Bargelaan",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
     "thumbnail_url": ""
   },
   {
@@ -473,13 +480,6 @@
     "name": "Z Gebouw",
     "latitude": "52.1667886",
     "longitude": "4.4691697",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1665621",
-    "longitude": "4.4813332",
     "thumbnail_url": ""
   },
   {
@@ -700,10 +700,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
+    "id": 29371,
+    "name": "Camping Noord 2",
+    "latitude": "52.2089783",
+    "longitude": "4.4074736",
     "thumbnail_url": ""
   },
   {
@@ -739,13 +739,6 @@
     "name": "Boulevard",
     "latitude": "52.2093116",
     "longitude": "4.3975075",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29371,
-    "name": "Camping Noord 2",
-    "latitude": "52.2089783",
-    "longitude": "4.4074736",
     "thumbnail_url": ""
   },
   {
@@ -872,6 +865,13 @@
     "name": "Piet Heinlaan",
     "latitude": "52.2011005",
     "longitude": "4.4154789",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
