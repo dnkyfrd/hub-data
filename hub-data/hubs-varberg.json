@@ -1,5 +1,12 @@
 [
   {
+    "id": 20618,
+    "name": "Sjukhuset, huvudentré",
+    "latitude": "57.099626",
+    "longitude": "12.2765769",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20765,
     "name": "Brunnsparken",
     "latitude": "57.1062306",
@@ -14,45 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20618,
-    "name": "Sjukhuset, huvudentré",
-    "latitude": "57.099626",
-    "longitude": "12.2765769",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22565,
-    "name": "Kallbadhuset",
-    "latitude": "57.1085424",
-    "longitude": "12.2418165",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19954,
     "name": "Sjöallén",
     "latitude": "57.1081602",
     "longitude": "12.2434885",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19956,
-    "name": "Getterön 5:e vik",
-    "latitude": "57.1194831",
-    "longitude": "12.2012102",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20454,
-    "name": "Träslövsläge, Joels Brygga",
-    "latitude": "57.0573904",
-    "longitude": "12.2708363",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20710,
-    "name": "Pingvinen Is- och simarena",
-    "latitude": "57.1188857",
-    "longitude": "12.2793795",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +35,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19959,
-    "name": "Träslövsläge, Strandbackavägen",
-    "latitude": "57.0618042",
-    "longitude": "12.2775492",
+    "id": 20710,
+    "name": "Pingvinen Is- och simarena",
+    "latitude": "57.1188857",
+    "longitude": "12.2793795",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19956,
+    "name": "Getterön 5:e vik",
+    "latitude": "57.1194831",
+    "longitude": "12.2012102",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22565,
+    "name": "Kallbadhuset",
+    "latitude": "57.1085424",
+    "longitude": "12.2418165",
     "thumbnail_url": ""
   },
   {
@@ -74,6 +60,27 @@
     "name": "Kåsa, Lilla Apelviken",
     "latitude": "57.08981",
     "longitude": "12.2432809",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20454,
+    "name": "Träslövsläge, Joels Brygga",
+    "latitude": "57.0573904",
+    "longitude": "12.2708363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19963,
+    "name": "Apelviken södra, Vikhyddan",
+    "latitude": "57.0772661",
+    "longitude": "12.2631786",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19959,
+    "name": "Träslövsläge, Strandbackavägen",
+    "latitude": "57.0618042",
+    "longitude": "12.2775492",
     "thumbnail_url": ""
   },
   {
@@ -165,13 +172,6 @@
     "name": "Naturum Getterön",
     "latitude": "57.1264133",
     "longitude": "12.2530372",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19963,
-    "name": "Apelviken södra, Vikhyddan",
-    "latitude": "57.0772661",
-    "longitude": "12.2631786",
     "thumbnail_url": ""
   },
   {

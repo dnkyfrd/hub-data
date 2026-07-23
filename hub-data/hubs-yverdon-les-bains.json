@@ -1,37 +1,9 @@
 [
   {
-    "id": 17264,
-    "name": "Camping",
-    "latitude": "46.7848784",
-    "longitude": "6.6488543",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16877,
-    "name": "Vautier",
-    "latitude": "46.7818434",
-    "longitude": "6.6367135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17248,
-    "name": "Y-Parc, Découvertes",
-    "latitude": "46.7665527",
-    "longitude": "6.6451659",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18013,
-    "name": "Dérivée",
-    "latitude": "46.7876823",
-    "longitude": "6.6417099",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
+    "id": 16281,
+    "name": "Remparts",
+    "latitude": "46.7799374",
+    "longitude": "6.6399975",
     "thumbnail_url": ""
   },
   {
@@ -49,34 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16388,
-    "name": "Boulodrome",
-    "latitude": "46.7909522",
-    "longitude": "6.6395616",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17301,
-    "name": "Coin de Terre",
-    "latitude": "46.7893027",
-    "longitude": "6.6369442",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17297,
-    "name": "Fontenay",
-    "latitude": "46.7831",
-    "longitude": "6.6318728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16307,
-    "name": "Marive",
-    "latitude": "46.7857601",
-    "longitude": "6.638189",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17113,
     "name": "Stade ",
     "latitude": "46.7827357",
@@ -84,17 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17232,
-    "name": "Condémines",
-    "latitude": "46.7695009",
-    "longitude": "6.6526667",
+    "id": 16280,
+    "name": "Plage",
+    "latitude": "46.7839414",
+    "longitude": "6.6525422",
     "thumbnail_url": ""
   },
   {
-    "id": 19546,
-    "name": "Batellerie",
-    "latitude": "46.7887594",
-    "longitude": "6.6412567",
+    "id": 18013,
+    "name": "Dérivée",
+    "latitude": "46.7876823",
+    "longitude": "6.6417099",
     "thumbnail_url": ""
   },
   {
@@ -105,10 +49,101 @@
     "thumbnail_url": ""
   },
   {
+    "id": 16388,
+    "name": "Boulodrome",
+    "latitude": "46.7909522",
+    "longitude": "6.6395616",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17248,
+    "name": "Y-Parc, Découvertes",
+    "latitude": "46.7665527",
+    "longitude": "6.6451659",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17264,
+    "name": "Camping",
+    "latitude": "46.7848784",
+    "longitude": "6.6488543",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17214,
+    "name": "Y-Parc Centre",
+    "latitude": "46.7650004",
+    "longitude": "6.6413101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17301,
+    "name": "Coin de Terre",
+    "latitude": "46.7893027",
+    "longitude": "6.6369442",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16288,
     "name": "CPNV",
     "latitude": "46.7737937",
     "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16307,
+    "name": "Marive",
+    "latitude": "46.7857601",
+    "longitude": "6.638189",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16283,
+    "name": "Conservatoire",
+    "latitude": "46.7849178",
+    "longitude": "6.6360569",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19546,
+    "name": "Batellerie",
+    "latitude": "46.7887594",
+    "longitude": "6.6412567",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16877,
+    "name": "Vautier",
+    "latitude": "46.7818434",
+    "longitude": "6.6367135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
     "thumbnail_url": ""
   },
   {
@@ -133,10 +168,52 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17242,
     "name": "Collesano",
     "latitude": "46.7867249",
     "longitude": "6.6437606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17297,
+    "name": "Fontenay",
+    "latitude": "46.7831",
+    "longitude": "6.6318728",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17246,
+    "name": "Sous-Bois",
+    "latitude": "46.7757291",
+    "longitude": "6.6520961",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17232,
+    "name": "Condémines",
+    "latitude": "46.7695009",
+    "longitude": "6.6526667",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21308,
+    "name": "Pierre de Savoie",
+    "latitude": "46.7684825",
+    "longitude": "6.64101",
     "thumbnail_url": ""
   },
   {
@@ -154,13 +231,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21308,
-    "name": "Pierre de Savoie",
-    "latitude": "46.7684825",
-    "longitude": "6.64101",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17234,
     "name": "St-Georges",
     "latitude": "46.7816423",
@@ -168,31 +238,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19723,
     "name": "Plaisance",
     "latitude": "46.7700928",
     "longitude": "6.64787",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17246,
-    "name": "Sous-Bois",
-    "latitude": "46.7757291",
-    "longitude": "6.6520961",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {
@@ -280,13 +329,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16281,
-    "name": "Remparts",
-    "latitude": "46.7799374",
-    "longitude": "6.6399975",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17181,
     "name": "Four",
     "latitude": "46.7784128",
@@ -364,24 +406,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
     "id": 17243,
     "name": "Général-Guisan",
     "latitude": "46.7774187",
     "longitude": "6.6318273",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17214,
-    "name": "Y-Parc Centre",
-    "latitude": "46.7650004",
-    "longitude": "6.6413101",
     "thumbnail_url": ""
   },
   {
@@ -396,13 +424,6 @@
     "name": "HEIG-VD St-Roch",
     "latitude": "46.7813519",
     "longitude": "6.6477014",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16283,
-    "name": "Conservatoire",
-    "latitude": "46.7849178",
-    "longitude": "6.6360569",
     "thumbnail_url": ""
   },
   {
@@ -434,20 +455,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16280,
-    "name": "Plage",
-    "latitude": "46.7839414",
-    "longitude": "6.6525422",
-    "thumbnail_url": ""
-  },
-  {
     "id": 15147,
     "name": "Passerelle",
     "latitude": "46.7694474",
@@ -459,13 +466,6 @@
     "name": "Chatelard",
     "latitude": "46.7783539",
     "longitude": "6.6174077",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
     "thumbnail_url": ""
   },
   {
