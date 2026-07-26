@@ -1,9 +1,23 @@
 [
   {
+    "id": 19531,
+    "name": "Laksetorvet 1",
+    "latitude": "56.4582965",
+    "longitude": "10.0350221",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19662,
     "name": "Århusvej/Paderup blvd",
     "latitude": "56.4299285",
     "longitude": "10.0550662",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19647,
+    "name": "Coop 365 Kristrup",
+    "latitude": "56.4482031",
+    "longitude": "10.0552301",
     "thumbnail_url": ""
   },
   {
@@ -14,31 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19509,
-    "name": "Snaregade 1",
-    "latitude": "56.4607416",
-    "longitude": "10.0353067",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19578,
-    "name": "Valdemarsvej 2",
-    "latitude": "56.4471889",
-    "longitude": "10.0548372",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24002,
     "name": "ABC Lavpris",
     "latitude": "56.4743436",
     "longitude": "10.0113793",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19528,
-    "name": "Randers Regnskov Circle",
-    "latitude": "56.4566977",
-    "longitude": "10.0342598",
     "thumbnail_url": ""
   },
   {
@@ -77,10 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
+    "id": 19528,
+    "name": "Randers Regnskov Circle",
+    "latitude": "56.4566977",
+    "longitude": "10.0342598",
     "thumbnail_url": ""
   },
   {
@@ -91,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19578,
+    "name": "Valdemarsvej 2",
+    "latitude": "56.4471889",
+    "longitude": "10.0548372",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32499,
     "name": "Randers HF & VUC",
     "latitude": "56.4735483",
     "longitude": "10.0082489",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22473,
-    "name": "Torup Dal",
-    "latitude": "56.4739117",
-    "longitude": "10.0907817",
     "thumbnail_url": ""
   },
   {
@@ -126,24 +119,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19575,
-    "name": "Bøsbrovej 16",
-    "latitude": "56.4503908",
-    "longitude": "10.042305",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24009,
     "name": "Mad Mad",
     "latitude": "56.4832198",
     "longitude": "10.0378246",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -161,17 +140,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19647,
-    "name": "Coop 365 Kristrup",
-    "latitude": "56.4482031",
-    "longitude": "10.0552301",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23665,
     "name": "Vorup Blvd",
     "latitude": "56.4441818",
     "longitude": "10.0393172",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19575,
+    "name": "Bøsbrovej 16",
+    "latitude": "56.4503908",
+    "longitude": "10.042305",
     "thumbnail_url": ""
   },
   {
@@ -231,6 +210,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22473,
+    "name": "Torup Dal",
+    "latitude": "56.4739117",
+    "longitude": "10.0907817",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19651,
     "name": "Havnegade",
     "latitude": "56.4584286",
@@ -252,6 +238,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19664,
     "name": "Tradium",
     "latitude": "56.4309103",
@@ -259,10 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19531,
-    "name": "Laksetorvet 1",
-    "latitude": "56.4582965",
-    "longitude": "10.0350221",
+    "id": 27869,
+    "name": "Blegen",
+    "latitude": "56.4523042",
+    "longitude": "10.0382226",
     "thumbnail_url": ""
   },
   {
@@ -371,6 +364,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19509,
+    "name": "Snaregade 1",
+    "latitude": "56.4607416",
+    "longitude": "10.0353067",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19574,
     "name": "Fakta O 10",
     "latitude": "56.4641787",
@@ -382,13 +389,6 @@
     "name": "Kirkegade 15",
     "latitude": "56.4598707",
     "longitude": "10.0338497",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27869,
-    "name": "Blegen",
-    "latitude": "56.4523042",
-    "longitude": "10.0382226",
     "thumbnail_url": ""
   },
   {

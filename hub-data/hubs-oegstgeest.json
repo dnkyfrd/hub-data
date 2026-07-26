@@ -14,13 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29490,
-    "name": "LIDL Boerhaaveplein",
-    "latitude": "52.1915051",
-    "longitude": "4.4756063",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29497,
     "name": "Poelgeest",
     "latitude": "52.1805772",
@@ -35,17 +28,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29490,
+    "name": "LIDL Boerhaaveplein",
+    "latitude": "52.1915051",
+    "longitude": "4.4756063",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29500,
     "name": "Warmonderweg",
     "latitude": "52.1768989",
     "longitude": "4.4750943",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29572,
-    "name": "Oude Rijnsburgerweg",
-    "latitude": "52.1781305",
-    "longitude": "4.4518346",
     "thumbnail_url": ""
   },
   {
@@ -60,6 +53,13 @@
     "name": "Leidsebuurt",
     "latitude": "52.1800785",
     "longitude": "4.4648877",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29572,
+    "name": "Oude Rijnsburgerweg",
+    "latitude": "52.1781305",
+    "longitude": "4.4518346",
     "thumbnail_url": ""
   },
   {
@@ -238,20 +238,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35536,
-    "name": "Bargelaan",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29502,
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
@@ -280,6 +266,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35536,
+    "name": "Bargelaan",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30504,
     "name": "!PARK IN LINE! Leiden Central Station",
     "latitude": "52.1665621",
@@ -294,13 +294,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31373,
-    "name": "Studentenhuisvesting",
-    "latitude": "52.1687456",
-    "longitude": "4.4713879",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29567,
     "name": "SRON",
     "latitude": "52.1691082",
@@ -312,13 +305,6 @@
     "name": "Zaaijerplein",
     "latitude": "52.1693418",
     "longitude": "4.4765765",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31362,
-    "name": "ECC Leiden",
-    "latitude": "52.163774",
-    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -340,6 +326,13 @@
     "name": "De Vink Leiden",
     "latitude": "52.1475188",
     "longitude": "4.4561504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31373,
+    "name": "Studentenhuisvesting",
+    "latitude": "52.1687456",
+    "longitude": "4.4713879",
     "thumbnail_url": ""
   },
   {
@@ -375,6 +368,13 @@
     "name": "Nieuweroord",
     "latitude": "52.1719997",
     "longitude": "4.4762402",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31362,
+    "name": "ECC Leiden",
+    "latitude": "52.163774",
+    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -679,13 +679,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29453,
-    "name": "Duinvallei West",
-    "latitude": "52.19004",
-    "longitude": "4.4192277",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29460,
     "name": "Brasserie Buitenhuis",
     "latitude": "52.159775",
@@ -739,6 +732,13 @@
     "name": "Valkenburg strand",
     "latitude": "52.1579228",
     "longitude": "4.4432401",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29453,
+    "name": "Duinvallei West",
+    "latitude": "52.19004",
+    "longitude": "4.4192277",
     "thumbnail_url": ""
   },
   {
@@ -886,6 +886,13 @@
     "name": "'s Gravendijck",
     "latitude": "52.2124822",
     "longitude": "4.4376905",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29433,
+    "name": "Badstraat",
+    "latitude": "52.2050528",
+    "longitude": "4.3964852",
     "thumbnail_url": ""
   },
   {
@@ -1215,13 +1222,6 @@
     "name": "Voetbalvereniging Valken",
     "latitude": "52.1751207",
     "longitude": "4.4432543",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29433,
-    "name": "Badstraat",
-    "latitude": "52.2050528",
-    "longitude": "4.3964852",
     "thumbnail_url": ""
   },
   {
