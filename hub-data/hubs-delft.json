@@ -1,12 +1,5 @@
 [
   {
-    "id": 32163,
-    "name": "Lipkensstraat",
-    "latitude": "52.0099291",
-    "longitude": "4.3729954",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32157,
     "name": "Delftechpark",
     "latitude": "51.9972105",
@@ -14,17 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32170,
-    "name": "Havenstraat 1",
-    "latitude": "52.0092071",
-    "longitude": "4.3544758",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
+    "id": 32163,
+    "name": "Lipkensstraat",
+    "latitude": "52.0099291",
+    "longitude": "4.3729954",
     "thumbnail_url": ""
   },
   {
@@ -35,6 +21,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32170,
+    "name": "Havenstraat 1",
+    "latitude": "52.0092071",
+    "longitude": "4.3544758",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32178,
+    "name": "Coenderstraat 3",
+    "latitude": "52.0068412",
+    "longitude": "4.3554966",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32209,
     "name": "Snackbar Laurens",
     "latitude": "52.0106421",
@@ -42,10 +42,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32180,
+    "name": "Nieuwe Gracht",
+    "latitude": "52.0048774",
+    "longitude": "4.3564306",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32228,
+    "name": "Yes Delft 2",
+    "latitude": "51.9939083",
+    "longitude": "4.387351",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32217,
     "name": "Café de Schouw",
     "latitude": "52.0108966",
     "longitude": "4.3523996",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -105,10 +126,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32237,
-    "name": "SPAR TUD",
-    "latitude": "52.0003481",
-    "longitude": "4.3763484",
+    "id": 32357,
+    "name": "Van der Lelijstraat",
+    "latitude": "52.0129585",
+    "longitude": "4.3343346",
     "thumbnail_url": ""
   },
   {
@@ -126,10 +147,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32129,
-    "name": "Reinier de Graaf Gasthuis",
-    "latitude": "51.9977619",
-    "longitude": "4.3402315",
+    "id": 32172,
+    "name": "Hugo de Grootstraat",
+    "latitude": "52.0094358",
+    "longitude": "4.3529456",
     "thumbnail_url": ""
   },
   {
@@ -161,17 +182,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32221,
-    "name": "AH Ruys",
-    "latitude": "52.0138415",
-    "longitude": "4.3431273",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32250,
-    "name": "Carpoolplaats Delft",
-    "latitude": "52.0132326",
-    "longitude": "4.3776411",
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
     "thumbnail_url": ""
   },
   {
@@ -182,10 +196,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32252,
+    "name": "Nieuwe Langendijk",
+    "latitude": "52.0132742",
+    "longitude": "4.36385",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32118,
     "name": "VSL National Metrology Institute",
     "latitude": "51.9855547",
     "longitude": "4.387637",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32221,
+    "name": "AH Ruys",
+    "latitude": "52.0138415",
+    "longitude": "4.3431273",
     "thumbnail_url": ""
   },
   {
@@ -210,6 +238,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32123,
+    "name": "PLUS Tanthof",
+    "latitude": "51.9819511",
+    "longitude": "4.3456909",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32246,
     "name": "Faculteit Bouwkunde",
     "latitude": "52.0058512",
@@ -224,10 +259,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32239,
-    "name": "Aula TU Delft 1",
-    "latitude": "52.0023176",
-    "longitude": "4.3731051",
+    "id": 32250,
+    "name": "Carpoolplaats Delft",
+    "latitude": "52.0132326",
+    "longitude": "4.3776411",
     "thumbnail_url": ""
   },
   {
@@ -259,10 +294,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32172,
-    "name": "Hugo de Grootstraat",
-    "latitude": "52.0094358",
-    "longitude": "4.3529456",
+    "id": 32239,
+    "name": "Aula TU Delft 1",
+    "latitude": "52.0023176",
+    "longitude": "4.3731051",
     "thumbnail_url": ""
   },
   {
@@ -273,17 +308,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32252,
-    "name": "Nieuwe Langendijk",
-    "latitude": "52.0132742",
-    "longitude": "4.36385",
+    "id": 32237,
+    "name": "SPAR TUD",
+    "latitude": "52.0003481",
+    "longitude": "4.3763484",
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
+    "id": 32166,
+    "name": "Politiebureau Delft",
+    "latitude": "52.0032638",
+    "longitude": "4.3530259",
     "thumbnail_url": ""
   },
   {
@@ -301,10 +336,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32228,
-    "name": "Yes Delft 2",
-    "latitude": "51.9939083",
-    "longitude": "4.387351",
+    "id": 32129,
+    "name": "Reinier de Graaf Gasthuis",
+    "latitude": "51.9977619",
+    "longitude": "4.3402315",
     "thumbnail_url": ""
   },
   {
@@ -413,20 +448,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32123,
-    "name": "PLUS Tanthof",
-    "latitude": "51.9819511",
-    "longitude": "4.3456909",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32180,
-    "name": "Nieuwe Gracht",
-    "latitude": "52.0048774",
-    "longitude": "4.3564306",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32234,
     "name": "Collegezaal A",
     "latitude": "51.9995048",
@@ -434,24 +455,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32357,
-    "name": "Van der Lelijstraat",
-    "latitude": "52.0129585",
-    "longitude": "4.3343346",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32207,
     "name": "Hof van Delftlaan",
     "latitude": "52.0120064",
     "longitude": "4.3477213",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32178,
-    "name": "Coenderstraat 3",
-    "latitude": "52.0068412",
-    "longitude": "4.3554966",
     "thumbnail_url": ""
   },
   {
@@ -648,13 +655,6 @@
     "name": "Mekelweg",
     "latitude": "52.0011305",
     "longitude": "4.3720669",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32166,
-    "name": "Politiebureau Delft",
-    "latitude": "52.0032638",
-    "longitude": "4.3530259",
     "thumbnail_url": ""
   },
   {

@@ -1,12 +1,5 @@
 [
   {
-    "id": 29515,
-    "name": "Duinzichtstraat",
-    "latitude": "52.1836898",
-    "longitude": "4.4660032",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34380,
     "name": "Oegstgeest, Haarlemmerstraatweg",
     "latitude": "52.2007531",
@@ -25,6 +18,13 @@
     "name": "Fietsenstalling VDS",
     "latitude": "52.1826239",
     "longitude": "4.452271",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29515,
+    "name": "Duinzichtstraat",
+    "latitude": "52.1836898",
+    "longitude": "4.4660032",
     "thumbnail_url": ""
   },
   {
@@ -231,24 +231,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34820,
-    "name": "Stolwijkersluis Noord",
-    "latitude": "52.006299",
-    "longitude": "4.7211935",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29502,
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
     "longitude": "4.4849702",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34819,
-    "name": "Stolwijkersluis Zuid",
-    "latitude": "52.004833",
-    "longitude": "4.7220833",
     "thumbnail_url": ""
   },
   {
@@ -263,34 +249,6 @@
     "name": "Museum Marinevliegkamp",
     "latitude": "52.1747519",
     "longitude": "4.4178164",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35536,
-    "name": "Bargelaan",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30504,
-    "name": "!PARK IN LINE! Leiden Central Station",
-    "latitude": "52.1665621",
-    "longitude": "4.4813332",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29549,
-    "name": "Leidsche Hogeschool",
-    "latitude": "52.1668436",
-    "longitude": "4.4723327",
     "thumbnail_url": ""
   },
   {
@@ -312,6 +270,13 @@
     "name": "Hall Allergy",
     "latitude": "52.1684053",
     "longitude": "4.4648202",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29549,
+    "name": "Leidsche Hogeschool",
+    "latitude": "52.1668436",
+    "longitude": "4.4723327",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +308,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31377,
     "name": "Lijsterstraat I",
     "latitude": "52.1734886",
     "longitude": "4.473183",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35536,
+    "name": "Bargelaan",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31362,
+    "name": "ECC Leiden",
+    "latitude": "52.163774",
+    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -368,13 +354,6 @@
     "name": "Nieuweroord",
     "latitude": "52.1719997",
     "longitude": "4.4762402",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31362,
-    "name": "ECC Leiden",
-    "latitude": "52.163774",
-    "longitude": "4.4568115",
     "thumbnail_url": ""
   },
   {
@@ -567,13 +546,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29465,
-    "name": "Wibra Rijnstraat",
-    "latitude": "52.1950572",
-    "longitude": "4.4253809",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29470,
     "name": "Topaz Overduin",
     "latitude": "52.1974339",
@@ -581,10 +553,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29475,
-    "name": "Dirk Asterstraat",
-    "latitude": "52.1862902",
-    "longitude": "4.4219663",
+    "id": 29411,
+    "name": "Boulevard",
+    "latitude": "52.2093116",
+    "longitude": "4.3975075",
     "thumbnail_url": ""
   },
   {
@@ -606,6 +578,20 @@
     "name": "Hoorneslaan 1",
     "latitude": "52.2059222",
     "longitude": "4.4221457",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29417,
+    "name": "Boulevard 6",
+    "latitude": "52.2049336",
+    "longitude": "4.3940062",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29360,
+    "name": "Gemeentewerf Katwijk",
+    "latitude": "52.2035062",
+    "longitude": "4.4338814",
     "thumbnail_url": ""
   },
   {
@@ -637,24 +623,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29360,
-    "name": "Gemeentewerf Katwijk",
-    "latitude": "52.2035062",
-    "longitude": "4.4338814",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29444,
     "name": "Drieplassenweg",
     "latitude": "52.1977779",
     "longitude": "4.3932325",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29455,
-    "name": "Fullbody Gym",
-    "latitude": "52.1947691",
-    "longitude": "4.4183138",
     "thumbnail_url": ""
   },
   {
@@ -676,6 +648,13 @@
     "name": "Vianen Flowers",
     "latitude": "52.1918629",
     "longitude": "4.4562499",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29465,
+    "name": "Wibra Rijnstraat",
+    "latitude": "52.1950572",
+    "longitude": "4.4253809",
     "thumbnail_url": ""
   },
   {
@@ -721,24 +700,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29411,
-    "name": "Boulevard",
-    "latitude": "52.2093116",
-    "longitude": "4.3975075",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29591,
     "name": "Valkenburg strand",
     "latitude": "52.1579228",
     "longitude": "4.4432401",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29453,
-    "name": "Duinvallei West",
-    "latitude": "52.19004",
-    "longitude": "4.4192277",
     "thumbnail_url": ""
   },
   {
@@ -777,6 +742,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29475,
+    "name": "Dirk Asterstraat",
+    "latitude": "52.1862902",
+    "longitude": "4.4219663",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29469,
     "name": "Strandcamping Zuidduinen",
     "latitude": "52.1922596",
@@ -795,6 +767,13 @@
     "name": "Skatepark Katwijk",
     "latitude": "52.2105417",
     "longitude": "4.4048915",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29453,
+    "name": "Duinvallei West",
+    "latitude": "52.19004",
+    "longitude": "4.4192277",
     "thumbnail_url": ""
   },
   {
@@ -823,6 +802,13 @@
     "name": "Torenvlietslaan",
     "latitude": "52.1745127",
     "longitude": "4.4404774",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29455,
+    "name": "Fullbody Gym",
+    "latitude": "52.1947691",
+    "longitude": "4.4183138",
     "thumbnail_url": ""
   },
   {
@@ -858,13 +844,6 @@
     "name": "Voorstraat 2",
     "latitude": "52.2041409",
     "longitude": "4.3957815",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29398,
-    "name": "Piet Heinlaan",
-    "latitude": "52.2011005",
-    "longitude": "4.4154789",
     "thumbnail_url": ""
   },
   {
@@ -907,13 +886,6 @@
     "name": "Boulevard 2",
     "latitude": "52.2083832",
     "longitude": "4.3967917",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29405,
-    "name": "Dirk van den Broek",
-    "latitude": "52.2047739",
-    "longitude": "4.4078392",
     "thumbnail_url": ""
   },
   {
@@ -966,6 +938,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29405,
+    "name": "Dirk van den Broek",
+    "latitude": "52.2047739",
+    "longitude": "4.4078392",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29356,
     "name": "AH Rijnsoever",
     "latitude": "52.2023129",
@@ -1005,6 +984,13 @@
     "name": "Hoornes",
     "latitude": "52.205846",
     "longitude": "4.4210941",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29398,
+    "name": "Piet Heinlaan",
+    "latitude": "52.2011005",
+    "longitude": "4.4154789",
     "thumbnail_url": ""
   },
   {
@@ -1110,13 +1096,6 @@
     "name": "Rijnstraat 2",
     "latitude": "52.1930748",
     "longitude": "4.423957",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29417,
-    "name": "Boulevard 6",
-    "latitude": "52.2049336",
-    "longitude": "4.3940062",
     "thumbnail_url": ""
   },
   {

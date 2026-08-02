@@ -1,5 +1,12 @@
 [
   {
+    "id": 19852,
+    "name": "Tykkimäki Huvipuisto",
+    "latitude": "60.8837342",
+    "longitude": "26.7754408",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19860,
     "name": "Lehtomäki (S-Market)",
     "latitude": "60.8880698",
@@ -14,17 +21,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19836,
+    "name": "Matkakeskus",
+    "latitude": "60.8663899",
+    "longitude": "26.704199",
+    "thumbnail_url": ""
+  },
+  {
     "id": 23061,
     "name": "Ratamokeskus",
     "latitude": "60.8771391",
     "longitude": "26.7017354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23808,
-    "name": "S-Market Pohja",
-    "latitude": "60.0963097",
-    "longitude": "23.5266557",
     "thumbnail_url": ""
   },
   {
@@ -35,17 +42,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19843,
-    "name": "Kuusihaankatu",
-    "latitude": "60.8520798",
-    "longitude": "26.7150073",
+    "id": 19840,
+    "name": "Museokortteli",
+    "latitude": "60.8662307",
+    "longitude": "26.6908319",
     "thumbnail_url": ""
   },
   {
-    "id": 19852,
-    "name": "Tykkimäki Huvipuisto",
-    "latitude": "60.8837342",
-    "longitude": "26.7754408",
+    "id": 23808,
+    "name": "S-Market Pohja",
+    "latitude": "60.0963097",
+    "longitude": "23.5266557",
     "thumbnail_url": ""
   },
   {
@@ -63,17 +70,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19836,
-    "name": "Matkakeskus",
-    "latitude": "60.8663899",
-    "longitude": "26.704199",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34755,
     "name": "Raaseporintie",
     "latitude": "59.9867867",
     "longitude": "23.4804533",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19843,
+    "name": "Kuusihaankatu",
+    "latitude": "60.8520798",
+    "longitude": "26.7150073",
     "thumbnail_url": ""
   },
   {
@@ -186,13 +193,6 @@
     "name": "Tekniikantie",
     "latitude": "60.1808984",
     "longitude": "24.8246011",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19840,
-    "name": "Museokortteli",
-    "latitude": "60.8662307",
-    "longitude": "26.6908319",
     "thumbnail_url": ""
   },
   {

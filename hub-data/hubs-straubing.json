@@ -1,12 +1,5 @@
 [
   {
-    "id": 32702,
-    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
-    "latitude": "48.8853393",
-    "longitude": "12.6008593",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32686,
     "name": "Landshuter Str. Netto (Laterne)",
     "latitude": "48.8690376",
@@ -42,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
+    "id": 32702,
+    "name": "Kattowitzer Str. Ecke Pommersche Hydrant",
+    "latitude": "48.8853393",
+    "longitude": "12.6008593",
     "thumbnail_url": ""
   },
   {
@@ -53,6 +46,13 @@
     "name": "Haydnstrasse",
     "latitude": "48.8688756",
     "longitude": "12.5682731",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
     "thumbnail_url": ""
   },
   {
@@ -84,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof Straubing",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32708,
     "name": "Beim Römerschatz",
     "latitude": "48.8701578",
     "longitude": "12.5499594",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32717,
+    "name": "Bahnhof Straubing",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
