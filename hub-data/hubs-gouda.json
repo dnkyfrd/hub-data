@@ -1,12 +1,5 @@
 [
   {
-    "id": 32940,
-    "name": "Clay Road",
-    "latitude": "52.0152248",
-    "longitude": "4.7093073",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32941,
     "name": "Herpstraat",
     "latitude": "52.0142048",
@@ -21,13 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32955,
-    "name": "Bogen",
-    "latitude": "52.0071239",
-    "longitude": "4.7113444",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32969,
     "name": "Koningin Wilhelminaweg",
     "latitude": "52.000824",
@@ -39,6 +25,13 @@
     "name": "Vogelplein",
     "latitude": "52.009986",
     "longitude": "4.695287",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32860,
+    "name": "Bernadottelaan",
+    "latitude": "52.0125812",
+    "longitude": "4.7279761",
     "thumbnail_url": ""
   },
   {
@@ -126,6 +119,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32986,
+    "name": "Parkstraat",
+    "latitude": "52.0150902",
+    "longitude": "4.6989409",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33401,
     "name": "Zuiderwerf",
     "latitude": "52.0353941",
@@ -210,6 +210,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32940,
+    "name": "Clay Road",
+    "latitude": "52.0152248",
+    "longitude": "4.7093073",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32982,
     "name": "Dreef",
     "latitude": "52.0209186",
@@ -238,24 +245,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32964,
-    "name": "Market",
-    "latitude": "52.0113061",
-    "longitude": "4.7107359",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32932,
     "name": "Medisch Centrum",
     "latitude": "52.0238781",
     "longitude": "4.6983397",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32860,
-    "name": "Bernadottelaan",
-    "latitude": "52.0125812",
-    "longitude": "4.7279761",
     "thumbnail_url": ""
   },
   {
@@ -287,6 +280,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32966,
+    "name": "New Street",
+    "latitude": "52.0134846",
+    "longitude": "4.7103523",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32863,
     "name": "Middenmolenplein",
     "latitude": "52.011056",
@@ -298,6 +298,27 @@
     "name": "Stolwijkersluis Zuid",
     "latitude": "52.004833",
     "longitude": "4.7220833",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32955,
+    "name": "Bogen",
+    "latitude": "52.0071239",
+    "longitude": "4.7113444",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31288,
+    "name": "Klein Amerika",
+    "latitude": "52.011979",
+    "longitude": "4.7163437",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32964,
+    "name": "Market",
+    "latitude": "52.0113061",
+    "longitude": "4.7107359",
     "thumbnail_url": ""
   },
   {
@@ -336,13 +357,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32966,
-    "name": "New Street",
-    "latitude": "52.0134846",
-    "longitude": "4.7103523",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32949,
     "name": "Raam 2",
     "latitude": "52.0091966",
@@ -361,13 +375,6 @@
     "name": "Westergouwe",
     "latitude": "52.0042545",
     "longitude": "4.6864806",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32944,
-    "name": "Stationsingang Zuid-west",
-    "latitude": "52.0169484",
-    "longitude": "4.7057966",
     "thumbnail_url": ""
   },
   {
@@ -399,24 +406,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31288,
-    "name": "Klein Amerika",
-    "latitude": "52.011979",
-    "longitude": "4.7163437",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32954,
     "name": "Raoul Wallenbergplantsoen",
     "latitude": "52.0111053",
     "longitude": "4.7135871",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32861,
-    "name": "Schweitzerplein",
-    "latitude": "52.013562",
-    "longitude": "4.7266246",
     "thumbnail_url": ""
   },
   {
@@ -427,17 +420,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32861,
+    "name": "Schweitzerplein",
+    "latitude": "52.013562",
+    "longitude": "4.7266246",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32895,
     "name": "Groenhovenbad",
     "latitude": "52.0238336",
     "longitude": "4.6898301",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32986,
-    "name": "Parkstraat",
-    "latitude": "52.0150902",
-    "longitude": "4.6989409",
     "thumbnail_url": ""
   },
   {
@@ -501,6 +494,13 @@
     "name": "Wibautstraat 2",
     "latitude": "52.0241453",
     "longitude": "4.7172888",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32944,
+    "name": "Stationsingang Zuid-west",
+    "latitude": "52.0169484",
+    "longitude": "4.7057966",
     "thumbnail_url": ""
   },
   {

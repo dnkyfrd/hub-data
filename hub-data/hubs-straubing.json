@@ -49,13 +49,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32695,
-    "name": "Campingplatz",
-    "latitude": "48.8932739",
-    "longitude": "12.5757808",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32691,
     "name": "JVA (Hinter Pflanztrögen)",
     "latitude": "48.8715442",
@@ -81,20 +74,6 @@
     "name": "Klinikum (vor Parkhaus)",
     "latitude": "48.8874557",
     "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32708,
-    "name": "Beim Römerschatz",
-    "latitude": "48.8701578",
-    "longitude": "12.5499594",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32717,
-    "name": "Bahnhof Straubing",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
@@ -182,10 +161,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32717,
+    "name": "Bahnhof Straubing",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32713,
     "name": "Aquatherm",
     "latitude": "48.8739041",
     "longitude": "12.5603465",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32695,
+    "name": "Campingplatz",
+    "latitude": "48.8932739",
+    "longitude": "12.5757808",
     "thumbnail_url": ""
   },
   {
@@ -196,10 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32710,
-    "name": "Theresienplatz vor Pustet (Fahrradständer)",
-    "latitude": "48.8811806",
-    "longitude": "12.5655164",
+    "id": 32708,
+    "name": "Beim Römerschatz",
+    "latitude": "48.8701578",
+    "longitude": "12.5499594",
     "thumbnail_url": ""
   },
   {

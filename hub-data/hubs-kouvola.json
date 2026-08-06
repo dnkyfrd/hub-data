@@ -1,12 +1,5 @@
 [
   {
-    "id": 19852,
-    "name": "Tykkimäki Huvipuisto",
-    "latitude": "60.8837342",
-    "longitude": "26.7754408",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19860,
     "name": "Lehtomäki (S-Market)",
     "latitude": "60.8880698",
@@ -21,10 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19836,
-    "name": "Matkakeskus",
-    "latitude": "60.8663899",
-    "longitude": "26.704199",
+    "id": 19853,
+    "name": "Yhteislyseo",
+    "latitude": "60.8730513",
+    "longitude": "26.716196",
     "thumbnail_url": ""
   },
   {
@@ -32,13 +25,6 @@
     "name": "Ratamokeskus",
     "latitude": "60.8771391",
     "longitude": "26.7017354",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19853,
-    "name": "Yhteislyseo",
-    "latitude": "60.8730513",
-    "longitude": "26.716196",
     "thumbnail_url": ""
   },
   {
@@ -56,6 +42,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19849,
+    "name": "Kauppakeskus Veturi",
+    "latitude": "60.8763662",
+    "longitude": "26.6524711",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19841,
     "name": "Kiskokatu",
     "latitude": "60.8647606",
@@ -70,17 +63,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19836,
+    "name": "Matkakeskus",
+    "latitude": "60.8663899",
+    "longitude": "26.704199",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34755,
     "name": "Raaseporintie",
     "latitude": "59.9867867",
     "longitude": "23.4804533",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19843,
-    "name": "Kuusihaankatu",
-    "latitude": "60.8520798",
-    "longitude": "26.7150073",
     "thumbnail_url": ""
   },
   {
@@ -196,6 +189,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19852,
+    "name": "Tykkimäki Huvipuisto",
+    "latitude": "60.8837342",
+    "longitude": "26.7754408",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19850,
     "name": "Taideruukki",
     "latitude": "60.9030405",
@@ -224,13 +224,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19838,
-    "name": "Pääkirjasto",
-    "latitude": "60.8703184",
-    "longitude": "26.7091331",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22081,
     "name": "Novia",
     "latitude": "59.9760313",
@@ -242,13 +235,6 @@
     "name": "Jukolantie",
     "latitude": "60.8825212",
     "longitude": "26.7432946",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19849,
-    "name": "Kauppakeskus Veturi",
-    "latitude": "60.8763662",
-    "longitude": "26.6524711",
     "thumbnail_url": ""
   },
   {
@@ -266,6 +252,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19838,
+    "name": "Pääkirjasto",
+    "latitude": "60.8703184",
+    "longitude": "26.7091331",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19837,
     "name": "Kävelykatu Manski",
     "latitude": "60.8694817",
@@ -280,6 +273,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28926,
+    "name": "Pikku-Palomäki",
+    "latitude": "60.8765311",
+    "longitude": "26.725603",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20190,
     "name": "Käyrälampi",
     "latitude": "60.8874909",
@@ -287,10 +287,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28926,
-    "name": "Pikku-Palomäki",
-    "latitude": "60.8765311",
-    "longitude": "26.725603",
+    "id": 19843,
+    "name": "Kuusihaankatu",
+    "latitude": "60.8520798",
+    "longitude": "26.7150073",
     "thumbnail_url": ""
   },
   {

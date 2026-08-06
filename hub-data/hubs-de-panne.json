@@ -1,5 +1,12 @@
 [
   {
+    "id": 24646,
+    "name": "Station Adinkerke",
+    "latitude": "51.0774928",
+    "longitude": "2.6021004",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27328,
     "name": "Canadezen Plein",
     "latitude": "51.1062184",
@@ -14,10 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24653,
-    "name": "Zeelaan 167",
-    "latitude": "51.1028358",
-    "longitude": "2.5904517",
+    "id": 24650,
+    "name": "Esplanade Dynastielaan",
+    "latitude": "51.0973574",
+    "longitude": "2.5818994",
     "thumbnail_url": ""
   },
   {
@@ -28,13 +35,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24647,
-    "name": "Markt De Panne",
-    "latitude": "51.0988779",
-    "longitude": "2.5921114",
-    "thumbnail_url": ""
-  },
-  {
     "id": 26512,
     "name": "Koningsplein",
     "latitude": "51.0953003",
@@ -42,24 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24646,
-    "name": "Station Adinkerke",
-    "latitude": "51.0774928",
-    "longitude": "2.6021004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29959,
     "name": "De Panne Zeelaan",
     "latitude": "51.1007128",
     "longitude": "2.5924627",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24650,
-    "name": "Esplanade Dynastielaan",
-    "latitude": "51.0973574",
-    "longitude": "2.5818994",
     "thumbnail_url": ""
   },
   {
@@ -84,17 +70,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30497,
-    "name": "Oostduinkerke De Viking - fietsrek",
-    "latitude": "51.122525",
-    "longitude": "2.6780179",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27569,
     "name": "Vijverstraat Markey",
     "latitude": "51.0711044",
     "longitude": "2.5953283",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24647,
+    "name": "Markt De Panne",
+    "latitude": "51.0988779",
+    "longitude": "2.5921114",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30497,
+    "name": "Oostduinkerke De Viking - fietsrek",
+    "latitude": "51.122525",
+    "longitude": "2.6780179",
     "thumbnail_url": ""
   },
   {
@@ -109,6 +102,13 @@
     "name": "Gemeentehuis De Panne",
     "latitude": "51.0968455",
     "longitude": "2.5886606",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24653,
+    "name": "Zeelaan 167",
+    "latitude": "51.1028358",
+    "longitude": "2.5904517",
     "thumbnail_url": ""
   },
   {
