@@ -92,12 +92,11 @@ const cities = [
       'https://stables.donkey.bike/api/public/cities/836/hubs/', // Haltern Am See
       'https://stables.donkey.bike/api/public/cities/838/hubs/', // Marl
       'https://stables.donkey.bike/api/public/cities/827/hubs/', // Lünen
-      'https://stables.donkey.bike/api/public/cities/824/hubs/', // Dorsten
+      'https://stables.donkey.bike/api/public/cities/834/hubs/', // Dorsten
       'https://stables.donkey.bike/api/public/cities/828/hubs/', // Moers
       'https://stables.donkey.bike/api/public/cities/73/hubs/', // Mülheim An Der Ruhr
       'https://stables.donkey.bike/api/public/cities/841/hubs/', // Waltrop
       'https://stables.donkey.bike/api/public/cities/829/hubs/', // Neukirchen Vluyn
-      'https://stables.donkey.bike/api/public/cities/824/hubs/', // Dorsten
       'https://stables.donkey.bike/api/public/cities/830/hubs/', // Oberhausen
     ]
   },
