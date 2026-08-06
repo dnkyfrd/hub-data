@@ -72,6 +72,35 @@ const cities = [
       'https://stables.donkey.bike/api/public/cities/690/hubs/', // zwijndrecht
     ]
   },
+  {
+    name: 'ruhrgebiet',
+    endpoints: [
+      'https://stables.donkey.bike/api/public/cities/785/hubs/', // Dortmund
+      'https://stables.donkey.bike/api/public/cities/819/hubs/', // Bochum
+      'https://stables.donkey.bike/api/public/cities/820/hubs/', // Bottrop
+      'https://stables.donkey.bike/api/public/cities/821/hubs/', // Duisburg
+      'https://stables.donkey.bike/api/public/cities/835/hubs/', // Gladbeck
+      'https://stables.donkey.bike/api/public/cities/824/hubs/', // Hamm
+      'https://stables.donkey.bike/api/public/cities/822/hubs/', // Essen
+      'https://stables.donkey.bike/api/public/cities/825/hubs/', // Hattingen
+      'https://stables.donkey.bike/api/public/cities/833/hubs/', // Datteln
+      'https://stables.donkey.bike/api/public/cities/837/hubs/', // Herten
+      'https://stables.donkey.bike/api/public/cities/839/hubs/', // Oer Erkenschwick
+      'https://stables.donkey.bike/api/public/cities/823/hubs/', // Gelsenkirchen
+      'https://stables.donkey.bike/api/public/cities/826/hubs/', // Herne
+      'https://stables.donkey.bike/api/public/cities/831/hubs/', // Witten
+      'https://stables.donkey.bike/api/public/cities/836/hubs/', // Haltern Am See
+      'https://stables.donkey.bike/api/public/cities/838/hubs/', // Marl
+      'https://stables.donkey.bike/api/public/cities/827/hubs/', // Lünen
+      'https://stables.donkey.bike/api/public/cities/824/hubs/', // Dorsten
+      'https://stables.donkey.bike/api/public/cities/828/hubs/', // Moers
+      'https://stables.donkey.bike/api/public/cities/73/hubs/', // Mülheim An Der Ruhr
+      'https://stables.donkey.bike/api/public/cities/841/hubs/', // Waltrop
+      'https://stables.donkey.bike/api/public/cities/829/hubs/', // Neukirchen Vluyn
+      'https://stables.donkey.bike/api/public/cities/824/hubs/', // Dorsten
+      'https://stables.donkey.bike/api/public/cities/830/hubs/', // Oberhausen
+    ]
+  },
   { name: 'skive', endpoints: ['https://stables.donkey.bike/api/public/cities/843/hubs/'] },  
   { name: 'oulu', endpoints: ['https://stables.donkey.bike/api/public/cities/844/hubs/'] },  
   { name: 'düsseldorf', endpoints: ['https://stables.donkey.bike/api/public/cities/584/hubs/'] },  
