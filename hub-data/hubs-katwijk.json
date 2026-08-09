@@ -28,17 +28,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29500,
-    "name": "Warmonderweg",
-    "latitude": "52.1768989",
-    "longitude": "4.4750943",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29490,
     "name": "LIDL Boerhaaveplein",
     "latitude": "52.1915051",
     "longitude": "4.4756063",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29500,
+    "name": "Warmonderweg",
+    "latitude": "52.1768989",
+    "longitude": "4.4750943",
     "thumbnail_url": ""
   },
   {
@@ -224,13 +224,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29502,
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
@@ -249,6 +242,13 @@
     "name": "Museum Marinevliegkamp",
     "latitude": "52.1747519",
     "longitude": "4.4178164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -616,6 +616,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29373,
+    "name": "Fietsparkeerplaats Noordduinen",
+    "latitude": "52.2123027",
+    "longitude": "4.4035973",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29353,
     "name": "Rijnsburgse Ijsclub",
     "latitude": "52.2005695",
@@ -693,10 +700,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29591,
-    "name": "Valkenburg strand",
-    "latitude": "52.1579228",
-    "longitude": "4.4432401",
+    "id": 29590,
+    "name": "Valk Horeca",
+    "latitude": "52.1592728",
+    "longitude": "4.4499359",
     "thumbnail_url": ""
   },
   {
@@ -707,17 +714,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29373,
-    "name": "Fietsparkeerplaats Noordduinen",
-    "latitude": "52.2123027",
-    "longitude": "4.4035973",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29411,
     "name": "Boulevard",
     "latitude": "52.2093116",
     "longitude": "4.3975075",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29591,
+    "name": "Valkenburg strand",
+    "latitude": "52.1579228",
+    "longitude": "4.4432401",
     "thumbnail_url": ""
   },
   {
@@ -833,13 +840,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29439,
-    "name": "Voorstraat 2",
-    "latitude": "52.2041409",
-    "longitude": "4.3957815",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29491,
     "name": "Frederiksoord",
     "latitude": "52.1850524",
@@ -945,13 +945,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29599,
-    "name": "De Klink",
-    "latitude": "52.1851982",
-    "longitude": "4.4409015",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29391,
     "name": "Dr Willem Dreesstraat 2",
     "latitude": "52.2087155",
@@ -1008,10 +1001,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29355,
+    "name": "Bankijkerweg",
+    "latitude": "52.1963953",
+    "longitude": "4.4479847",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29438,
     "name": "Hoogvliet",
     "latitude": "52.2035163",
     "longitude": "4.3970837",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29439,
+    "name": "Voorstraat 2",
+    "latitude": "52.2041409",
+    "longitude": "4.3957815",
     "thumbnail_url": ""
   },
   {
@@ -1054,6 +1061,13 @@
     "name": "Lageweg",
     "latitude": "52.2012387",
     "longitude": "4.4344735",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29599,
+    "name": "De Klink",
+    "latitude": "52.1851982",
+    "longitude": "4.4409015",
     "thumbnail_url": ""
   },
   {
@@ -1292,20 +1306,6 @@
     "name": "Voorstraat",
     "latitude": "52.2034907",
     "longitude": "4.3977307",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29355,
-    "name": "Bankijkerweg",
-    "latitude": "52.1963953",
-    "longitude": "4.4479847",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29590,
-    "name": "Valk Horeca",
-    "latitude": "52.1592728",
-    "longitude": "4.4499359",
     "thumbnail_url": ""
   },
   {

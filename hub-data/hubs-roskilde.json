@@ -1,12 +1,5 @@
 [
   {
-    "id": 21942,
-    "name": "Vigen Strandpark",
-    "latitude": "55.6737912",
-    "longitude": "12.0819559",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21610,
     "name": "Teknisk Skole, EUD",
     "latitude": "55.6255774",
@@ -21,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21942,
+    "name": "Vigen Strandpark",
+    "latitude": "55.6737912",
+    "longitude": "12.0819559",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21624,
     "name": "Roskilde Bibliotek, Bibliotekshaven",
     "latitude": "55.6416359",
@@ -32,6 +32,13 @@
     "name": "Trekroner Station syd",
     "latitude": "55.6476658",
     "longitude": "12.1321158",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21604,
+    "name": "Roskilde Station ved Føtex",
+    "latitude": "55.6376829",
+    "longitude": "12.0832409",
     "thumbnail_url": ""
   },
   {
@@ -53,13 +60,6 @@
     "name": "Stændertorvet v. Den Gamle Byrådssal",
     "latitude": "55.6410671",
     "longitude": "12.080359",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21604,
-    "name": "Roskilde Station ved Føtex",
-    "latitude": "55.6376829",
-    "longitude": "12.0832409",
     "thumbnail_url": ""
   },
   {
@@ -130,6 +130,13 @@
     "name": "Ragnarock",
     "latitude": "55.6279809",
     "longitude": "12.083025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23062,
+    "name": "Roskilde station, syd 2",
+    "latitude": "55.6374272",
+    "longitude": "12.0869767",
     "thumbnail_url": ""
   },
   {
@@ -305,13 +312,6 @@
     "name": "Sct. Hans Have",
     "latitude": "55.6550768",
     "longitude": "12.0635241",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23062,
-    "name": "Roskilde station, syd 2",
-    "latitude": "55.6374272",
-    "longitude": "12.0869767",
     "thumbnail_url": ""
   },
   {
