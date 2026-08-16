@@ -1,19 +1,5 @@
 [
   {
-    "id": 20454,
-    "name": "Träslövsläge, Joels Brygga",
-    "latitude": "57.0573904",
-    "longitude": "12.2708363",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19959,
-    "name": "Träslövsläge, Strandbackavägen",
-    "latitude": "57.0618042",
-    "longitude": "12.2775492",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19956,
     "name": "Getterön 5:e vik",
     "latitude": "57.1194831",
@@ -21,10 +7,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20618,
-    "name": "Sjukhuset, huvudentré",
-    "latitude": "57.099626",
-    "longitude": "12.2765769",
+    "id": 20454,
+    "name": "Träslövsläge, Joels Brygga",
+    "latitude": "57.0573904",
+    "longitude": "12.2708363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19961,
+    "name": "Apelviken, Manettorget",
+    "latitude": "57.0851988",
+    "longitude": "12.252593",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19952,
+    "name": "Torget",
+    "latitude": "57.1058915",
+    "longitude": "12.2500476",
     "thumbnail_url": ""
   },
   {
@@ -35,6 +35,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20618,
+    "name": "Sjukhuset, huvudentré",
+    "latitude": "57.099626",
+    "longitude": "12.2765769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19964,
+    "name": "Kåsa, Lilla Apelviken",
+    "latitude": "57.08981",
+    "longitude": "12.2432809",
+    "thumbnail_url": ""
+  },
+  {
     "id": 20710,
     "name": "Pingvinen Is- och simarena",
     "latitude": "57.1188857",
@@ -42,10 +56,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19961,
-    "name": "Apelviken, Manettorget",
-    "latitude": "57.0851988",
-    "longitude": "12.252593",
+    "id": 20765,
+    "name": "Brunnsparken",
+    "latitude": "57.1062306",
+    "longitude": "12.249721",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19959,
+    "name": "Träslövsläge, Strandbackavägen",
+    "latitude": "57.0618042",
+    "longitude": "12.2775492",
     "thumbnail_url": ""
   },
   {
@@ -70,13 +91,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20765,
-    "name": "Brunnsparken",
-    "latitude": "57.1062306",
-    "longitude": "12.249721",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21841,
     "name": "Peder Skrivares skola huvudentrén ",
     "latitude": "57.1066538",
@@ -91,13 +105,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19952,
-    "name": "Torget",
-    "latitude": "57.1058915",
-    "longitude": "12.2500476",
-    "thumbnail_url": ""
-  },
-  {
     "id": 22565,
     "name": "Kallbadhuset",
     "latitude": "57.1085424",
@@ -109,13 +116,6 @@
     "name": "Brukstorget",
     "latitude": "57.1205692",
     "longitude": "12.2578923",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19964,
-    "name": "Kåsa, Lilla Apelviken",
-    "latitude": "57.08981",
-    "longitude": "12.2432809",
     "thumbnail_url": ""
   },
   {

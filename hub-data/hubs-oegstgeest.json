@@ -14,13 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29577,
-    "name": "Fietsenstalling VDS",
-    "latitude": "52.1826239",
-    "longitude": "4.452271",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29515,
     "name": "Duinzichtstraat",
     "latitude": "52.1836898",
@@ -28,17 +21,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29490,
-    "name": "LIDL Boerhaaveplein",
-    "latitude": "52.1915051",
-    "longitude": "4.4756063",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29500,
     "name": "Warmonderweg",
     "latitude": "52.1768989",
     "longitude": "4.4750943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29490,
+    "name": "LIDL Boerhaaveplein",
+    "latitude": "52.1915051",
+    "longitude": "4.4756063",
     "thumbnail_url": ""
   },
   {
@@ -53,6 +46,13 @@
     "name": "Oegstgeest Tennis Club",
     "latitude": "52.1836377",
     "longitude": "4.481723",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29577,
+    "name": "Fietsenstalling VDS",
+    "latitude": "52.1826239",
+    "longitude": "4.452271",
     "thumbnail_url": ""
   },
   {
@@ -245,17 +245,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35536,
-    "name": "Bargelaan",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
+    "id": 29559,
+    "name": "Hall Allergy",
+    "latitude": "52.1684053",
+    "longitude": "4.4648202",
     "thumbnail_url": ""
   },
   {
@@ -270,13 +263,6 @@
     "name": "Zaaijerplein",
     "latitude": "52.1693418",
     "longitude": "4.4765765",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29559,
-    "name": "Hall Allergy",
-    "latitude": "52.1684053",
-    "longitude": "4.4648202",
     "thumbnail_url": ""
   },
   {
@@ -322,6 +308,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29534,
     "name": "Blauwe vogelweg",
     "latitude": "52.1694844",
@@ -333,6 +326,13 @@
     "name": "Fietsenstalling Universiteit",
     "latitude": "52.1678733",
     "longitude": "4.4595188",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35536,
+    "name": "Bargelaan",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
     "thumbnail_url": ""
   },
   {
@@ -539,10 +539,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29417,
+    "name": "Boulevard 6",
+    "latitude": "52.2049336",
+    "longitude": "4.3940062",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29470,
     "name": "Topaz Overduin",
     "latitude": "52.1974339",
     "longitude": "4.4038555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29414,
+    "name": "Boulevard 4",
+    "latitude": "52.2072153",
+    "longitude": "4.3959548",
     "thumbnail_url": ""
   },
   {
@@ -567,13 +581,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29417,
-    "name": "Boulevard 6",
-    "latitude": "52.2049336",
-    "longitude": "4.3940062",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29360,
     "name": "Gemeentewerf Katwijk",
     "latitude": "52.2035062",
@@ -585,6 +592,13 @@
     "name": "Sporthal Rijnsoever",
     "latitude": "52.2083207",
     "longitude": "4.4179586",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29429,
+    "name": "Sportlaan Katwijk",
+    "latitude": "52.1951895",
+    "longitude": "4.3872437",
     "thumbnail_url": ""
   },
   {
@@ -616,13 +630,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29373,
-    "name": "Fietsparkeerplaats Noordduinen",
-    "latitude": "52.2123027",
-    "longitude": "4.4035973",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29353,
     "name": "Rijnsburgse Ijsclub",
     "latitude": "52.2005695",
@@ -641,6 +648,13 @@
     "name": "Vianen Flowers",
     "latitude": "52.1918629",
     "longitude": "4.4562499",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29451,
+    "name": "Bosplein",
+    "latitude": "52.1971545",
+    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {
@@ -693,17 +707,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29429,
-    "name": "Sportlaan Katwijk",
-    "latitude": "52.1951895",
-    "longitude": "4.3872437",
+    "id": 29373,
+    "name": "Fietsparkeerplaats Noordduinen",
+    "latitude": "52.2123027",
+    "longitude": "4.4035973",
     "thumbnail_url": ""
   },
   {
-    "id": 29590,
-    "name": "Valk Horeca",
-    "latitude": "52.1592728",
-    "longitude": "4.4499359",
+    "id": 29591,
+    "name": "Valkenburg strand",
+    "latitude": "52.1579228",
+    "longitude": "4.4432401",
     "thumbnail_url": ""
   },
   {
@@ -718,13 +732,6 @@
     "name": "Boulevard",
     "latitude": "52.2093116",
     "longitude": "4.3975075",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29591,
-    "name": "Valkenburg strand",
-    "latitude": "52.1579228",
-    "longitude": "4.4432401",
     "thumbnail_url": ""
   },
   {
@@ -875,13 +882,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29414,
-    "name": "Boulevard 4",
-    "latitude": "52.2072153",
-    "longitude": "4.3959548",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29389,
     "name": "'T Kwadrant",
     "latitude": "52.2073509",
@@ -1029,6 +1029,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29590,
+    "name": "Valk Horeca",
+    "latitude": "52.1592728",
+    "longitude": "4.4499359",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29478,
     "name": "Dorpshuis",
     "latitude": "52.1805499",
@@ -1159,13 +1166,6 @@
     "name": "boulevard",
     "latitude": "52.2028196",
     "longitude": "4.3921886",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29451,
-    "name": "Bosplein",
-    "latitude": "52.1971545",
-    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {

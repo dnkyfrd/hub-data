@@ -14,20 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21942,
-    "name": "Vigen Strandpark",
-    "latitude": "55.6737912",
-    "longitude": "12.0819559",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21624,
-    "name": "Roskilde Bibliotek, Bibliotekshaven",
-    "latitude": "55.6416359",
-    "longitude": "12.0880172",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28751,
     "name": "Trekroner Station syd",
     "latitude": "55.6476658",
@@ -35,10 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21604,
-    "name": "Roskilde Station ved Føtex",
-    "latitude": "55.6376829",
-    "longitude": "12.0832409",
+    "id": 21624,
+    "name": "Roskilde Bibliotek, Bibliotekshaven",
+    "latitude": "55.6416359",
+    "longitude": "12.0880172",
     "thumbnail_url": ""
   },
   {
@@ -84,24 +70,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21942,
+    "name": "Vigen Strandpark",
+    "latitude": "55.6737912",
+    "longitude": "12.0819559",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21663,
     "name": "Hyrdehøj Centret",
     "latitude": "55.6345597",
     "longitude": "12.0538536",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21621,
-    "name": "Roskilde Sygehus, hovedindgang nord",
-    "latitude": "55.636902",
-    "longitude": "12.0904945",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23275,
-    "name": "RO's Torv vest",
-    "latitude": "55.6411759",
-    "longitude": "12.0986029",
     "thumbnail_url": ""
   },
   {
@@ -112,17 +91,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21636,
-    "name": "Algade v. Hestetorvet",
-    "latitude": "55.6406284",
-    "longitude": "12.0889464",
+    "id": 21621,
+    "name": "Roskilde Sygehus, hovedindgang nord",
+    "latitude": "55.636902",
+    "longitude": "12.0904945",
     "thumbnail_url": ""
   },
   {
-    "id": 22560,
-    "name": "Fælledvej",
-    "latitude": "55.6353913",
-    "longitude": "12.062779",
+    "id": 21542,
+    "name": "Roskilde Station ved Kirkegården",
+    "latitude": "55.6394026",
+    "longitude": "12.0881065",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23275,
+    "name": "RO's Torv vest",
+    "latitude": "55.6411759",
+    "longitude": "12.0986029",
     "thumbnail_url": ""
   },
   {
@@ -130,13 +116,6 @@
     "name": "Ragnarock",
     "latitude": "55.6279809",
     "longitude": "12.083025",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23062,
-    "name": "Roskilde station, syd 2",
-    "latitude": "55.6374272",
-    "longitude": "12.0869767",
     "thumbnail_url": ""
   },
   {
@@ -161,10 +140,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21943,
-    "name": "Trekroner Station",
-    "latitude": "55.6481927",
-    "longitude": "12.1314188",
+    "id": 21636,
+    "name": "Algade v. Hestetorvet",
+    "latitude": "55.6406284",
+    "longitude": "12.0889464",
     "thumbnail_url": ""
   },
   {
@@ -172,6 +151,13 @@
     "name": "Rådhuset",
     "latitude": "55.633969",
     "longitude": "12.0895626",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21604,
+    "name": "Roskilde Station ved Føtex",
+    "latitude": "55.6376829",
+    "longitude": "12.0832409",
     "thumbnail_url": ""
   },
   {
@@ -210,6 +196,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22560,
+    "name": "Fælledvej",
+    "latitude": "55.6353913",
+    "longitude": "12.062779",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21633,
     "name": "Folkeparken, Frøspringvandet",
     "latitude": "55.6442213",
@@ -221,6 +214,20 @@
     "name": "Kildegården",
     "latitude": "55.6391526",
     "longitude": "12.0712763",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23062,
+    "name": "Roskilde station, syd 2",
+    "latitude": "55.6374272",
+    "longitude": "12.0869767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21943,
+    "name": "Trekroner Station",
+    "latitude": "55.6481927",
+    "longitude": "12.1314188",
     "thumbnail_url": ""
   },
   {
@@ -375,13 +382,6 @@
     "name": "Københavnsvej v. Lidl",
     "latitude": "55.6424211",
     "longitude": "12.1092135",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21542,
-    "name": "Roskilde Station ved Kirkegården",
-    "latitude": "55.6394026",
-    "longitude": "12.0881065",
     "thumbnail_url": ""
   },
   {
