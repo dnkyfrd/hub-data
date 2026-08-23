@@ -1,9 +1,9 @@
 [
   {
-    "id": 34861,
-    "name": "Värtön uimaranta",
-    "latitude": "65.0178254",
-    "longitude": "25.5262576",
+    "id": 34828,
+    "name": "Kauppahalli ",
+    "latitude": "65.012986",
+    "longitude": "25.4645383",
     "thumbnail_url": ""
   },
   {
@@ -14,17 +14,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34833,
-    "name": "Valkea",
-    "latitude": "65.0110527",
-    "longitude": "25.4728703",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34830,
     "name": "Kauppatori",
     "latitude": "65.0142008",
     "longitude": "25.4659321",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34832,
+    "name": "Mannerheimin puisto",
+    "latitude": "65.0100076",
+    "longitude": "25.4677043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36314,
+    "name": "Oulun linna",
+    "latitude": "65.0166786",
+    "longitude": "25.4659592",
     "thumbnail_url": ""
   },
   {
@@ -35,17 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34841,
-    "name": "Yliopisto",
-    "latitude": "65.0584028",
-    "longitude": "25.4691018",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34828,
-    "name": "Kauppahalli ",
-    "latitude": "65.012986",
-    "longitude": "25.4645383",
+    "id": 34833,
+    "name": "Valkea",
+    "latitude": "65.0110527",
+    "longitude": "25.4728703",
     "thumbnail_url": ""
   },
   {
@@ -63,20 +63,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34840,
-    "name": "Merikoskenkatu",
-    "latitude": "65.0245555",
-    "longitude": "25.4692684",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34827,
-    "name": "Hollihaan puisto",
-    "latitude": "65.0093611",
-    "longitude": "25.4588132",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34838,
     "name": "Taidemuseo",
     "latitude": "65.0187714",
@@ -84,10 +70,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34832,
-    "name": "Mannerheimin puisto",
-    "latitude": "65.0100076",
-    "longitude": "25.4677043",
+    "id": 34861,
+    "name": "Värtön uimaranta",
+    "latitude": "65.0178254",
+    "longitude": "25.5262576",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34841,
+    "name": "Yliopisto",
+    "latitude": "65.0584028",
+    "longitude": "25.4691018",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +91,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36314,
-    "name": "Oulun linna",
-    "latitude": "65.0166786",
-    "longitude": "25.4659592",
+    "id": 34827,
+    "name": "Hollihaan puisto",
+    "latitude": "65.0093611",
+    "longitude": "25.4588132",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34840,
+    "name": "Merikoskenkatu",
+    "latitude": "65.0245555",
+    "longitude": "25.4692684",
     "thumbnail_url": ""
   },
   {

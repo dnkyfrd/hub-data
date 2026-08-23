@@ -7,24 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof Straubing",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32700,
     "name": "Landshuter Str. Aldi",
     "latitude": "48.8633673",
     "longitude": "12.5751719",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32681,
-    "name": "Seminargasse",
-    "latitude": "48.8822361",
-    "longitude": "12.5686705",
     "thumbnail_url": ""
   },
   {
@@ -56,6 +42,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32717,
+    "name": "Bahnhof Straubing",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32681,
+    "name": "Seminargasse",
+    "latitude": "48.8822361",
+    "longitude": "12.5686705",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32691,
     "name": "JVA (Hinter Pflanztrögen)",
     "latitude": "48.8715442",
@@ -70,13 +70,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32696,
     "name": "Niederalteicher Str.",
     "latitude": "48.8797146",
@@ -88,6 +81,13 @@
     "name": "Förderzentrum (gegenüber) an Laterne",
     "latitude": "48.8686327",
     "longitude": "12.575624",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {

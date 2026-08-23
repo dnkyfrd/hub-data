@@ -1,72 +1,9 @@
 [
   {
-    "id": 31755,
-    "name": "Station Diemen Zuid",
-    "latitude": "52.3302353",
-    "longitude": "4.9541849",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31756,
-    "name": "Station Duivendrecht",
-    "latitude": "52.3232396",
-    "longitude": "4.9363679",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33414,
-    "name": "Q-Park Westergasfabriek (1st Floor)",
-    "latitude": "52.3846693",
-    "longitude": "4.8662557",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31837,
-    "name": "Station Diemen I",
-    "latitude": "52.3451733",
-    "longitude": "4.9668317",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30417,
-    "name": "B Amsterdam",
-    "latitude": "52.3428284",
-    "longitude": "4.8284728",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27223,
-    "name": "!PARK INDOOR! CS River",
-    "latitude": "52.3801546",
-    "longitude": "4.8986146",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23567,
     "name": "TotalEnergies Tweede van der Helststraat",
     "latitude": "52.3492609",
     "longitude": "4.8947921",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31760,
-    "name": "Station Zaandijk Zaanse Schans I",
-    "latitude": "52.4691044",
-    "longitude": "4.8058698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 2436,
-    "name": "Hotel Jansen",
-    "latitude": "52.3419838",
-    "longitude": "4.8456161",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27226,
-    "name": "!PARK INDOOR! CS Center",
-    "latitude": "52.377613",
-    "longitude": "4.9026312",
     "thumbnail_url": ""
   },
   {
@@ -77,10 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21829,
-    "name": "!PARK INDOOR! Station Rai",
-    "latitude": "52.3373397",
-    "longitude": "4.890449",
+    "id": 27226,
+    "name": "!PARK INDOOR! CS Center",
+    "latitude": "52.377613",
+    "longitude": "4.9026312",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27223,
+    "name": "!PARK INDOOR! CS River",
+    "latitude": "52.3801546",
+    "longitude": "4.8986146",
     "thumbnail_url": ""
   },
   {
@@ -91,17 +35,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31774,
-    "name": "Halte Edam Busstation",
-    "latitude": "52.5102944",
-    "longitude": "5.0447229",
+    "id": 31760,
+    "name": "Station Zaandijk Zaanse Schans I",
+    "latitude": "52.4691044",
+    "longitude": "4.8058698",
     "thumbnail_url": ""
   },
   {
-    "id": 33538,
-    "name": "Q-Park Waterlooplein (Underground Parking)",
-    "latitude": "52.3690364",
-    "longitude": "4.903993",
+    "id": 35121,
+    "name": "Q-Park Oostenburg (Indoor Parking)",
+    "latitude": "52.372795",
+    "longitude": "4.9305301",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21829,
+    "name": "!PARK INDOOR! Station Rai",
+    "latitude": "52.3373397",
+    "longitude": "4.890449",
     "thumbnail_url": ""
   },
   {
@@ -112,10 +63,73 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35121,
-    "name": "Q-Park Oostenburg (Indoor Parking)",
-    "latitude": "52.372795",
-    "longitude": "4.9305301",
+    "id": 33414,
+    "name": "Q-Park Westergasfabriek (1st Floor)",
+    "latitude": "52.3846693",
+    "longitude": "4.8662557",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31755,
+    "name": "Station Diemen Zuid",
+    "latitude": "52.3302353",
+    "longitude": "4.9541849",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37006,
+    "name": "AMAZE Amsterdam",
+    "latitude": "52.3938257",
+    "longitude": "4.851928",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26619,
+    "name": "Science Park Campus",
+    "latitude": "52.3550805",
+    "longitude": "4.9558884",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31774,
+    "name": "Halte Edam Busstation",
+    "latitude": "52.5102944",
+    "longitude": "5.0447229",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30417,
+    "name": "B Amsterdam",
+    "latitude": "52.3428284",
+    "longitude": "4.8284728",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33538,
+    "name": "Q-Park Waterlooplein (Underground Parking)",
+    "latitude": "52.3690364",
+    "longitude": "4.903993",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27812,
+    "name": "!PARK UNDERGROUND! Stationspleinstalling",
+    "latitude": "52.3784333",
+    "longitude": "4.8977546",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20883,
+    "name": "!PARK INDOOR! Amstelstation",
+    "latitude": "52.3468462",
+    "longitude": "4.9188123",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 2436,
+    "name": "Hotel Jansen",
+    "latitude": "52.3419838",
+    "longitude": "4.8456161",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +147,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31756,
+    "name": "Station Duivendrecht",
+    "latitude": "52.3232396",
+    "longitude": "4.9363679",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31765,
+    "name": "Station Halfweg Zwanenburg",
+    "latitude": "52.3860205",
+    "longitude": "4.7453457",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31896,
     "name": "Station Purmerend Weidevenne II",
     "latitude": "52.4967467",
@@ -140,31 +168,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23565,
-    "name": "TotalEnergies Burg de Vlugtlaan",
-    "latitude": "52.3801295",
-    "longitude": "4.8281348",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 26619,
-    "name": "Science Park Campus",
-    "latitude": "52.3550805",
-    "longitude": "4.9558884",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31768,
     "name": "Station Krommenie Assendelft I",
     "latitude": "52.495152",
     "longitude": "4.7556883",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27812,
-    "name": "!PARK UNDERGROUND! Stationspleinstalling",
-    "latitude": "52.3784333",
-    "longitude": "4.8977546",
     "thumbnail_url": ""
   },
   {
@@ -189,6 +196,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23565,
+    "name": "TotalEnergies Burg de Vlugtlaan",
+    "latitude": "52.3801295",
+    "longitude": "4.8281348",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31762,
     "name": "Station Purmerend",
     "latitude": "52.5037628",
@@ -196,10 +210,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20883,
-    "name": "!PARK INDOOR! Amstelstation",
-    "latitude": "52.3468462",
-    "longitude": "4.9188123",
+    "id": 31837,
+    "name": "Station Diemen I",
+    "latitude": "52.3451733",
+    "longitude": "4.9668317",
     "thumbnail_url": ""
   },
   {
@@ -221,13 +235,6 @@
     "name": "Station Koog aan de Zaan II",
     "latitude": "52.4568489",
     "longitude": "4.8059",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31765,
-    "name": "Station Halfweg Zwanenburg",
-    "latitude": "52.3860205",
-    "longitude": "4.7453457",
     "thumbnail_url": ""
   },
   {
