@@ -1,58 +1,9 @@
 [
   {
-    "id": 22524,
-    "name": "Bärenplatz/Festwiese",
-    "latitude": "47.6468718",
-    "longitude": "9.1761214",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30492,
     "name": "Bahnhof Landschlacht",
     "latitude": "47.6291062",
     "longitude": "9.2462366",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22528,
-    "name": "Camping Fischerhaus",
-    "latitude": "47.6470182",
-    "longitude": "9.1981346",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22520,
-    "name": "Bahnhof Bernrain",
-    "latitude": "47.6424447",
-    "longitude": "9.1624843",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22522,
-    "name": "Bahnhof Kreuzlingen",
-    "latitude": "47.6527784",
-    "longitude": "9.1677532",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27178,
-    "name": "Grenze Klein Venedig ",
-    "latitude": "47.654836",
-    "longitude": "9.1773609",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22530,
-    "name": "Bahnhof Lengwil ",
-    "latitude": "47.6261744",
-    "longitude": "9.1899964",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 22527,
-    "name": "Sonnenwiesenstrasse",
-    "latitude": "47.6450885",
-    "longitude": "9.1900953",
     "thumbnail_url": ""
   },
   {
@@ -63,24 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22525,
-    "name": "Bahnhof Hafen",
-    "latitude": "47.649461",
-    "longitude": "9.1816299",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 27219,
-    "name": "Bahnhof Tägerwilen-Gottlieben",
-    "latitude": "47.6596514",
-    "longitude": "9.1327185",
-    "thumbnail_url": ""
-  },
-  {
     "id": 27221,
     "name": "Bahnhof Tägerwilen-Dorf ",
     "latitude": "47.6537621",
     "longitude": "9.1394509",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22530,
+    "name": "Bahnhof Lengwil ",
+    "latitude": "47.6261744",
+    "longitude": "9.1899964",
     "thumbnail_url": ""
   },
   {
@@ -91,6 +35,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22522,
+    "name": "Bahnhof Kreuzlingen",
+    "latitude": "47.6527784",
+    "longitude": "9.1677532",
+    "thumbnail_url": ""
+  },
+  {
     "id": 30174,
     "name": "Bhf. Münsterlingen-Scherzingen",
     "latitude": "47.6334751",
@@ -98,10 +49,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22526,
-    "name": "Kursschifffahrtshafen",
-    "latitude": "47.6512313",
-    "longitude": "9.1807834",
+    "id": 27178,
+    "name": "Grenze Klein Venedig ",
+    "latitude": "47.654836",
+    "longitude": "9.1773609",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22528,
+    "name": "Camping Fischerhaus",
+    "latitude": "47.6470182",
+    "longitude": "9.1981346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22524,
+    "name": "Bärenplatz/Festwiese",
+    "latitude": "47.6468718",
+    "longitude": "9.1761214",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22520,
+    "name": "Bahnhof Bernrain",
+    "latitude": "47.6424447",
+    "longitude": "9.1624843",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22527,
+    "name": "Sonnenwiesenstrasse",
+    "latitude": "47.6450885",
+    "longitude": "9.1900953",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27219,
+    "name": "Bahnhof Tägerwilen-Gottlieben",
+    "latitude": "47.6596514",
+    "longitude": "9.1327185",
     "thumbnail_url": ""
   },
   {
@@ -109,6 +95,13 @@
     "name": "Ekkharthof",
     "latitude": "47.6165309",
     "longitude": "9.2063484",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22525,
+    "name": "Bahnhof Hafen",
+    "latitude": "47.649461",
+    "longitude": "9.1816299",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +116,13 @@
     "name": "Haupteingang Kantonsspital",
     "latitude": "47.6309082",
     "longitude": "9.2364925",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 22526,
+    "name": "Kursschifffahrtshafen",
+    "latitude": "47.6512313",
+    "longitude": "9.1807834",
     "thumbnail_url": ""
   },
   {

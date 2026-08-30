@@ -1,9 +1,9 @@
 [
   {
-    "id": 19860,
-    "name": "Lehtomäki (S-Market)",
-    "latitude": "60.8880698",
-    "longitude": "26.7235099",
+    "id": 19840,
+    "name": "Museokortteli",
+    "latitude": "60.8662307",
+    "longitude": "26.6908319",
     "thumbnail_url": ""
   },
   {
@@ -14,24 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19840,
-    "name": "Museokortteli",
-    "latitude": "60.8662307",
-    "longitude": "26.6908319",
+    "id": 19843,
+    "name": "Kuusihaankatu",
+    "latitude": "60.8520798",
+    "longitude": "26.7150073",
     "thumbnail_url": ""
   },
   {
-    "id": 19849,
-    "name": "Kauppakeskus Veturi",
-    "latitude": "60.8763662",
-    "longitude": "26.6524711",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23061,
-    "name": "Ratamokeskus",
-    "latitude": "60.8771391",
-    "longitude": "26.7017354",
+    "id": 19860,
+    "name": "Lehtomäki (S-Market)",
+    "latitude": "60.8883029",
+    "longitude": "26.7237476",
     "thumbnail_url": ""
   },
   {
@@ -56,24 +49,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19841,
-    "name": "Kiskokatu",
-    "latitude": "60.8647606",
-    "longitude": "26.7058765",
+    "id": 19849,
+    "name": "Kauppakeskus Veturi",
+    "latitude": "60.8763662",
+    "longitude": "26.6524711",
     "thumbnail_url": ""
   },
   {
-    "id": 19836,
-    "name": "Matkakeskus",
-    "latitude": "60.8663899",
-    "longitude": "26.704199",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19839,
-    "name": "Hansatori",
-    "latitude": "60.868859",
-    "longitude": "26.7002779",
+    "id": 23061,
+    "name": "Ratamokeskus",
+    "latitude": "60.8771391",
+    "longitude": "26.7017354",
     "thumbnail_url": ""
   },
   {
@@ -280,6 +266,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19841,
+    "name": "Kiskokatu",
+    "latitude": "60.8647606",
+    "longitude": "26.7058765",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28926,
     "name": "Pikku-Palomäki",
     "latitude": "60.8765311",
@@ -294,10 +287,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19843,
-    "name": "Kuusihaankatu",
-    "latitude": "60.8520798",
-    "longitude": "26.7150073",
+    "id": 19836,
+    "name": "Matkakeskus",
+    "latitude": "60.8663899",
+    "longitude": "26.704199",
     "thumbnail_url": ""
   },
   {
@@ -305,6 +298,13 @@
     "name": "Tornionmäki (S-Market)",
     "latitude": "60.8752966",
     "longitude": "26.7406486",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19839,
+    "name": "Hansatori",
+    "latitude": "60.868859",
+    "longitude": "26.7002779",
     "thumbnail_url": ""
   }
 ]
