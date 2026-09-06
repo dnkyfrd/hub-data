@@ -1,23 +1,23 @@
 [
   {
-    "id": 32162,
-    "name": "Koster sportclub",
-    "latitude": "52.0080336",
-    "longitude": "4.3730483",
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
-    "id": 32157,
-    "name": "Delftechpark",
-    "latitude": "51.9972105",
-    "longitude": "4.3835561",
+    "id": 32250,
+    "name": "Carpoolplaats Delft",
+    "latitude": "52.0132326",
+    "longitude": "4.3776411",
     "thumbnail_url": ""
   },
   {
-    "id": 32147,
-    "name": "Collegezaal A Oost",
-    "latitude": "51.9997317",
-    "longitude": "4.3753043",
+    "id": 32192,
+    "name": "Buitenwatersloot",
+    "latitude": "52.0087424",
+    "longitude": "4.3544333",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +70,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32209,
-    "name": "Snackbar Laurens",
-    "latitude": "52.0106421",
-    "longitude": "4.3479408",
+    "id": 32162,
+    "name": "Koster sportclub",
+    "latitude": "52.0080336",
+    "longitude": "4.3730483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32224,
+    "name": "PLUS Schinkel",
+    "latitude": "52.0177033",
+    "longitude": "4.3647408",
     "thumbnail_url": ""
   },
   {
@@ -81,6 +88,20 @@
     "name": "Hovenierstraat",
     "latitude": "52.0075062",
     "longitude": "4.3543806",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32180,
+    "name": "Nieuwe Gracht",
+    "latitude": "52.0048774",
+    "longitude": "4.3564306",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32157,
+    "name": "Delftechpark",
+    "latitude": "51.9972105",
+    "longitude": "4.3835561",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +119,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32208,
     "name": "Hof van Delftlaan 2",
     "latitude": "52.0124645",
@@ -112,31 +140,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32148,
-    "name": "Nieuwe Haven",
-    "latitude": "51.9991044",
-    "longitude": "4.3682831",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32192,
-    "name": "Buitenwatersloot",
-    "latitude": "52.0087424",
-    "longitude": "4.3544333",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32221,
     "name": "AH Ruys",
     "latitude": "52.0138415",
     "longitude": "4.3431273",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32250,
-    "name": "Carpoolplaats Delft",
-    "latitude": "52.0132326",
-    "longitude": "4.3776411",
     "thumbnail_url": ""
   },
   {
@@ -154,17 +161,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32224,
-    "name": "PLUS Schinkel",
-    "latitude": "52.0177033",
-    "longitude": "4.3647408",
+    "id": 32147,
+    "name": "Collegezaal A Oost",
+    "latitude": "51.9997317",
+    "longitude": "4.3753043",
     "thumbnail_url": ""
   },
   {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
+    "id": 32207,
+    "name": "Hof van Delftlaan",
+    "latitude": "52.0120064",
+    "longitude": "4.3477213",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32148,
+    "name": "Nieuwe Haven",
+    "latitude": "51.9991044",
+    "longitude": "4.3682831",
     "thumbnail_url": ""
   },
   {
@@ -182,17 +196,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32180,
-    "name": "Nieuwe Gracht",
-    "latitude": "52.0048774",
-    "longitude": "4.3564306",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32204,
     "name": "Hugo de Grootstraat 1",
     "latitude": "52.0081545",
     "longitude": "4.3500521",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32209,
+    "name": "Snackbar Laurens",
+    "latitude": "52.0106421",
+    "longitude": "4.3479408",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +221,13 @@
     "name": "De Werelddreef",
     "latitude": "51.9833127",
     "longitude": "4.3470939",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31611,
+    "name": "Station Delft Campus",
+    "latitude": "51.9904624",
+    "longitude": "4.3653709",
     "thumbnail_url": ""
   },
   {
@@ -231,17 +252,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32251,
-    "name": "Vesteplein",
-    "latitude": "52.0080851",
-    "longitude": "4.3626219",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32189,
     "name": "Westerstraat",
     "latitude": "52.0076786",
     "longitude": "4.3551862",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32119,
+    "name": "Faculteit Luchtvaart",
+    "latitude": "51.9898219",
+    "longitude": "4.374929",
     "thumbnail_url": ""
   },
   {
@@ -252,13 +273,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31611,
-    "name": "Station Delft Campus",
-    "latitude": "51.9904624",
-    "longitude": "4.3653709",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32181,
     "name": "Ireneboulevard",
     "latitude": "52.0040981",
@@ -266,17 +280,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32223,
-    "name": "Hotel Delft Centre",
-    "latitude": "52.0150012",
-    "longitude": "4.367498",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32173,
     "name": "Hugo de Grootstraat 1",
     "latitude": "52.0099444",
     "longitude": "4.3540618",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32237,
+    "name": "SPAR TUD",
+    "latitude": "52.0003481",
+    "longitude": "4.3763484",
     "thumbnail_url": ""
   },
   {
@@ -308,13 +322,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32160,
-    "name": "Kloosterkade",
-    "latitude": "52.0063871",
-    "longitude": "4.3807895",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32206,
     "name": "Westplantsoen",
     "latitude": "52.008939",
@@ -322,10 +329,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
+    "id": 32160,
+    "name": "Kloosterkade",
+    "latitude": "52.0063871",
+    "longitude": "4.3807895",
     "thumbnail_url": ""
   },
   {
@@ -340,6 +347,20 @@
     "name": "Raamstraat 1",
     "latitude": "52.0064832",
     "longitude": "4.3553136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32251,
+    "name": "Vesteplein",
+    "latitude": "52.0080851",
+    "longitude": "4.3626219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -368,13 +389,6 @@
     "name": "Collegezaal A",
     "latitude": "51.9995048",
     "longitude": "4.3748013",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32207,
-    "name": "Hof van Delftlaan",
-    "latitude": "52.0120064",
-    "longitude": "4.3477213",
     "thumbnail_url": ""
   },
   {
@@ -445,13 +459,6 @@
     "name": "Spoorsingel 6",
     "latitude": "52.013102",
     "longitude": "4.35149",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -728,13 +735,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32237,
-    "name": "SPAR TUD",
-    "latitude": "52.0003481",
-    "longitude": "4.3763484",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32202,
     "name": "Revolt Bouldering",
     "latitude": "52.0252202",
@@ -893,13 +893,6 @@
     "name": "Domino's Nassauplein",
     "latitude": "52.0070243",
     "longitude": "4.3781394",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32119,
-    "name": "Faculteit Luchtvaart",
-    "latitude": "51.9898219",
-    "longitude": "4.374929",
     "thumbnail_url": ""
   },
   {

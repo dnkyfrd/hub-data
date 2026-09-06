@@ -14,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32966,
+    "name": "New Street",
+    "latitude": "52.0134846",
+    "longitude": "4.7103523",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32946,
     "name": "Theaterplein Gouda",
     "latitude": "52.0157993",
@@ -140,6 +147,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32922,
+    "name": "jozefhof 1",
+    "latitude": "52.0191006",
+    "longitude": "4.7139833",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31288,
     "name": "Klein Amerika",
     "latitude": "52.011979",
@@ -147,24 +161,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32986,
-    "name": "Parkstraat",
-    "latitude": "52.0150902",
-    "longitude": "4.6989409",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32910,
     "name": "MBO Rijnland 1",
     "latitude": "52.0267393",
     "longitude": "4.7144122",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32966,
-    "name": "New Street",
-    "latitude": "52.0134846",
-    "longitude": "4.7103523",
     "thumbnail_url": ""
   },
   {
@@ -224,6 +224,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32895,
+    "name": "Groenhovenbad",
+    "latitude": "52.0238336",
+    "longitude": "4.6898301",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32929,
     "name": "Vuurdoornlaan 3",
     "latitude": "52.0248473",
@@ -266,13 +273,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32895,
-    "name": "Groenhovenbad",
-    "latitude": "52.0238336",
-    "longitude": "4.6898301",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32956,
     "name": "Spiering straat",
     "latitude": "52.009315",
@@ -301,10 +301,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32918,
-    "name": "Thorbeckelaan",
-    "latitude": "52.0215051",
-    "longitude": "4.7095926",
+    "id": 32940,
+    "name": "Clay Road",
+    "latitude": "52.0152248",
+    "longitude": "4.7093073",
     "thumbnail_url": ""
   },
   {
@@ -312,13 +312,6 @@
     "name": "Herpstraat",
     "latitude": "52.0142048",
     "longitude": "4.7079819",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32922,
-    "name": "jozefhof 1",
-    "latitude": "52.0191006",
-    "longitude": "4.7139833",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +336,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32841,
-    "name": "Voorzorg",
-    "latitude": "52.0061617",
-    "longitude": "4.6768817",
+    "id": 30987,
+    "name": "Station Gouda (Roof Parking Only)",
+    "latitude": "52.0169789",
+    "longitude": "4.7082706",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32845,
+    "name": "Westergouwe",
+    "latitude": "52.0042545",
+    "longitude": "4.6864806",
     "thumbnail_url": ""
   },
   {
@@ -364,10 +364,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32964,
-    "name": "Market",
-    "latitude": "52.0113061",
-    "longitude": "4.7107359",
+    "id": 32986,
+    "name": "Parkstraat",
+    "latitude": "52.0150902",
+    "longitude": "4.6989409",
     "thumbnail_url": ""
   },
   {
@@ -378,10 +378,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32845,
-    "name": "Westergouwe",
-    "latitude": "52.0042545",
-    "longitude": "4.6864806",
+    "id": 32918,
+    "name": "Thorbeckelaan",
+    "latitude": "52.0215051",
+    "longitude": "4.7095926",
     "thumbnail_url": ""
   },
   {
@@ -406,10 +406,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30987,
-    "name": "Station Gouda (Roof Parking Only)",
-    "latitude": "52.0169789",
-    "longitude": "4.7082706",
+    "id": 32964,
+    "name": "Market",
+    "latitude": "52.0113061",
+    "longitude": "4.7107359",
     "thumbnail_url": ""
   },
   {
@@ -452,13 +452,6 @@
     "name": "Nonnenwater",
     "latitude": "52.0106827",
     "longitude": "4.7044414",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32940,
-    "name": "Clay Road",
-    "latitude": "52.0152248",
-    "longitude": "4.7093073",
     "thumbnail_url": ""
   },
   {
@@ -627,6 +620,13 @@
     "name": "Zwolleweg",
     "latitude": "52.0229489",
     "longitude": "4.6772689",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32841,
+    "name": "Voorzorg",
+    "latitude": "52.0061617",
+    "longitude": "4.6768817",
     "thumbnail_url": ""
   },
   {

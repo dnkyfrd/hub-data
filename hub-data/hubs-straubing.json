@@ -1,19 +1,5 @@
 [
   {
-    "id": 32709,
-    "name": "Haydnstrasse",
-    "latitude": "48.8688756",
-    "longitude": "12.5682731",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32681,
-    "name": "Seminargasse",
-    "latitude": "48.8822361",
-    "longitude": "12.5686705",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32697,
     "name": "Bahnhof Ittling (Fahrradabstellanlage)",
     "latitude": "48.8848476",
@@ -28,10 +14,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32709,
+    "name": "Haydnstrasse",
+    "latitude": "48.8688756",
+    "longitude": "12.5682731",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32681,
+    "name": "Seminargasse",
+    "latitude": "48.8822361",
+    "longitude": "12.5686705",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32688,
+    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
+    "latitude": "48.8733045",
+    "longitude": "12.564136",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32694,
     "name": "Flugplatz Wallmühle",
     "latitude": "48.9025239",
     "longitude": "12.5129751",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32717,
+    "name": "Bahnhof Straubing",
+    "latitude": "48.8775773",
+    "longitude": "12.5740004",
     "thumbnail_url": ""
   },
   {
@@ -49,20 +63,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32717,
-    "name": "Bahnhof Straubing",
-    "latitude": "48.8775773",
-    "longitude": "12.5740004",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32691,
     "name": "JVA (Hinter Pflanztrögen)",
     "latitude": "48.8715442",
@@ -74,6 +74,13 @@
     "name": "Europaring 4",
     "latitude": "48.8945392",
     "longitude": "12.6576504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {
@@ -95,13 +102,6 @@
     "name": "Schlesische Strasse 112 (Mangal)",
     "latitude": "48.8894663",
     "longitude": "12.6049892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32688,
-    "name": "Hans-Adlhoch-Strasse (Anton-Bruckner-Gym)",
-    "latitude": "48.8733045",
-    "longitude": "12.564136",
     "thumbnail_url": ""
   },
   {
