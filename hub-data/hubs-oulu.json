@@ -1,12 +1,5 @@
 [
   {
-    "id": 37053,
-    "name": "Tapiontie 9",
-    "latitude": "65.0613599",
-    "longitude": "25.4779847",
-    "thumbnail_url": ""
-  },
-  {
     "id": 37055,
     "name": "Virkakatu",
     "latitude": "65.0523813",
@@ -18,27 +11,6 @@
     "name": "Syynimaa",
     "latitude": "65.049637",
     "longitude": "25.4755698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37054,
-    "name": "Yliopistokatu 22",
-    "latitude": "65.0585485",
-    "longitude": "25.4742138",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34840,
-    "name": "Merikoskenkatu",
-    "latitude": "65.0245555",
-    "longitude": "25.4692684",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34841,
-    "name": "Yliopisto",
-    "latitude": "65.0584028",
-    "longitude": "25.4691018",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +42,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34836,
-    "name": "Otto Karhin puisto",
-    "latitude": "65.0126338",
-    "longitude": "25.4756048",
+    "id": 34841,
+    "name": "Yliopisto",
+    "latitude": "65.0584028",
+    "longitude": "25.4691018",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37054,
+    "name": "Yliopistokatu 22",
+    "latitude": "65.0585485",
+    "longitude": "25.4742138",
     "thumbnail_url": ""
   },
   {
@@ -81,6 +60,13 @@
     "name": "Mannerheimin puisto",
     "latitude": "65.0100076",
     "longitude": "25.4677043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37053,
+    "name": "Tapiontie 9",
+    "latitude": "65.0613599",
+    "longitude": "25.4779847",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +84,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34860,
-    "name": "Aalto siilo",
-    "latitude": "65.0448418",
-    "longitude": "25.4335598",
+    "id": 34840,
+    "name": "Merikoskenkatu",
+    "latitude": "65.0245555",
+    "longitude": "25.4692684",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34836,
+    "name": "Otto Karhin puisto",
+    "latitude": "65.0126338",
+    "longitude": "25.4756048",
     "thumbnail_url": ""
   },
   {

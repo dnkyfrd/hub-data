@@ -1,16 +1,16 @@
 [
   {
-    "id": 29497,
-    "name": "Poelgeest",
-    "latitude": "52.1805772",
-    "longitude": "4.4824559",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29515,
     "name": "Duinzichtstraat",
     "latitude": "52.1836898",
     "longitude": "4.4660032",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29497,
+    "name": "Poelgeest",
+    "latitude": "52.1805772",
+    "longitude": "4.4824559",
     "thumbnail_url": ""
   },
   {
@@ -25,6 +25,13 @@
     "name": "Warmonderweg",
     "latitude": "52.1768989",
     "longitude": "4.4750943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29517,
+    "name": "De Kempenaerstraat ",
+    "latitude": "52.1775582",
+    "longitude": "4.4670869",
     "thumbnail_url": ""
   },
   {
@@ -161,13 +168,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29517,
-    "name": "De Kempenaerstraat ",
-    "latitude": "52.1775582",
-    "longitude": "4.4670869",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29524,
     "name": "Curium",
     "latitude": "52.1721596",
@@ -217,10 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29502,
-    "name": "LVV Lugdunum",
-    "latitude": "52.174634",
-    "longitude": "4.4849702",
+    "id": 36818,
+    "name": "Leiden Kooilaan II",
+    "latitude": "52.1664375",
+    "longitude": "4.5064219",
     "thumbnail_url": ""
   },
   {
@@ -231,6 +231,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31006,
+    "name": "Lammenschans",
+    "latitude": "52.1471642",
+    "longitude": "4.4924297",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36788,
+    "name": "Leiden Opaalstraat",
+    "latitude": "52.1569597",
+    "longitude": "4.4662194",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36817,
+    "name": "Leiden Kooilaan",
+    "latitude": "52.1630375",
+    "longitude": "4.5063281",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29535,
     "name": "Albinusweg",
     "latitude": "52.1701244",
@@ -238,10 +259,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35536,
-    "name": "Bargelaan",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
+    "id": 36819,
+    "name": "Leiden Ringkade",
+    "latitude": "52.1658125",
+    "longitude": "4.5077344",
     "thumbnail_url": ""
   },
   {
@@ -249,6 +270,34 @@
     "name": "Museum Marinevliegkamp",
     "latitude": "52.1747519",
     "longitude": "4.4178164",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37077,
+    "name": "Herenweg",
+    "latitude": "52.2283777",
+    "longitude": "4.4449658",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36816,
+    "name": "Leiden Lage Rijndijk",
+    "latitude": "52.1617375",
+    "longitude": "4.5085156",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36801,
+    "name": "Leiden Burggravenlaan II",
+    "latitude": "52.1505393",
+    "longitude": "4.504153",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29502,
+    "name": "LVV Lugdunum",
+    "latitude": "52.174634",
+    "longitude": "4.4849702",
     "thumbnail_url": ""
   },
   {
@@ -266,10 +315,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36794,
+    "name": "Leiden Kennedylaan II",
+    "latitude": "52.1411875",
+    "longitude": "4.4713594",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29533,
     "name": "Basalt",
     "latitude": "52.1705307",
     "longitude": "4.468598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35536,
+    "name": "Bargelaan",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36783,
+    "name": "Leiden Vijf Meilaan",
+    "latitude": "52.1476625",
+    "longitude": "4.4810469",
     "thumbnail_url": ""
   },
   {
@@ -284,13 +354,6 @@
     "name": "Gorlaeus Laboratorium",
     "latitude": "52.1697131",
     "longitude": "4.4639314",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32355,
-    "name": "De Vink Leiden",
-    "latitude": "52.1475188",
-    "longitude": "4.4561504",
     "thumbnail_url": ""
   },
   {
@@ -315,6 +378,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36811,
+    "name": "Leiden J.C. de Rijpstraat",
+    "latitude": "52.1600625",
+    "longitude": "4.5096094",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36781,
+    "name": "Leiden Vreewijk",
+    "latitude": "52.1595625",
+    "longitude": "4.4785781",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29534,
     "name": "Blauwe vogelweg",
     "latitude": "52.1694844",
@@ -329,13 +406,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31362,
-    "name": "ECC Leiden",
-    "latitude": "52.163774",
-    "longitude": "4.4568115",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29595,
     "name": "Nieuweroord",
     "latitude": "52.1719997",
@@ -343,10 +413,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31362,
+    "name": "ECC Leiden",
+    "latitude": "52.163774",
+    "longitude": "4.4568115",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32355,
+    "name": "De Vink Leiden",
+    "latitude": "52.1475188",
+    "longitude": "4.4561504",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29493,
     "name": "Verbeekstraat",
     "latitude": "52.1640996",
     "longitude": "4.4656715",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36793,
+    "name": "Leiden Kennedylaan I",
+    "latitude": "52.1413625",
+    "longitude": "4.4712031",
     "thumbnail_url": ""
   },
   {
@@ -438,13 +529,6 @@
     "name": "Z Gebouw",
     "latitude": "52.1667886",
     "longitude": "4.4691697",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31006,
-    "name": "Lammenschans",
-    "latitude": "52.1471642",
-    "longitude": "4.4924297",
     "thumbnail_url": ""
   },
   {
@@ -553,6 +637,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29359,
+    "name": "Lageweg",
+    "latitude": "52.2012387",
+    "longitude": "4.4344735",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29470,
     "name": "Topaz Overduin",
     "latitude": "52.1974339",
@@ -564,6 +655,13 @@
     "name": "Katwijkse Lawn tennis",
     "latitude": "52.2104424",
     "longitude": "4.4296814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29360,
+    "name": "Gemeentewerf Katwijk",
+    "latitude": "52.2035062",
+    "longitude": "4.4338814",
     "thumbnail_url": ""
   },
   {
@@ -613,13 +711,6 @@
     "name": "Rijnsburgse Ijsclub",
     "latitude": "52.2005695",
     "longitude": "4.44383",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29453,
-    "name": "Duinvallei West",
-    "latitude": "52.19004",
-    "longitude": "4.4192277",
     "thumbnail_url": ""
   },
   {
@@ -693,13 +784,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29360,
-    "name": "Gemeentewerf Katwijk",
-    "latitude": "52.2035062",
-    "longitude": "4.4338814",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29469,
     "name": "Strandcamping Zuidduinen",
     "latitude": "52.1922596",
@@ -739,13 +823,6 @@
     "name": "Rederijstraat ",
     "latitude": "52.2045935",
     "longitude": "4.4100093",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29583,
-    "name": "Boslaan",
-    "latitude": "52.1899121",
-    "longitude": "4.4314872",
     "thumbnail_url": ""
   },
   {
@@ -903,10 +980,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29451,
-    "name": "Bosplein",
-    "latitude": "52.1971545",
-    "longitude": "4.4115806",
+    "id": 29453,
+    "name": "Duinvallei West",
+    "latitude": "52.19004",
+    "longitude": "4.4192277",
     "thumbnail_url": ""
   },
   {
@@ -935,6 +1012,20 @@
     "name": "Piet Heinlaan",
     "latitude": "52.2011005",
     "longitude": "4.4154789",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29583,
+    "name": "Boslaan",
+    "latitude": "52.1899121",
+    "longitude": "4.4314872",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29451,
+    "name": "Bosplein",
+    "latitude": "52.1971545",
+    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {
@@ -1022,13 +1113,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29359,
-    "name": "Lageweg",
-    "latitude": "52.2012387",
-    "longitude": "4.4344735",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29464,
     "name": "Rijnstraat",
     "latitude": "52.1965083",
@@ -1040,13 +1124,6 @@
     "name": "Dr Willem Dreesstraat 2",
     "latitude": "52.2087155",
     "longitude": "4.4127394",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29355,
-    "name": "Bankijkerweg",
-    "latitude": "52.1963953",
-    "longitude": "4.4479847",
     "thumbnail_url": ""
   },
   {
@@ -1082,6 +1159,13 @@
     "name": "Rijnstraat 2",
     "latitude": "52.1930748",
     "longitude": "4.423957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29355,
+    "name": "Bankijkerweg",
+    "latitude": "52.1963953",
+    "longitude": "4.4479847",
     "thumbnail_url": ""
   },
   {

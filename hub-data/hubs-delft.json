@@ -1,16 +1,9 @@
 [
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32250,
-    "name": "Carpoolplaats Delft",
-    "latitude": "52.0132326",
-    "longitude": "4.3776411",
+    "id": 32157,
+    "name": "Delftechpark",
+    "latitude": "51.9972105",
+    "longitude": "4.3835561",
     "thumbnail_url": ""
   },
   {
@@ -32,13 +25,6 @@
     "name": "Delfland",
     "latitude": "52.0036339",
     "longitude": "4.3551815",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32170,
-    "name": "Havenstraat 1",
-    "latitude": "52.0092071",
-    "longitude": "4.3544758",
     "thumbnail_url": ""
   },
   {
@@ -77,17 +63,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32224,
-    "name": "PLUS Schinkel",
-    "latitude": "52.0177033",
-    "longitude": "4.3647408",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32194,
     "name": "Hovenierstraat",
     "latitude": "52.0075062",
     "longitude": "4.3543806",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32170,
+    "name": "Havenstraat 1",
+    "latitude": "52.0092071",
+    "longitude": "4.3544758",
     "thumbnail_url": ""
   },
   {
@@ -98,10 +84,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32157,
-    "name": "Delftechpark",
-    "latitude": "51.9972105",
-    "longitude": "4.3835561",
+    "id": 32119,
+    "name": "Faculteit Luchtvaart",
+    "latitude": "51.9898219",
+    "longitude": "4.374929",
     "thumbnail_url": ""
   },
   {
@@ -116,13 +102,6 @@
     "name": "Pootstraat",
     "latitude": "52.0064197",
     "longitude": "4.3536578",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
     "thumbnail_url": ""
   },
   {
@@ -161,10 +140,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32147,
-    "name": "Collegezaal A Oost",
-    "latitude": "51.9997317",
-    "longitude": "4.3753043",
+    "id": 32250,
+    "name": "Carpoolplaats Delft",
+    "latitude": "52.0132326",
+    "longitude": "4.3776411",
     "thumbnail_url": ""
   },
   {
@@ -175,10 +154,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32148,
-    "name": "Nieuwe Haven",
-    "latitude": "51.9991044",
-    "longitude": "4.3682831",
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32147,
+    "name": "Collegezaal A Oost",
+    "latitude": "51.9997317",
+    "longitude": "4.3753043",
     "thumbnail_url": ""
   },
   {
@@ -193,6 +179,13 @@
     "name": "Lijm & Cultuur",
     "latitude": "51.9963859",
     "longitude": "4.3697768",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31611,
+    "name": "Station Delft Campus",
+    "latitude": "51.9904624",
+    "longitude": "4.3653709",
     "thumbnail_url": ""
   },
   {
@@ -224,24 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31611,
-    "name": "Station Delft Campus",
-    "latitude": "51.9904624",
-    "longitude": "4.3653709",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32241,
     "name": "De Haagse Hogeschool 1",
     "latitude": "52.001075",
     "longitude": "4.3681007",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32131,
-    "name": "Lidl Multatuliweg",
-    "latitude": "51.993267",
-    "longitude": "4.3593357",
     "thumbnail_url": ""
   },
   {
@@ -259,17 +238,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32119,
-    "name": "Faculteit Luchtvaart",
-    "latitude": "51.9898219",
-    "longitude": "4.374929",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32166,
     "name": "Politiebureau Delft",
     "latitude": "52.0032638",
     "longitude": "4.3530259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -287,10 +266,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32237,
-    "name": "SPAR TUD",
-    "latitude": "52.0003481",
-    "longitude": "4.3763484",
+    "id": 32224,
+    "name": "PLUS Schinkel",
+    "latitude": "52.0177033",
+    "longitude": "4.3647408",
     "thumbnail_url": ""
   },
   {
@@ -298,6 +277,13 @@
     "name": "Mijnbouwstraat",
     "latitude": "52.0069018",
     "longitude": "4.3694555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32148,
+    "name": "Nieuwe Haven",
+    "latitude": "51.9991044",
+    "longitude": "4.3682831",
     "thumbnail_url": ""
   },
   {
@@ -343,24 +329,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32178,
+    "name": "Coenderstraat 3",
+    "latitude": "52.0068412",
+    "longitude": "4.3554966",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32188,
     "name": "Raamstraat 1",
     "latitude": "52.0064832",
     "longitude": "4.3553136",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32251,
-    "name": "Vesteplein",
-    "latitude": "52.0080851",
-    "longitude": "4.3626219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -385,10 +364,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32251,
+    "name": "Vesteplein",
+    "latitude": "52.0080851",
+    "longitude": "4.3626219",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32234,
     "name": "Collegezaal A",
     "latitude": "51.9995048",
     "longitude": "4.3748013",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32131,
+    "name": "Lidl Multatuliweg",
+    "latitude": "51.993267",
+    "longitude": "4.3593357",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32141,
+    "name": "Korvezeestraat 2",
+    "latitude": "51.9969204",
+    "longitude": "4.3720427",
     "thumbnail_url": ""
   },
   {
@@ -403,6 +410,13 @@
     "name": "Kringloop Delft Ruiven",
     "latitude": "51.9842741",
     "longitude": "4.377845",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32237,
+    "name": "SPAR TUD",
+    "latitude": "52.0003481",
+    "longitude": "4.3763484",
     "thumbnail_url": ""
   },
   {
@@ -812,31 +826,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32141,
-    "name": "Korvezeestraat 2",
-    "latitude": "51.9969204",
-    "longitude": "4.3720427",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32140,
     "name": "Korvezeestraat 1",
     "latitude": "51.997316",
     "longitude": "4.3718267",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32178,
-    "name": "Coenderstraat 3",
-    "latitude": "52.0068412",
-    "longitude": "4.3554966",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32249,
-    "name": "IKEA Delft",
-    "latitude": "52.0126251",
-    "longitude": "4.3804788",
     "thumbnail_url": ""
   },
   {
