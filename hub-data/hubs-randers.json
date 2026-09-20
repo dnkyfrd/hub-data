@@ -7,24 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19644,
-    "name": "Bøsbrovej 47",
-    "latitude": "56.4446312",
-    "longitude": "10.0386913",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19653,
-    "name": "sprogcenter vestergade",
-    "latitude": "56.4612285",
-    "longitude": "10.0291788",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19575,
-    "name": "Bøsbrovej 16",
-    "latitude": "56.4503908",
-    "longitude": "10.042305",
+    "id": 19649,
+    "name": "Randers Sejlklubben",
+    "latitude": "56.4626479",
+    "longitude": "10.053026",
     "thumbnail_url": ""
   },
   {
@@ -49,10 +35,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19649,
-    "name": "Randers Sejlklubben",
-    "latitude": "56.4626479",
-    "longitude": "10.053026",
+    "id": 19653,
+    "name": "sprogcenter vestergade",
+    "latitude": "56.4612285",
+    "longitude": "10.0291788",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19644,
+    "name": "Bøsbrovej 47",
+    "latitude": "56.4446312",
+    "longitude": "10.0386913",
     "thumbnail_url": ""
   },
   {
@@ -67,13 +67,6 @@
     "name": "2 Sankt Mortens Gade",
     "latitude": "56.4597777",
     "longitude": "10.0368784",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -98,6 +91,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19528,
+    "name": "Randers Regnskov Circle",
+    "latitude": "56.4566977",
+    "longitude": "10.0342598",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19575,
+    "name": "Bøsbrovej 16",
+    "latitude": "56.4503908",
+    "longitude": "10.042305",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24009,
     "name": "Mad Mad",
     "latitude": "56.4832198",
@@ -112,10 +119,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19528,
-    "name": "Randers Regnskov Circle",
-    "latitude": "56.4566977",
-    "longitude": "10.0342598",
+    "id": 19574,
+    "name": "Fakta O 10",
+    "latitude": "56.4641787",
+    "longitude": "10.0348499",
     "thumbnail_url": ""
   },
   {
@@ -123,6 +130,13 @@
     "name": "Gamle Stationsvej",
     "latitude": "56.4541007",
     "longitude": "10.0403656",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20981,
+    "name": "Parkboulevarden",
+    "latitude": "56.4663017",
+    "longitude": "9.9971918",
     "thumbnail_url": ""
   },
   {
@@ -168,17 +182,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23665,
-    "name": "Vorup Blvd",
-    "latitude": "56.4441818",
-    "longitude": "10.0393172",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20310,
     "name": "Haveforeningen Venezuela",
     "latitude": "56.4636237",
     "longitude": "10.0630781",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -203,10 +217,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30399,
-    "name": "Græshaven",
-    "latitude": "56.4777874",
-    "longitude": "10.0069902",
+    "id": 24002,
+    "name": "ABC Lavpris",
+    "latitude": "56.4743436",
+    "longitude": "10.0113793",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19536,
+    "name": "Donkey Republic-DSB",
+    "latitude": "56.4620012",
+    "longitude": "10.0214531",
     "thumbnail_url": ""
   },
   {
@@ -238,24 +259,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20981,
-    "name": "Parkboulevarden",
-    "latitude": "56.4663017",
-    "longitude": "9.9971918",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24007,
     "name": "Mariagervej 99",
     "latitude": "56.4740672",
     "longitude": "10.028973",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24002,
-    "name": "ABC Lavpris",
-    "latitude": "56.4743436",
-    "longitude": "10.0113793",
     "thumbnail_url": ""
   },
   {
@@ -277,6 +284,13 @@
     "name": "Randers Regnskov Front",
     "latitude": "56.4574448",
     "longitude": "10.0326837",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30399,
+    "name": "Græshaven",
+    "latitude": "56.4777874",
+    "longitude": "10.0069902",
     "thumbnail_url": ""
   },
   {
@@ -322,13 +336,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19574,
-    "name": "Fakta O 10",
-    "latitude": "56.4641787",
-    "longitude": "10.0348499",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19647,
     "name": "Coop 365 Kristrup",
     "latitude": "56.4482031",
@@ -361,13 +368,6 @@
     "name": "Dansk Revision",
     "latitude": "56.455439",
     "longitude": "10.0449808",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19536,
-    "name": "Donkey Republic-DSB",
-    "latitude": "56.4620012",
-    "longitude": "10.0214531",
     "thumbnail_url": ""
   },
   {
@@ -413,13 +413,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24008,
-    "name": "Netto Mariagervej ",
-    "latitude": "56.4807406",
-    "longitude": "10.0261291",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24005,
     "name": "Aldi Mariagervej ",
     "latitude": "56.4719735",
@@ -459,6 +452,13 @@
     "name": "Dania",
     "latitude": "56.4295992",
     "longitude": "10.071725",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23665,
+    "name": "Vorup Blvd",
+    "latitude": "56.4441818",
+    "longitude": "10.0393172",
     "thumbnail_url": ""
   },
   {

@@ -1,16 +1,16 @@
 [
   {
-    "id": 37055,
-    "name": "Virkakatu",
-    "latitude": "65.0523813",
-    "longitude": "25.4688728",
-    "thumbnail_url": ""
-  },
-  {
     "id": 37056,
     "name": "Syynimaa",
     "latitude": "65.049637",
     "longitude": "25.4755698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37055,
+    "name": "Virkakatu",
+    "latitude": "65.0523813",
+    "longitude": "25.4688728",
     "thumbnail_url": ""
   },
   {
@@ -42,20 +42,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34841,
-    "name": "Yliopisto",
-    "latitude": "65.0584028",
-    "longitude": "25.4691018",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37054,
-    "name": "Yliopistokatu 22",
-    "latitude": "65.0585485",
-    "longitude": "25.4742138",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34832,
     "name": "Mannerheimin puisto",
     "latitude": "65.0100076",
@@ -77,6 +63,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34841,
+    "name": "Yliopisto",
+    "latitude": "65.0584028",
+    "longitude": "25.4691018",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37054,
+    "name": "Yliopistokatu 22",
+    "latitude": "65.0585485",
+    "longitude": "25.4742138",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34833,
     "name": "Valkea",
     "latitude": "65.0110527",
@@ -84,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34840,
-    "name": "Merikoskenkatu",
-    "latitude": "65.0245555",
-    "longitude": "25.4692684",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34836,
     "name": "Otto Karhin puisto",
     "latitude": "65.0126338",
     "longitude": "25.4756048",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34840,
+    "name": "Merikoskenkatu",
+    "latitude": "65.0245555",
+    "longitude": "25.4692684",
     "thumbnail_url": ""
   },
   {
