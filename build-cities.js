@@ -26,7 +26,6 @@ const UNLISTED = {
 // City IDs intentionally left out of hubs-cities.json, with the reason why.
 const SKIP = {
   53: "Lausanne EPFL — campus hubs, already covered by the 'Lausanne' entry",
-  242: "Thun — endpoint currently returns 0 hubs; covered by the 'Steffisburg' entry",
   723: "Hannover surroundings — already covered by the 'Hannover' entry",
 };
 

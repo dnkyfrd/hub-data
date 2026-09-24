@@ -45,6 +45,11 @@ Within a minute or two the workflow will commit the new `hub-data/hubs-<name>.js
    - Change its value to the exact `name` you used in `fetch-json.js`.
    - **Save** and **Publish**.
 
+## Known gaps
+
+- **Thun** was removed from the `cities` array — `cities/242/hubs/` returns zero hubs, and the stale `hubs-thun.json` it left behind contained a single hub in Reykjavík. The Thun area is still represented in `hubs-cities.json` by its `Steffisburg` row. Re-add it if the city is repopulated in Stables.
+- **`hubs-kiel-region.json` / `hubs-schlei-region.json`** are *not* generated. They were fed by `/nearby?filter_type=account&account_id=866`, which no longer responds; on 2025-09-12 both slugs were removed from `fetch-json.js` and the two files were frozen by hand. They are byte-identical and will not update. Kiel (`562`) currently serves zero hubs; Schleswig (`605`) serves 18 and city `516` serves 71, so a rebuild from per-city endpoints is possible if those pages need live data again.
+
 ## Running locally
 
 ```bash
