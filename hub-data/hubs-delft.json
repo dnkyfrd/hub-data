@@ -1,23 +1,9 @@
 [
   {
-    "id": 32154,
-    "name": "Julianalaan II",
-    "latitude": "52.0101021",
-    "longitude": "4.3705087",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33197,
-    "name": "Applied Sciences bis",
-    "latitude": "51.9904739",
-    "longitude": "4.3799531",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32157,
-    "name": "Delftechpark",
-    "latitude": "51.9972105",
-    "longitude": "4.3835561",
+    "id": 32207,
+    "name": "Hof van Delftlaan",
+    "latitude": "52.0120064",
+    "longitude": "4.3477213",
     "thumbnail_url": ""
   },
   {
@@ -28,10 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32207,
-    "name": "Hof van Delftlaan",
-    "latitude": "52.0120064",
-    "longitude": "4.3477213",
+    "id": 33197,
+    "name": "Applied Sciences bis",
+    "latitude": "51.9904739",
+    "longitude": "4.3799531",
     "thumbnail_url": ""
   },
   {
@@ -49,10 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32250,
-    "name": "Carpoolplaats Delft",
-    "latitude": "52.0132326",
-    "longitude": "4.3776411",
+    "id": 32157,
+    "name": "Delftechpark",
+    "latitude": "51.9972105",
+    "longitude": "4.3835561",
     "thumbnail_url": ""
   },
   {
@@ -81,6 +67,13 @@
     "name": "Sint Olofspark",
     "latitude": "52.0105654",
     "longitude": "4.3516757",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32249,
+    "name": "IKEA Delft",
+    "latitude": "52.0126251",
+    "longitude": "4.3804788",
     "thumbnail_url": ""
   },
   {
@@ -133,6 +126,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32119,
+    "name": "Faculteit Luchtvaart",
+    "latitude": "51.9898219",
+    "longitude": "4.374929",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32208,
     "name": "Hof van Delftlaan 2",
     "latitude": "52.0124645",
@@ -161,6 +161,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32154,
+    "name": "Julianalaan II",
+    "latitude": "52.0101021",
+    "longitude": "4.3705087",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32129,
+    "name": "Reinier de Graaf Gasthuis",
+    "latitude": "51.9977619",
+    "longitude": "4.3402315",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32147,
     "name": "Collegezaal A Oost",
     "latitude": "51.9997317",
@@ -175,10 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32119,
-    "name": "Faculteit Luchtvaart",
-    "latitude": "51.9898219",
-    "longitude": "4.374929",
+    "id": 32160,
+    "name": "Kloosterkade",
+    "latitude": "52.0063871",
+    "longitude": "4.3807895",
     "thumbnail_url": ""
   },
   {
@@ -203,6 +217,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32237,
+    "name": "SPAR TUD",
+    "latitude": "52.0003481",
+    "longitude": "4.3763484",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32124,
     "name": "De Werelddreef",
     "latitude": "51.9833127",
@@ -210,10 +231,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31611,
-    "name": "Station Delft Campus",
-    "latitude": "51.9904624",
-    "longitude": "4.3653709",
+    "id": 32250,
+    "name": "Carpoolplaats Delft",
+    "latitude": "52.0132326",
+    "longitude": "4.3776411",
     "thumbnail_url": ""
   },
   {
@@ -224,10 +245,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31611,
+    "name": "Station Delft Campus",
+    "latitude": "51.9904624",
+    "longitude": "4.3653709",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32166,
     "name": "Politiebureau Delft",
     "latitude": "52.0032638",
     "longitude": "4.3530259",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -364,6 +399,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32141,
+    "name": "Korvezeestraat 2",
+    "latitude": "51.9969204",
+    "longitude": "4.3720427",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32234,
     "name": "Collegezaal A",
     "latitude": "51.9995048",
@@ -375,13 +417,6 @@
     "name": "Lidl Multatuliweg",
     "latitude": "51.993267",
     "longitude": "4.3593357",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -413,38 +448,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32160,
-    "name": "Kloosterkade",
-    "latitude": "52.0063871",
-    "longitude": "4.3807895",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32141,
-    "name": "Korvezeestraat 2",
-    "latitude": "51.9969204",
-    "longitude": "4.3720427",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32237,
-    "name": "SPAR TUD",
-    "latitude": "52.0003481",
-    "longitude": "4.3763484",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32171,
     "name": "Havenstraat 2",
     "latitude": "52.0092995",
     "longitude": "4.3535746",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32129,
-    "name": "Reinier de Graaf Gasthuis",
-    "latitude": "51.9977619",
-    "longitude": "4.3402315",
     "thumbnail_url": ""
   },
   {
