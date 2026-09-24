@@ -1,12 +1,13 @@
 // fetch-json.js
 import fs from "fs";
 import fetch from "node-fetch";
+import { pathToFileURL } from "url";
 
 // All your hub cities + endpoints
-const cities = [
+export const cities = [
   { name: 'de-panne', endpoints: ['https://stables.donkey.bike/api/public/cities/561/hubs/'] },
   { name: 'ghent', endpoints: ['https://stables.donkey.bike/api/public/cities/223/hubs/'] },
-  { name: 'koksijde', endpoints: ['https://stables.donkey.bike/api/public/cities/8/hubs/'] },
+  { name: 'koksijde', endpoints: ['https://stables.donkey.bike/api/public/cities/559/hubs/'] },
   { name: 'veurne', endpoints: ['https://stables.donkey.bike/api/public/cities/475/hubs/'] },
   { name: 'aarhus', endpoints: ['https://stables.donkey.bike/api/public/cities/205/hubs/'] },
   { name: 'copenhagen', endpoints: ['https://stables.donkey.bike/api/public/cities/1/hubs/'] },
@@ -49,7 +50,7 @@ const cities = [
   },
   { name: 'rotterdam', endpoints: ['https://stables.donkey.bike/api/public/cities/21/hubs/'] },
   { name: 'the-hague', endpoints: ['https://stables.donkey.bike/api/public/cities/306/hubs/'] },
-  { name: 'barcelona', endpoints: ['https://stables.donkey.bike/api/public/cities/1/hubs/'] },
+  { name: 'barcelona', endpoints: ['https://stables.donkey.bike/api/public/cities/8/hubs/'] },
   { name: 'varberg', endpoints: ['https://stables.donkey.bike/api/public/cities/315/hubs/'] },
   { name: 'geneva', endpoints: ['https://stables.donkey.bike/api/public/cities/217/hubs/'] },
   { name: 'kreuzlingen', endpoints: ['https://stables.donkey.bike/api/public/cities/304/hubs/'] },
@@ -170,19 +171,22 @@ async function fetchCityData(city) {
   }
 }
 
-// Ensure the 'hub-data' directory exists before writing files.
-if (!fs.existsSync("hub-data")) {
-  fs.mkdirSync("hub-data");
-}
-
 /**
  * Main function to iterate over all cities and fetch their data.
  */
 async function main() {
+  // Ensure the 'hub-data' directory exists before writing files.
+  if (!fs.existsSync("hub-data")) {
+    fs.mkdirSync("hub-data");
+  }
+
   for (const city of cities) {
     await fetchCityData(city);
   }
   console.log("\n🚀 All cities processed!");
 }
 
-main();
+// Only fetch when run directly, so `cities` can be imported without side effects.
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main();
+}

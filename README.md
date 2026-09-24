@@ -2,9 +2,18 @@
 
 Fetches public hub data from the Donkey Republic Stables API for each configured city and saves it as JSON in the `hub-data/` directory. A GitHub Action runs weekly (Sundays at 00:00 UTC) and can also be triggered manually.
 
+## The two kinds of file in `hub-data/`
+
+| File | Written by | Contents |
+| --- | --- | --- |
+| `hubs-<name>.json` | `fetch-json.js` | Every hub for that city, one file per `name` in the `cities` array. |
+| `hubs-cities.json` | `build-cities.js` | One row per city (`id`, `name`, `latitude`, `longitude`, `country_code`) — the city list the website reads. |
+
+`hubs-cities.json` was hand-maintained until September 2026 and had drifted out of sync, so newer cities (Helsinki, Oulu, Skive, Düsseldorf, Rotterdam, the Ruhrgebiet, …) were missing from it. `build-cities.js` now keeps it current.
+
 ## GitHub automation
 
-The [`Fetch Hub Data`](./.github/workflows/fetch-data.yml) workflow runs automatically **every Sunday at 00:00 UTC**. It executes `fetch-json.js`, writes any changes to `hub-data/*.json`, and commits them back to `main` as a `🤖 Auto-update hub data` commit.
+The [`Fetch Hub Data`](./.github/workflows/fetch-data.yml) workflow runs automatically **every Sunday at 00:00 UTC**. It executes `fetch-json.js` then `build-cities.js`, writes any changes to `hub-data/*.json`, and commits them back to `main` as a `🤖 Auto-update hub data` commit.
 
 ### Triggering a run manually
 
@@ -28,7 +37,7 @@ Within a minute or two the workflow will commit the new `hub-data/hubs-<name>.js
    ```
    - `name` is the slug used for the output filename (`hub-data/hubs-<name>.json`).
    - If the city spans multiple Stables cities, add each endpoint URL to the `endpoints` array — the results are merged into one file.
-3. **Commit and push** to `main`. The next scheduled run (or a manual `Fetch Hub Data` workflow run) will produce `hub-data/hubs-<name>.json`.
+3. **Commit and push** to `main`. The next scheduled run (or a manual `Fetch Hub Data` workflow run) will produce `hub-data/hubs-<name>.json` and append the city to `hub-data/hubs-cities.json`.
 4. **Wire it up in Webflow**:
    - Open the city page in Webflow and scroll down to the map section.
    - Click into the `map-wrapp` component (don't ask why there are two p's).
@@ -40,7 +49,26 @@ Within a minute or two the workflow will commit the new `hub-data/hubs-<name>.js
 
 ```bash
 npm ci
-npm start
+npm start          # fetch hubs, then sync the city list
+```
+
+Or run the two steps separately:
+
+```bash
+npm run fetch          # hubs-<name>.json only
+npm run build-cities   # hubs-cities.json only
 ```
 
 Output JSON files are written to `hub-data/`.
+
+## How `build-cities.js` works
+
+The website reads `hubs-cities.json` as-is, so the script is strictly **additive** — it never renames, reorders, re-numbers or removes an existing row. It reads the `cities` array from `fetch-json.js`, resolves each Stables city ID against the public cities index, and appends anything not already listed using the next free `id` in the existing `1000+` sequence. Running it twice is a no-op.
+
+Three cases need manual help, all declared at the top of the script:
+
+- **`UNLISTED`** — a few city IDs serve hubs but don't appear in the public cities index, so their name and country can't be looked up (currently Helsinki `283`, Gorinchem `515`, Düsseldorf `584`). Their coordinates are still derived live, by averaging their hub positions.
+- **`SKIP`** — IDs deliberately left out, each with a reason (e.g. Lausanne EPFL is already covered by the `Lausanne` row).
+- **`ALIASES`** — the file predates the public API and uses its own spellings (`København`, `Oestgeest`, `Zwijndrecht`), so API names are mapped onto them to avoid duplicate pins.
+
+If you add a city whose ID isn't in the public index, the script prints a warning and skips it — add it to `UNLISTED` to include it.

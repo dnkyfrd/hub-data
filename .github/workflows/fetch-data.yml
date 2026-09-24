@@ -27,6 +27,9 @@ jobs:
       - name: Fetch and save data
         run: node fetch-json.js
 
+      - name: Sync city list
+        run: node build-cities.js
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'

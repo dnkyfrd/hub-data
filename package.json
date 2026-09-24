@@ -5,7 +5,9 @@
   "main": "fetch-json.js",
   "type": "module",
   "scripts": {
-    "start": "node fetch-json.js"
+    "start": "node fetch-json.js && node build-cities.js",
+    "fetch": "node fetch-json.js",
+    "build-cities": "node build-cities.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
