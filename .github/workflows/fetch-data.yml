@@ -37,8 +37,26 @@ jobs:
           git add hub-data/*.json
           # Check if there are changes to commit to avoid empty commits
           if ! git diff --staged --quiet; then
+            # Note what changed so the next step can purge just those files.
+            # quotePath=false keeps non-ASCII names (hubs-düsseldorf.json) readable.
+            changed=$(git -c core.quotePath=false diff --staged --name-only)
             git commit -m "🤖 Auto-update hub data"
             git push
+            # Only recorded once the push succeeds, so a failed push never
+            # re-caches the old files for another 12 hours.
+            printf '%s\n' "$changed" > "$RUNNER_TEMP/changed.txt"
           else
             echo "No changes to commit."
+          fi
+
+      - name: Purge jsDelivr cache
+        # jsDelivr caches @main URLs for 12 hours, so the site would otherwise
+        # serve stale hub data until the TTL expires. Best-effort: never fail the
+        # run over a purge.
+        continue-on-error: true
+        run: |
+          if [ -s "$RUNNER_TEMP/changed.txt" ]; then
+            node purge-jsdelivr.js < "$RUNNER_TEMP/changed.txt"
+          else
+            echo "Nothing committed — no cache to purge."
           fi

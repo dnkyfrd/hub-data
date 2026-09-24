@@ -45,6 +45,24 @@ Within a minute or two the workflow will commit the new `hub-data/hubs-<name>.js
    - Change its value to the exact `name` you used in `fetch-json.js`.
    - **Save** and **Publish**.
 
+## CDN caching
+
+The website reads these files through jsDelivr, which caches branch URLs for **12 hours**:
+
+```
+https://cdn.jsdelivr.net/gh/dnkyfrd/hub-data@main/hub-data/hubs-<name>.json
+```
+
+Without help, a fetch could sit behind that cache for half a day. The workflow's final step runs [`purge-jsdelivr.js`](./purge-jsdelivr.js), which purges **only the files the run actually committed**, so the site is current within a minute or two of every update. It's best-effort — if a purge fails the run still succeeds, and the CDN catches up on its own TTL.
+
+To purge by hand:
+
+```bash
+echo hub-data/hubs-cities.json | node purge-jsdelivr.js
+```
+
+Note that responses also carry `max-age=604800`, a **7-day browser cache**. After a purge the CDN is correct but your own browser may still show the old file — hard-reload or use a private window to check.
+
 ## Known gaps
 
 - **Thun** was removed from the `cities` array — `cities/242/hubs/` returns zero hubs, and the stale `hubs-thun.json` it left behind contained a single hub in Reykjavík. The Thun area is still represented in `hubs-cities.json` by its `Steffisburg` row. Re-add it if the city is repopulated in Stables.
