@@ -42,13 +42,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32681,
-    "name": "Seminargasse",
-    "latitude": "48.8822361",
-    "longitude": "12.5686705",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32700,
     "name": "Landshuter Str. Aldi",
     "latitude": "48.8633673",
@@ -67,13 +60,6 @@
     "name": "Europaring 4",
     "latitude": "48.8945392",
     "longitude": "12.6576504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32707,
-    "name": "Klinikum (vor Parkhaus)",
-    "latitude": "48.8874557",
-    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {
@@ -112,10 +98,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32681,
+    "name": "Seminargasse",
+    "latitude": "48.8822361",
+    "longitude": "12.5686705",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32711,
     "name": "Alburg Bayerg. neben Schranke",
     "latitude": "48.8686911",
     "longitude": "12.5423566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32707,
+    "name": "Klinikum (vor Parkhaus)",
+    "latitude": "48.8874557",
+    "longitude": "12.590555",
     "thumbnail_url": ""
   },
   {

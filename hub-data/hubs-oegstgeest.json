@@ -7,24 +7,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29497,
-    "name": "Poelgeest",
-    "latitude": "52.1805772",
-    "longitude": "4.4824559",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29516,
-    "name": "Leidsebuurt",
-    "latitude": "52.1800785",
-    "longitude": "4.4648877",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34380,
     "name": "Oegstgeest, Haarlemmerstraatweg",
     "latitude": "52.2007531",
     "longitude": "4.4775305",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29497,
+    "name": "Poelgeest",
+    "latitude": "52.1805772",
+    "longitude": "4.4824559",
     "thumbnail_url": ""
   },
   {
@@ -116,6 +109,13 @@
     "name": "Dorpstraat Oegstgeest",
     "latitude": "52.1896871",
     "longitude": "4.4672374",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29516,
+    "name": "Leidsebuurt",
+    "latitude": "52.1800785",
+    "longitude": "4.4648877",
     "thumbnail_url": ""
   },
   {
@@ -217,10 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37107,
-    "name": "Haagweg",
-    "latitude": "52.1567868",
-    "longitude": "4.4736274",
+    "id": 37165,
+    "name": "van der waaisstraat",
+    "latitude": "52.1490284",
+    "longitude": "4.4943077",
     "thumbnail_url": ""
   },
   {
@@ -245,20 +245,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37111,
-    "name": "Hooigracht",
-    "latitude": "52.1597615",
-    "longitude": "4.4970635",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37125,
-    "name": "Valkenburg oost",
-    "latitude": "52.1736257",
-    "longitude": "4.4362322",
-    "thumbnail_url": ""
-  },
-  {
     "id": 37108,
     "name": "Leliestraat",
     "latitude": "52.1519314",
@@ -273,10 +259,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37119,
-    "name": "Lammeschansweg",
-    "latitude": "52.1459752",
-    "longitude": "4.4914902",
+    "id": 37166,
+    "name": "Prins Hendrikplein",
+    "latitude": "52.1645904",
+    "longitude": "4.4978037",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37171,
+    "name": "Boulderhal Kunststof ",
+    "latitude": "52.1446277",
+    "longitude": "4.4813136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37167,
+    "name": "Maresingel",
+    "latitude": "52.1646603",
+    "longitude": "4.4989083",
     "thumbnail_url": ""
   },
   {
@@ -294,24 +294,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37121,
-    "name": "Herenstraat 3",
-    "latitude": "52.1529621",
-    "longitude": "4.4897227",
-    "thumbnail_url": ""
-  },
-  {
     "id": 37122,
     "name": "Koninginnelaan",
     "latitude": "52.1502528",
     "longitude": "4.4888395",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37109,
-    "name": "Levendaal",
-    "latitude": "52.155033",
-    "longitude": "4.4940977",
     "thumbnail_url": ""
   },
   {
@@ -322,17 +308,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37132,
-    "name": "Burggravenlaan III",
-    "latitude": "52.1548912",
-    "longitude": "4.5071955",
+    "id": 37120,
+    "name": "Langebrug",
+    "latitude": "52.15706",
+    "longitude": "4.4903738",
     "thumbnail_url": ""
   },
   {
-    "id": 37126,
+    "id": 37111,
     "name": "Hooigracht",
-    "latitude": "52.1571834",
-    "longitude": "4.4954153",
+    "latitude": "52.1597615",
+    "longitude": "4.4970635",
     "thumbnail_url": ""
   },
   {
@@ -343,10 +329,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37168,
+    "name": "Bevrijdingsplein",
+    "latitude": "52.1470687",
+    "longitude": "4.477789",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31006,
     "name": "Lammenschans",
     "latitude": "52.1471642",
     "longitude": "4.4924297",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37169,
+    "name": "Boshuizerkade",
+    "latitude": "52.154699",
+    "longitude": "4.4751728",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37170,
+    "name": "Boshuizerkade II",
+    "latitude": "52.153295",
+    "longitude": "4.4756852",
     "thumbnail_url": ""
   },
   {
@@ -364,13 +371,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36788,
-    "name": "Leiden Opaalstraat",
-    "latitude": "52.1569597",
-    "longitude": "4.4662194",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36819,
     "name": "Leiden Ringkade",
     "latitude": "52.1658125",
@@ -382,6 +382,13 @@
     "name": "Langegracht II",
     "latitude": "52.1626235",
     "longitude": "4.4995871",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37132,
+    "name": "Burggravenlaan III",
+    "latitude": "52.1548912",
+    "longitude": "4.5071955",
     "thumbnail_url": ""
   },
   {
@@ -406,17 +413,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36788,
+    "name": "Leiden Opaalstraat",
+    "latitude": "52.1569597",
+    "longitude": "4.4662194",
+    "thumbnail_url": ""
+  },
+  {
     "id": 37114,
     "name": "Langegracht III",
     "latitude": "52.163101",
     "longitude": "4.4952146",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37077,
-    "name": "Herenweg",
-    "latitude": "52.2283777",
-    "longitude": "4.4449658",
     "thumbnail_url": ""
   },
   {
@@ -441,10 +448,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37126,
+    "name": "Hooigracht",
+    "latitude": "52.1571834",
+    "longitude": "4.4954153",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29567,
     "name": "SRON",
     "latitude": "52.1691082",
     "longitude": "4.4576705",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37163,
+    "name": " Betaplein",
+    "latitude": "52.1456606",
+    "longitude": "4.4935743",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37164,
+    "name": "Jan van Goyenkade",
+    "latitude": "52.1518518",
+    "longitude": "4.4849945",
     "thumbnail_url": ""
   },
   {
@@ -462,10 +490,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37116,
-    "name": "Sportcity Anthony Fokkerweg",
-    "latitude": "52.1675727",
-    "longitude": "4.486685",
+    "id": 37121,
+    "name": "Herenstraat 3",
+    "latitude": "52.1529621",
+    "longitude": "4.4897227",
     "thumbnail_url": ""
   },
   {
@@ -476,6 +504,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37119,
+    "name": "Lammeschansweg",
+    "latitude": "52.1459752",
+    "longitude": "4.4914902",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29533,
     "name": "Basalt",
     "latitude": "52.1705307",
@@ -483,10 +518,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37117,
-    "name": "Boommarkt",
-    "latitude": "52.1607468",
-    "longitude": "4.4854506",
+    "id": 37116,
+    "name": "Sportcity Anthony Fokkerweg",
+    "latitude": "52.1675727",
+    "longitude": "4.486685",
     "thumbnail_url": ""
   },
   {
@@ -494,6 +529,13 @@
     "name": "Reuvensbrug",
     "latitude": "52.1579435",
     "longitude": "4.4815555",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37109,
+    "name": "Levendaal",
+    "latitude": "52.155033",
+    "longitude": "4.4940977",
     "thumbnail_url": ""
   },
   {
@@ -581,13 +623,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37120,
-    "name": "Langebrug",
-    "latitude": "52.15706",
-    "longitude": "4.4903738",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32355,
     "name": "De Vink Leiden",
     "latitude": "52.1475188",
@@ -599,6 +634,20 @@
     "name": "ECC Leiden",
     "latitude": "52.163774",
     "longitude": "4.4568115",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37117,
+    "name": "Boommarkt",
+    "latitude": "52.1607468",
+    "longitude": "4.4854506",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37107,
+    "name": "Haagweg",
+    "latitude": "52.1567868",
+    "longitude": "4.4736274",
     "thumbnail_url": ""
   },
   {
@@ -812,6 +861,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37125,
+    "name": "Valkenburg oost",
+    "latitude": "52.1736257",
+    "longitude": "4.4362322",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29470,
     "name": "Topaz Overduin",
     "latitude": "52.1974339",
@@ -889,6 +945,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29423,
+    "name": "Vuurbaakplein",
+    "latitude": "52.2003938",
+    "longitude": "4.3909372",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29576,
     "name": "Laan van Verhof 3",
     "latitude": "52.1880131",
@@ -900,13 +963,6 @@
     "name": "Vianen Flowers",
     "latitude": "52.1918629",
     "longitude": "4.4562499",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29423,
-    "name": "Vuurbaakplein",
-    "latitude": "52.2003938",
-    "longitude": "4.3909372",
     "thumbnail_url": ""
   },
   {
@@ -945,17 +1001,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29387,
-    "name": "De Krom",
-    "latitude": "52.2093732",
-    "longitude": "4.4315984",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29357,
     "name": "Basic Fit Katwijk Ambachtsweg",
     "latitude": "52.2018461",
     "longitude": "4.4298077",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29387,
+    "name": "De Krom",
+    "latitude": "52.2093732",
+    "longitude": "4.4315984",
     "thumbnail_url": ""
   },
   {
@@ -973,17 +1029,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29411,
-    "name": "Boulevard",
-    "latitude": "52.2093116",
-    "longitude": "4.3975075",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29409,
     "name": "Action",
     "latitude": "52.2042884",
     "longitude": "4.3985669",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29411,
+    "name": "Boulevard",
+    "latitude": "52.2093116",
+    "longitude": "4.3975075",
     "thumbnail_url": ""
   },
   {
@@ -1239,6 +1295,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29451,
+    "name": "Bosplein",
+    "latitude": "52.1971545",
+    "longitude": "4.4115806",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29438,
     "name": "Hoogvliet",
     "latitude": "52.2035163",
@@ -1299,13 +1362,6 @@
     "name": "Rijnstraat",
     "latitude": "52.1965083",
     "longitude": "4.4245131",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29451,
-    "name": "Bosplein",
-    "latitude": "52.1971545",
-    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {
