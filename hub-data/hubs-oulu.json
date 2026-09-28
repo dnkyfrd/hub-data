@@ -1,9 +1,9 @@
 [
   {
-    "id": 37056,
-    "name": "Syynimaa",
-    "latitude": "65.049637",
-    "longitude": "25.4755698",
+    "id": 34858,
+    "name": "Nallikari",
+    "latitude": "65.0285408",
+    "longitude": "25.4153138",
     "thumbnail_url": ""
   },
   {
@@ -14,17 +14,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37057,
-    "name": "Välkkylä",
-    "latitude": "65.0096944",
-    "longitude": "25.5038878",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34856,
     "name": "Pakkahuoneenkatu / Aleksanterinkatu",
     "latitude": "65.0136927",
     "longitude": "25.4681892",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37057,
+    "name": "Välkkylä",
+    "latitude": "65.0096944",
+    "longitude": "25.5038878",
     "thumbnail_url": ""
   },
   {
@@ -42,10 +42,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34830,
+    "name": "Kauppatori",
+    "latitude": "65.0142008",
+    "longitude": "25.4659321",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34832,
     "name": "Mannerheimin puisto",
     "latitude": "65.0100076",
     "longitude": "25.4677043",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35501,
+    "name": "Toppila Supermarket",
+    "latitude": "65.0357841",
+    "longitude": "25.4394899",
     "thumbnail_url": ""
   },
   {
@@ -56,10 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34859,
-    "name": "Toppila klubi",
-    "latitude": "65.0351533",
-    "longitude": "25.447112",
+    "id": 37056,
+    "name": "Syynimaa",
+    "latitude": "65.049637",
+    "longitude": "25.4755698",
     "thumbnail_url": ""
   },
   {
@@ -67,6 +81,13 @@
     "name": "Yliopisto",
     "latitude": "65.0584028",
     "longitude": "25.4691018",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34859,
+    "name": "Toppila klubi",
+    "latitude": "65.0351533",
+    "longitude": "25.447112",
     "thumbnail_url": ""
   },
   {
@@ -98,31 +119,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34858,
-    "name": "Nallikari",
-    "latitude": "65.0285408",
-    "longitude": "25.4153138",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35501,
-    "name": "Toppila Supermarket",
-    "latitude": "65.0357841",
-    "longitude": "25.4394899",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34837,
     "name": "Rotuaari",
     "latitude": "65.0129816",
     "longitude": "25.4717441",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34830,
-    "name": "Kauppatori",
-    "latitude": "65.0142008",
-    "longitude": "25.4659321",
     "thumbnail_url": ""
   },
   {
