@@ -42,13 +42,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27549,
-    "name": "Walenburg",
-    "latitude": "51.7772531",
-    "longitude": "4.682406",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29850,
     "name": "Boxerclub Dordrecht",
     "latitude": "51.7772174",
@@ -60,6 +53,13 @@
     "name": "EBOH",
     "latitude": "51.7815123",
     "longitude": "4.6910687",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 27549,
+    "name": "Walenburg",
+    "latitude": "51.7772531",
+    "longitude": "4.682406",
     "thumbnail_url": ""
   },
   {
@@ -84,13 +84,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34887,
-    "name": "Nassauweg",
-    "latitude": "51.8035146",
-    "longitude": "4.6700039",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36740,
     "name": "Krabbepolder III",
     "latitude": "51.7917439",
@@ -105,24 +98,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36289,
-    "name": "Qbuzz Weeskinderen",
-    "latitude": "51.8077425",
-    "longitude": "4.6509588",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36738,
     "name": "Krabbepolder I",
     "latitude": "51.7955347",
     "longitude": "4.6256773",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29858,
-    "name": "Orkest",
-    "latitude": "51.7917066",
-    "longitude": "4.6716975",
     "thumbnail_url": ""
   },
   {
@@ -140,10 +119,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35486,
-    "name": "Loudonstraat",
-    "latitude": "51.7950972",
-    "longitude": "4.6625006",
+    "id": 34887,
+    "name": "Nassauweg",
+    "latitude": "51.8035146",
+    "longitude": "4.6700039",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36289,
+    "name": "Qbuzz Weeskinderen",
+    "latitude": "51.8077425",
+    "longitude": "4.6509588",
     "thumbnail_url": ""
   },
   {
@@ -151,6 +137,13 @@
     "name": "Maxwellstraat",
     "latitude": "51.7815185",
     "longitude": "4.6364366",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29858,
+    "name": "Orkest",
+    "latitude": "51.7917066",
+    "longitude": "4.6716975",
     "thumbnail_url": ""
   },
   {
@@ -196,6 +189,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29104,
+    "name": "4* Grill Central Station ",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34764,
     "name": "B&B",
     "latitude": "51.805029",
@@ -231,10 +231,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29104,
-    "name": "4* Grill Central Station ",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
+    "id": 35486,
+    "name": "Loudonstraat",
+    "latitude": "51.7950972",
+    "longitude": "4.6625006",
     "thumbnail_url": ""
   },
   {
@@ -256,13 +256,6 @@
     "name": "Vondelstraat Dordrecht",
     "latitude": "51.8044798",
     "longitude": "4.659763",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
     "thumbnail_url": ""
   },
   {
@@ -340,6 +333,13 @@
     "name": "Sportplaza",
     "latitude": "51.796718",
     "longitude": "4.6533239",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
     "thumbnail_url": ""
   },
   {
@@ -1204,17 +1204,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37045,
-    "name": "Van der Valk Hotel",
-    "latitude": "51.8419308",
-    "longitude": "4.9502239",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24293,
     "name": "Van Andel-Spruytlaan",
     "latitude": "51.835015",
     "longitude": "5.005117",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37045,
+    "name": "Van der Valk Hotel",
+    "latitude": "51.8419308",
+    "longitude": "4.9502239",
     "thumbnail_url": ""
   },
   {
@@ -1554,17 +1554,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37027,
-    "name": "Parkweg Papendrecht",
-    "latitude": "51.8318753",
-    "longitude": "4.7125076",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35135,
     "name": "HCR (Park on footpath)",
     "latitude": "51.8247036",
     "longitude": "4.7169566",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37027,
+    "name": "Parkweg Papendrecht",
+    "latitude": "51.8318753",
+    "longitude": "4.7125076",
     "thumbnail_url": ""
   },
   {
@@ -1575,10 +1575,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29887,
-    "name": "Andoornlaan",
-    "latitude": "51.8373876",
-    "longitude": "4.7158085",
+    "id": 29879,
+    "name": "Basic Fit Burgemeester Keijzerweg",
+    "latitude": "51.8344848",
+    "longitude": "4.6942449",
     "thumbnail_url": ""
   },
   {
@@ -1586,6 +1586,20 @@
     "name": "Drechtstreek",
     "latitude": "51.8331444",
     "longitude": "4.7106357",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29887,
+    "name": "Andoornlaan",
+    "latitude": "51.8373876",
+    "longitude": "4.7158085",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35556,
+    "name": "Veerpont Papendrecht",
+    "latitude": "51.8264517",
+    "longitude": "4.708809",
     "thumbnail_url": ""
   },
   {
@@ -1600,13 +1614,6 @@
     "name": "Bushalte Hoogendijk*",
     "latitude": "51.8465124",
     "longitude": "4.680391",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29879,
-    "name": "Basic Fit Burgemeester Keijzerweg",
-    "latitude": "51.8344848",
-    "longitude": "4.6942449",
     "thumbnail_url": ""
   },
   {
@@ -1691,13 +1698,6 @@
     "name": "Jan Steenlaan",
     "latitude": "51.8365847",
     "longitude": "4.6844305",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35556,
-    "name": "Veerpont Papendrecht",
-    "latitude": "51.8264517",
-    "longitude": "4.708809",
     "thumbnail_url": ""
   },
   {
@@ -1806,13 +1806,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37025,
-    "name": "Griendencollege",
-    "latitude": "51.8230865",
-    "longitude": "4.7814117",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29895,
     "name": "Kwantum",
     "latitude": "51.8318099",
@@ -1824,6 +1817,13 @@
     "name": "Jumbo Sliedrecht",
     "latitude": "51.8257134",
     "longitude": "4.759713",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37025,
+    "name": "Griendencollege",
+    "latitude": "51.8230865",
+    "longitude": "4.7814117",
     "thumbnail_url": ""
   },
   {
@@ -1967,13 +1967,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35147,
-    "name": "Peulenlaan",
-    "latitude": "51.8230626",
-    "longitude": "4.8086338",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35146,
     "name": "Ambachtsstraat",
     "latitude": "51.8233883",
@@ -2002,17 +1995,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34957,
-    "name": "Uranusstraat",
-    "latitude": "51.8235145",
-    "longitude": "4.8242858",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24263,
-    "name": "Hardinxveld Blauwe Zoom Station",
-    "latitude": "51.8295252",
-    "longitude": "4.8153226",
+    "id": 35150,
+    "name": "Handelsstraat I",
+    "latitude": "51.8240703",
+    "longitude": "4.8176182",
     "thumbnail_url": ""
   },
   {
@@ -2030,10 +2016,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35150,
-    "name": "Handelsstraat I",
-    "latitude": "51.8240703",
-    "longitude": "4.8176182",
+    "id": 36212,
+    "name": "Station Hardinxveld-Giessendam II",
+    "latitude": "51.830272",
+    "longitude": "4.8348276",
     "thumbnail_url": ""
   },
   {
@@ -2044,10 +2030,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36212,
-    "name": "Station Hardinxveld-Giessendam II",
-    "latitude": "51.830272",
-    "longitude": "4.8348276",
+    "id": 34957,
+    "name": "Uranusstraat",
+    "latitude": "51.8235145",
+    "longitude": "4.8242858",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35147,
+    "name": "Peulenlaan",
+    "latitude": "51.8230626",
+    "longitude": "4.8086338",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24263,
+    "name": "Hardinxveld Blauwe Zoom Station",
+    "latitude": "51.8295252",
+    "longitude": "4.8153226",
     "thumbnail_url": ""
   },
   {
@@ -2086,17 +2086,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29832,
-    "name": "Veerleplein",
-    "latitude": "51.8179329",
-    "longitude": "4.6567218",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36293,
     "name": "Gildenweg*",
     "latitude": "51.8120332",
     "longitude": "4.5984207",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29832,
+    "name": "Veerleplein",
+    "latitude": "51.8179329",
+    "longitude": "4.6567218",
     "thumbnail_url": ""
   },
   {
@@ -2114,6 +2114,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37208,
+    "name": "De Pelikaan",
+    "latitude": "51.8287258",
+    "longitude": "4.6167418",
+    "thumbnail_url": ""
+  },
+  {
     "id": 37040,
     "name": "Breitnerstraat",
     "latitude": "51.817474",
@@ -2121,17 +2128,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21079,
-    "name": "Albert Schweitzer",
-    "latitude": "51.8268471",
-    "longitude": "4.6304002",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29882,
     "name": "Walburg 2",
     "latitude": "51.822815",
     "longitude": "4.6502154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21079,
+    "name": "Albert Schweitzer",
+    "latitude": "51.8268471",
+    "longitude": "4.6304002",
     "thumbnail_url": ""
   },
   {
@@ -2234,7 +2241,7 @@
   },
   {
     "id": 33397,
-    "name": "Zwijndrecht station Noord",
+    "name": "Zwijndrecht Station Noord",
     "latitude": "51.8154661",
     "longitude": "4.6414718",
     "thumbnail_url": ""
