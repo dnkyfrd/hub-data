@@ -27,6 +27,18 @@ const UNLISTED = {
 const SKIP = {
   53: "Lausanne EPFL — campus hubs, already covered by the 'Lausanne' entry",
   723: "Hannover surroundings — already covered by the 'Hannover' entry",
+  // The kiel-region slug merges nine Stables cities behind the single existing
+  // 'Kiel' row. None of them appear in the public cities index, and each one
+  // would otherwise be appended as its own pin.
+  516: "Kiel & Förde — merged into the 'Kiel' entry via the kiel-region slug",
+  558: "Kiel city centre — merged into the 'Kiel' entry via the kiel-region slug",
+  577: "Probstei — merged into the 'Kiel' entry via the kiel-region slug",
+  519: "Eckernförde — merged into the 'Kiel' entry via the kiel-region slug",
+  527: "Preetz — merged into the 'Kiel' entry via the kiel-region slug",
+  526: "Plön — merged into the 'Kiel' entry via the kiel-region slug",
+  578: "Owschlag / Osterby — merged into the 'Kiel' entry via the kiel-region slug",
+  528: "Rendsburg — merged into the 'Kiel' entry via the kiel-region slug",
+  607: "Serves no hubs — merged into the 'Kiel' entry via the kiel-region slug",
 };
 
 // The file predates the public API and uses its own spellings. Map API names onto

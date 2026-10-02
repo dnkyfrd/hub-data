@@ -66,7 +66,8 @@ Note that responses also carry `max-age=604800`, a **7-day browser cache**. Afte
 ## Known gaps
 
 - **Thun** was removed from the `cities` array — `cities/242/hubs/` returns zero hubs, and the stale `hubs-thun.json` it left behind contained a single hub in Reykjavík. The Thun area is still represented in `hubs-cities.json` by its `Steffisburg` row. Re-add it if the city is repopulated in Stables.
-- **`hubs-kiel-region.json` / `hubs-schlei-region.json`** are *not* generated. They were fed by `/nearby?filter_type=account&account_id=866`, which no longer responds; on 2025-09-12 both slugs were removed from `fetch-json.js` and the two files were frozen by hand. They are byte-identical and will not update. Kiel (`562`) currently serves zero hubs; Schleswig (`605`) serves 18 and city `516` serves 71, so a rebuild from per-city endpoints is possible if those pages need live data again.
+- **`hubs-schlei-region.json`** is *not* generated. It was fed by `/nearby?filter_type=account&account_id=866`, which no longer responds; on 2025-09-12 the slug was removed from `fetch-json.js` and the file was frozen by hand. It still holds the September 2025 snapshot and will not update until it is rebuilt from per-city endpoints the way `kiel-region` was.
+- **Kiel city `562`** — the ID the public cities index lists for Kiel — serves zero hubs and is deliberately *not* in the `kiel-region` endpoint list. The real hubs live under the eight IDs listed there instead. The `Kiel` row in `hubs-cities.json` (`id` 1001) only places the map pin; it is unrelated to which Stables cities the slug fetches.
 
 ## Running locally
 

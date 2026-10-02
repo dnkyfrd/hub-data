@@ -103,6 +103,20 @@ export const cities = [
   { name: 'skive', endpoints: ['https://stables.donkey.bike/api/public/cities/843/hubs/'] },  
   { name: 'oulu', endpoints: ['https://stables.donkey.bike/api/public/cities/844/hubs/'] },  
   { name: 'düsseldorf', endpoints: ['https://stables.donkey.bike/api/public/cities/584/hubs/'] },  
+  {
+    name: 'kiel-region',
+    endpoints: [
+      'https://stables.donkey.bike/api/public/cities/516/hubs/', // Kiel & Förde (Laboe, Klausdorf, Falkenstein)
+      'https://stables.donkey.bike/api/public/cities/558/hubs/', // Kiel city centre (ZOB, Westring, Blücherbrücke)
+      'https://stables.donkey.bike/api/public/cities/577/hubs/', // Probstei (Schönberg, Wendtorf, Lutterbek)
+      'https://stables.donkey.bike/api/public/cities/519/hubs/', // Eckernförde
+      'https://stables.donkey.bike/api/public/cities/527/hubs/', // Preetz
+      'https://stables.donkey.bike/api/public/cities/526/hubs/', // Plön
+      'https://stables.donkey.bike/api/public/cities/578/hubs/', // Owschlag / Osterby
+      'https://stables.donkey.bike/api/public/cities/528/hubs/', // Rendsburg (incl. Büdelsdorf, Fockbek)
+      'https://stables.donkey.bike/api/public/cities/607/hubs/', // currently returns no hubs; kept so it picks up automatically
+    ]
+  },
 ];
 
 /**
