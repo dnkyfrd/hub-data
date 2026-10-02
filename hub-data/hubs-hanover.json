@@ -7,10 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34824,
-    "name": "LUH / Appelstrasse",
-    "latitude": "52.3881087",
-    "longitude": "9.7126021",
+    "id": 28407,
+    "name": "Raschplatz",
+    "latitude": "52.379661",
+    "longitude": "9.744232",
     "thumbnail_url": ""
   },
   {
@@ -21,17 +21,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28396,
-    "name": "Schlägerstrasse 3",
-    "latitude": "52.3649679",
-    "longitude": "9.7469813",
+    "id": 30961,
+    "name": "Hub: Steintorstrasse",
+    "latitude": "52.3757927",
+    "longitude": "9.7330766",
     "thumbnail_url": ""
   },
   {
-    "id": 28674,
-    "name": "Freundallee",
-    "latitude": "52.369083",
-    "longitude": "9.77181",
+    "id": 28720,
+    "name": "Studentenwohnheim Dorotheenstrasse",
+    "latitude": "52.3922273",
+    "longitude": "9.6857199",
     "thumbnail_url": ""
   },
   {
@@ -42,10 +42,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28367,
-    "name": "Podbielski x Buckhardt",
-    "latitude": "52.3902321",
-    "longitude": "9.7535401",
+    "id": 29259,
+    "name": "Hans Meyer Strasse",
+    "latitude": "52.3860569",
+    "longitude": "9.7147683",
     "thumbnail_url": ""
   },
   {
@@ -60,6 +60,20 @@
     "name": "Selmastrasse",
     "latitude": "52.3717992",
     "longitude": "9.7119325",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31988,
+    "name": "Station13",
+    "latitude": "52.3733109",
+    "longitude": "9.7393963",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28437,
+    "name": "Niedersachsenring",
+    "latitude": "52.3990903",
+    "longitude": "9.7364938",
     "thumbnail_url": ""
   },
   {
@@ -91,34 +105,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28317,
-    "name": "Faustwiese",
-    "latitude": "52.3755909",
-    "longitude": "9.710559",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29701,
-    "name": "Franziusweg",
-    "latitude": "52.3934232",
-    "longitude": "9.7071196",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28340,
-    "name": "Jakobistrasse 6",
-    "latitude": "52.3890748",
-    "longitude": "9.7487794",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28419,
-    "name": "Kurt-Schumacher-Strasse",
-    "latitude": "52.3767392",
-    "longitude": "9.7360903",
-    "thumbnail_url": ""
-  },
-  {
     "id": 30284,
     "name": "Constantinstrasse",
     "latitude": "52.401885",
@@ -133,13 +119,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28701,
-    "name": "Lavesplatz",
-    "latitude": "52.3730306",
-    "longitude": "9.7495912",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28404,
     "name": "Zoo",
     "latitude": "52.3820656",
@@ -147,10 +126,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31601,
-    "name": "LUH / TIB Naturwissenschaften",
-    "latitude": "52.3818116",
-    "longitude": "9.7195406",
+    "id": 28367,
+    "name": "Podbielski x Buckhardt",
+    "latitude": "52.3902321",
+    "longitude": "9.7535401",
     "thumbnail_url": ""
   },
   {
@@ -158,6 +137,13 @@
     "name": "Maschseefest: Kurt-Schwitters-Platz",
     "latitude": "52.3633633",
     "longitude": "9.7392085",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28396,
+    "name": "Schlägerstrasse 3",
+    "latitude": "52.3649679",
+    "longitude": "9.7469813",
     "thumbnail_url": ""
   },
   {
@@ -175,6 +161,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 28317,
+    "name": "Faustwiese",
+    "latitude": "52.3755909",
+    "longitude": "9.710559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34824,
+    "name": "LUH / Appelstrasse",
+    "latitude": "52.3881087",
+    "longitude": "9.7126021",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36155,
     "name": "Hub Südanleger",
     "latitude": "52.3446218",
@@ -182,17 +182,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31988,
-    "name": "Station13",
-    "latitude": "52.3733109",
-    "longitude": "9.7393963",
+    "id": 28423,
+    "name": "Kopernikusstrasse 2",
+    "latitude": "52.387132",
+    "longitude": "9.723594",
     "thumbnail_url": ""
   },
   {
-    "id": 28720,
-    "name": "Studentenwohnheim Dorotheenstrasse",
-    "latitude": "52.3922273",
-    "longitude": "9.6857199",
+    "id": 28419,
+    "name": "Kurt-Schumacher-Strasse",
+    "latitude": "52.3767392",
+    "longitude": "9.7360903",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +207,27 @@
     "name": "Am Küchengarten/ Fösserstrasse",
     "latitude": "52.3713279",
     "longitude": "9.7137303",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31601,
+    "name": "LUH / TIB Naturwissenschaften",
+    "latitude": "52.3818116",
+    "longitude": "9.7195406",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28674,
+    "name": "Freundallee",
+    "latitude": "52.369083",
+    "longitude": "9.77181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31230,
+    "name": "Kopernikusstrasse / Weidendamm",
+    "latitude": "52.3886875",
+    "longitude": "9.7263281",
     "thumbnail_url": ""
   },
   {
@@ -259,17 +280,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29259,
-    "name": "Hans Meyer Strasse",
-    "latitude": "52.3860569",
-    "longitude": "9.7147683",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28407,
-    "name": "Raschplatz",
-    "latitude": "52.379661",
-    "longitude": "9.744232",
+    "id": 29701,
+    "name": "Franziusweg",
+    "latitude": "52.3934232",
+    "longitude": "9.7071196",
     "thumbnail_url": ""
   },
   {
@@ -329,13 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30961,
-    "name": "Hub: Steintorstrasse",
-    "latitude": "52.3757927",
-    "longitude": "9.7330766",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32000,
     "name": "Station25",
     "latitude": "52.3779719",
@@ -368,6 +375,20 @@
     "name": "Lavesallee",
     "latitude": "52.3684927",
     "longitude": "9.7301014",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28701,
+    "name": "Lavesplatz",
+    "latitude": "52.3730306",
+    "longitude": "9.7495912",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 28340,
+    "name": "Jakobistrasse 6",
+    "latitude": "52.3890748",
+    "longitude": "9.7487794",
     "thumbnail_url": ""
   },
   {
@@ -588,13 +609,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 28437,
-    "name": "Niedersachsenring",
-    "latitude": "52.3990903",
-    "longitude": "9.7364938",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29190,
     "name": "Davenstedter /Woermannstrasse",
     "latitude": "52.3648251",
@@ -812,13 +826,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31230,
-    "name": "Kopernikusstrasse / Weidendamm",
-    "latitude": "52.3886875",
-    "longitude": "9.7263281",
-    "thumbnail_url": ""
-  },
-  {
     "id": 28398,
     "name": "LUH / Sportcampus - Lodyweg",
     "latitude": "52.3783134",
@@ -949,13 +956,6 @@
     "name": "HsH Campus Ricklingen",
     "latitude": "52.3530615",
     "longitude": "9.7222253",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 28423,
-    "name": "Kopernikusstrasse 2",
-    "latitude": "52.387132",
-    "longitude": "9.723594",
     "thumbnail_url": ""
   },
   {

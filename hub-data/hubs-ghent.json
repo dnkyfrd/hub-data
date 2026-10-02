@@ -35,24 +35,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12425,
-    "name": "Campus Ledeganck",
-    "latitude": "51.0366043",
-    "longitude": "3.7242901",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34441,
     "name": "Kasteeldreef 2",
     "latitude": "51.0754402",
     "longitude": "3.6742367",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35010,
-    "name": "Welpengang",
-    "latitude": "51.0843086",
-    "longitude": "3.6853404",
     "thumbnail_url": ""
   },
   {
@@ -63,17 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34454,
-    "name": "Liefkensstraat 82",
-    "latitude": "51.0978972",
-    "longitude": "3.7110494",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35496,
-    "name": "UZ temporary parking ",
-    "latitude": "51.0260949",
-    "longitude": "3.7236447",
+    "id": 35010,
+    "name": "Welpengang",
+    "latitude": "51.0843086",
+    "longitude": "3.6853404",
     "thumbnail_url": ""
   },
   {
@@ -88,6 +67,13 @@
     "name": "Yachtdreef",
     "latitude": "51.0460194",
     "longitude": "3.7027896",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16449,
+    "name": "Raas van Gaverestraat 119",
+    "latitude": "51.0512336",
+    "longitude": "3.7061007",
     "thumbnail_url": ""
   },
   {
@@ -140,13 +126,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17178,
-    "name": "Station Dampoort",
-    "latitude": "51.056845",
-    "longitude": "3.7403079",
-    "thumbnail_url": ""
-  },
-  {
     "id": 12124,
     "name": "Ottogracht 55",
     "latitude": "51.0588285",
@@ -154,10 +133,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 12204,
+    "name": "Gouvernementstraat 34",
+    "latitude": "51.0506548",
+    "longitude": "3.7263568",
+    "thumbnail_url": ""
+  },
+  {
     "id": 12400,
     "name": "Groendreef 47",
     "latitude": "51.0620088",
     "longitude": "3.7031366",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15995,
+    "name": "KAA Gent Stadion",
+    "latitude": "51.0147138",
+    "longitude": "3.7343618",
     "thumbnail_url": ""
   },
   {
@@ -203,10 +196,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15995,
-    "name": "KAA Gent Stadion",
-    "latitude": "51.0147138",
-    "longitude": "3.7343618",
+    "id": 12425,
+    "name": "Campus Ledeganck",
+    "latitude": "51.0366043",
+    "longitude": "3.7242901",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12031,
+    "name": "Woodrow Wilsonplein",
+    "latitude": "51.0483397",
+    "longitude": "3.7309618",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12393,
+    "name": "Opgeëistenlaan 457",
+    "latitude": "51.0649386",
+    "longitude": "3.7175553",
     "thumbnail_url": ""
   },
   {
@@ -221,20 +228,6 @@
     "name": "Goudenleeuwplein 1",
     "latitude": "51.0539409",
     "longitude": "3.7251371",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19610,
-    "name": "Gent-Sint-Pietersstation Zuid",
-    "latitude": "51.0347452",
-    "longitude": "3.7089006",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17222,
-    "name": "Flixbus Ghent",
-    "latitude": "51.053617",
-    "longitude": "3.7403016",
     "thumbnail_url": ""
   },
   {
@@ -259,17 +252,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12393,
-    "name": "Opgeëistenlaan 457",
-    "latitude": "51.0649386",
-    "longitude": "3.7175553",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33372,
     "name": "Alternatief Gent sint Pieters Station Noord",
     "latitude": "51.0370306",
     "longitude": "3.7074462",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19610,
+    "name": "Gent-Sint-Pietersstation Zuid",
+    "latitude": "51.0347452",
+    "longitude": "3.7089006",
     "thumbnail_url": ""
   },
   {
@@ -287,24 +280,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16449,
-    "name": "Raas van Gaverestraat 119",
-    "latitude": "51.0512336",
-    "longitude": "3.7061007",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33255,
     "name": "Edmond Van Hoorebekestraat 120",
     "latitude": "51.0355459",
     "longitude": "3.7474869",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12031,
-    "name": "Woodrow Wilsonplein",
-    "latitude": "51.0483397",
-    "longitude": "3.7309618",
     "thumbnail_url": ""
   },
   {
@@ -336,10 +315,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21333,
-    "name": "Volderstraat b&b hotel",
-    "latitude": "51.0522008",
-    "longitude": "3.7222339",
+    "id": 12022,
+    "name": "Korenmarkt",
+    "latitude": "51.0541922",
+    "longitude": "3.7220109",
     "thumbnail_url": ""
   },
   {
@@ -399,6 +378,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 12057,
+    "name": "STAM - Stadsmuseum Gent",
+    "latitude": "51.0433045",
+    "longitude": "3.7177672",
+    "thumbnail_url": ""
+  },
+  {
     "id": 16631,
     "name": "Biest 1",
     "latitude": "51.0685755",
@@ -434,6 +420,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34454,
+    "name": "Liefkensstraat 82",
+    "latitude": "51.0978972",
+    "longitude": "3.7110494",
+    "thumbnail_url": ""
+  },
+  {
     "id": 12005,
     "name": "Sint-Widostraat",
     "latitude": "51.0579855",
@@ -445,13 +438,6 @@
     "name": "Pieter Cieterslaan 28",
     "latitude": "51.0838013",
     "longitude": "3.7029656",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12204,
-    "name": "Gouvernementstraat 34",
-    "latitude": "51.0506548",
-    "longitude": "3.7263568",
     "thumbnail_url": ""
   },
   {
@@ -473,6 +459,13 @@
     "name": "Juliaan Braekeleirsstraat 11",
     "latitude": "51.0731746",
     "longitude": "3.6783664",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21333,
+    "name": "Volderstraat b&b hotel",
+    "latitude": "51.0522008",
+    "longitude": "3.7222339",
     "thumbnail_url": ""
   },
   {
@@ -525,10 +518,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12022,
-    "name": "Korenmarkt",
-    "latitude": "51.0541922",
-    "longitude": "3.7220109",
+    "id": 18459,
+    "name": "Dronkey",
+    "latitude": "51.0392485",
+    "longitude": "3.726105",
     "thumbnail_url": ""
   },
   {
@@ -536,6 +529,20 @@
     "name": "Braemkasteelstraat 31",
     "latitude": "51.0355162",
     "longitude": "3.7650108",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17178,
+    "name": "Station Dampoort",
+    "latitude": "51.056845",
+    "longitude": "3.7403079",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35496,
+    "name": "UZ temporary parking ",
+    "latitude": "51.0260949",
+    "longitude": "3.7236447",
     "thumbnail_url": ""
   },
   {
@@ -683,6 +690,13 @@
     "name": "Gaston Crommenlaan 8",
     "latitude": "51.0363702",
     "longitude": "3.7357186",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17222,
+    "name": "Flixbus Ghent",
+    "latitude": "51.053617",
+    "longitude": "3.7403016",
     "thumbnail_url": ""
   },
   {
@@ -1673,13 +1687,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 18459,
-    "name": "Dronkey",
-    "latitude": "51.0392485",
-    "longitude": "3.726105",
-    "thumbnail_url": ""
-  },
-  {
     "id": 20520,
     "name": "Kapitein Zeppos",
     "latitude": "51.0716931",
@@ -1761,13 +1768,6 @@
     "name": "Gustaaf Callierlaan 94",
     "latitude": "51.0411243",
     "longitude": "3.7343494",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12057,
-    "name": "STAM - Stadsmuseum Gent",
-    "latitude": "51.0433045",
-    "longitude": "3.7177672",
     "thumbnail_url": ""
   },
   {

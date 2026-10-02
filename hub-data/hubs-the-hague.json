@@ -1,12 +1,5 @@
 [
   {
-    "id": 20228,
-    "name": "Boulevard (Donkey inside)",
-    "latitude": "52.1170214",
-    "longitude": "4.2862324",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19233,
     "name": "Stevinstraat I",
     "latitude": "52.110123",
@@ -21,24 +14,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27883,
-    "name": "Den Haag Centraal Deelfiets UNDER the bridge ",
-    "latitude": "52.0794285",
-    "longitude": "4.3251777",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19226,
     "name": "Kurhausweg I (Donkey in rack)",
     "latitude": "52.1122161",
     "longitude": "4.2838061",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 18968,
-    "name": "Het Plein",
-    "latitude": "52.080295",
-    "longitude": "4.3158875",
     "thumbnail_url": ""
   },
   {
@@ -91,6 +70,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 20228,
+    "name": "Boulevard (Donkey inside)",
+    "latitude": "52.1170214",
+    "longitude": "4.2862324",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19010,
     "name": "Madurodam",
     "latitude": "52.0991058",
@@ -102,20 +88,6 @@
     "name": "Biesieklette Anna UNDER the bridge inside",
     "latitude": "52.0800714",
     "longitude": "4.3270418",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33129,
-    "name": "Jan van Rodestraat",
-    "latitude": "52.0572304",
-    "longitude": "4.2963341",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19038,
-    "name": "Parkstraat",
-    "latitude": "52.0831823",
-    "longitude": "4.3080534",
     "thumbnail_url": ""
   },
   {
@@ -161,13 +133,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27514,
-    "name": "Fietsstalling Kijkduin (point 4)",
-    "latitude": "52.0677939",
-    "longitude": "4.2229722",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19084,
     "name": "Brouwersgracht (Donkey in rack)",
     "latitude": "52.0740517",
@@ -182,10 +147,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20275,
-    "name": "International Centre (Donkey in rack)",
-    "latitude": "52.0783639",
-    "longitude": "4.3180796",
+    "id": 19022,
+    "name": "Denneweg I",
+    "latitude": "52.0862835",
+    "longitude": "4.3111202",
     "thumbnail_url": ""
   },
   {
@@ -210,6 +175,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19061,
+    "name": "Zeestraat I",
+    "latitude": "52.0862909",
+    "longitude": "4.3016585",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34742,
     "name": "Badhuisweg",
     "latitude": "52.1059433",
@@ -224,10 +196,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27883,
+    "name": "Den Haag Centraal Deelfiets UNDER the bridge ",
+    "latitude": "52.0794285",
+    "longitude": "4.3251777",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20781,
+    "name": "Marriott ",
+    "latitude": "52.0901305",
+    "longitude": "4.2828759",
+    "thumbnail_url": ""
+  },
+  {
     "id": 26616,
     "name": "Alphons Diepenbrockhof (point 35)",
     "latitude": "52.059552",
     "longitude": "4.2319153",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20275,
+    "name": "International Centre (Donkey in rack)",
+    "latitude": "52.0783639",
+    "longitude": "4.3180796",
     "thumbnail_url": ""
   },
   {
@@ -252,10 +245,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33129,
+    "name": "Jan van Rodestraat",
+    "latitude": "52.0572304",
+    "longitude": "4.2963341",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33154,
     "name": "Van der Kunstraat",
     "latitude": "52.0653029",
     "longitude": "4.317881",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19038,
+    "name": "Parkstraat",
+    "latitude": "52.0831823",
+    "longitude": "4.3080534",
     "thumbnail_url": ""
   },
   {
@@ -350,10 +357,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19346,
+    "name": "Biesieklette Spuiplein bikeparking DOWNSTAIRS",
+    "latitude": "52.0775291",
+    "longitude": "4.3163807",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32427,
     "name": "De Genestetlaan",
     "latitude": "52.0603748",
     "longitude": "4.3199426",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 18968,
+    "name": "Het Plein",
+    "latitude": "52.080295",
+    "longitude": "4.3158875",
     "thumbnail_url": ""
   },
   {
@@ -420,6 +441,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 27514,
+    "name": "Fietsstalling Kijkduin (point 4)",
+    "latitude": "52.0677939",
+    "longitude": "4.2229722",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19351,
     "name": "Noorderstrand (Donkey in rack)",
     "latitude": "52.1210083",
@@ -438,13 +466,6 @@
     "name": "Strandweg III",
     "latitude": "52.1066055",
     "longitude": "4.2703483",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19346,
-    "name": "Biesieklette Spuiplein bikeparking DOWNSTAIRS",
-    "latitude": "52.0775291",
-    "longitude": "4.3163807",
     "thumbnail_url": ""
   },
   {
@@ -501,13 +522,6 @@
     "name": "Theresiastraat I (Donkey in rack)",
     "latitude": "52.0860425",
     "longitude": "4.3365402",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20781,
-    "name": "Marriott ",
-    "latitude": "52.0901305",
-    "longitude": "4.2828759",
     "thumbnail_url": ""
   },
   {
@@ -1148,13 +1162,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19061,
-    "name": "Zeestraat I",
-    "latitude": "52.0862909",
-    "longitude": "4.3016585",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33074,
     "name": "Ermelostraat",
     "latitude": "52.0623479",
@@ -1523,13 +1530,6 @@
     "name": "Lijsterbesplein",
     "latitude": "52.0738286",
     "longitude": "4.2649015",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19022,
-    "name": "Denneweg I",
-    "latitude": "52.0862835",
-    "longitude": "4.3111202",
     "thumbnail_url": ""
   },
   {
@@ -2557,8 +2557,8 @@
   {
     "id": 18917,
     "name": "Stuyvesantplein",
-    "latitude": "52.0842277",
-    "longitude": "4.3431771",
+    "latitude": "52.0842362",
+    "longitude": "4.34341",
     "thumbnail_url": ""
   },
   {
