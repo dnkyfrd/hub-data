@@ -21,13 +21,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32895,
-    "name": "Groenhovenbad",
-    "latitude": "52.0238336",
-    "longitude": "4.6898301",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32915,
     "name": "Coonhert Gymnasium",
     "latitude": "52.0219365",
@@ -46,13 +39,6 @@
     "name": "Ronsseweg 2",
     "latitude": "52.0201238",
     "longitude": "4.7071511",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32908,
-    "name": "Sports hall De Mammoet",
-    "latitude": "52.0272771",
-    "longitude": "4.7123854",
     "thumbnail_url": ""
   },
   {
@@ -133,13 +119,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32842,
-    "name": "De Wadden",
-    "latitude": "52.0031525",
-    "longitude": "4.6823531",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32910,
     "name": "MBO Rijnland 1",
     "latitude": "52.0267393",
@@ -189,13 +168,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32860,
-    "name": "Bernadottelaan",
-    "latitude": "52.0125812",
-    "longitude": "4.7279761",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32930,
     "name": "Yuverta",
     "latitude": "52.0194726",
@@ -221,13 +193,6 @@
     "name": "Bogen",
     "latitude": "52.0075493",
     "longitude": "4.7104245",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31288,
-    "name": "Klein Amerika",
-    "latitude": "52.011979",
-    "longitude": "4.7163437",
     "thumbnail_url": ""
   },
   {
@@ -259,6 +224,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32896,
+    "name": "Groenhovenpark",
+    "latitude": "52.0232967",
+    "longitude": "4.6889633",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32941,
     "name": "Herpstraat",
     "latitude": "52.0142048",
@@ -270,13 +242,6 @@
     "name": "Groene Hart 3",
     "latitude": "52.0209419",
     "longitude": "4.7072376",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32896,
-    "name": "Groenhovenpark",
-    "latitude": "52.0232967",
-    "longitude": "4.6889633",
     "thumbnail_url": ""
   },
   {
@@ -294,10 +259,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31288,
+    "name": "Klein Amerika",
+    "latitude": "52.011979",
+    "longitude": "4.7163437",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32949,
     "name": "Raam 2",
     "latitude": "52.0091966",
     "longitude": "4.7066341",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32908,
+    "name": "Sports hall De Mammoet",
+    "latitude": "52.0272771",
+    "longitude": "4.7123854",
     "thumbnail_url": ""
   },
   {
@@ -326,13 +305,6 @@
     "name": "Olympia",
     "latitude": "52.0240568",
     "longitude": "4.7182216",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32969,
-    "name": "Koningin Wilhelminaweg",
-    "latitude": "52.000824",
-    "longitude": "4.6977171",
     "thumbnail_url": ""
   },
   {
@@ -371,17 +343,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30987,
-    "name": "Station Gouda (Roof Parking Only)",
-    "latitude": "52.0169789",
-    "longitude": "4.7082706",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32888,
     "name": "Burgemeester van Reenensingel",
     "latitude": "52.0227746",
     "longitude": "4.6798851",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30988,
+    "name": "Gouda Goverwelle",
+    "latitude": "52.0146456",
+    "longitude": "4.7420644",
     "thumbnail_url": ""
   },
   {
@@ -392,10 +364,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32842,
+    "name": "De Wadden",
+    "latitude": "52.0031525",
+    "longitude": "4.6823531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32899,
     "name": "GHMC",
     "latitude": "52.026174",
     "longitude": "4.6862674",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32895,
+    "name": "Groenhovenbad",
+    "latitude": "52.0238336",
+    "longitude": "4.6898301",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32860,
+    "name": "Bernadottelaan",
+    "latitude": "52.0125812",
+    "longitude": "4.7279761",
     "thumbnail_url": ""
   },
   {
@@ -462,6 +455,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32969,
+    "name": "Koningin Wilhelminaweg",
+    "latitude": "52.000824",
+    "longitude": "4.6977171",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32974,
     "name": "Nijverheidsstraat 1",
     "latitude": "52.0130123",
@@ -501,6 +501,13 @@
     "name": "Vuurdoornlaan 1",
     "latitude": "52.0251203",
     "longitude": "4.695392",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30987,
+    "name": "Station Gouda (Roof Parking Only)",
+    "latitude": "52.0169789",
+    "longitude": "4.7082706",
     "thumbnail_url": ""
   },
   {
@@ -627,13 +634,6 @@
     "name": "Ronsseweg 1",
     "latitude": "52.0190014",
     "longitude": "4.7063391",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30988,
-    "name": "Gouda Goverwelle",
-    "latitude": "52.0146456",
-    "longitude": "4.7420644",
     "thumbnail_url": ""
   },
   {

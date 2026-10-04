@@ -1,5 +1,12 @@
 [
   {
+    "id": 24659,
+    "name": "Oostduinkerke Bad - fietsenstalling",
+    "latitude": "51.1323576",
+    "longitude": "2.6728142",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27334,
     "name": "Zonder Zorglaan",
     "latitude": "51.1171626",
@@ -11,27 +18,6 @@
     "name": "Oostduinkerke sportpark",
     "latitude": "51.1155016",
     "longitude": "2.6876455",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29956,
-    "name": "Koksijde Cinema - fietsrek",
-    "latitude": "51.1116565",
-    "longitude": "2.6295587",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24657,
-    "name": "Ster der zee",
-    "latitude": "51.1123284",
-    "longitude": "2.6238752",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24659,
-    "name": "Oostduinkerke Bad - fietsenstalling",
-    "latitude": "51.1323576",
-    "longitude": "2.6728142",
     "thumbnail_url": ""
   },
   {
@@ -70,10 +56,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24657,
+    "name": "Ster der zee",
+    "latitude": "51.1123284",
+    "longitude": "2.6238752",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27568,
     "name": "Tramhalte Groenendijk",
     "latitude": "51.1404669",
     "longitude": "2.7007526",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29956,
+    "name": "Koksijde Cinema - fietsrek",
+    "latitude": "51.1116565",
+    "longitude": "2.6295587",
     "thumbnail_url": ""
   },
   {
