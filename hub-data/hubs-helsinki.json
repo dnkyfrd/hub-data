@@ -1,16 +1,23 @@
 [
   {
+    "id": 35649,
+    "name": "Itämerentori",
+    "latitude": "60.163544",
+    "longitude": "24.914126",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35879,
+    "name": "Ratapihantie 1",
+    "latitude": "60.196554",
+    "longitude": "24.935963",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35600,
     "name": "Eteläinen Makasiinikatu 4",
     "latitude": "60.164788",
     "longitude": "24.950984",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35696,
-    "name": "Eerikinkatu 31",
-    "latitude": "60.164913",
-    "longitude": "24.928638",
     "thumbnail_url": ""
   },
   {
@@ -21,10 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36004,
-    "name": "Fleminginkatu 32",
-    "latitude": "60.189977",
-    "longitude": "24.952741",
+    "id": 37283,
+    "name": "Gyldenintie",
+    "latitude": "60.1590521",
+    "longitude": "24.876697",
     "thumbnail_url": ""
   },
   {
@@ -32,6 +39,34 @@
     "name": "Helsinginkatu 4",
     "latitude": "60.187452",
     "longitude": "24.959512",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35727,
+    "name": "Liisankatu 21",
+    "latitude": "60.174143",
+    "longitude": "24.953435",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36005,
+    "name": "Tivolitie 10",
+    "latitude": "60.189527",
+    "longitude": "24.939042",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37284,
+    "name": "Heikkiläntie",
+    "latitude": "60.1546613",
+    "longitude": "24.8807549",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36004,
+    "name": "Fleminginkatu 32",
+    "latitude": "60.189977",
+    "longitude": "24.952741",
     "thumbnail_url": ""
   },
   {
@@ -49,10 +84,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35726,
-    "name": "Maneesikatu 6-8",
-    "latitude": "60.173306",
-    "longitude": "24.957957",
+    "id": 35628,
+    "name": "Punavuorenkatu 23",
+    "latitude": "60.159873",
+    "longitude": "24.93233",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +98,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37147,
+    "name": "Lauttasaaren metroasema",
+    "latitude": "60.1597042",
+    "longitude": "24.8799265",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35771,
     "name": "Laivurinkatu 27",
     "latitude": "60.157701",
     "longitude": "24.941273",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37259,
+    "name": "Rauhankatu",
+    "latitude": "60.1716769",
+    "longitude": "24.9561759",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35734,
+    "name": "Meritullinkatu 3",
+    "latitude": "60.170803",
+    "longitude": "24.95861",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36202,
+    "name": "Emma - museum of modern art",
+    "latitude": "60.1784385",
+    "longitude": "24.7951394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36051,
+    "name": "Leonkatu 8-12",
+    "latitude": "60.185779",
+    "longitude": "24.979796",
     "thumbnail_url": ""
   },
   {
@@ -77,10 +147,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36064,
-    "name": "Nokiantie 2",
-    "latitude": "60.195243",
-    "longitude": "24.950891",
+    "id": 35934,
+    "name": "Kesäkatu 8",
+    "latitude": "60.179276",
+    "longitude": "24.913139",
     "thumbnail_url": ""
   },
   {
@@ -119,17 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35727,
-    "name": "Liisankatu 21",
-    "latitude": "60.174143",
-    "longitude": "24.953435",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35910,
-    "name": "Neljäs linja 10",
-    "latitude": "60.182618",
-    "longitude": "24.951689",
+    "id": 35741,
+    "name": "Kauppatori Itä",
+    "latitude": "60.167821",
+    "longitude": "24.954807",
     "thumbnail_url": ""
   },
   {
@@ -137,13 +200,6 @@
     "name": "Mariankatu 3",
     "latitude": "60.16932",
     "longitude": "24.956903",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35973,
-    "name": "Nordenskiöldinkatu 22",
-    "latitude": "60.193017",
-    "longitude": "24.931491",
     "thumbnail_url": ""
   },
   {
@@ -168,24 +224,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35768,
-    "name": "Pursimiehenkatu 27",
-    "latitude": "60.158589",
-    "longitude": "24.935032",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35777,
     "name": "Kapteeninkatu 24",
     "latitude": "60.158423",
     "longitude": "24.94597",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35614,
-    "name": "Länsisatamankatu 45",
-    "latitude": "60.152786",
-    "longitude": "24.91657",
     "thumbnail_url": ""
   },
   {
@@ -196,24 +238,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36062,
-    "name": "Mustikkamaan parkkipaikka",
-    "latitude": "60.1820389",
-    "longitude": "24.9913691",
+    "id": 37285,
+    "name": "Jätkäsaarenkuja",
+    "latitude": "60.1568328",
+    "longitude": "24.9122782",
     "thumbnail_url": ""
   },
   {
-    "id": 36027,
-    "name": "Teollisuuskatu 3a",
-    "latitude": "60.191281",
-    "longitude": "24.954794",
+    "id": 37286,
+    "name": "Lidl Jätkäsaari",
+    "latitude": "60.1547762",
+    "longitude": "24.9150017",
     "thumbnail_url": ""
   },
   {
-    "id": 35761,
-    "name": "Fredrikinkatu 39",
-    "latitude": "60.16447",
-    "longitude": "24.936867",
+    "id": 37263,
+    "name": "DIAK",
+    "latitude": "60.1987338",
+    "longitude": "24.9697023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37287,
+    "name": "Atlantinkatu",
+    "latitude": "60.1550557",
+    "longitude": "24.910114",
     "thumbnail_url": ""
   },
   {
@@ -231,17 +280,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36005,
-    "name": "Tivolitie 10",
-    "latitude": "60.189527",
-    "longitude": "24.939042",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35719,
     "name": "Helsingin yliopiston metroasema",
     "latitude": "60.171143",
     "longitude": "24.947479",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35973,
+    "name": "Nordenskiöldinkatu 22",
+    "latitude": "60.193017",
+    "longitude": "24.931491",
     "thumbnail_url": ""
   },
   {
@@ -252,17 +301,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35714,
+    "name": "Elielinaukio",
+    "latitude": "60.171789",
+    "longitude": "24.938952",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35832,
     "name": "Mannerheimintie 6",
     "latitude": "60.166987",
     "longitude": "24.942417",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35934,
-    "name": "Kesäkatu 8",
-    "latitude": "60.179276",
-    "longitude": "24.913139",
     "thumbnail_url": ""
   },
   {
@@ -280,17 +329,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35888,
-    "name": "Firdonkatu",
-    "latitude": "60.199099",
-    "longitude": "24.93094",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35930,
     "name": "Linnankoskenkatu 10",
     "latitude": "60.185429",
     "longitude": "24.917516",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35726,
+    "name": "Maneesikatu 6-8",
+    "latitude": "60.173306",
+    "longitude": "24.957957",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35715,
+    "name": "Kaivokatu 1",
+    "latitude": "60.170559",
+    "longitude": "24.940708",
     "thumbnail_url": ""
   },
   {
@@ -315,6 +371,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35888,
+    "name": "Firdonkatu",
+    "latitude": "60.199099",
+    "longitude": "24.93094",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35829,
     "name": "Vuorikatu 18",
     "latitude": "60.17233",
@@ -329,17 +392,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36017,
-    "name": "Aleksis Kiven katu 23",
-    "latitude": "60.19283",
-    "longitude": "24.944389",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35796,
-    "name": "Fredrikinkatu 61-63",
-    "latitude": "60.167892",
-    "longitude": "24.931812",
+    "id": 35597,
+    "name": "Simonkatu 3",
+    "latitude": "60.1696345",
+    "longitude": "24.9373157",
     "thumbnail_url": ""
   },
   {
@@ -347,13 +403,6 @@
     "name": "Paavo Nurmen polku",
     "latitude": "60.182821",
     "longitude": "24.927146",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36202,
-    "name": "Emma - museum of modern art",
-    "latitude": "60.1784385",
-    "longitude": "24.7951394",
     "thumbnail_url": ""
   },
   {
@@ -378,10 +427,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35631,
-    "name": "Hietalahdenkatu",
-    "latitude": "60.162458",
-    "longitude": "24.92933",
+    "id": 35796,
+    "name": "Fredrikinkatu 61-63",
+    "latitude": "60.167892",
+    "longitude": "24.931812",
     "thumbnail_url": ""
   },
   {
@@ -399,17 +448,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35879,
-    "name": "Ratapihantie 1",
-    "latitude": "60.196554",
-    "longitude": "24.935963",
+    "id": 37288,
+    "name": "Selkämerenkuja",
+    "latitude": "60.1624603",
+    "longitude": "24.914656",
     "thumbnail_url": ""
   },
   {
-    "id": 35715,
-    "name": "Kaivokatu 1",
-    "latitude": "60.170559",
-    "longitude": "24.940708",
+    "id": 37289,
+    "name": "Harmajankatu",
+    "latitude": "60.1632117",
+    "longitude": "24.9121233",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35736,
+    "name": "Yliopistonkatu 3",
+    "latitude": "60.169906",
+    "longitude": "24.948916",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37290,
+    "name": "Santakuja",
+    "latitude": "60.1633812",
+    "longitude": "24.917536",
     "thumbnail_url": ""
   },
   {
@@ -427,10 +490,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35831,
-    "name": "Katajanokka - Sky Wheel",
-    "latitude": "60.166905",
-    "longitude": "24.960655",
+    "id": 35910,
+    "name": "Neljäs linja 10",
+    "latitude": "60.182618",
+    "longitude": "24.951689",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37282,
+    "name": "Otavantie",
+    "latitude": "60.1601953",
+    "longitude": "24.880308",
     "thumbnail_url": ""
   },
   {
@@ -438,6 +508,13 @@
     "name": "Sibeliuksenkatu, Topeliuksenpuisto",
     "latitude": "60.181542",
     "longitude": "24.919977",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36017,
+    "name": "Aleksis Kiven katu 23",
+    "latitude": "60.19283",
+    "longitude": "24.944389",
     "thumbnail_url": ""
   },
   {
@@ -452,13 +529,6 @@
     "name": "Mannerheimintie 1",
     "latitude": "60.168045",
     "longitude": "24.941629",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35734,
-    "name": "Meritullinkatu 3",
-    "latitude": "60.170803",
-    "longitude": "24.95861",
     "thumbnail_url": ""
   },
   {
@@ -483,24 +553,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35649,
-    "name": "Itämerentori",
-    "latitude": "60.163544",
-    "longitude": "24.914126",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35807,
     "name": "Fredrikinkatu 65",
     "latitude": "60.169119",
     "longitude": "24.9303535",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35741,
-    "name": "Kauppatori Itä",
-    "latitude": "60.167821",
-    "longitude": "24.954807",
     "thumbnail_url": ""
   },
   {
@@ -532,24 +588,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35790,
-    "name": "Ehrenströmintie 5",
-    "latitude": "60.159416",
-    "longitude": "24.961363",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37147,
-    "name": "Lauttasaaren metroasema",
-    "latitude": "60.1597042",
-    "longitude": "24.8799265",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35961,
-    "name": "Töölönkatu 21",
-    "latitude": "60.179261",
-    "longitude": "24.925882",
+    "id": 35913,
+    "name": "Porvoonkatu 1",
+    "latitude": "60.188381",
+    "longitude": "24.952697",
     "thumbnail_url": ""
   },
   {
@@ -564,13 +606,6 @@
     "name": "Hermannin rantatie, (metron alla)",
     "latitude": "60.187136",
     "longitude": "24.97678",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35616,
-    "name": "Hernematalankatu 6",
-    "latitude": "60.149361",
-    "longitude": "24.921312",
     "thumbnail_url": ""
   },
   {
@@ -595,24 +630,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35628,
-    "name": "Punavuorenkatu 23",
-    "latitude": "60.159873",
-    "longitude": "24.93233",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35669,
     "name": "Arkadiankatu 25",
     "latitude": "60.171292",
     "longitude": "24.923619",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35687,
-    "name": "Salomonkatu 19",
-    "latitude": "60.168287",
-    "longitude": "24.928516",
     "thumbnail_url": ""
   },
   {
@@ -623,10 +644,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36051,
-    "name": "Leonkatu 8-12",
-    "latitude": "60.185779",
-    "longitude": "24.979796",
+    "id": 35990,
+    "name": "Kolmas linja 18",
+    "latitude": "60.183136",
+    "longitude": "24.947266",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36064,
+    "name": "Nokiantie 2",
+    "latitude": "60.195243",
+    "longitude": "24.950891",
     "thumbnail_url": ""
   },
   {
@@ -665,24 +693,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35718,
-    "name": "Fabianinkatu 37",
-    "latitude": "60.171295",
-    "longitude": "24.949129",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35695,
     "name": "Abrahaminkatu 2",
     "latitude": "60.16323",
     "longitude": "24.930329",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36760,
-    "name": "Iso Puistotie",
-    "latitude": "60.1587854",
-    "longitude": "24.9551482",
     "thumbnail_url": ""
   },
   {
@@ -707,31 +721,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35694,
-    "name": "Hietalahdenkatu 12",
-    "latitude": "60.16375",
-    "longitude": "24.927179",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35990,
-    "name": "Kolmas linja 18",
-    "latitude": "60.183136",
-    "longitude": "24.947266",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35826,
     "name": "Museokatu 46-40",
     "latitude": "60.175263",
     "longitude": "24.918953",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35702,
-    "name": "Simonkatu 7",
-    "latitude": "60.169322",
-    "longitude": "24.936492",
     "thumbnail_url": ""
   },
   {
@@ -770,6 +763,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35710,
+    "name": "Paasikivenaukio",
+    "latitude": "60.17107",
+    "longitude": "24.93555",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35671,
     "name": "Nervanderinkatu 10",
     "latitude": "60.173807",
@@ -798,10 +798,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35749,
-    "name": "Yrjönkatu 22",
-    "latitude": "60.167099",
-    "longitude": "24.94",
+    "id": 37264,
+    "name": "Saarenkatu",
+    "latitude": "60.1969117",
+    "longitude": "24.9704359",
     "thumbnail_url": ""
   },
   {
@@ -823,6 +823,27 @@
     "name": "Telakkakatu 4",
     "latitude": "60.156738",
     "longitude": "24.933701",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35631,
+    "name": "Hietalahdenkatu",
+    "latitude": "60.162458",
+    "longitude": "24.92933",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35694,
+    "name": "Hietalahdenkatu 12",
+    "latitude": "60.16375",
+    "longitude": "24.927179",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35761,
+    "name": "Fredrikinkatu 39",
+    "latitude": "60.16447",
+    "longitude": "24.936867",
     "thumbnail_url": ""
   },
   {
@@ -854,13 +875,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35736,
-    "name": "Yliopistonkatu 3",
-    "latitude": "60.169906",
-    "longitude": "24.948916",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35805,
     "name": "Olavinkatu 1",
     "latitude": "60.170492",
@@ -872,6 +886,13 @@
     "name": "Pohjoinen Hesperiankatu 37",
     "latitude": "60.175566",
     "longitude": "24.915268",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35749,
+    "name": "Yrjönkatu 22",
+    "latitude": "60.167099",
+    "longitude": "24.94",
     "thumbnail_url": ""
   },
   {
@@ -889,13 +910,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35913,
-    "name": "Porvoonkatu 1",
-    "latitude": "60.188381",
-    "longitude": "24.952697",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36039,
     "name": "Hakaniemenranta 30",
     "latitude": "60.180942",
@@ -907,6 +921,13 @@
     "name": "Mannerheiminaukio",
     "latitude": "60.171155",
     "longitude": "24.937071",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35712,
+    "name": "Kaisaniemenranta",
+    "latitude": "60.177067",
+    "longitude": "24.942336",
     "thumbnail_url": ""
   },
   {
@@ -931,24 +952,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36057,
-    "name": "Junonkatu 9",
-    "latitude": "60.183388",
-    "longitude": "24.979805",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35781,
     "name": "Pietarinkatu 7",
     "latitude": "60.157523",
     "longitude": "24.949269",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35712,
-    "name": "Kaisaniemenranta",
-    "latitude": "60.177067",
-    "longitude": "24.942336",
     "thumbnail_url": ""
   },
   {
@@ -1001,6 +1008,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35702,
+    "name": "Simonkatu 7",
+    "latitude": "60.169322",
+    "longitude": "24.936492",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35993,
     "name": "Castréninkatu 18",
     "latitude": "60.185268",
@@ -1012,6 +1026,13 @@
     "name": "Urheilukatu 3 – A",
     "latitude": "60.1857631",
     "longitude": "24.9237866",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37265,
+    "name": "Sörnäistenkatu",
+    "latitude": "60.1953934",
+    "longitude": "24.9742714",
     "thumbnail_url": ""
   },
   {
@@ -1078,17 +1099,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36054,
+    "name": "Työpajankatu 5",
+    "latitude": "60.1896",
+    "longitude": "24.971089",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35893,
     "name": "Hakaniemen torin itälaita",
     "latitude": "60.179439",
     "longitude": "24.951969",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35775,
-    "name": "Laivurinkatu 43",
-    "latitude": "60.160482",
-    "longitude": "24.942004",
     "thumbnail_url": ""
   },
   {
@@ -1113,6 +1134,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36027,
+    "name": "Teollisuuskatu 3a",
+    "latitude": "60.191281",
+    "longitude": "24.954794",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35746,
     "name": "Eteläesplanadi 12",
     "latitude": "60.167234",
@@ -1131,13 +1159,6 @@
     "name": "Bulevardi 21",
     "latitude": "60.163603",
     "longitude": "24.934779",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35795,
-    "name": "Töölönlahdenkatu 2",
-    "latitude": "60.17248",
-    "longitude": "24.938773",
     "thumbnail_url": ""
   },
   {
@@ -1169,13 +1190,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35868,
-    "name": "Pasilansilta B",
-    "latitude": "60.1978435",
-    "longitude": "24.9308994",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35995,
     "name": "Alppikatu 6",
     "latitude": "60.185431",
@@ -1194,6 +1208,13 @@
     "name": "Keskuskatu 8",
     "latitude": "60.170131",
     "longitude": "24.9429",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35687,
+    "name": "Salomonkatu 19",
+    "latitude": "60.168287",
+    "longitude": "24.928516",
     "thumbnail_url": ""
   },
   {
@@ -1225,10 +1246,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35710,
-    "name": "Paasikivenaukio",
-    "latitude": "60.17107",
-    "longitude": "24.93555",
+    "id": 35718,
+    "name": "Fabianinkatu 37",
+    "latitude": "60.171295",
+    "longitude": "24.949129",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37267,
+    "name": "Berliininkatu",
+    "latitude": "60.2035887",
+    "longitude": "24.9756273",
     "thumbnail_url": ""
   },
   {
@@ -1236,6 +1264,13 @@
     "name": "Merikatu 31",
     "latitude": "60.155451",
     "longitude": "24.936304",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35907,
+    "name": "Kulosaaren puistotie 44",
+    "latitude": "60.18912",
+    "longitude": "25.006659",
     "thumbnail_url": ""
   },
   {
@@ -1281,10 +1316,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35907,
-    "name": "Kulosaaren puistotie 44",
-    "latitude": "60.18912",
-    "longitude": "25.006659",
+    "id": 37268,
+    "name": "Berliininkatu x Toukolankatu",
+    "latitude": "60.2046661",
+    "longitude": "24.9734383",
     "thumbnail_url": ""
   },
   {
@@ -1299,13 +1334,6 @@
     "name": "Josafatinkalliot",
     "latitude": "60.186946",
     "longitude": "24.943498",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35763,
-    "name": "Uudenmaankatu 30",
-    "latitude": "60.163598",
-    "longitude": "24.938356",
     "thumbnail_url": ""
   },
   {
@@ -1372,6 +1400,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37269,
+    "name": "Rörstrandinkatu",
+    "latitude": "60.2056745",
+    "longitude": "24.9789174",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35855,
     "name": "Pasilansilta C",
     "latitude": "60.197584",
@@ -1400,10 +1435,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35820,
-    "name": "Mikonkatu 2-4",
-    "latitude": "60.168092",
-    "longitude": "24.945676",
+    "id": 36057,
+    "name": "Junonkatu 9",
+    "latitude": "60.183388",
+    "longitude": "24.979805",
     "thumbnail_url": ""
   },
   {
@@ -1428,20 +1463,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35816,
-    "name": "Senaatintori",
-    "latitude": "60.169122",
-    "longitude": "24.952886",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35714,
-    "name": "Elielinaukio",
-    "latitude": "60.171789",
-    "longitude": "24.938952",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35915,
     "name": "Helsinginkatu 5",
     "latitude": "60.187529",
@@ -1456,10 +1477,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35700,
-    "name": "Albertinkatu 34",
-    "latitude": "60.164331",
-    "longitude": "24.933174",
+    "id": 35696,
+    "name": "Eerikinkatu 31",
+    "latitude": "60.164913",
+    "longitude": "24.928638",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35616,
+    "name": "Hernematalankatu 6",
+    "latitude": "60.149361",
+    "longitude": "24.921312",
     "thumbnail_url": ""
   },
   {
@@ -1477,17 +1505,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35596,
-    "name": "Aurorankatu 2",
-    "latitude": "60.17369",
-    "longitude": "24.932332",
+    "id": 35868,
+    "name": "Pasilansilta B",
+    "latitude": "60.1978435",
+    "longitude": "24.9308994",
     "thumbnail_url": ""
   },
   {
     "id": 35666,
-    "name": "Sammonkatu 5",
-    "latitude": "60.173057",
-    "longitude": "24.922379",
+    "name": "Ilmarinkatu 3",
+    "latitude": "60.172634",
+    "longitude": "24.9210902",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35596,
+    "name": "Aurorankatu 2",
+    "latitude": "60.17369",
+    "longitude": "24.932332",
     "thumbnail_url": ""
   },
   {
@@ -1498,10 +1533,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37271,
+    "name": "Flooranaukio",
+    "latitude": "60.2035251",
+    "longitude": "24.971663",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35854,
     "name": "Maistraatinportti",
     "latitude": "60.198642",
     "longitude": "24.927486",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35614,
+    "name": "Länsisatamankatu 45",
+    "latitude": "60.152786",
+    "longitude": "24.91657",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35820,
+    "name": "Mikonkatu 2-4",
+    "latitude": "60.168092",
+    "longitude": "24.945676",
     "thumbnail_url": ""
   },
   {
@@ -1540,17 +1596,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36037,
-    "name": "Sörnäisten rantatie 12",
-    "latitude": "60.17973",
-    "longitude": "24.958281",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35757,
     "name": "Pohjoinen Makasiinikatu",
     "latitude": "60.165564",
     "longitude": "24.948871",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37272,
+    "name": "Arcada",
+    "latitude": "60.2013288",
+    "longitude": "24.9661896",
     "thumbnail_url": ""
   },
   {
@@ -1603,6 +1659,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35816,
+    "name": "Senaatintori",
+    "latitude": "60.169122",
+    "longitude": "24.952886",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36061,
     "name": "Vilhonvuorenkatu 10",
     "latitude": "60.18681",
@@ -1631,6 +1694,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37273,
+    "name": "Arabian kauppakeskus",
+    "latitude": "60.2027108",
+    "longitude": "24.9669299",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35960,
     "name": "Sandelsinkatu 1",
     "latitude": "60.178883",
@@ -1649,13 +1719,6 @@
     "name": "Annankatu 12",
     "latitude": "60.164469",
     "longitude": "24.940171",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35778,
-    "name": "Tarkk'ampujankatu 6",
-    "latitude": "60.16095",
-    "longitude": "24.946148",
     "thumbnail_url": ""
   },
   {
@@ -1694,6 +1757,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35763,
+    "name": "Uudenmaankatu 30",
+    "latitude": "60.163598",
+    "longitude": "24.938356",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35851,
     "name": "Triplan edusta",
     "latitude": "60.1983",
@@ -1701,10 +1771,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35597,
-    "name": "Simonkatu 3",
-    "latitude": "60.1696345",
-    "longitude": "24.9373157",
+    "id": 37275,
+    "name": "A. I. Virtasen aukio",
+    "latitude": "60.205459",
+    "longitude": "24.9626498",
     "thumbnail_url": ""
   },
   {
@@ -1712,6 +1782,27 @@
     "name": "Mikonkatu 2-4",
     "latitude": "60.168709",
     "longitude": "24.945611",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37276,
+    "name": "Intiankatu",
+    "latitude": "60.207841",
+    "longitude": "24.9676363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35700,
+    "name": "Albertinkatu 34",
+    "latitude": "60.164331",
+    "longitude": "24.933174",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37277,
+    "name": "Pietari kalmin katu",
+    "latitude": "60.2054013",
+    "longitude": "24.9664491",
     "thumbnail_url": ""
   },
   {
@@ -1736,10 +1827,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36054,
-    "name": "Työpajankatu 5",
-    "latitude": "60.1896",
-    "longitude": "24.971089",
+    "id": 37278,
+    "name": "Vanha Talvitie",
+    "latitude": "60.1925626",
+    "longitude": "24.9797743",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35961,
+    "name": "Töölönkatu 21",
+    "latitude": "60.179261",
+    "longitude": "24.925882",
     "thumbnail_url": ""
   },
   {
@@ -1750,10 +1848,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37279,
+    "name": "Kalasatamankatu",
+    "latitude": "60.1908094",
+    "longitude": "24.9810645",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37280,
+    "name": "Hermannin Rantatie 23",
+    "latitude": "60.1911941",
+    "longitude": "24.97932",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35764,
     "name": "Iso Roobertinkatu 43",
     "latitude": "60.1606319",
     "longitude": "24.9362025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35795,
+    "name": "Töölönlahdenkatu 2",
+    "latitude": "60.17248",
+    "longitude": "24.938773",
     "thumbnail_url": ""
   },
   {
@@ -1785,6 +1904,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36037,
+    "name": "Sörnäisten rantatie 12",
+    "latitude": "60.17973",
+    "longitude": "24.958281",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35698,
     "name": "Eerikinkatu 18",
     "latitude": "60.166563",
@@ -1796,6 +1922,20 @@
     "name": "Kapteeninkatu 8",
     "latitude": "60.156863",
     "longitude": "24.94512",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35775,
+    "name": "Laivurinkatu 43",
+    "latitude": "60.160482",
+    "longitude": "24.942004",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35768,
+    "name": "Pursimiehenkatu 27",
+    "latitude": "60.158589",
+    "longitude": "24.935032",
     "thumbnail_url": ""
   },
   {
@@ -1813,6 +1953,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36760,
+    "name": "Iso Puistotie",
+    "latitude": "60.1587854",
+    "longitude": "24.9551482",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36062,
+    "name": "Mustikkamaan parkkipaikka",
+    "latitude": "60.1820389",
+    "longitude": "24.9913691",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36042,
     "name": "Kaikukatu 1",
     "latitude": "60.183086",
@@ -1820,10 +1974,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35790,
+    "name": "Ehrenströmintie 5",
+    "latitude": "60.159416",
+    "longitude": "24.961363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35778,
+    "name": "Tarkk'ampujankatu 6",
+    "latitude": "60.16095",
+    "longitude": "24.946148",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35809,
     "name": "Ruoholahdenkatu",
     "latitude": "60.163448",
     "longitude": "24.922265",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35831,
+    "name": "Katajanokka - Sky Wheel",
+    "latitude": "60.166905",
+    "longitude": "24.960655",
     "thumbnail_url": ""
   },
   {
