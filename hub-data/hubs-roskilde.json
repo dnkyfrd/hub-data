@@ -1,12 +1,5 @@
 [
   {
-    "id": 21610,
-    "name": "Teknisk Skole, EUD",
-    "latitude": "55.6255774",
-    "longitude": "12.0809658",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21624,
     "name": "Roskilde Bibliotek, Bibliotekshaven",
     "latitude": "55.6416359",
@@ -21,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21610,
+    "name": "Teknisk Skole, EUD",
+    "latitude": "55.6255774",
+    "longitude": "12.0809658",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29265,
     "name": "Centralmagasinet",
     "latitude": "55.6549004",
@@ -32,13 +32,6 @@
     "name": "Teknisk Skole, HTX",
     "latitude": "55.6254402",
     "longitude": "12.082961",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21943,
-    "name": "Trekroner Station",
-    "latitude": "55.6481927",
-    "longitude": "12.1314188",
     "thumbnail_url": ""
   },
   {
@@ -70,6 +63,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21943,
+    "name": "Trekroner Station",
+    "latitude": "55.6481927",
+    "longitude": "12.1314188",
+    "thumbnail_url": ""
+  },
+  {
     "id": 28740,
     "name": "Festival North",
     "latitude": "55.6228863",
@@ -84,17 +84,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21807,
-    "name": "Rabalderstræde - nord",
-    "latitude": "55.6299726",
-    "longitude": "12.0847015",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21621,
     "name": "Roskilde Sygehus, hovedindgang nord",
     "latitude": "55.636902",
     "longitude": "12.0904945",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21807,
+    "name": "Rabalderstræde - nord",
+    "latitude": "55.6299726",
+    "longitude": "12.0847015",
     "thumbnail_url": ""
   },
   {

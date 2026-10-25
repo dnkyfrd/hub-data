@@ -1,19 +1,5 @@
 [
   {
-    "id": 19575,
-    "name": "Bøsbrovej 16",
-    "latitude": "56.4503908",
-    "longitude": "10.042305",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23832,
-    "name": "Quickpoint Park",
-    "latitude": "56.4803858",
-    "longitude": "9.9904407",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19558,
     "name": "Torvegade 19",
     "latitude": "56.4594141",
@@ -35,17 +21,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23832,
+    "name": "Quickpoint Park",
+    "latitude": "56.4803858",
+    "longitude": "9.9904407",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19587,
     "name": "Apotekerstræde 3",
     "latitude": "56.4587937",
     "longitude": "10.0362981",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19521,
-    "name": "Stemannsgade 11",
-    "latitude": "56.4612348",
-    "longitude": "10.0419512",
     "thumbnail_url": ""
   },
   {
@@ -84,13 +70,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19517,
     "name": "Vester Alle 35",
     "latitude": "56.4678249",
@@ -119,10 +98,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19528,
-    "name": "Randers Regnskov Circle",
-    "latitude": "56.4566977",
-    "longitude": "10.0342598",
+    "id": 19575,
+    "name": "Bøsbrovej 16",
+    "latitude": "56.4503908",
+    "longitude": "10.042305",
     "thumbnail_url": ""
   },
   {
@@ -144,6 +123,13 @@
     "name": "Bøsbrovej 47",
     "latitude": "56.4446312",
     "longitude": "10.0386913",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -172,6 +158,13 @@
     "name": "Gamle Stationsvej",
     "latitude": "56.4541007",
     "longitude": "10.0403656",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19521,
+    "name": "Stemannsgade 11",
+    "latitude": "56.4612348",
+    "longitude": "10.0419512",
     "thumbnail_url": ""
   },
   {
@@ -210,10 +203,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20981,
-    "name": "Parkboulevarden",
-    "latitude": "56.4663017",
-    "longitude": "9.9971918",
+    "id": 35516,
+    "name": "Senbelagade",
+    "latitude": "56.464157",
+    "longitude": "10.0172701",
     "thumbnail_url": ""
   },
   {
@@ -224,13 +217,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35516,
-    "name": "Senbelagade",
-    "latitude": "56.464157",
-    "longitude": "10.0172701",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19664,
     "name": "Tradium",
     "latitude": "56.4309103",
@@ -238,10 +224,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19528,
+    "name": "Randers Regnskov Circle",
+    "latitude": "56.4566977",
+    "longitude": "10.0342598",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19653,
     "name": "sprogcenter vestergade",
     "latitude": "56.4612285",
     "longitude": "10.0291788",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20981,
+    "name": "Parkboulevarden",
+    "latitude": "56.4663017",
+    "longitude": "9.9971918",
     "thumbnail_url": ""
   },
   {
