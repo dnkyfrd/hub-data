@@ -1,9 +1,9 @@
 [
   {
-    "id": 32118,
-    "name": "VSL National Metrology Institute",
-    "latitude": "51.9855547",
-    "longitude": "4.387637",
+    "id": 34489,
+    "name": "PRINSEN THEATER",
+    "latitude": "51.9883899",
+    "longitude": "4.3834978",
     "thumbnail_url": ""
   },
   {
@@ -11,6 +11,13 @@
     "name": "Reinier de Graaf Gasthuis",
     "latitude": "51.9977619",
     "longitude": "4.3402315",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32118,
+    "name": "VSL National Metrology Institute",
+    "latitude": "51.9855547",
+    "longitude": "4.387637",
     "thumbnail_url": ""
   },
   {
@@ -70,13 +77,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32243,
-    "name": "Landbergstraat PARK UPSTAIRS! ",
-    "latitude": "52.0021879",
-    "longitude": "4.3704447",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32124,
     "name": "De Werelddreef",
     "latitude": "51.9833127",
@@ -91,6 +91,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32243,
+    "name": "Landbergstraat PARK UPSTAIRS! ",
+    "latitude": "52.0021879",
+    "longitude": "4.3704447",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32208,
     "name": "Hof van Delftlaan 2",
     "latitude": "52.0124645",
@@ -102,13 +109,6 @@
     "name": "Raamstraat",
     "latitude": "52.0058058",
     "longitude": "4.3539332",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34489,
-    "name": "PRINSEN THEATER",
-    "latitude": "51.9883899",
-    "longitude": "4.3834978",
     "thumbnail_url": ""
   },
   {
@@ -130,6 +130,13 @@
     "name": "Buitenwatersloot",
     "latitude": "52.0087424",
     "longitude": "4.3544333",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31611,
+    "name": "Station Delft Campus",
+    "latitude": "51.9904624",
+    "longitude": "4.3653709",
     "thumbnail_url": ""
   },
   {
@@ -168,13 +175,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32215,
-    "name": "Spoorsingel 7",
-    "latitude": "52.0140805",
-    "longitude": "4.350495",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32117,
     "name": "Kringloop Delft Ruiven",
     "latitude": "51.9842741",
@@ -189,10 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32249,
-    "name": "IKEA Delft",
-    "latitude": "52.0126251",
-    "longitude": "4.3804788",
+    "id": 32155,
+    "name": "Professor Schermerhornstraat",
+    "latitude": "52.007334",
+    "longitude": "4.3677901",
     "thumbnail_url": ""
   },
   {
@@ -238,13 +238,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32223,
-    "name": "Hotel Delft Centre",
-    "latitude": "52.0150012",
-    "longitude": "4.367498",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32173,
     "name": "Hugo de Grootstraat 1",
     "latitude": "52.0099444",
@@ -280,24 +273,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32141,
-    "name": "Korvezeestraat 2",
-    "latitude": "51.9969204",
-    "longitude": "4.3720427",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32123,
     "name": "PLUS Tanthof",
     "latitude": "51.9819511",
     "longitude": "4.3456909",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32154,
-    "name": "Julianalaan II",
-    "latitude": "52.0101021",
-    "longitude": "4.3705087",
     "thumbnail_url": ""
   },
   {
@@ -308,17 +287,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32188,
     "name": "Raamstraat 1",
     "latitude": "52.0064832",
     "longitude": "4.3553136",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32223,
+    "name": "Hotel Delft Centre",
+    "latitude": "52.0150012",
+    "longitude": "4.367498",
     "thumbnail_url": ""
   },
   {
@@ -329,6 +308,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32141,
+    "name": "Korvezeestraat 2",
+    "latitude": "51.9969204",
+    "longitude": "4.3720427",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32221,
     "name": "AH Ruys",
     "latitude": "52.0138415",
@@ -336,10 +322,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32249,
+    "name": "IKEA Delft",
+    "latitude": "52.0126251",
+    "longitude": "4.3804788",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32154,
+    "name": "Julianalaan II",
+    "latitude": "52.0101021",
+    "longitude": "4.3705087",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32127,
+    "name": "Jumbo Buitenhof",
+    "latitude": "51.9875711",
+    "longitude": "4.3457418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32121,
     "name": "Ruivenstraat",
     "latitude": "51.9915038",
     "longitude": "4.3732035",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -357,20 +378,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32131,
-    "name": "Lidl Multatuliweg",
-    "latitude": "51.993267",
-    "longitude": "4.3593357",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32252,
-    "name": "Nieuwe Langendijk",
-    "latitude": "52.0132742",
-    "longitude": "4.36385",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32125,
     "name": "Sadatweg",
     "latitude": "51.9844441",
@@ -385,24 +392,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31611,
-    "name": "Station Delft Campus",
-    "latitude": "51.9904624",
-    "longitude": "4.3653709",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32163,
     "name": "Lipkensstraat",
     "latitude": "52.0099291",
     "longitude": "4.3729954",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -434,13 +427,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32134,
-    "name": "Domino's Papsouwselaan",
-    "latitude": "51.9990979",
-    "longitude": "4.3550735",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32239,
     "name": "Aula TU Delft 1",
     "latitude": "52.0023176",
@@ -462,20 +448,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32127,
-    "name": "Jumbo Buitenhof",
-    "latitude": "51.9875711",
-    "longitude": "4.3457418",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32126,
-    "name": "Dashof",
-    "latitude": "51.9849099",
-    "longitude": "4.3609071",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32211,
     "name": "Spoorsingel 4",
     "latitude": "52.0111251",
@@ -487,13 +459,6 @@
     "name": "Buitenwatersloot 1",
     "latitude": "52.008362",
     "longitude": "4.3535977",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32178,
-    "name": "Coenderstraat 3",
-    "latitude": "52.0068412",
-    "longitude": "4.3554966",
     "thumbnail_url": ""
   },
   {
@@ -567,6 +532,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32134,
+    "name": "Domino's Papsouwselaan",
+    "latitude": "51.9990979",
+    "longitude": "4.3550735",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32168,
     "name": "Spoorsingel 1",
     "latitude": "52.0093216",
@@ -588,6 +560,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32131,
+    "name": "Lidl Multatuliweg",
+    "latitude": "51.993267",
+    "longitude": "4.3593357",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32215,
+    "name": "Spoorsingel 7",
+    "latitude": "52.0140805",
+    "longitude": "4.350495",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32143,
     "name": "Korvezeestraat",
     "latitude": "51.9979717",
@@ -602,10 +588,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32178,
+    "name": "Coenderstraat 3",
+    "latitude": "52.0068412",
+    "longitude": "4.3554966",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32238,
+    "name": "Library TU Delft",
+    "latitude": "52.0028096",
+    "longitude": "4.3746822",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32126,
+    "name": "Dashof",
+    "latitude": "51.9849099",
+    "longitude": "4.3609071",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32153,
     "name": "Hortus Botanicus TU Delft",
     "latitude": "52.0079082",
     "longitude": "4.3715432",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32252,
+    "name": "Nieuwe Langendijk",
+    "latitude": "52.0132742",
+    "longitude": "4.36385",
     "thumbnail_url": ""
   },
   {
@@ -833,13 +847,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32238,
-    "name": "Library TU Delft",
-    "latitude": "52.0028096",
-    "longitude": "4.3746822",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32140,
     "name": "Korvezeestraat 1",
     "latitude": "51.997316",
@@ -865,13 +872,6 @@
     "name": "Yes Delft",
     "latitude": "51.9931748",
     "longitude": "4.3855596",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32155,
-    "name": "Professor Schermerhornstraat",
-    "latitude": "52.007334",
-    "longitude": "4.3677901",
     "thumbnail_url": ""
   },
   {

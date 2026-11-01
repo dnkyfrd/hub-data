@@ -1,5 +1,12 @@
 [
   {
+    "id": 21524,
+    "name": "Roskilde Station - syd",
+    "latitude": "55.6376438",
+    "longitude": "12.0876918",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21624,
     "name": "Roskilde Bibliotek, Bibliotekshaven",
     "latitude": "55.6416359",
@@ -18,13 +25,6 @@
     "name": "Teknisk Skole, EUD",
     "latitude": "55.6255774",
     "longitude": "12.0809658",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29265,
-    "name": "Centralmagasinet",
-    "latitude": "55.6549004",
-    "longitude": "12.0583146",
     "thumbnail_url": ""
   },
   {
@@ -161,6 +161,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29265,
+    "name": "Centralmagasinet",
+    "latitude": "55.6549004",
+    "longitude": "12.0583146",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21619,
     "name": "Rådhuset",
     "latitude": "55.633969",
@@ -182,13 +189,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21524,
-    "name": "Roskilde Station - syd",
-    "latitude": "55.6376438",
-    "longitude": "12.0876918",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21633,
     "name": "Folkeparken, Frøspringvandet",
     "latitude": "55.6442213",
@@ -207,13 +207,6 @@
     "name": "Kristiansminde Plejecenter",
     "latitude": "55.635487",
     "longitude": "12.0483221",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21808,
-    "name": "TiendeklasseCenter (TCR)",
-    "latitude": "55.6259352",
-    "longitude": "12.0777042",
     "thumbnail_url": ""
   },
   {
@@ -354,6 +347,13 @@
     "name": "Holbækvej Øst",
     "latitude": "55.6342032",
     "longitude": "12.0699394",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21808,
+    "name": "TiendeklasseCenter (TCR)",
+    "latitude": "55.6259352",
+    "longitude": "12.0777042",
     "thumbnail_url": ""
   },
   {

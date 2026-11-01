@@ -14,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34771,
+    "name": "Herschelstraat",
+    "latitude": "51.7870805",
+    "longitude": "4.6828243",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34769,
     "name": "Kamerlingh Omnesweg I",
     "latitude": "51.7802138",
@@ -39,13 +46,6 @@
     "name": "Boxerclub Dordrecht",
     "latitude": "51.7772174",
     "longitude": "4.6931692",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34771,
-    "name": "Herschelstraat",
-    "latitude": "51.7870805",
-    "longitude": "4.6828243",
     "thumbnail_url": ""
   },
   {
@@ -112,24 +112,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29223,
-    "name": "Slangenburg",
-    "latitude": "51.7747208",
-    "longitude": "4.6751899",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34768,
     "name": "Maxwellstraat",
     "latitude": "51.7815185",
     "longitude": "4.6364366",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29876,
-    "name": "Wolwevershaven",
-    "latitude": "51.818905",
-    "longitude": "4.6673214",
     "thumbnail_url": ""
   },
   {
@@ -154,10 +140,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34764,
     "name": "B&B",
     "latitude": "51.805029",
     "longitude": "4.7741584",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30784,
+    "name": "Asahai",
+    "latitude": "51.8081166",
+    "longitude": "4.6678209",
     "thumbnail_url": ""
   },
   {
@@ -196,10 +196,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30784,
-    "name": "Asahai",
-    "latitude": "51.8081166",
-    "longitude": "4.6678209",
+    "id": 29868,
+    "name": "AH Stadspolders",
+    "latitude": "51.8037596",
+    "longitude": "4.7180758",
     "thumbnail_url": ""
   },
   {
@@ -245,20 +245,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34610,
-    "name": "Chemours *",
-    "latitude": "51.8152229",
-    "longitude": "4.7270464",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21120,
-    "name": "Q-Park P+R (Park Upstairs)",
-    "latitude": "51.8067461",
-    "longitude": "4.6683224",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29845,
     "name": "Oldenbarneveltplein",
     "latitude": "51.7916543",
@@ -273,24 +259,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34610,
+    "name": "Chemours",
+    "latitude": "51.8153036",
+    "longitude": "4.7275506",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24177,
     "name": "Vrieseweg - Singel (NR)",
     "latitude": "51.8108583",
     "longitude": "4.6746089",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30186,
-    "name": "Amazone",
-    "latitude": "51.8074872",
-    "longitude": "4.7042935",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24149,
-    "name": "Pearl Buck-erf",
-    "latitude": "51.7979985",
-    "longitude": "4.7252878",
     "thumbnail_url": ""
   },
   {
@@ -322,13 +301,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21133,
-    "name": "Merwekade",
-    "latitude": "51.8192037",
-    "longitude": "4.6753173",
-    "thumbnail_url": ""
-  },
-  {
     "id": 24172,
     "name": "Groenendijk - Hallincqlaan",
     "latitude": "51.8126412",
@@ -336,24 +308,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29104,
-    "name": "4* Grill Central Station ",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
+    "id": 24149,
+    "name": "Pearl Buck-erf",
+    "latitude": "51.7979985",
+    "longitude": "4.7252878",
     "thumbnail_url": ""
   },
   {
-    "id": 35509,
-    "name": "Dubbelmondestraat",
-    "latitude": "51.8049539",
-    "longitude": "4.682064",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35148,
-    "name": "Albert Schweitzer Hospital",
-    "latitude": "51.7926995",
-    "longitude": "4.6824288",
+    "id": 30186,
+    "name": "Amazone",
+    "latitude": "51.8074872",
+    "longitude": "4.7042935",
     "thumbnail_url": ""
   },
   {
@@ -378,6 +343,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21133,
+    "name": "Merwekade",
+    "latitude": "51.8192037",
+    "longitude": "4.6753173",
+    "thumbnail_url": ""
+  },
+  {
     "id": 21105,
     "name": "Biesboschcentrum",
     "latitude": "51.8076722",
@@ -385,10 +357,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29876,
+    "name": "Wolwevershaven",
+    "latitude": "51.818905",
+    "longitude": "4.6673214",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24135,
     "name": "Hellenburg - Goudestein",
     "latitude": "51.7742267",
     "longitude": "4.6715733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35148,
+    "name": "Albert Schweitzer Hospital",
+    "latitude": "51.7926995",
+    "longitude": "4.6824288",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29104,
+    "name": "4* Grill Central Station ",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29223,
+    "name": "Slangenburg",
+    "latitude": "51.7747208",
+    "longitude": "4.6751899",
     "thumbnail_url": ""
   },
   {
@@ -424,13 +424,6 @@
     "name": "Leerpark II",
     "latitude": "51.7972148",
     "longitude": "4.6799119",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29868,
-    "name": "AH Stadspolders",
-    "latitude": "51.8037596",
-    "longitude": "4.7180758",
     "thumbnail_url": ""
   },
   {
@@ -476,10 +469,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36291,
-    "name": "Fietspont Kerkeplaat",
-    "latitude": "51.8213761",
-    "longitude": "4.7114228",
+    "id": 21120,
+    "name": "Q-Park P+R (Park Upstairs)",
+    "latitude": "51.8067461",
+    "longitude": "4.6683224",
     "thumbnail_url": ""
   },
   {
@@ -532,10 +525,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
+    "id": 27886,
+    "name": "*Weeskinderendijk Water",
+    "latitude": "51.80907",
+    "longitude": "4.652366",
     "thumbnail_url": ""
   },
   {
@@ -550,13 +543,6 @@
     "name": "Sweelinckplein",
     "latitude": "51.8025627",
     "longitude": "4.6517581",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34905,
-    "name": "Tolburgstraat Watersijde",
-    "latitude": "51.8153436",
-    "longitude": "4.666693",
     "thumbnail_url": ""
   },
   {
@@ -578,13 +564,6 @@
     "name": "Haringvlietstraat",
     "latitude": "51.8113675",
     "longitude": "4.7203739",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21144,
-    "name": "VVV Dordrecht",
-    "latitude": "51.8117591",
-    "longitude": "4.6666959",
     "thumbnail_url": ""
   },
   {
@@ -644,24 +623,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 27886,
-    "name": "*Weeskinderendijk Water",
-    "latitude": "51.80907",
-    "longitude": "4.652366",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29915,
     "name": "UWV",
     "latitude": "51.806099",
     "longitude": "4.6714432",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21112,
-    "name": "Rijksstraatweg",
-    "latitude": "51.7750982",
-    "longitude": "4.644023",
     "thumbnail_url": ""
   },
   {
@@ -679,6 +644,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36291,
+    "name": "Fietspont Kerkeplaat",
+    "latitude": "51.8213761",
+    "longitude": "4.7114228",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29855,
     "name": "Krispijnseweg",
     "latitude": "51.8015093",
@@ -686,10 +658,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21112,
+    "name": "Rijksstraatweg",
+    "latitude": "51.7750982",
+    "longitude": "4.644023",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21144,
+    "name": "VVV Dordrecht",
+    "latitude": "51.8117591",
+    "longitude": "4.6666959",
+    "thumbnail_url": ""
+  },
+  {
     "id": 27799,
     "name": "Halmaheiraplein",
     "latitude": "51.8052021",
     "longitude": "4.6912843",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34905,
+    "name": "Tolburgstraat Watersijde",
+    "latitude": "51.8153436",
+    "longitude": "4.666693",
     "thumbnail_url": ""
   },
   {
@@ -753,6 +746,13 @@
     "name": "Damplein",
     "latitude": "51.7941418",
     "longitude": "4.7031928",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35509,
+    "name": "Dubbelmondestraat",
+    "latitude": "51.8049539",
+    "longitude": "4.682064",
     "thumbnail_url": ""
   },
   {
@@ -947,8 +947,8 @@
   {
     "id": 24180,
     "name": "Krommedijk - Hoekenessestraat",
-    "latitude": "51.8035728",
-    "longitude": "4.681587",
+    "latitude": "51.8038695",
+    "longitude": "4.6817871",
     "thumbnail_url": ""
   },
   {

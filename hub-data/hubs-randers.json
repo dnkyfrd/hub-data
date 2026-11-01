@@ -14,20 +14,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19531,
-    "name": "Laksetorvet 1",
-    "latitude": "56.4582965",
-    "longitude": "10.0350221",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 23832,
-    "name": "Quickpoint Park",
-    "latitude": "56.4803858",
-    "longitude": "9.9904407",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19587,
     "name": "Apotekerstræde 3",
     "latitude": "56.4587937",
@@ -46,20 +32,6 @@
     "name": "RBK",
     "latitude": "56.4821856",
     "longitude": "10.0231345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24008,
-    "name": "Netto Mariagervej ",
-    "latitude": "56.4807406",
-    "longitude": "10.0261291",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19569,
-    "name": "Støberigade ",
-    "latitude": "56.4548316",
-    "longitude": "10.0376959",
     "thumbnail_url": ""
   },
   {
@@ -98,13 +70,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19575,
-    "name": "Bøsbrovej 16",
-    "latitude": "56.4503908",
-    "longitude": "10.042305",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19662,
     "name": "Århusvej/Paderup blvd",
     "latitude": "56.4299285",
@@ -123,13 +88,6 @@
     "name": "Bøsbrovej 47",
     "latitude": "56.4446312",
     "longitude": "10.0386913",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19524,
-    "name": "Randers Busterminalen 1",
-    "latitude": "56.4587035",
-    "longitude": "10.0390379",
     "thumbnail_url": ""
   },
   {
@@ -158,6 +116,13 @@
     "name": "Gamle Stationsvej",
     "latitude": "56.4541007",
     "longitude": "10.0403656",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19531,
+    "name": "Laksetorvet 1",
+    "latitude": "56.4582965",
+    "longitude": "10.0350221",
     "thumbnail_url": ""
   },
   {
@@ -196,17 +161,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19502,
-    "name": "Central Station ",
-    "latitude": "56.4618859",
-    "longitude": "10.023177",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35516,
-    "name": "Senbelagade",
-    "latitude": "56.464157",
-    "longitude": "10.0172701",
+    "id": 19569,
+    "name": "Støberigade ",
+    "latitude": "56.4548316",
+    "longitude": "10.0376959",
     "thumbnail_url": ""
   },
   {
@@ -231,17 +189,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19571,
+    "name": "Dansk Revision",
+    "latitude": "56.455439",
+    "longitude": "10.0449808",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19653,
     "name": "sprogcenter vestergade",
     "latitude": "56.4612285",
     "longitude": "10.0291788",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 20981,
-    "name": "Parkboulevarden",
-    "latitude": "56.4663017",
-    "longitude": "9.9971918",
     "thumbnail_url": ""
   },
   {
@@ -259,24 +217,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24007,
-    "name": "Mariagervej 99",
-    "latitude": "56.4740672",
-    "longitude": "10.028973",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32050,
     "name": "bilka to go",
     "latitude": "56.431705",
     "longitude": "10.067205",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19503,
-    "name": "Borgergade 1",
-    "latitude": "56.4614284",
-    "longitude": "10.0339602",
     "thumbnail_url": ""
   },
   {
@@ -301,13 +245,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19585,
-    "name": "Nørregade 7",
-    "latitude": "56.4618473",
-    "longitude": "10.0356278",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19536,
     "name": "Donkey Republic-DSB",
     "latitude": "56.4620012",
@@ -322,10 +259,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19588,
-    "name": "Stadfeldtsvej 31",
-    "latitude": "56.4675757",
-    "longitude": "10.0514539",
+    "id": 19503,
+    "name": "Borgergade 1",
+    "latitude": "56.4614284",
+    "longitude": "10.0339602",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19585,
+    "name": "Nørregade 7",
+    "latitude": "56.4618473",
+    "longitude": "10.0356278",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19502,
+    "name": "Central Station ",
+    "latitude": "56.4618859",
+    "longitude": "10.023177",
     "thumbnail_url": ""
   },
   {
@@ -350,10 +301,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19571,
-    "name": "Dansk Revision",
-    "latitude": "56.455439",
-    "longitude": "10.0449808",
+    "id": 24008,
+    "name": "Netto Mariagervej ",
+    "latitude": "56.4807406",
+    "longitude": "10.0261291",
     "thumbnail_url": ""
   },
   {
@@ -389,6 +340,13 @@
     "name": "Tradium 2",
     "latitude": "56.4311509",
     "longitude": "10.0719086",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24007,
+    "name": "Mariagervej 99",
+    "latitude": "56.4740672",
+    "longitude": "10.028973",
     "thumbnail_url": ""
   },
   {
@@ -448,13 +406,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 26892,
-    "name": "Volkswagen Park Randers",
-    "latitude": "56.4633946",
-    "longitude": "9.9758833",
-    "thumbnail_url": ""
-  },
-  {
     "id": 21174,
     "name": "Fyensgade 1",
     "latitude": "56.4638743",
@@ -462,17 +413,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19560,
-    "name": "Lille Rosengård",
-    "latitude": "56.4574444",
-    "longitude": "10.0368216",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19657,
     "name": "Spindervej",
     "latitude": "56.4679673",
     "longitude": "10.0362733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 26892,
+    "name": "Volkswagen Park Randers",
+    "latitude": "56.4633946",
+    "longitude": "9.9758833",
     "thumbnail_url": ""
   },
   {
@@ -511,6 +462,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35516,
+    "name": "Senbelagade",
+    "latitude": "56.464157",
+    "longitude": "10.0172701",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24003,
     "name": "Netto Hobrovej",
     "latitude": "56.4675211",
@@ -539,6 +497,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 23832,
+    "name": "Quickpoint Park",
+    "latitude": "56.4803858",
+    "longitude": "9.9904407",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20981,
+    "name": "Parkboulevarden",
+    "latitude": "56.4663017",
+    "longitude": "9.9971918",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19519,
     "name": "Skovlyvej 9",
     "latitude": "56.4698671",
@@ -553,10 +525,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19504,
-    "name": "Rådhustorvet 7",
-    "latitude": "56.4612772",
-    "longitude": "10.0361508",
+    "id": 19588,
+    "name": "Stadfeldtsvej 31",
+    "latitude": "56.4675757",
+    "longitude": "10.0514539",
     "thumbnail_url": ""
   },
   {
@@ -567,10 +539,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 20524,
-    "name": "Scandiasporet",
-    "latitude": "56.4693748",
-    "longitude": "10.063957",
+    "id": 19524,
+    "name": "Randers Busterminalen 1",
+    "latitude": "56.4587035",
+    "longitude": "10.0390379",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19560,
+    "name": "Lille Rosengård",
+    "latitude": "56.4574444",
+    "longitude": "10.0368216",
     "thumbnail_url": ""
   },
   {
@@ -609,10 +588,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 19520,
-    "name": "Kulturhuset",
-    "latitude": "56.4605853",
-    "longitude": "10.0409681",
+    "id": 19575,
+    "name": "Bøsbrovej 16",
+    "latitude": "56.4503908",
+    "longitude": "10.042305",
     "thumbnail_url": ""
   },
   {
@@ -630,10 +609,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 19504,
+    "name": "Rådhustorvet 7",
+    "latitude": "56.4612772",
+    "longitude": "10.0361508",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 20524,
+    "name": "Scandiasporet",
+    "latitude": "56.4693748",
+    "longitude": "10.063957",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24010,
     "name": "Falkevej",
     "latitude": "56.4782847",
     "longitude": "10.0400243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19520,
+    "name": "Kulturhuset",
+    "latitude": "56.4605853",
+    "longitude": "10.0409681",
     "thumbnail_url": ""
   },
   {

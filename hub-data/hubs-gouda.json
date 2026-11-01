@@ -28,13 +28,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32845,
-    "name": "Westergouwe",
-    "latitude": "52.0042545",
-    "longitude": "4.6864806",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32957,
     "name": "Oosthaven 1",
     "latitude": "52.0089386",
@@ -70,13 +63,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33401,
-    "name": "Zuiderwerf",
-    "latitude": "52.0353941",
-    "longitude": "4.7152866",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32975,
     "name": "Nijverheidsstraat 2",
     "latitude": "52.0131256",
@@ -109,13 +95,6 @@
     "name": "MBO Rijnland 1",
     "latitude": "52.0267393",
     "longitude": "4.7144122",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32899,
-    "name": "GHMC",
-    "latitude": "52.026174",
-    "longitude": "4.6862674",
     "thumbnail_url": ""
   },
   {
@@ -210,13 +189,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32915,
-    "name": "Coonhert Gymnasium",
-    "latitude": "52.0219365",
-    "longitude": "4.7199291",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32971,
     "name": "Oranjeplein",
     "latitude": "52.0076999",
@@ -238,10 +210,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33401,
+    "name": "Zuiderwerf",
+    "latitude": "52.0353941",
+    "longitude": "4.7152866",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32981,
     "name": "Groene Hart 3",
     "latitude": "52.0209419",
     "longitude": "4.7072376",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32845,
+    "name": "Westergouwe",
+    "latitude": "52.0042545",
+    "longitude": "4.6864806",
     "thumbnail_url": ""
   },
   {
@@ -336,13 +322,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30988,
-    "name": "Gouda Goverwelle",
-    "latitude": "52.0146456",
-    "longitude": "4.7420644",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32852,
     "name": "Sportlaan",
     "latitude": "52.0102598",
@@ -385,13 +364,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32854,
-    "name": "De Kortestraat",
-    "latitude": "52.0109835",
-    "longitude": "4.7303609",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32866,
     "name": "Willensplein",
     "latitude": "52.014624",
@@ -427,13 +399,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32969,
-    "name": "Koningin Wilhelminaweg",
-    "latitude": "52.000824",
-    "longitude": "4.6977171",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32952,
     "name": "Jerusalem straat",
     "latitude": "52.0115605",
@@ -462,13 +427,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32945,
-    "name": "Nieuwehaven 1",
-    "latitude": "52.0118546",
-    "longitude": "4.7044749",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32903,
     "name": "Gildenburg 3",
     "latitude": "52.0325129",
@@ -483,31 +441,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30987,
-    "name": "Station Gouda (Roof Parking Only)",
-    "latitude": "52.0169789",
-    "longitude": "4.7082706",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31288,
-    "name": "Klein Amerika",
-    "latitude": "52.011979",
-    "longitude": "4.7163437",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32862,
     "name": "Poldermolemplein",
     "latitude": "52.0103657",
     "longitude": "4.7453397",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32950,
-    "name": "Lange Tiendeweg",
-    "latitude": "52.0116718",
-    "longitude": "4.7134181",
     "thumbnail_url": ""
   },
   {
@@ -532,10 +469,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32945,
+    "name": "Nieuwehaven 1",
+    "latitude": "52.0118546",
+    "longitude": "4.7044749",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32977,
     "name": "Lethmaetstraat",
     "latitude": "52.0077231",
     "longitude": "4.7019473",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30988,
+    "name": "Gouda Goverwelle",
+    "latitude": "52.0146456",
+    "longitude": "4.7420644",
     "thumbnail_url": ""
   },
   {
@@ -550,6 +501,13 @@
     "name": "Griendakker",
     "latitude": "52.0061808",
     "longitude": "4.675553",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32899,
+    "name": "GHMC",
+    "latitude": "52.026174",
+    "longitude": "4.6862674",
     "thumbnail_url": ""
   },
   {
@@ -602,17 +560,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32962,
-    "name": "Sewing Street",
-    "latitude": "52.0113284",
-    "longitude": "4.7090944",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32954,
     "name": "Raoul Wallenbergplantsoen",
     "latitude": "52.0111053",
     "longitude": "4.7135871",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32969,
+    "name": "Koningin Wilhelminaweg",
+    "latitude": "52.000824",
+    "longitude": "4.6977171",
     "thumbnail_url": ""
   },
   {
@@ -630,6 +588,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30987,
+    "name": "Station Gouda (Roof Parking Only)",
+    "latitude": "52.0169789",
+    "longitude": "4.7082706",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33400,
     "name": "Aakwerf",
     "latitude": "52.034295",
@@ -637,10 +602,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32950,
+    "name": "Lange Tiendeweg",
+    "latitude": "52.0116718",
+    "longitude": "4.7134181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32962,
+    "name": "Sewing Street",
+    "latitude": "52.0113284",
+    "longitude": "4.7090944",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32900,
     "name": "Gildenburg 2",
     "latitude": "52.0314452",
     "longitude": "4.7030346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31288,
+    "name": "Klein Amerika",
+    "latitude": "52.011979",
+    "longitude": "4.7163437",
     "thumbnail_url": ""
   },
   {
@@ -669,6 +655,20 @@
     "name": "Stationsingang Zuid-west",
     "latitude": "52.0169484",
     "longitude": "4.7057966",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37298,
+    "name": "Station Gouda noordzijde",
+    "latitude": "52.0181329",
+    "longitude": "4.7066576",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32915,
+    "name": "Coonhert Gymnasium",
+    "latitude": "52.0219365",
+    "longitude": "4.7199291",
     "thumbnail_url": ""
   },
   {
@@ -739,13 +739,6 @@
     "name": "Stations ingang Zuid-oost",
     "latitude": "52.0170257",
     "longitude": "4.7074998",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33406,
-    "name": "Zoutmanstraat",
-    "latitude": "52.0115603",
-    "longitude": "4.7219374",
     "thumbnail_url": ""
   }
 ]
