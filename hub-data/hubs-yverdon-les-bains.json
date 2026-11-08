@@ -1,16 +1,23 @@
 [
   {
-    "id": 17001,
-    "name": "Rives du Lac",
-    "latitude": "46.7851494",
-    "longitude": "6.6439231",
+    "id": 16945,
+    "name": "Gare ouest",
+    "latitude": "46.7813205",
+    "longitude": "6.6398028",
     "thumbnail_url": ""
   },
   {
-    "id": 16308,
-    "name": "Winterthour",
-    "latitude": "46.7850132",
-    "longitude": "6.6466891",
+    "id": 17297,
+    "name": "Fontenay",
+    "latitude": "46.7831",
+    "longitude": "6.6318728",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17113,
+    "name": "Stade ",
+    "latitude": "46.7827357",
+    "longitude": "6.6457893",
     "thumbnail_url": ""
   },
   {
@@ -21,17 +28,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16330,
-    "name": "Avenue des Bains",
-    "latitude": "46.7724618",
-    "longitude": "6.6496881",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16921,
-    "name": "Gare",
-    "latitude": "46.7809886",
-    "longitude": "6.6413791",
+    "id": 16308,
+    "name": "Winterthour",
+    "latitude": "46.7850132",
+    "longitude": "6.6466891",
     "thumbnail_url": ""
   },
   {
@@ -49,10 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16764,
-    "name": "Philosophe",
-    "latitude": "46.7752651",
-    "longitude": "6.6420879",
+    "id": 17001,
+    "name": "Rives du Lac",
+    "latitude": "46.7851494",
+    "longitude": "6.6439231",
     "thumbnail_url": ""
   },
   {
@@ -63,10 +63,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17128,
-    "name": "Iles",
-    "latitude": "46.7720754",
-    "longitude": "6.6359921",
+    "id": 14992,
+    "name": "Bel-Air",
+    "latitude": "46.7804518",
+    "longitude": "6.6369698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17112,
+    "name": "Scierie",
+    "latitude": "46.7780072",
+    "longitude": "6.6522819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16330,
+    "name": "Avenue des Bains",
+    "latitude": "46.7724618",
+    "longitude": "6.6496881",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16921,
+    "name": "Gare",
+    "latitude": "46.7809886",
+    "longitude": "6.6413791",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16285,
+    "name": "HEIG-VD Cheseaux",
+    "latitude": "46.7788408",
+    "longitude": "6.6583166",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21308,
+    "name": "Pierre de Savoie",
+    "latitude": "46.7684825",
+    "longitude": "6.64101",
     "thumbnail_url": ""
   },
   {
@@ -84,17 +119,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 16285,
-    "name": "HEIG-VD Cheseaux",
-    "latitude": "46.7788408",
-    "longitude": "6.6583166",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16945,
-    "name": "Gare ouest",
-    "latitude": "46.7813205",
-    "longitude": "6.6398028",
+    "id": 17128,
+    "name": "Iles",
+    "latitude": "46.7720754",
+    "longitude": "6.6359921",
     "thumbnail_url": ""
   },
   {
@@ -102,6 +130,34 @@
     "name": "Coin de Terre",
     "latitude": "46.7893027",
     "longitude": "6.6369442",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17111,
+    "name": "Haldimand",
+    "latitude": "46.7788871",
+    "longitude": "6.6478478",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16288,
+    "name": "CPNV",
+    "latitude": "46.7737937",
+    "longitude": "6.6342311",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17290,
+    "name": "Avenue de Grandson",
+    "latitude": "46.7877183",
+    "longitude": "6.6306181",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16764,
+    "name": "Philosophe",
+    "latitude": "46.7752651",
+    "longitude": "6.6420879",
     "thumbnail_url": ""
   },
   {
@@ -119,10 +175,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17246,
+    "name": "Sous-Bois",
+    "latitude": "46.7757291",
+    "longitude": "6.6520961",
+    "thumbnail_url": ""
+  },
+  {
     "id": 17298,
     "name": "Roselière",
     "latitude": "46.7875291",
     "longitude": "6.6392243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 16304,
+    "name": "Plaine",
+    "latitude": "46.7775368",
+    "longitude": "6.6434345",
     "thumbnail_url": ""
   },
   {
@@ -140,10 +210,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 17290,
-    "name": "Avenue de Grandson",
-    "latitude": "46.7877183",
-    "longitude": "6.6306181",
+    "id": 16307,
+    "name": "Marive",
+    "latitude": "46.7857601",
+    "longitude": "6.638189",
     "thumbnail_url": ""
   },
   {
@@ -151,34 +221,6 @@
     "name": "Condémines",
     "latitude": "46.7695009",
     "longitude": "6.6526667",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17246,
-    "name": "Sous-Bois",
-    "latitude": "46.7757291",
-    "longitude": "6.6520961",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17111,
-    "name": "Haldimand",
-    "latitude": "46.7788871",
-    "longitude": "6.6478478",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17233,
-    "name": "Verdan",
-    "latitude": "46.7873595",
-    "longitude": "6.6270974",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16288,
-    "name": "CPNV",
-    "latitude": "46.7737937",
-    "longitude": "6.6342311",
     "thumbnail_url": ""
   },
   {
@@ -196,24 +238,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 21308,
-    "name": "Pierre de Savoie",
-    "latitude": "46.7684825",
-    "longitude": "6.64101",
-    "thumbnail_url": ""
-  },
-  {
     "id": 18779,
     "name": "Maison-Rouge",
     "latitude": "46.7792686",
     "longitude": "6.6453401",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16307,
-    "name": "Marive",
-    "latitude": "46.7857601",
-    "longitude": "6.638189",
     "thumbnail_url": ""
   },
   {
@@ -238,31 +266,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 14992,
-    "name": "Bel-Air",
-    "latitude": "46.7804518",
-    "longitude": "6.6369698",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17112,
-    "name": "Scierie",
-    "latitude": "46.7780072",
-    "longitude": "6.6522819",
-    "thumbnail_url": ""
-  },
-  {
     "id": 19983,
     "name": "Orbe",
     "latitude": "46.7787539",
     "longitude": "6.6270091",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17297,
-    "name": "Fontenay",
-    "latitude": "46.7831",
-    "longitude": "6.6318728",
     "thumbnail_url": ""
   },
   {
@@ -273,17 +280,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 17233,
+    "name": "Verdan",
+    "latitude": "46.7873595",
+    "longitude": "6.6270974",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19418,
     "name": "Jardins du Coeur",
     "latitude": "46.7798224",
     "longitude": "6.6509388",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17113,
-    "name": "Stade ",
-    "latitude": "46.7827357",
-    "longitude": "6.6457893",
     "thumbnail_url": ""
   },
   {
@@ -431,13 +438,6 @@
     "name": "Collège des Rives",
     "latitude": "46.785265",
     "longitude": "6.6411045",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 16304,
-    "name": "Plaine",
-    "latitude": "46.7775368",
-    "longitude": "6.6434345",
     "thumbnail_url": ""
   },
   {

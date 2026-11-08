@@ -14,6 +14,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29511,
+    "name": "Dorpstraat Oegstgeest",
+    "latitude": "52.1896871",
+    "longitude": "4.4672374",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29500,
     "name": "Warmonderweg",
     "latitude": "52.1768989",
@@ -105,24 +112,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29516,
-    "name": "Leidsebuurt",
-    "latitude": "52.1800785",
-    "longitude": "4.4648877",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29511,
-    "name": "Dorpstraat Oegstgeest",
-    "latitude": "52.1896871",
-    "longitude": "4.4672374",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29503,
     "name": "Hazenboslaan",
-    "latitude": "52.1859207",
-    "longitude": "4.4767518",
+    "latitude": "52.1859352",
+    "longitude": "4.4772241",
     "thumbnail_url": ""
   },
   {
@@ -210,13 +203,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37165,
-    "name": "van der waaisstraat",
-    "latitude": "52.1490284",
-    "longitude": "4.4943077",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29535,
     "name": "Albinusweg",
     "latitude": "52.1701244",
@@ -238,10 +224,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37131,
-    "name": "Burggravenlaan",
-    "latitude": "52.1499925",
-    "longitude": "4.5088462",
+    "id": 36821,
+    "name": "Leiden Mauritsstraat",
+    "latitude": "52.1645375",
+    "longitude": "4.4978281",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36781,
+    "name": "Leiden Vreewijk",
+    "latitude": "52.1595625",
+    "longitude": "4.4785781",
     "thumbnail_url": ""
   },
   {
@@ -263,6 +256,20 @@
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
     "longitude": "4.4849702",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36799,
+    "name": "Leiden Van der Waalstraat",
+    "latitude": "52.1490375",
+    "longitude": "4.4943594",
     "thumbnail_url": ""
   },
   {
@@ -294,6 +301,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37165,
+    "name": "van der waaisstraat",
+    "latitude": "52.1490284",
+    "longitude": "4.4943077",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29549,
     "name": "Leidsche Hogeschool",
     "latitude": "52.1668436",
@@ -322,24 +336,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35536,
+    "name": "Bargelaan Leiden Central",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
+    "thumbnail_url": ""
+  },
+  {
     "id": 31377,
     "name": "Lijsterstraat I",
     "latitude": "52.1734886",
     "longitude": "4.473183",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36781,
-    "name": "Leiden Vreewijk",
-    "latitude": "52.1595625",
-    "longitude": "4.4785781",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -413,31 +420,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36794,
-    "name": "Leiden Kennedylaan II",
-    "latitude": "52.1411875",
-    "longitude": "4.4713594",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35536,
-    "name": "Bargelaan Leiden Central",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37107,
-    "name": "Haagweg",
-    "latitude": "52.1567868",
-    "longitude": "4.4736274",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29493,
     "name": "Verbeekstraat",
     "latitude": "52.1640996",
     "longitude": "4.4656715",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36794,
+    "name": "Leiden Kennedylaan II",
+    "latitude": "52.1411875",
+    "longitude": "4.4713594",
     "thumbnail_url": ""
   },
   {
@@ -515,6 +508,13 @@
     "name": "Heurniusstraat",
     "latitude": "52.1681702",
     "longitude": "4.477841",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36801,
+    "name": "Leiden Burggravenlaan II",
+    "latitude": "52.1505393",
+    "longitude": "4.504153",
     "thumbnail_url": ""
   },
   {
@@ -966,6 +966,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29468,
     "name": "Vakcollege Rijnmond ",
     "latitude": "52.1964196",
@@ -1159,13 +1166,6 @@
     "name": "Fullbody Gym",
     "latitude": "52.1947691",
     "longitude": "4.4183138",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {

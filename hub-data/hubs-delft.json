@@ -7,13 +7,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32129,
-    "name": "Reinier de Graaf Gasthuis",
-    "latitude": "51.9977619",
-    "longitude": "4.3402315",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32118,
     "name": "VSL National Metrology Institute",
     "latitude": "51.9855547",
@@ -119,10 +112,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32170,
-    "name": "Havenstraat 1",
-    "latitude": "52.0092071",
-    "longitude": "4.3544758",
+    "id": 32157,
+    "name": "Delftechpark",
+    "latitude": "51.9972105",
+    "longitude": "4.3835561",
     "thumbnail_url": ""
   },
   {
@@ -182,10 +175,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32157,
-    "name": "Delftechpark",
-    "latitude": "51.9972105",
-    "longitude": "4.3835561",
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
     "thumbnail_url": ""
   },
   {
@@ -207,6 +200,13 @@
     "name": "Carpoolplaats Delft",
     "latitude": "52.0132326",
     "longitude": "4.3776411",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32170,
+    "name": "Havenstraat 1",
+    "latitude": "52.0092071",
+    "longitude": "4.3544758",
     "thumbnail_url": ""
   },
   {
@@ -343,24 +343,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32121,
     "name": "Ruivenstraat",
     "latitude": "51.9915038",
     "longitude": "4.3732035",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32335,
-    "name": "De Gist",
-    "latitude": "52.0097662",
-    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -378,10 +364,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32129,
+    "name": "Reinier de Graaf Gasthuis",
+    "latitude": "51.9977619",
+    "longitude": "4.3402315",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32126,
+    "name": "Dashof",
+    "latitude": "51.9849099",
+    "longitude": "4.3609071",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32125,
     "name": "Sadatweg",
     "latitude": "51.9844441",
     "longitude": "4.344008",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32335,
+    "name": "De Gist",
+    "latitude": "52.0097662",
+    "longitude": "4.3555718",
     "thumbnail_url": ""
   },
   {
@@ -599,13 +606,6 @@
     "name": "Library TU Delft",
     "latitude": "52.0028096",
     "longitude": "4.3746822",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32126,
-    "name": "Dashof",
-    "latitude": "51.9849099",
-    "longitude": "4.3609071",
     "thumbnail_url": ""
   },
   {
