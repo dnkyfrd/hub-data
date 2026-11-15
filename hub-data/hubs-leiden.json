@@ -1,23 +1,16 @@
 [
   {
-    "id": 29515,
-    "name": "Duinzichtstraat",
-    "latitude": "52.1836898",
-    "longitude": "4.4660032",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29569,
-    "name": "Corpus Hilton",
-    "latitude": "52.1702991",
-    "longitude": "4.4531188",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29511,
     "name": "Dorpstraat Oegstgeest",
     "latitude": "52.1896871",
     "longitude": "4.4672374",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29515,
+    "name": "Duinzichtstraat",
+    "latitude": "52.1836898",
+    "longitude": "4.4660032",
     "thumbnail_url": ""
   },
   {
@@ -77,10 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29506,
-    "name": "Dahlialaan",
-    "latitude": "52.1897529",
-    "longitude": "4.4729593",
+    "id": 29569,
+    "name": "Corpus Hilton",
+    "latitude": "52.1702991",
+    "longitude": "4.4531188",
     "thumbnail_url": ""
   },
   {
@@ -109,13 +102,6 @@
     "name": "De Kempenaerstraat ",
     "latitude": "52.1775582",
     "longitude": "4.4670869",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29503,
-    "name": "Hazenboslaan",
-    "latitude": "52.1859352",
-    "longitude": "4.4772241",
     "thumbnail_url": ""
   },
   {
@@ -203,10 +189,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37363,
+    "name": "Hazenboslaan 2",
+    "latitude": "52.1857023",
+    "longitude": "4.4780951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31372,
+    "name": "Fietsenstalling Universiteit",
+    "latitude": "52.1678733",
+    "longitude": "4.4595188",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29535,
     "name": "Albinusweg",
     "latitude": "52.1701244",
     "longitude": "4.4765815",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37366,
+    "name": "Dahlialaan 3",
+    "latitude": "52.1900581",
+    "longitude": "4.4729597",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36821,
+    "name": "Leiden Mauritsstraat",
+    "latitude": "52.1645375",
+    "longitude": "4.4978281",
     "thumbnail_url": ""
   },
   {
@@ -217,17 +231,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36818,
-    "name": "Leiden Kooilaan II",
-    "latitude": "52.1664375",
-    "longitude": "4.5064219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36821,
-    "name": "Leiden Mauritsstraat",
-    "latitude": "52.1645375",
-    "longitude": "4.4978281",
+    "id": 36844,
+    "name": "Bodegraven Kerkstraat",
+    "latitude": "52.08542",
+    "longitude": "4.74617",
     "thumbnail_url": ""
   },
   {
@@ -245,24 +252,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31372,
-    "name": "Fietsenstalling Universiteit",
-    "latitude": "52.1678733",
-    "longitude": "4.4595188",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29502,
     "name": "LVV Lugdunum",
     "latitude": "52.174634",
     "longitude": "4.4849702",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -301,10 +294,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37165,
-    "name": "van der waaisstraat",
-    "latitude": "52.1490284",
-    "longitude": "4.4943077",
+    "id": 36818,
+    "name": "Leiden Kooilaan II",
+    "latitude": "52.1664375",
+    "longitude": "4.5064219",
     "thumbnail_url": ""
   },
   {
@@ -336,17 +329,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35536,
-    "name": "Bargelaan Leiden Central",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
-    "thumbnail_url": ""
-  },
-  {
     "id": 31377,
     "name": "Lijsterstraat I",
     "latitude": "52.1734886",
     "longitude": "4.473183",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35536,
+    "name": "Bargelaan Leiden Central",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
     "thumbnail_url": ""
   },
   {
@@ -385,10 +378,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29595,
-    "name": "Nieuweroord",
-    "latitude": "52.1719997",
-    "longitude": "4.4762402",
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -714,6 +707,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29373,
     "name": "Fietsparkeerplaats Noordduinen",
     "latitude": "52.2123027",
@@ -763,13 +763,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29444,
-    "name": "Drieplassenweg",
-    "latitude": "52.1977779",
-    "longitude": "4.3932325",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29926,
     "name": "de Verrekijker",
     "latitude": "52.1758724",
@@ -781,6 +774,13 @@
     "name": "De Krom",
     "latitude": "52.2093732",
     "longitude": "4.4315984",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29444,
+    "name": "Drieplassenweg",
+    "latitude": "52.1977779",
+    "longitude": "4.3932325",
     "thumbnail_url": ""
   },
   {
@@ -903,13 +903,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29451,
-    "name": "Bosplein",
-    "latitude": "52.1971545",
-    "longitude": "4.4115806",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29386,
     "name": "'s Gravendijck",
     "latitude": "52.2124822",
@@ -966,17 +959,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29468,
     "name": "Vakcollege Rijnmond ",
     "latitude": "52.1964196",
     "longitude": "4.4170069",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29451,
+    "name": "Bosplein",
+    "latitude": "52.1971545",
+    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {
@@ -1191,7 +1184,7 @@
   },
   {
     "id": 29480,
-    "name": "Hoofdstraat ",
+    "name": "Katwijk Hoofdstraat ",
     "latitude": "52.1779438",
     "longitude": "4.4360904",
     "thumbnail_url": ""

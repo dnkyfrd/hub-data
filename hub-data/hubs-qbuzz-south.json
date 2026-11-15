@@ -7,24 +7,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 30818,
-    "name": "CS Dordrecht II",
-    "latitude": "51.8072777",
-    "longitude": "4.6718814",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34891,
-    "name": "Genestetstraat",
-    "latitude": "51.8004251",
-    "longitude": "4.6642252",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34771,
-    "name": "Herschelstraat",
-    "latitude": "51.7870805",
-    "longitude": "4.6828243",
+    "id": 21133,
+    "name": "Merwekade",
+    "latitude": "51.8192037",
+    "longitude": "4.6753173",
     "thumbnail_url": ""
   },
   {
@@ -60,6 +46,20 @@
     "name": "Boxerclub Dordrecht",
     "latitude": "51.7772174",
     "longitude": "4.6931692",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34771,
+    "name": "Herschelstraat",
+    "latitude": "51.7870805",
+    "longitude": "4.6828243",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24149,
+    "name": "Pearl Buck-erf",
+    "latitude": "51.7979985",
+    "longitude": "4.7252878",
     "thumbnail_url": ""
   },
   {
@@ -119,13 +119,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24149,
-    "name": "Pearl Buck-erf",
-    "latitude": "51.7979985",
-    "longitude": "4.7252878",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34768,
     "name": "Maxwellstraat",
     "latitude": "51.7815185",
@@ -140,13 +133,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37038,
-    "name": "De Savornin Lohmanweg",
-    "latitude": "51.7899847",
-    "longitude": "4.6631987",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29849,
     "name": "Volley Dordrecht",
     "latitude": "51.7783935",
@@ -158,13 +144,6 @@
     "name": "B&B",
     "latitude": "51.805029",
     "longitude": "4.7741584",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30784,
-    "name": "Asahai",
-    "latitude": "51.8081166",
-    "longitude": "4.6678209",
     "thumbnail_url": ""
   },
   {
@@ -203,13 +182,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29104,
-    "name": "4* Grill Central Station ",
-    "latitude": "51.8070327",
-    "longitude": "4.6727862",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29868,
     "name": "AH Stadspolders",
     "latitude": "51.8037596",
@@ -228,13 +200,6 @@
     "name": "Waldeck Pyrmontweg",
     "latitude": "51.7984354",
     "longitude": "4.6672786",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21130,
-    "name": "Dordrecht Stationweg",
-    "latitude": "51.8080455",
-    "longitude": "4.6683556",
     "thumbnail_url": ""
   },
   {
@@ -273,6 +238,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 30818,
+    "name": "CS Dordrecht II",
+    "latitude": "51.8072777",
+    "longitude": "4.6718814",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 21130,
+    "name": "Dordrecht Stationweg",
+    "latitude": "51.8080455",
+    "longitude": "4.6683556",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34640,
     "name": "Boogjes",
     "latitude": "51.8127987",
@@ -287,10 +266,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34891,
+    "name": "Genestetstraat",
+    "latitude": "51.8004251",
+    "longitude": "4.6642252",
+    "thumbnail_url": ""
+  },
+  {
     "id": 24177,
     "name": "Vrieseweg - Singel (NR)",
     "latitude": "51.8108583",
     "longitude": "4.6746089",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30784,
+    "name": "Asahai",
+    "latitude": "51.8081166",
+    "longitude": "4.6678209",
     "thumbnail_url": ""
   },
   {
@@ -315,6 +308,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29104,
+    "name": "4* Grill Central Station ",
+    "latitude": "51.8070327",
+    "longitude": "4.6727862",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34954,
     "name": "Handelskade ",
     "latitude": "51.80685",
@@ -326,6 +326,13 @@
     "name": "Groenendijk - Hallincqlaan",
     "latitude": "51.8126412",
     "longitude": "4.6797454",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37038,
+    "name": "De Savornin Lohmanweg",
+    "latitude": "51.7899847",
+    "longitude": "4.6631987",
     "thumbnail_url": ""
   },
   {
@@ -347,13 +354,6 @@
     "name": "Tak van Poortvlietstraat",
     "latitude": "51.7961776",
     "longitude": "4.666446",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21133,
-    "name": "Merwekade",
-    "latitude": "51.8192037",
-    "longitude": "4.6753173",
     "thumbnail_url": ""
   },
   {
@@ -1141,6 +1141,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 24277,
+    "name": "Station Gorinchem I",
+    "latitude": "51.8337745",
+    "longitude": "4.9682507",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29903,
     "name": "Sportlaan",
     "latitude": "51.8453632",
@@ -1176,31 +1183,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24285,
-    "name": "Papland",
-    "latitude": "51.8473649",
-    "longitude": "4.9885101",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 30002,
-    "name": "Station Gorinchem II",
-    "latitude": "51.8334745",
-    "longitude": "4.9669737",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29907,
     "name": "MFC de Lingehof",
     "latitude": "51.8616402",
     "longitude": "4.9916302",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24277,
-    "name": "Station Gorinchem I",
-    "latitude": "51.8337745",
-    "longitude": "4.9682507",
     "thumbnail_url": ""
   },
   {
@@ -1222,6 +1208,20 @@
     "name": "Stadhuisplein",
     "latitude": "51.8323327",
     "longitude": "4.964726",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24285,
+    "name": "Papland",
+    "latitude": "51.8473649",
+    "longitude": "4.9885101",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 30002,
+    "name": "Station Gorinchem II",
+    "latitude": "51.8334745",
+    "longitude": "4.9669737",
     "thumbnail_url": ""
   },
   {
@@ -1603,6 +1603,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 21092,
+    "name": "Burgemeester Keijzerweg",
+    "latitude": "51.8328656",
+    "longitude": "4.7002283",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29879,
     "name": "Basic Fit Burgemeester Keijzerweg",
     "latitude": "51.8344848",
@@ -1614,13 +1621,6 @@
     "name": "Oosteind",
     "latitude": "51.8297183",
     "longitude": "4.722639",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 21092,
-    "name": "Burgemeester Keijzerweg",
-    "latitude": "51.8328656",
-    "longitude": "4.7002283",
     "thumbnail_url": ""
   },
   {
@@ -1834,31 +1834,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 24261,
-    "name": "Sliedrecht Station",
-    "latitude": "51.8297652",
-    "longitude": "4.7768211",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29896,
-    "name": "Jumbo Sliedrecht",
-    "latitude": "51.8257134",
-    "longitude": "4.759713",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29892,
     "name": "Op de Kerkbuurt",
     "latitude": "51.8201457",
     "longitude": "4.7752345",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36745,
-    "name": "Station Baanhoek I",
-    "latitude": "51.8292882",
-    "longitude": "4.7425284",
     "thumbnail_url": ""
   },
   {
@@ -1890,6 +1869,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36745,
+    "name": "Station Baanhoek I",
+    "latitude": "51.8292882",
+    "longitude": "4.7425284",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24261,
+    "name": "Sliedrecht Station",
+    "latitude": "51.8297652",
+    "longitude": "4.7768211",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29896,
+    "name": "Jumbo Sliedrecht",
+    "latitude": "51.8257134",
+    "longitude": "4.759713",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29894,
     "name": "Sporthal de Basis",
     "latitude": "51.8276585",
@@ -1898,7 +1898,7 @@
   },
   {
     "id": 36292,
-    "name": "Trapezium*",
+    "name": "Trapezium",
     "latitude": "51.824066",
     "longitude": "4.8030981",
     "thumbnail_url": ""
@@ -1981,10 +1981,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34956,
-    "name": "Peulenplein",
-    "latitude": "51.8243139",
-    "longitude": "4.8265222",
+    "id": 36212,
+    "name": "Station Hardinxveld-Giessendam II",
+    "latitude": "51.830272",
+    "longitude": "4.8348276",
     "thumbnail_url": ""
   },
   {
@@ -1992,6 +1992,20 @@
     "name": "Zwembad de Duikelaar",
     "latitude": "51.8284593",
     "longitude": "4.8552731",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34956,
+    "name": "Peulenplein",
+    "latitude": "51.8243139",
+    "longitude": "4.8265222",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 24263,
+    "name": "Hardinxveld Blauwe Zoom Station",
+    "latitude": "51.8295252",
+    "longitude": "4.8153226",
     "thumbnail_url": ""
   },
   {
@@ -2006,13 +2020,6 @@
     "name": "Sporthal Hardinxveld",
     "latitude": "51.8255777",
     "longitude": "4.8364316",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 24263,
-    "name": "Hardinxveld Blauwe Zoom Station",
-    "latitude": "51.8295252",
-    "longitude": "4.8153226",
     "thumbnail_url": ""
   },
   {
@@ -2041,13 +2048,6 @@
     "name": "Peulen",
     "latitude": "51.823757",
     "longitude": "4.8241658",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36212,
-    "name": "Station Hardinxveld-Giessendam II",
-    "latitude": "51.830272",
-    "longitude": "4.8348276",
     "thumbnail_url": ""
   },
   {
@@ -2227,9 +2227,9 @@
   },
   {
     "id": 36293,
-    "name": "Gildenweg*",
-    "latitude": "51.8120332",
-    "longitude": "4.5984207",
+    "name": "Gildenweg",
+    "latitude": "51.8120431",
+    "longitude": "4.5984056",
     "thumbnail_url": ""
   },
   {

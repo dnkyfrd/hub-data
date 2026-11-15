@@ -1,16 +1,16 @@
 [
   {
-    "id": 5144,
-    "name": "Ceres Arena",
-    "latitude": "56.1331767",
-    "longitude": "10.1956813",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35071,
     "name": "Aarhus University Geologisk Institut",
     "latitude": "56.1630382",
     "longitude": "10.2097894",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3880,
+    "name": "Aros",
+    "latitude": "56.1545771",
+    "longitude": "10.1991004",
     "thumbnail_url": ""
   },
   {
@@ -21,17 +21,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5212,
-    "name": "Bernhard Jensen Blvd_2",
-    "latitude": "56.1668982",
-    "longitude": "10.2286363",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 15121,
-    "name": "Ceres Haven",
-    "latitude": "56.1561977",
-    "longitude": "10.1941905",
+    "id": 4998,
+    "name": "Daugbjergvej 17",
+    "latitude": "56.1550546",
+    "longitude": "10.1839198",
     "thumbnail_url": ""
   },
   {
@@ -42,17 +35,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3867,
-    "name": "Hallssti",
-    "latitude": "56.1490006",
-    "longitude": "10.2031033",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35105,
     "name": "Jægergårdsgade 122",
     "latitude": "56.1480608",
     "longitude": "10.2052943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4247,
+    "name": "Marselisborg Castle",
+    "latitude": "56.1296593",
+    "longitude": "10.2022363",
     "thumbnail_url": ""
   },
   {
@@ -63,31 +56,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 6256,
+    "name": "Søren Frichs Vej 53",
+    "latitude": "56.1500007",
+    "longitude": "10.1685219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3920,
+    "name": "Rosensgade",
+    "latitude": "56.1576267",
+    "longitude": "10.2106168",
+    "thumbnail_url": ""
+  },
+  {
     "id": 6445,
     "name": "Vennelyst Blvd.",
     "latitude": "56.1644596",
     "longitude": "10.2045193",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6475,
-    "name": "Kildegården 14",
-    "latitude": "56.1414006",
-    "longitude": "10.2062443",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6258,
-    "name": "Silkeborgvej 142",
-    "latitude": "56.1563006",
-    "longitude": "10.1789836",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4255,
-    "name": "Brabrand Football Oval",
-    "latitude": "56.1502206",
-    "longitude": "10.1179737",
     "thumbnail_url": ""
   },
   {
@@ -98,38 +84,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5019,
-    "name": "Kirkegårdsvej 26",
-    "latitude": "56.1651935",
-    "longitude": "10.2126718",
+    "id": 34855,
+    "name": "Aarhus Musikskole",
+    "latitude": "56.1532785",
+    "longitude": "10.2013401",
     "thumbnail_url": ""
   },
   {
-    "id": 17949,
-    "name": "Hotel Guest Apart",
-    "latitude": "56.194174",
-    "longitude": "10.1762075",
+    "id": 6554,
+    "name": "Sports complex Risskov",
+    "latitude": "56.1947277",
+    "longitude": "10.2470269",
     "thumbnail_url": ""
   },
   {
-    "id": 3874,
-    "name": "Sct. Pauls Kirke",
-    "latitude": "56.1458477",
-    "longitude": "10.2041886",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3899,
-    "name": "Nobel Parken/Aarhus University Library",
-    "latitude": "56.1719392",
-    "longitude": "10.2051052",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3883,
-    "name": "Godsbanen_1",
-    "latitude": "56.1543701",
-    "longitude": "10.1943442",
+    "id": 3827,
+    "name": "Dokk1_1",
+    "latitude": "56.1530159",
+    "longitude": "10.2126878",
     "thumbnail_url": ""
   },
   {
@@ -140,6 +112,48 @@
     "thumbnail_url": ""
   },
   {
+    "id": 22645,
+    "name": "89 Havn",
+    "latitude": "56.1626129",
+    "longitude": "10.2286882",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6258,
+    "name": "Silkeborgvej 142",
+    "latitude": "56.1563006",
+    "longitude": "10.1789836",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3896,
+    "name": "Nordre Ringgade/Aarhus University Library",
+    "latitude": "56.17067",
+    "longitude": "10.1997227",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33725,
+    "name": "International Sejlsportscenter",
+    "latitude": "56.16844",
+    "longitude": "10.2258733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3884,
+    "name": "Godsbanen_2",
+    "latitude": "56.1537848",
+    "longitude": "10.1956773",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17949,
+    "name": "Hotel Guest Apart",
+    "latitude": "56.194174",
+    "longitude": "10.1762075",
+    "thumbnail_url": ""
+  },
+  {
     "id": 19545,
     "name": "Jens Chr. Skous Vej 20",
     "latitude": "56.1733846",
@@ -147,10 +161,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 22645,
-    "name": "89 Havn",
-    "latitude": "56.1626129",
-    "longitude": "10.2286882",
+    "id": 35488,
+    "name": "badminton klub",
+    "latitude": "56.1368071",
+    "longitude": "10.188661",
     "thumbnail_url": ""
   },
   {
@@ -168,41 +182,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3880,
-    "name": "Aros",
-    "latitude": "56.1545771",
-    "longitude": "10.1991004",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5659,
-    "name": "Ørneredevej 7",
-    "latitude": "56.1209243",
-    "longitude": "10.2237978",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35488,
-    "name": "badminton klub",
-    "latitude": "56.1368071",
-    "longitude": "10.188661",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4982,
-    "name": "Åkrogs Strand",
-    "latitude": "56.2027976",
-    "longitude": "10.2814677",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4492,
-    "name": "Amphitheater Botanical Gardens",
-    "latitude": "56.1629282",
-    "longitude": "10.1853967",
-    "thumbnail_url": ""
-  },
-  {
     "id": 37085,
     "name": "N.J. Fjords Gade",
     "latitude": "56.1437975",
@@ -210,10 +189,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4515,
-    "name": "Ølandsgade",
-    "latitude": "56.1613719",
-    "longitude": "10.2187262",
+    "id": 3874,
+    "name": "Sct. Pauls Kirke",
+    "latitude": "56.1458477",
+    "longitude": "10.2041886",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 8116,
+    "name": "Nørregade 46",
+    "latitude": "56.1604293",
+    "longitude": "10.2078373",
     "thumbnail_url": ""
   },
   {
@@ -224,24 +210,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3827,
-    "name": "Dokk1_1",
-    "latitude": "56.1530159",
-    "longitude": "10.2126878",
+    "id": 4982,
+    "name": "Åkrogs Strand",
+    "latitude": "56.2027976",
+    "longitude": "10.2814677",
     "thumbnail_url": ""
   },
   {
-    "id": 6694,
-    "name": "Magasin",
-    "latitude": "56.1571583",
-    "longitude": "10.2070314",
+    "id": 5659,
+    "name": "Ørneredevej 7",
+    "latitude": "56.1209243",
+    "longitude": "10.2237978",
     "thumbnail_url": ""
   },
   {
-    "id": 5354,
-    "name": "VUC",
-    "latitude": "56.1445896",
-    "longitude": "10.1996337",
+    "id": 3899,
+    "name": "Nobel Parken/Aarhus University Library",
+    "latitude": "56.1719392",
+    "longitude": "10.2051052",
     "thumbnail_url": ""
   },
   {
@@ -252,24 +238,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4336,
-    "name": "Tordenskjoldsgade",
-    "latitude": "56.170725",
-    "longitude": "10.2162022",
+    "id": 4515,
+    "name": "Ølandsgade",
+    "latitude": "56.1613719",
+    "longitude": "10.2187262",
     "thumbnail_url": ""
   },
   {
-    "id": 4247,
-    "name": "Marselisborg Castle",
-    "latitude": "56.1296593",
-    "longitude": "10.2022363",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3896,
-    "name": "Nordre Ringgade/Aarhus University Library",
-    "latitude": "56.17067",
-    "longitude": "10.1997227",
+    "id": 13231,
+    "name": "Student Bar_Frederik Nielsens Vej",
+    "latitude": "56.1720026",
+    "longitude": "10.1996111",
     "thumbnail_url": ""
   },
   {
@@ -280,17 +259,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 3931,
+    "name": "Randersvej/Hasle Ringvej (Nord)",
+    "latitude": "56.1825521",
+    "longitude": "10.1964437",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34567,
     "name": "Ivar Huitfeldts Gade 39",
     "latitude": "56.1714309",
     "longitude": "10.2144169",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4358,
-    "name": "Netto, Vestre Ringgade",
-    "latitude": "56.1547326",
-    "longitude": "10.1824531",
     "thumbnail_url": ""
   },
   {
@@ -308,6 +287,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4255,
+    "name": "Brabrand Football Oval",
+    "latitude": "56.1502206",
+    "longitude": "10.1179737",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5212,
+    "name": "Bernhard Jensen Blvd_2",
+    "latitude": "56.1668982",
+    "longitude": "10.2286363",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35103,
     "name": "Ceresbyen 36",
     "latitude": "56.1563351",
@@ -315,10 +308,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35502,
-    "name": "Snogebæksvej 13",
-    "latitude": "56.175671",
-    "longitude": "10.1720175",
+    "id": 5144,
+    "name": "Ceres Arena",
+    "latitude": "56.1331767",
+    "longitude": "10.1956813",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3883,
+    "name": "Godsbanen_1",
+    "latitude": "56.1543701",
+    "longitude": "10.1943442",
     "thumbnail_url": ""
   },
   {
@@ -329,10 +329,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33725,
-    "name": "International Sejlsportscenter",
-    "latitude": "56.16844",
-    "longitude": "10.2258733",
+    "id": 3844,
+    "name": "Aarhus Theatre/Cafe Hack",
+    "latitude": "56.1562462",
+    "longitude": "10.2111507",
     "thumbnail_url": ""
   },
   {
@@ -347,6 +347,13 @@
     "name": "Jægergårdsgade/Netto",
     "latitude": "56.1481169",
     "longitude": "10.200945",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6475,
+    "name": "Kildegården 14",
+    "latitude": "56.1414006",
+    "longitude": "10.2062443",
     "thumbnail_url": ""
   },
   {
@@ -371,31 +378,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3848,
-    "name": "Navitas",
-    "latitude": "56.1585978",
-    "longitude": "10.2147739",
+    "id": 3851,
+    "name": "Åboulevarden 45",
+    "latitude": "56.1564434",
+    "longitude": "10.2058212",
     "thumbnail_url": ""
   },
   {
-    "id": 34476,
-    "name": "Hasle Ringvej Bus Stop",
-    "latitude": "56.1739392",
-    "longitude": "10.1669411",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3962,
-    "name": "Bora Bora/HQ",
-    "latitude": "56.1520608",
-    "longitude": "10.2000892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4517,
-    "name": "Havenes Fiskerhus",
-    "latitude": "56.1654098",
-    "longitude": "10.2189102",
+    "id": 3858,
+    "name": "Mølleparken",
+    "latitude": "56.1555679",
+    "longitude": "10.1998595",
     "thumbnail_url": ""
   },
   {
@@ -406,6 +399,41 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34555,
+    "name": "Graven",
+    "latitude": "56.158632",
+    "longitude": "10.2102574",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 19720,
+    "name": "Vibyvej slagter",
+    "latitude": "56.149545",
+    "longitude": "10.1567319",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12705,
+    "name": "Grønnegade/Vestergade",
+    "latitude": "56.1577568",
+    "longitude": "10.2029698",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3888,
+    "name": "Vesterbro Torv",
+    "latitude": "56.1582849",
+    "longitude": "10.1986488",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4358,
+    "name": "Netto, Vestre Ringgade",
+    "latitude": "56.1547326",
+    "longitude": "10.1824531",
+    "thumbnail_url": ""
+  },
+  {
     "id": 4968,
     "name": "Thomas Nielsens Gade",
     "latitude": "56.1593603",
@@ -413,10 +441,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4517,
+    "name": "Havenes Fiskerhus",
+    "latitude": "56.1654098",
+    "longitude": "10.2189102",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34907,
     "name": "Peter Faber's Vej",
     "latitude": "56.1675749",
     "longitude": "10.1882808",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4520,
+    "name": "Paradisgade 6",
+    "latitude": "56.1601301",
+    "longitude": "10.2098759",
     "thumbnail_url": ""
   },
   {
@@ -431,13 +473,6 @@
     "name": "Mariane Thomsens Gade, Apartments",
     "latitude": "56.1657958",
     "longitude": "10.2292036",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3841,
-    "name": "Salling",
-    "latitude": "56.1540727",
-    "longitude": "10.2066444",
     "thumbnail_url": ""
   },
   {
@@ -462,13 +497,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4998,
-    "name": "Daugbjergvej 17",
-    "latitude": "56.1550546",
-    "longitude": "10.1839198",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35051,
     "name": "Herluf Trolles Gade 40",
     "latitude": "56.1727765",
@@ -483,13 +511,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3858,
-    "name": "Mølleparken",
-    "latitude": "56.1555679",
-    "longitude": "10.1998595",
-    "thumbnail_url": ""
-  },
-  {
     "id": 8587,
     "name": "Børnenes Kontor Harald Jensens Plads",
     "latitude": "56.143387",
@@ -497,10 +518,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4139,
-    "name": "Viby Centret",
-    "latitude": "56.1292665",
-    "longitude": "10.1624367",
+    "id": 34846,
+    "name": "Frue Kirkeplads",
+    "latitude": "56.1587192",
+    "longitude": "10.2056202",
     "thumbnail_url": ""
   },
   {
@@ -539,24 +560,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12519,
-    "name": "Søren Frichs Vej Corner",
-    "latitude": "56.1534949",
-    "longitude": "10.1818333",
+    "id": 4139,
+    "name": "Viby Centret",
+    "latitude": "56.1292665",
+    "longitude": "10.1624367",
     "thumbnail_url": ""
   },
   {
-    "id": 14304,
-    "name": "Irma Pedersens Gade ",
-    "latitude": "56.1638934",
-    "longitude": "10.2274403",
+    "id": 3841,
+    "name": "Salling",
+    "latitude": "56.1540727",
+    "longitude": "10.2066444",
     "thumbnail_url": ""
   },
   {
-    "id": 6256,
-    "name": "Søren Frichs Vej 53",
-    "latitude": "56.1500007",
-    "longitude": "10.1685219",
+    "id": 5355,
+    "name": "Tietgens Pl.",
+    "latitude": "56.1448109",
+    "longitude": "10.2040045",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6918,
+    "name": "Åboulevarden 41",
+    "latitude": "56.1566316",
+    "longitude": "10.2067441",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15548,
+    "name": "Jyllands Allé 11",
+    "latitude": "56.1417465",
+    "longitude": "10.190396",
     "thumbnail_url": ""
   },
   {
@@ -564,13 +599,6 @@
     "name": "Dokk1 Front",
     "latitude": "56.1535133",
     "longitude": "10.2128177",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34482,
-    "name": "Cafe Bistro Stuen TV",
-    "latitude": "56.1496886",
-    "longitude": "10.2123492",
     "thumbnail_url": ""
   },
   {
@@ -595,13 +623,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15467,
-    "name": "Rema 1000 Søren Frichs Vej",
-    "latitude": "56.1526959",
-    "longitude": "10.1862181",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35096,
     "name": "Heibergsgade 8",
     "latitude": "56.1470157",
@@ -623,6 +644,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 5019,
+    "name": "Kirkegårdsvej 26",
+    "latitude": "56.1651935",
+    "longitude": "10.2126718",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3862,
+    "name": "Aarhus Rutebilstation",
+    "latitude": "56.1519179",
+    "longitude": "10.2103436",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35102,
     "name": "Marselis Blvd. 34",
     "latitude": "56.1411759",
@@ -637,6 +672,34 @@
     "thumbnail_url": ""
   },
   {
+    "id": 6219,
+    "name": "Stadion Allé/Marselis blvd",
+    "latitude": "56.1406417",
+    "longitude": "10.1949678",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 23842,
+    "name": "Thomas Koppels Gade",
+    "latitude": "56.1518977",
+    "longitude": "10.1887984",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 5002,
+    "name": "Sønderborggade 9",
+    "latitude": "56.1409911",
+    "longitude": "10.1815826",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34572,
+    "name": "Puregym Tørjborg",
+    "latitude": "56.1707472",
+    "longitude": "10.2121595",
+    "thumbnail_url": ""
+  },
+  {
     "id": 3929,
     "name": "Brenstrupvej_Kiosk 25_Letbanen stop",
     "latitude": "56.1743591",
@@ -644,17 +707,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15784,
-    "name": "Langelinieparken",
-    "latitude": "56.166508",
-    "longitude": "10.2183495",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34845,
-    "name": "Guldsmedgade 24",
-    "latitude": "56.1590784",
-    "longitude": "10.207702",
+    "id": 15467,
+    "name": "Rema 1000 Søren Frichs Vej",
+    "latitude": "56.1526959",
+    "longitude": "10.1862181",
     "thumbnail_url": ""
   },
   {
@@ -679,10 +735,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4360,
-    "name": "Carl Blochs Gade, Apartments",
-    "latitude": "56.1525743",
-    "longitude": "10.1895853",
+    "id": 12519,
+    "name": "Søren Frichs Vej Corner",
+    "latitude": "56.1534949",
+    "longitude": "10.1818333",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3878,
+    "name": "Frederiks Alle-Apotek",
+    "latitude": "56.1461425",
+    "longitude": "10.1930125",
     "thumbnail_url": ""
   },
   {
@@ -728,10 +791,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 31088,
+    "name": "Store Torv",
+    "latitude": "56.1574049",
+    "longitude": "10.2085157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6694,
+    "name": "Magasin",
+    "latitude": "56.1571583",
+    "longitude": "10.2070314",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34488,
     "name": "Frydenlund Centret",
     "latitude": "56.1642113",
     "longitude": "10.1749116",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15121,
+    "name": "Ceres Haven",
+    "latitude": "56.1561977",
+    "longitude": "10.1941905",
     "thumbnail_url": ""
   },
   {
@@ -756,13 +840,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3857,
-    "name": "Østergade/Jyske Bank",
-    "latitude": "56.1544566",
-    "longitude": "10.2047022",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35107,
     "name": "Trøjborgvej 50",
     "latitude": "56.169905",
@@ -770,17 +847,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3884,
-    "name": "Godsbanen_2",
-    "latitude": "56.1537848",
-    "longitude": "10.1956773",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 12709,
-    "name": "Guldsmedgade Føtex",
-    "latitude": "56.15844",
-    "longitude": "10.2072748",
+    "id": 3857,
+    "name": "Østergade/Jyske Bank",
+    "latitude": "56.1544566",
+    "longitude": "10.2047022",
     "thumbnail_url": ""
   },
   {
@@ -791,6 +861,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34845,
+    "name": "Guldsmedgade 24",
+    "latitude": "56.1590784",
+    "longitude": "10.207702",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 4360,
+    "name": "Carl Blochs Gade, Apartments",
+    "latitude": "56.1525743",
+    "longitude": "10.1895853",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3848,
+    "name": "Navitas",
+    "latitude": "56.1585978",
+    "longitude": "10.2147739",
+    "thumbnail_url": ""
+  },
+  {
     "id": 5466,
     "name": "Klostertovet",
     "latitude": "56.1584486",
@@ -798,10 +889,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15751,
-    "name": "Highlanders Bar",
-    "latitude": "56.154145",
-    "longitude": "10.210979",
+    "id": 4518,
+    "name": "Harbor Bath, traffic island",
+    "latitude": "56.1644999",
+    "longitude": "10.2239062",
     "thumbnail_url": ""
   },
   {
@@ -812,10 +903,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 15548,
-    "name": "Jyllands Allé 11",
-    "latitude": "56.1417465",
-    "longitude": "10.190396",
+    "id": 5354,
+    "name": "VUC",
+    "latitude": "56.1445896",
+    "longitude": "10.1996337",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 6286,
+    "name": "Vestre Strandallé ",
+    "latitude": "56.1948737",
+    "longitude": "10.2372994",
     "thumbnail_url": ""
   },
   {
@@ -826,10 +924,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 13374,
-    "name": "Aarhus Central Station ",
-    "latitude": "56.1505612",
-    "longitude": "10.2049348",
+    "id": 3870,
+    "name": "Frederiks Alle/Føtex",
+    "latitude": "56.150665",
+    "longitude": "10.199221",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3962,
+    "name": "Bora Bora/HQ",
+    "latitude": "56.1520608",
+    "longitude": "10.2000892",
     "thumbnail_url": ""
   },
   {
@@ -837,13 +942,6 @@
     "name": "Fakta, Skanderborgvej",
     "latitude": "56.1427627",
     "longitude": "10.1865688",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3851,
-    "name": "Åboulevarden 45",
-    "latitude": "56.1564434",
-    "longitude": "10.2058212",
     "thumbnail_url": ""
   },
   {
@@ -875,13 +973,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3878,
-    "name": "Frederiks Alle-Apotek",
-    "latitude": "56.1461425",
-    "longitude": "10.1930125",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34775,
     "name": "Mejlgade 57",
     "latitude": "56.1604014",
@@ -893,6 +984,13 @@
     "name": "Stadion Allen 36",
     "latitude": "56.1415231",
     "longitude": "10.1946715",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 17706,
+    "name": "Smovs",
+    "latitude": "56.1514421",
+    "longitude": "10.1848019",
     "thumbnail_url": ""
   },
   {
@@ -910,10 +1008,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3844,
-    "name": "Aarhus Theatre/Cafe Hack",
-    "latitude": "56.1562462",
-    "longitude": "10.2111507",
+    "id": 4336,
+    "name": "Tordenskjoldsgade",
+    "latitude": "56.170725",
+    "longitude": "10.2162022",
     "thumbnail_url": ""
   },
   {
@@ -924,17 +1022,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3888,
-    "name": "Vesterbro Torv",
-    "latitude": "56.1582849",
-    "longitude": "10.1986488",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 19720,
-    "name": "Vibyvej slagter",
-    "latitude": "56.149545",
-    "longitude": "10.1567319",
+    "id": 3867,
+    "name": "Hallssti",
+    "latitude": "56.1490006",
+    "longitude": "10.2031033",
     "thumbnail_url": ""
   },
   {
@@ -952,10 +1043,38 @@
     "thumbnail_url": ""
   },
   {
+    "id": 3879,
+    "name": "Ole Rømers Gade/Seven Eleven",
+    "latitude": "56.1470762",
+    "longitude": "10.1955511",
+    "thumbnail_url": ""
+  },
+  {
     "id": 13373,
     "name": "Fiskerivej",
     "latitude": "56.168824",
     "longitude": "10.222356",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 12709,
+    "name": "Guldsmedgade Føtex",
+    "latitude": "56.15844",
+    "longitude": "10.2072748",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35502,
+    "name": "Snogebæksvej 13",
+    "latitude": "56.175671",
+    "longitude": "10.1720175",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 14304,
+    "name": "Irma Pedersens Gade ",
+    "latitude": "56.1638934",
+    "longitude": "10.2274403",
     "thumbnail_url": ""
   },
   {
@@ -973,6 +1092,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 4492,
+    "name": "Amphitheater Botanical Gardens",
+    "latitude": "56.1629282",
+    "longitude": "10.1853967",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 3882,
+    "name": "Godsbanen-Radar",
+    "latitude": "56.1529437",
+    "longitude": "10.1938658",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15751,
+    "name": "Highlanders Bar",
+    "latitude": "56.154145",
+    "longitude": "10.210979",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34909,
     "name": "Rema 1000 Møllevangs Alle",
     "latitude": "56.1701156",
@@ -980,24 +1120,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3870,
-    "name": "Frederiks Alle/Føtex",
-    "latitude": "56.150665",
-    "longitude": "10.199221",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34854,
     "name": "Cabinn Hotel",
     "latitude": "56.1559641",
     "longitude": "10.2105008",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34555,
-    "name": "Graven",
-    "latitude": "56.158632",
-    "longitude": "10.2102574",
     "thumbnail_url": ""
   },
   {
@@ -1036,13 +1162,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 8116,
-    "name": "Nørregade 46",
-    "latitude": "56.1604293",
-    "longitude": "10.2078373",
-    "thumbnail_url": ""
-  },
-  {
     "id": 5591,
     "name": "Viborgvej 24",
     "latitude": "56.1604771",
@@ -1061,13 +1180,6 @@
     "name": "City Hall/Rådhuspladsen Entrance",
     "latitude": "56.1528884",
     "longitude": "10.2033404",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 4518,
-    "name": "Harbor Bath, traffic island",
-    "latitude": "56.1644999",
-    "longitude": "10.2239062",
     "thumbnail_url": ""
   },
   {
@@ -1117,20 +1229,6 @@
     "name": "Bernhard Jensens Blvd_1",
     "latitude": "56.1651369",
     "longitude": "10.2243511",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3882,
-    "name": "Godsbanen-Radar",
-    "latitude": "56.1529437",
-    "longitude": "10.1938658",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 13231,
-    "name": "Student Bar_Frederik Nielsens Vej",
-    "latitude": "56.1720026",
-    "longitude": "10.1996111",
     "thumbnail_url": ""
   },
   {
@@ -1204,10 +1302,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 12705,
-    "name": "Grønnegade/Vestergade",
-    "latitude": "56.1577568",
-    "longitude": "10.2029698",
+    "id": 34476,
+    "name": "Hasle Ringvej Bus Stop",
+    "latitude": "56.1739392",
+    "longitude": "10.1669411",
     "thumbnail_url": ""
   },
   {
@@ -1218,10 +1316,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 23842,
-    "name": "Thomas Koppels Gade",
-    "latitude": "56.1518977",
-    "longitude": "10.1887984",
+    "id": 13374,
+    "name": "Aarhus Central Station ",
+    "latitude": "56.1505612",
+    "longitude": "10.2049348",
     "thumbnail_url": ""
   },
   {
@@ -1236,13 +1334,6 @@
     "name": "Nørregade corner",
     "latitude": "56.1615345",
     "longitude": "10.2112569",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 17706,
-    "name": "Smovs",
-    "latitude": "56.1514421",
-    "longitude": "10.1848019",
     "thumbnail_url": ""
   },
   {
@@ -1274,10 +1365,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3931,
-    "name": "Randersvej/Hasle Ringvej (Nord)",
-    "latitude": "56.1825521",
-    "longitude": "10.1964437",
+    "id": 34482,
+    "name": "Cafe Bistro Stuen TV",
+    "latitude": "56.1496886",
+    "longitude": "10.2123492",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 15784,
+    "name": "Langelinieparken",
+    "latitude": "56.166508",
+    "longitude": "10.2183495",
     "thumbnail_url": ""
   },
   {
@@ -1316,13 +1414,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 3862,
-    "name": "Aarhus Rutebilstation",
-    "latitude": "56.1519179",
-    "longitude": "10.2103436",
-    "thumbnail_url": ""
-  },
-  {
     "id": 23922,
     "name": "Q-Park Mindet 1",
     "latitude": "56.1519315",
@@ -1344,24 +1435,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 5355,
-    "name": "Tietgens Pl.",
-    "latitude": "56.1448109",
-    "longitude": "10.2040045",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35114,
     "name": "Strandparken 30",
     "latitude": "56.1440879",
     "longitude": "10.2069338",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 5002,
-    "name": "Sønderborggade 9",
-    "latitude": "56.1409911",
-    "longitude": "10.1815826",
     "thumbnail_url": ""
   },
   {
@@ -1376,13 +1453,6 @@
     "name": "Partnerhuset",
     "latitude": "56.1693926",
     "longitude": "10.2079132",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34846,
-    "name": "Frue Kirkeplads",
-    "latitude": "56.1587192",
-    "longitude": "10.2056202",
     "thumbnail_url": ""
   },
   {
@@ -1463,13 +1533,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 31088,
-    "name": "Store Torv",
-    "latitude": "56.1574049",
-    "longitude": "10.2085157",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34584,
     "name": "Marstrandsgade 10",
     "latitude": "56.1547983",
@@ -1488,13 +1551,6 @@
     "name": "Fredens Torv",
     "latitude": "56.1540749",
     "longitude": "10.209378",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3920,
-    "name": "Rosensgade",
-    "latitude": "56.1576267",
-    "longitude": "10.2106168",
     "thumbnail_url": ""
   },
   {
@@ -1729,13 +1785,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 6286,
-    "name": "Vestre Strandallé ",
-    "latitude": "56.1948737",
-    "longitude": "10.2372994",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35045,
     "name": "Stjernen Risskov",
     "latitude": "56.1948581",
@@ -1747,13 +1796,6 @@
     "name": "Puregym Viby",
     "latitude": "56.1388105",
     "longitude": "10.17917",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6554,
-    "name": "Sports complex Risskov",
-    "latitude": "56.1947277",
-    "longitude": "10.2470269",
     "thumbnail_url": ""
   },
   {
@@ -1775,13 +1817,6 @@
     "name": "Rudolph Wulffs Gade 26",
     "latitude": "56.1397552",
     "longitude": "10.1840962",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34572,
-    "name": "Puregym Tørjborg",
-    "latitude": "56.1707472",
-    "longitude": "10.2121595",
     "thumbnail_url": ""
   },
   {
@@ -1929,20 +1964,6 @@
     "name": "Harald Jensen's Pl 17",
     "latitude": "56.1430868",
     "longitude": "10.1885939",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 3879,
-    "name": "Ole Rømers Gade/Seven Eleven",
-    "latitude": "56.1470762",
-    "longitude": "10.1955511",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6918,
-    "name": "Åboulevarden 41",
-    "latitude": "56.1566316",
-    "longitude": "10.2067441",
     "thumbnail_url": ""
   },
   {
@@ -2272,13 +2293,6 @@
     "name": "Spar Skejby",
     "latitude": "56.1956853",
     "longitude": "10.2075551",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 6219,
-    "name": "Stadion Allé/Marselis blvd",
-    "latitude": "56.1406417",
-    "longitude": "10.1949678",
     "thumbnail_url": ""
   },
   {
@@ -2758,24 +2772,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 4520,
-    "name": "Paradisgade 6",
-    "latitude": "56.1601301",
-    "longitude": "10.2098759",
-    "thumbnail_url": ""
-  },
-  {
     "id": 16467,
     "name": "Åby Ringvej/ Silkeborgvej",
     "latitude": "56.1540589",
     "longitude": "10.1439145",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34855,
-    "name": "Aarhus Musikskole",
-    "latitude": "56.1532785",
-    "longitude": "10.2013401",
     "thumbnail_url": ""
   },
   {
