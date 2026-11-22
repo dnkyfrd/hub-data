@@ -1,12 +1,5 @@
 [
   {
-    "id": 29511,
-    "name": "Dorpstraat Oegstgeest",
-    "latitude": "52.1896871",
-    "longitude": "4.4672374",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29515,
     "name": "Duinzichtstraat",
     "latitude": "52.1836898",
@@ -18,6 +11,13 @@
     "name": "Warmonderweg",
     "latitude": "52.1768989",
     "longitude": "4.4750943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29511,
+    "name": "Dorpstraat Oegstgeest",
+    "latitude": "52.1896871",
+    "longitude": "4.4672374",
     "thumbnail_url": ""
   },
   {
@@ -189,17 +189,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37363,
-    "name": "Hazenboslaan 2",
-    "latitude": "52.1857023",
-    "longitude": "4.4780951",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31372,
-    "name": "Fietsenstalling Universiteit",
-    "latitude": "52.1678733",
-    "longitude": "4.4595188",
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -210,10 +203,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37366,
-    "name": "Dahlialaan 3",
-    "latitude": "52.1900581",
-    "longitude": "4.4729597",
+    "id": 31372,
+    "name": "Fietsenstalling Universiteit",
+    "latitude": "52.1678733",
+    "longitude": "4.4595188",
     "thumbnail_url": ""
   },
   {
@@ -221,6 +214,20 @@
     "name": "Leiden Mauritsstraat",
     "latitude": "52.1645375",
     "longitude": "4.4978281",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36781,
+    "name": "Leiden Vreewijk",
+    "latitude": "52.1595625",
+    "longitude": "4.4785781",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37363,
+    "name": "Hazenboslaan 2",
+    "latitude": "52.1857023",
+    "longitude": "4.4780951",
     "thumbnail_url": ""
   },
   {
@@ -238,10 +245,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36781,
-    "name": "Leiden Vreewijk",
-    "latitude": "52.1595625",
-    "longitude": "4.4785781",
+    "id": 37163,
+    "name": " Betaplein",
+    "latitude": "52.1456606",
+    "longitude": "4.4935743",
     "thumbnail_url": ""
   },
   {
@@ -294,6 +301,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37366,
+    "name": "Dahlialaan 3",
+    "latitude": "52.1900581",
+    "longitude": "4.4729597",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36818,
     "name": "Leiden Kooilaan II",
     "latitude": "52.1664375",
@@ -343,10 +357,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37163,
-    "name": " Betaplein",
-    "latitude": "52.1456606",
-    "longitude": "4.4935743",
+    "id": 36811,
+    "name": "Leiden J.C. de Rijpstraat",
+    "latitude": "52.1600625",
+    "longitude": "4.5096094",
     "thumbnail_url": ""
   },
   {
@@ -375,13 +389,6 @@
     "name": "Leiden Vijf Meilaan",
     "latitude": "52.1476625",
     "longitude": "4.4810469",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -508,13 +515,6 @@
     "name": "Leiden Burggravenlaan II",
     "latitude": "52.1505393",
     "longitude": "4.504153",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36811,
-    "name": "Leiden J.C. de Rijpstraat",
-    "latitude": "52.1600625",
-    "longitude": "4.5096094",
     "thumbnail_url": ""
   },
   {
@@ -651,6 +651,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37125,
+    "name": "Valkenburg oost",
+    "latitude": "52.1736257",
+    "longitude": "4.4362322",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29381,
     "name": "Katwijkse Lawn tennis",
     "latitude": "52.2104424",
@@ -658,10 +665,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37125,
-    "name": "Valkenburg oost",
-    "latitude": "52.1736257",
-    "longitude": "4.4362322",
+    "id": 29491,
+    "name": "Frederiksoord",
+    "latitude": "52.1850524",
+    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
@@ -693,24 +700,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29463,
-    "name": "Unmanned Valley",
-    "latitude": "52.1731931",
-    "longitude": "4.4168199",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29401,
     "name": "Aquamar",
     "latitude": "52.2016355",
     "longitude": "4.4107977",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29491,
-    "name": "Frederiksoord",
-    "latitude": "52.1850524",
-    "longitude": "4.4479595",
     "thumbnail_url": ""
   },
   {
@@ -746,6 +739,13 @@
     "name": "Lageweg",
     "latitude": "52.2012387",
     "longitude": "4.4344735",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29463,
+    "name": "Unmanned Valley",
+    "latitude": "52.1731931",
+    "longitude": "4.4168199",
     "thumbnail_url": ""
   },
   {

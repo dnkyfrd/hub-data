@@ -1,12 +1,5 @@
 [
   {
-    "id": 32218,
-    "name": "Sint Olofstraat",
-    "latitude": "52.0111386",
-    "longitude": "4.3514354",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32118,
     "name": "VSL National Metrology Institute",
     "latitude": "51.9855547",
@@ -56,24 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34489,
-    "name": "PRINSEN THEATER",
-    "latitude": "51.9883899",
-    "longitude": "4.3834978",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32191,
     "name": "Plateelstraat",
     "latitude": "52.006335",
     "longitude": "4.3514786",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32124,
-    "name": "De Werelddreef",
-    "latitude": "51.9833127",
-    "longitude": "4.3470939",
     "thumbnail_url": ""
   },
   {
@@ -84,10 +63,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32243,
-    "name": "Landbergstraat PARK UPSTAIRS! ",
-    "latitude": "52.0021879",
-    "longitude": "4.3704447",
+    "id": 34489,
+    "name": "PRINSEN THEATER",
+    "latitude": "51.9883899",
+    "longitude": "4.3834978",
     "thumbnail_url": ""
   },
   {
@@ -105,17 +84,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32232,
-    "name": "Lijm & Cultuur",
-    "latitude": "51.9963859",
-    "longitude": "4.3697768",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32157,
     "name": "Delftechpark",
     "latitude": "51.9972105",
     "longitude": "4.3835561",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32124,
+    "name": "De Werelddreef",
+    "latitude": "51.9833127",
+    "longitude": "4.3470939",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32155,
+    "name": "Professor Schermerhornstraat",
+    "latitude": "52.007334",
+    "longitude": "4.3677901",
     "thumbnail_url": ""
   },
   {
@@ -140,10 +126,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32243,
+    "name": "Landbergstraat PARK UPSTAIRS! ",
+    "latitude": "52.0021879",
+    "longitude": "4.3704447",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32180,
     "name": "Nieuwe Gracht",
     "latitude": "52.0048774",
     "longitude": "4.3564306",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 31611,
+    "name": "Station Delft Campus",
+    "latitude": "51.9904624",
+    "longitude": "4.3653709",
     "thumbnail_url": ""
   },
   {
@@ -165,20 +165,6 @@
     "name": "Kringloop Delft Ruiven",
     "latitude": "51.9842741",
     "longitude": "4.377845",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 31611,
-    "name": "Station Delft Campus",
-    "latitude": "51.9904624",
-    "longitude": "4.3653709",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 32155,
-    "name": "Professor Schermerhornstraat",
-    "latitude": "52.007334",
-    "longitude": "4.3677901",
     "thumbnail_url": ""
   },
   {
@@ -210,6 +196,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32232,
+    "name": "Lijm & Cultuur",
+    "latitude": "51.9963859",
+    "longitude": "4.3697768",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32207,
     "name": "Hof van Delftlaan",
     "latitude": "52.0120064",
@@ -238,13 +231,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32179,
-    "name": "Coenderstraat 4",
-    "latitude": "52.0064934",
-    "longitude": "4.3555289",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32224,
     "name": "PLUS Schinkel",
     "latitude": "52.0177033",
@@ -266,13 +252,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 32127,
-    "name": "Jumbo Buitenhof",
-    "latitude": "51.9875711",
-    "longitude": "4.3457418",
-    "thumbnail_url": ""
-  },
-  {
     "id": 32184,
     "name": "Hooikade 1",
     "latitude": "52.0046395",
@@ -280,10 +259,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 32127,
+    "name": "Jumbo Buitenhof",
+    "latitude": "51.9875711",
+    "longitude": "4.3457418",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32179,
+    "name": "Coenderstraat 4",
+    "latitude": "52.0064934",
+    "longitude": "4.3555289",
+    "thumbnail_url": ""
+  },
+  {
     "id": 32161,
     "name": "Charlotte de Bourbonstraat",
     "latitude": "52.006442",
     "longitude": "4.3742221",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 32218,
+    "name": "Sint Olofstraat",
+    "latitude": "52.0111386",
+    "longitude": "4.3514354",
     "thumbnail_url": ""
   },
   {
