@@ -1,16 +1,16 @@
 [
   {
-    "id": 29515,
-    "name": "Duinzichtstraat",
-    "latitude": "52.1836898",
-    "longitude": "4.4660032",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29500,
     "name": "Warmonderweg",
     "latitude": "52.1768989",
     "longitude": "4.4750943",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29515,
+    "name": "Duinzichtstraat",
+    "latitude": "52.1836898",
+    "longitude": "4.4660032",
     "thumbnail_url": ""
   },
   {
@@ -189,13 +189,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29557,
-    "name": "Bio Science Park",
-    "latitude": "52.1664702",
-    "longitude": "4.4595661",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29535,
     "name": "Albinusweg",
     "latitude": "52.1701244",
@@ -210,24 +203,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36821,
-    "name": "Leiden Mauritsstraat",
-    "latitude": "52.1645375",
-    "longitude": "4.4978281",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36781,
-    "name": "Leiden Vreewijk",
-    "latitude": "52.1595625",
-    "longitude": "4.4785781",
-    "thumbnail_url": ""
-  },
-  {
     "id": 37363,
     "name": "Hazenboslaan 2",
     "latitude": "52.1857023",
     "longitude": "4.4780951",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36821,
+    "name": "Leiden Mauritsstraat",
+    "latitude": "52.1645375",
+    "longitude": "4.4978281",
     "thumbnail_url": ""
   },
   {
@@ -242,6 +228,13 @@
     "name": "Bodegraven Kerkstraat",
     "latitude": "52.08542",
     "longitude": "4.74617",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29557,
+    "name": "Bio Science Park",
+    "latitude": "52.1664702",
+    "longitude": "4.4595661",
     "thumbnail_url": ""
   },
   {
@@ -294,6 +287,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35536,
+    "name": "Bargelaan Leiden Central",
+    "latitude": "52.1661979",
+    "longitude": "4.4800498",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29533,
     "name": "Basalt",
     "latitude": "52.1705307",
@@ -312,6 +312,13 @@
     "name": "Leiden Kooilaan II",
     "latitude": "52.1664375",
     "longitude": "4.5064219",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36781,
+    "name": "Leiden Vreewijk",
+    "latitude": "52.1595625",
+    "longitude": "4.4785781",
     "thumbnail_url": ""
   },
   {
@@ -347,13 +354,6 @@
     "name": "Lijsterstraat I",
     "latitude": "52.1734886",
     "longitude": "4.473183",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35536,
-    "name": "Bargelaan Leiden Central",
-    "latitude": "52.1661979",
-    "longitude": "4.4800498",
     "thumbnail_url": ""
   },
   {
@@ -742,13 +742,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 29463,
-    "name": "Unmanned Valley",
-    "latitude": "52.1731931",
-    "longitude": "4.4168199",
-    "thumbnail_url": ""
-  },
-  {
     "id": 29414,
     "name": "Boulevard 4",
     "latitude": "52.2072153",
@@ -816,13 +809,6 @@
     "name": "Action",
     "latitude": "52.2042884",
     "longitude": "4.3985669",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29411,
-    "name": "Boulevard",
-    "latitude": "52.2093116",
-    "longitude": "4.3975075",
     "thumbnail_url": ""
   },
   {
@@ -896,6 +882,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29463,
+    "name": "Unmanned Valley",
+    "latitude": "52.1731931",
+    "longitude": "4.4168199",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29436,
     "name": "Bibliotheek Katwijk",
     "latitude": "52.2010344",
@@ -963,13 +956,6 @@
     "name": "Vakcollege Rijnmond ",
     "latitude": "52.1964196",
     "longitude": "4.4170069",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 29451,
-    "name": "Bosplein",
-    "latitude": "52.1971545",
-    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {
@@ -1120,10 +1106,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 29411,
+    "name": "Boulevard",
+    "latitude": "52.2093116",
+    "longitude": "4.3975075",
+    "thumbnail_url": ""
+  },
+  {
     "id": 29464,
     "name": "Rijnstraat",
     "latitude": "52.1965083",
     "longitude": "4.4245131",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 29451,
+    "name": "Bosplein",
+    "latitude": "52.1971545",
+    "longitude": "4.4115806",
     "thumbnail_url": ""
   },
   {

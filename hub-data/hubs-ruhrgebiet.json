@@ -1,9 +1,9 @@
 [
   {
-    "id": 33804,
-    "name": "Unionstr.",
-    "latitude": "51.5130691",
-    "longitude": "7.448886",
+    "id": 33814,
+    "name": "Westfalenpark",
+    "latitude": "51.4961091",
+    "longitude": "7.47012",
     "thumbnail_url": ""
   },
   {
@@ -21,10 +21,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37351,
-    "name": "FH Sonnenstraße",
-    "latitude": "51.50662",
-    "longitude": "7.455751",
+    "id": 33794,
+    "name": "RWE Tower",
+    "latitude": "51.5167261",
+    "longitude": "7.461765",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34111,
+    "name": "Am Gardenkamp",
+    "latitude": "51.4813551",
+    "longitude": "7.4147348",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36568,
+    "name": "Aplerbeck Markt",
+    "latitude": "51.4920138",
+    "longitude": "7.5556733",
     "thumbnail_url": ""
   },
   {
@@ -35,24 +49,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34076,
-    "name": "Rombergpark",
-    "latitude": "51.4843431",
-    "longitude": "7.469968",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36590,
-    "name": "Revierpark Wischlingen",
-    "latitude": "51.5188402",
-    "longitude": "7.4068125",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34104,
-    "name": "Rüschebrinkstrasse",
-    "latitude": "51.5209871",
-    "longitude": "7.520378",
+    "id": 36587,
+    "name": "Grotenbachstr.",
+    "latitude": "51.4681602",
+    "longitude": "7.4335519",
     "thumbnail_url": ""
   },
   {
@@ -70,101 +70,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36592,
-    "name": "Fredenbaum",
-    "latitude": "51.5368896",
-    "longitude": "7.4567127",
+    "id": 36610,
+    "name": "Kirchderne",
+    "latitude": "51.5547369",
+    "longitude": "7.5123831",
     "thumbnail_url": ""
   },
   {
-    "id": 34088,
-    "name": "Barop S-Bahnhof",
-    "latitude": "51.4764881",
-    "longitude": "7.431135",
+    "id": 34109,
+    "name": "Marten S-Bahnhof",
+    "latitude": "51.5088761",
+    "longitude": "7.389598",
     "thumbnail_url": ""
   },
   {
-    "id": 36611,
-    "name": "Gleiwitzstr.",
-    "latitude": "51.549872",
-    "longitude": "7.5296414",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36582,
-    "name": "Wittichstr.",
-    "latitude": "51.5751058",
-    "longitude": "7.4630987",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33794,
-    "name": "RWE Tower",
-    "latitude": "51.5167261",
-    "longitude": "7.461765",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33817,
-    "name": "Technologiepark",
-    "latitude": "51.4933751",
-    "longitude": "7.407124",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34085,
-    "name": "TU Dortmund Emil-Figge-Straße 50",
-    "latitude": "51.4939661",
-    "longitude": "7.418008",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36579,
-    "name": "Bf Wickede West",
-    "latitude": "51.529389",
-    "longitude": "7.6083748",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36578,
-    "name": "Adi-Preißler-Allee",
-    "latitude": "51.5368085",
-    "longitude": "7.5531127",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36585,
-    "name": "Hacheney",
-    "latitude": "51.4763125",
-    "longitude": "7.4758799",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33926,
-    "name": "Markgrafenstr.",
-    "latitude": "51.5019441",
-    "longitude": "7.472903",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33949,
-    "name": "Steigenberger Hotel / Berswordtstr.",
-    "latitude": "51.4990391",
-    "longitude": "7.451472",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33937,
-    "name": "Otto-Hahn-Str.",
-    "latitude": "51.4893271",
-    "longitude": "7.405724",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36568,
-    "name": "Aplerbeck Markt",
-    "latitude": "51.4920138",
-    "longitude": "7.5556733",
+    "id": 33790,
+    "name": "Wittener Str. / Wilhelmplatz",
+    "latitude": "51.5129091",
+    "longitude": "7.423314",
     "thumbnail_url": ""
   },
   {
@@ -175,10 +98,94 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33937,
+    "name": "Otto-Hahn-Str.",
+    "latitude": "51.4893271",
+    "longitude": "7.405724",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36579,
+    "name": "Bf Wickede West",
+    "latitude": "51.529389",
+    "longitude": "7.6083748",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36611,
+    "name": "Gleiwitzstr.",
+    "latitude": "51.549872",
+    "longitude": "7.5296414",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33815,
     "name": "Westfalenhalle",
     "latitude": "51.4967011",
     "longitude": "7.459367",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36582,
+    "name": "Wittichstr.",
+    "latitude": "51.5751058",
+    "longitude": "7.4630987",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34104,
+    "name": "Rüschebrinkstrasse",
+    "latitude": "51.5209871",
+    "longitude": "7.520378",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33982,
+    "name": "Körne West/S-Bahnhof",
+    "latitude": "51.5107261",
+    "longitude": "7.50363",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36590,
+    "name": "Revierpark Wischlingen",
+    "latitude": "51.5188402",
+    "longitude": "7.4068125",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34082,
+    "name": "Spar- und Bauverein Uhlandblock",
+    "latitude": "51.5295351",
+    "longitude": "7.453988",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36585,
+    "name": "Hacheney",
+    "latitude": "51.4763125",
+    "longitude": "7.4758799",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34099,
+    "name": "FH-Dortmund Emil-Figge-Straße 42",
+    "latitude": "51.4936951",
+    "longitude": "7.420396",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36578,
+    "name": "Adi-Preißler-Allee",
+    "latitude": "51.5368085",
+    "longitude": "7.5531127",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33817,
+    "name": "Technologiepark",
+    "latitude": "51.4933751",
+    "longitude": "7.407124",
     "thumbnail_url": ""
   },
   {
@@ -203,10 +210,52 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36587,
-    "name": "Grotenbachstr.",
-    "latitude": "51.4681602",
-    "longitude": "7.4335519",
+    "id": 34088,
+    "name": "Barop S-Bahnhof",
+    "latitude": "51.4764881",
+    "longitude": "7.431135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37351,
+    "name": "FH Sonnenstraße",
+    "latitude": "51.50662",
+    "longitude": "7.455751",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34096,
+    "name": "Barop Parkhaus",
+    "latitude": "51.4823777",
+    "longitude": "7.4331707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34076,
+    "name": "Rombergpark",
+    "latitude": "51.4843431",
+    "longitude": "7.469968",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34150,
+    "name": "Spar- und Bauverein Althoffblock",
+    "latitude": "51.5070061",
+    "longitude": "7.445501",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33804,
+    "name": "Unionstr.",
+    "latitude": "51.5130691",
+    "longitude": "7.448886",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36592,
+    "name": "Fredenbaum",
+    "latitude": "51.5368896",
+    "longitude": "7.4567127",
     "thumbnail_url": ""
   },
   {
@@ -231,13 +280,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34115,
-    "name": "Emil-Figge-Strasse 9",
-    "latitude": "51.4929471",
-    "longitude": "7.430127",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33919,
     "name": "Heiligegartenstr.",
     "latitude": "51.5200214",
@@ -249,20 +291,6 @@
     "name": "Scharnhorst Zentrum",
     "latitude": "51.5525408",
     "longitude": "7.5426305",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34106,
-    "name": "Immermannstr./Klinikzentrum",
-    "latitude": "51.5326851",
-    "longitude": "7.454631",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33806,
-    "name": "Platz von Netanya",
-    "latitude": "51.5151151",
-    "longitude": "7.464033",
     "thumbnail_url": ""
   },
   {
@@ -287,6 +315,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34115,
+    "name": "Emil-Figge-Strasse 9",
+    "latitude": "51.4929471",
+    "longitude": "7.430127",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36601,
     "name": "Bert-Brecht-Gymnasium",
     "latitude": "51.519829",
@@ -308,13 +343,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34082,
-    "name": "Spar- und Bauverein Uhlandblock",
-    "latitude": "51.5295351",
-    "longitude": "7.453988",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33934,
     "name": "Ritterhausstr.",
     "latitude": "51.5093431",
@@ -329,24 +357,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33798,
+    "name": "Hansastr.",
+    "latitude": "51.5126091",
+    "longitude": "7.463483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36593,
+    "name": "Gneisenaustr./Feldherrenstr.",
+    "latitude": "51.5210469",
+    "longitude": "7.4487249",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34075,
     "name": "Nortkirchenstraße/Wilo",
     "latitude": "51.4837231",
     "longitude": "7.4775803",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33814,
-    "name": "Westfalenpark",
-    "latitude": "51.4961091",
-    "longitude": "7.47012",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33790,
-    "name": "Wittener Str. / Wilhelmplatz",
-    "latitude": "51.5129091",
-    "longitude": "7.423314",
     "thumbnail_url": ""
   },
   {
@@ -364,6 +392,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33949,
+    "name": "Steigenberger Hotel / Berswordtstr.",
+    "latitude": "51.4990391",
+    "longitude": "7.451472",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36598,
     "name": "Gesamtschule Gartenstadt",
     "latitude": "51.5000317",
@@ -371,10 +406,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34105,
-    "name": "Nordmarkt",
-    "latitude": "51.5259411",
-    "longitude": "7.464775",
+    "id": 33920,
+    "name": "Priorstr. / Münsterstr.",
+    "latitude": "51.5222561",
+    "longitude": "7.464609",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33808,
+    "name": "Städtische Kliniken",
+    "latitude": "51.5089261",
+    "longitude": "7.456504",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33931,
+    "name": "Kreuzstraße",
+    "latitude": "51.5023181",
+    "longitude": "7.450029",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33849,
+    "name": "Am Kaiserbrunnen",
+    "latitude": "51.5129931",
+    "longitude": "7.483154",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34149,
+    "name": "Spar- und Bauverein Unionviertel",
+    "latitude": "51.5107391",
+    "longitude": "7.443023",
     "thumbnail_url": ""
   },
   {
@@ -382,6 +445,13 @@
     "name": "Dortmund HBF Nordausgang",
     "latitude": "51.5190581",
     "longitude": "7.458767",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34085,
+    "name": "TU Dortmund Emil-Figge-Straße 50",
+    "latitude": "51.4939661",
+    "longitude": "7.418008",
     "thumbnail_url": ""
   },
   {
@@ -399,6 +469,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33806,
+    "name": "Platz von Netanya",
+    "latitude": "51.5151151",
+    "longitude": "7.464033",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36599,
     "name": "Bf Marten",
     "latitude": "51.5145295",
@@ -406,10 +483,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33849,
-    "name": "Am Kaiserbrunnen",
-    "latitude": "51.5129931",
-    "longitude": "7.483154",
+    "id": 33936,
+    "name": "Vinckeplatz",
+    "latitude": "51.5032931",
+    "longitude": "7.455822",
     "thumbnail_url": ""
   },
   {
@@ -434,6 +511,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33831,
+    "name": "Dortmund HBF/Bahnhofsvorplatz",
+    "latitude": "51.5168345",
+    "longitude": "7.4594118",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33838,
+    "name": "Saarlandstr. / Hohe Str.",
+    "latitude": "51.5052131",
+    "longitude": "7.459899",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34147,
+    "name": "Amazon Logistics DTM2",
+    "latitude": "51.5284571",
+    "longitude": "7.50231",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33809,
     "name": "Platz am Südwall",
     "latitude": "51.5100411",
@@ -448,24 +546,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33838,
-    "name": "Saarlandstr. / Hohe Str.",
-    "latitude": "51.5052131",
-    "longitude": "7.459899",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33799,
     "name": "Bergmann Kiosk",
     "latitude": "51.5131131",
     "longitude": "7.455742",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36593,
-    "name": "Gneisenaustr./Feldherrenstr.",
-    "latitude": "51.5210469",
-    "longitude": "7.4487249",
     "thumbnail_url": ""
   },
   {
@@ -480,13 +564,6 @@
     "name": "Aplerbeck",
     "latitude": "51.4930056",
     "longitude": "7.5560982",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33920,
-    "name": "Priorstr. / Münsterstr.",
-    "latitude": "51.5222561",
-    "longitude": "7.464609",
     "thumbnail_url": ""
   },
   {
@@ -525,38 +602,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33831,
-    "name": "Dortmund HBF/Bahnhofsvorplatz",
-    "latitude": "51.5168345",
-    "longitude": "7.4594118",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33808,
-    "name": "Städtische Kliniken",
-    "latitude": "51.5089261",
-    "longitude": "7.456504",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34149,
-    "name": "Spar- und Bauverein Unionviertel",
-    "latitude": "51.5107391",
-    "longitude": "7.443023",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34144,
     "name": "Brünninghausen",
     "latitude": "51.4790541",
     "longitude": "7.458944",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33931,
-    "name": "Kreuzstraße",
-    "latitude": "51.5023181",
-    "longitude": "7.450029",
     "thumbnail_url": ""
   },
   {
@@ -602,24 +651,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34109,
-    "name": "Marten S-Bahnhof",
-    "latitude": "51.5088761",
-    "longitude": "7.389598",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36612,
     "name": "Bf Kurl",
     "latitude": "51.5573984",
     "longitude": "7.5854188",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33847,
-    "name": "Borsigplatz / Oesterholzstr.",
-    "latitude": "51.5239511",
-    "longitude": "7.481904",
     "thumbnail_url": ""
   },
   {
@@ -630,31 +665,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34096,
-    "name": "Barop Parkhaus",
-    "latitude": "51.4823777",
-    "longitude": "7.4331707",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33816,
     "name": "Bergmann Stehbierhalle",
     "latitude": "51.4890131",
     "longitude": "7.487628",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36594,
-    "name": "Schützenstr./Kirchenstr.",
-    "latitude": "51.5201312",
-    "longitude": "7.4536408",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33936,
-    "name": "Vinckeplatz",
-    "latitude": "51.5032931",
-    "longitude": "7.455822",
     "thumbnail_url": ""
   },
   {
@@ -672,24 +686,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33982,
-    "name": "Körne West/S-Bahnhof",
-    "latitude": "51.5107261",
-    "longitude": "7.50363",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33802,
     "name": "Stadtgarten Dortmund",
     "latitude": "51.5109761",
     "longitude": "7.464534",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34147,
-    "name": "Amazon Logistics DTM2",
-    "latitude": "51.5284571",
-    "longitude": "7.50231",
     "thumbnail_url": ""
   },
   {
@@ -700,10 +700,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36610,
-    "name": "Kirchderne",
-    "latitude": "51.5547369",
-    "longitude": "7.5123831",
+    "id": 34105,
+    "name": "Nordmarkt",
+    "latitude": "51.5259411",
+    "longitude": "7.464775",
     "thumbnail_url": ""
   },
   {
@@ -711,13 +711,6 @@
     "name": "Märkische Str. / B1",
     "latitude": "51.5007021",
     "longitude": "7.483363",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33798,
-    "name": "Hansastr.",
-    "latitude": "51.5126091",
-    "longitude": "7.463483",
     "thumbnail_url": ""
   },
   {
@@ -735,10 +728,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34150,
-    "name": "Spar- und Bauverein Althoffblock",
-    "latitude": "51.5070061",
-    "longitude": "7.445501",
+    "id": 36594,
+    "name": "Schützenstr./Kirchenstr.",
+    "latitude": "51.5201312",
+    "longitude": "7.4536408",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33847,
+    "name": "Borsigplatz / Oesterholzstr.",
+    "latitude": "51.5239511",
+    "longitude": "7.481904",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34106,
+    "name": "Immermannstr./Klinikzentrum",
+    "latitude": "51.5326851",
+    "longitude": "7.454631",
     "thumbnail_url": ""
   },
   {
@@ -756,10 +763,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34111,
-    "name": "Am Gardenkamp",
-    "latitude": "51.4813551",
-    "longitude": "7.4147348",
+    "id": 33926,
+    "name": "Markgrafenstr.",
+    "latitude": "51.5019441",
+    "longitude": "7.472903",
     "thumbnail_url": ""
   },
   {
@@ -823,13 +830,6 @@
     "name": "Am Beilstück",
     "latitude": "51.4867471",
     "longitude": "7.43575",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34099,
-    "name": "FH-Dortmund Emil-Figge-Straße 42",
-    "latitude": "51.4936951",
-    "longitude": "7.420396",
     "thumbnail_url": ""
   },
   {
@@ -952,108 +952,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34058,
-    "name": "HS f. Gesundheit / Veranstaltungszentrum",
-    "latitude": "51.447749",
-    "longitude": "7.2465449",
+    "id": 33780,
+    "name": "Bochum HBF",
+    "latitude": "51.4795007",
+    "longitude": "7.2222931",
     "thumbnail_url": ""
   },
   {
-    "id": 34024,
-    "name": "RUB IC",
-    "latitude": "51.4461641",
-    "longitude": "7.264935",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33994,
-    "name": "Lennershof",
-    "latitude": "51.4506591",
-    "longitude": "7.265415",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36643,
-    "name": "Tippelsberg",
-    "latitude": "51.5056807",
-    "longitude": "7.2294578",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34018,
-    "name": "Buscheyplatz",
-    "latitude": "51.4497581",
-    "longitude": "7.262644",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36635,
-    "name": "Nörenbergstr. / Rutgerweg",
-    "latitude": "51.4943906",
-    "longitude": "7.3038018",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34134,
-    "name": "Bürgerplatz Bochum",
-    "latitude": "51.492239",
-    "longitude": "7.2089209",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34007,
-    "name": "Ruhr Congress Bochum",
-    "latitude": "51.4899247",
-    "longitude": "7.2328586",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33953,
-    "name": "August-Bebel-Platz",
-    "latitude": "51.4810091",
-    "longitude": "7.138689",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33781,
-    "name": "Rathaus / Willy-Brandt-Platz",
-    "latitude": "51.4818439",
-    "longitude": "7.2150618",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33783,
-    "name": "Bermuda 3Eck / Konrad-Adenauer-Platz",
-    "latitude": "51.4752991",
-    "longitude": "7.215754",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34140,
-    "name": "Planetarium Bochum",
-    "latitude": "51.4856891",
-    "longitude": "7.226933",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36282,
-    "name": "Talentwerk VfL",
-    "latitude": "51.5053668",
-    "longitude": "7.2351871",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36618,
-    "name": "Park am Ehrenmal",
-    "latitude": "51.4764168",
-    "longitude": "7.1418758",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34023,
-    "name": "RUB ID",
-    "latitude": "51.4467161",
-    "longitude": "7.266634",
+    "id": 33955,
+    "name": "Bismarckplatz",
+    "latitude": "51.4809021",
+    "longitude": "7.149782",
     "thumbnail_url": ""
   },
   {
@@ -1064,6 +973,97 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36643,
+    "name": "Tippelsberg",
+    "latitude": "51.5056807",
+    "longitude": "7.2294578",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34040,
+    "name": "Waldring / U35",
+    "latitude": "51.4684391",
+    "longitude": "7.227046",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33994,
+    "name": "Lennershof",
+    "latitude": "51.4506591",
+    "longitude": "7.265415",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34059,
+    "name": "Hochschule für Gesundheit",
+    "latitude": "51.4470601",
+    "longitude": "7.24485",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36635,
+    "name": "Nörenbergstr. / Rutgerweg",
+    "latitude": "51.4943906",
+    "longitude": "7.3038018",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34004,
+    "name": "RUB Fakultät für Sportwissenschaft",
+    "latitude": "51.4480161",
+    "longitude": "7.245559",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34018,
+    "name": "Buscheyplatz",
+    "latitude": "51.4497581",
+    "longitude": "7.262644",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34159,
+    "name": "Riemke Markt",
+    "latitude": "51.5096671",
+    "longitude": "7.211528",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33953,
+    "name": "August-Bebel-Platz",
+    "latitude": "51.4810091",
+    "longitude": "7.138689",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34003,
+    "name": "RUB CASPO / Botanischer Garten",
+    "latitude": "51.4425121",
+    "longitude": "7.263026",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36282,
+    "name": "Talentwerk VfL",
+    "latitude": "51.5053668",
+    "longitude": "7.2351871",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33781,
+    "name": "Rathaus / Willy-Brandt-Platz",
+    "latitude": "51.4818439",
+    "longitude": "7.2150618",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36618,
+    "name": "Park am Ehrenmal",
+    "latitude": "51.4764168",
+    "longitude": "7.1418758",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33778,
     "name": "Dahlhausen Bahnhof",
     "latitude": "51.4265211",
@@ -1071,10 +1071,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34143,
-    "name": "O-Werk",
-    "latitude": "51.4648661",
-    "longitude": "7.25824",
+    "id": 34133,
+    "name": "Amtsplatz",
+    "latitude": "51.4917381",
+    "longitude": "7.195272",
     "thumbnail_url": ""
   },
   {
@@ -1085,10 +1085,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34159,
-    "name": "Riemke Markt",
-    "latitude": "51.5096671",
-    "longitude": "7.211528",
+    "id": 33993,
+    "name": "Uni-Center Ost",
+    "latitude": "51.4484811",
+    "longitude": "7.258865",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34024,
+    "name": "RUB IC",
+    "latitude": "51.4461641",
+    "longitude": "7.264935",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34143,
+    "name": "O-Werk",
+    "latitude": "51.4648661",
+    "longitude": "7.25824",
     "thumbnail_url": ""
   },
   {
@@ -1106,24 +1120,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34133,
-    "name": "Amtsplatz",
-    "latitude": "51.4917381",
-    "longitude": "7.195272",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36649,
     "name": "Werner Markt",
     "latitude": "51.4878845",
     "longitude": "7.306892",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33952,
-    "name": "Wattenscheid Bahnhof",
-    "latitude": "51.4736121",
-    "longitude": "7.139279",
     "thumbnail_url": ""
   },
   {
@@ -1134,6 +1134,34 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33952,
+    "name": "Wattenscheid Bahnhof",
+    "latitude": "51.4736121",
+    "longitude": "7.139279",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34020,
+    "name": "RUB Parkhaus West",
+    "latitude": "51.4431691",
+    "longitude": "7.25576",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34063,
+    "name": "AKAFÖ Q-West",
+    "latitude": "51.4442281",
+    "longitude": "7.259157",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33783,
+    "name": "Bermuda 3Eck / Konrad-Adenauer-Platz",
+    "latitude": "51.4752991",
+    "longitude": "7.215754",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34175,
     "name": "Lahariplatz",
     "latitude": "51.4707991",
@@ -1141,10 +1169,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34040,
-    "name": "Waldring / U35",
-    "latitude": "51.4684391",
-    "longitude": "7.227046",
+    "id": 34056,
+    "name": "AKAFÖ Erlenkamp",
+    "latitude": "51.4564861",
+    "longitude": "7.253352",
     "thumbnail_url": ""
   },
   {
@@ -1155,10 +1183,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34054,
-    "name": "Sumperkamp",
-    "latitude": "51.4491881",
-    "longitude": "7.26136",
+    "id": 34134,
+    "name": "Bürgerplatz Bochum",
+    "latitude": "51.492239",
+    "longitude": "7.2089209",
     "thumbnail_url": ""
   },
   {
@@ -1169,10 +1197,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33955,
-    "name": "Bismarckplatz",
-    "latitude": "51.4809021",
-    "longitude": "7.149782",
+    "id": 34026,
+    "name": "RUB MA",
+    "latitude": "51.4455641",
+    "longitude": "7.259006",
     "thumbnail_url": ""
   },
   {
@@ -1183,10 +1211,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33995,
+    "name": "Uni-Center West / Hallenbad",
+    "latitude": "51.4480831",
+    "longitude": "7.255783",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36655,
     "name": "Wilhelm-Hopmann-Platz",
     "latitude": "51.4254182",
     "longitude": "7.1598025",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34054,
+    "name": "Sumperkamp",
+    "latitude": "51.4491881",
+    "longitude": "7.26136",
     "thumbnail_url": ""
   },
   {
@@ -1197,10 +1239,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34026,
-    "name": "RUB MA",
-    "latitude": "51.4455641",
-    "longitude": "7.259006",
+    "id": 34042,
+    "name": "Markstr. / U35",
+    "latitude": "51.4527631",
+    "longitude": "7.246342",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34058,
+    "name": "HS f. Gesundheit / Veranstaltungszentrum",
+    "latitude": "51.447749",
+    "longitude": "7.2465449",
     "thumbnail_url": ""
   },
   {
@@ -1208,13 +1257,6 @@
     "name": "Wattenscheider Str. / HSt. Bochumer Verein",
     "latitude": "51.4805034",
     "longitude": "7.1921501",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34004,
-    "name": "RUB Fakultät für Sportwissenschaft",
-    "latitude": "51.4480161",
-    "longitude": "7.245559",
     "thumbnail_url": ""
   },
   {
@@ -1229,13 +1271,6 @@
     "name": "Bürostandort VfL",
     "latitude": "51.4887282",
     "longitude": "7.2413945",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34059,
-    "name": "Hochschule für Gesundheit",
-    "latitude": "51.4470601",
-    "longitude": "7.24485",
     "thumbnail_url": ""
   },
   {
@@ -1257,20 +1292,6 @@
     "name": "U35 / Zeche Constantin",
     "latitude": "51.5029634",
     "longitude": "7.2129484",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34063,
-    "name": "AKAFÖ Q-West",
-    "latitude": "51.4442281",
-    "longitude": "7.259157",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34056,
-    "name": "AKAFÖ Erlenkamp",
-    "latitude": "51.4564861",
-    "longitude": "7.253352",
     "thumbnail_url": ""
   },
   {
@@ -1337,10 +1358,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34132,
-    "name": "Gesundheitscampus",
-    "latitude": "51.4471111",
-    "longitude": "7.251333",
+    "id": 33784,
+    "name": "AKAFÖ Kalwes",
+    "latitude": "51.4437141",
+    "longitude": "7.280826",
     "thumbnail_url": ""
   },
   {
@@ -1351,31 +1372,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34103,
-    "name": "Auf dem Backenberg",
-    "latitude": "51.4564641",
-    "longitude": "7.270649",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33777,
-    "name": "Bergbaumuseum",
-    "latitude": "51.4890978",
-    "longitude": "7.2157699",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33993,
-    "name": "Uni-Center Ost",
-    "latitude": "51.4484811",
-    "longitude": "7.258865",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34020,
-    "name": "RUB Parkhaus West",
-    "latitude": "51.4431691",
-    "longitude": "7.25576",
+    "id": 33782,
+    "name": "Schauspielhaus",
+    "latitude": "51.4729056",
+    "longitude": "7.2167725",
     "thumbnail_url": ""
   },
   {
@@ -1386,17 +1386,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34037,
-    "name": "Lohring / 302/310",
-    "latitude": "51.4763681",
-    "longitude": "7.233505",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36636,
     "name": "Marktplatz Gerthe",
     "latitude": "51.5185535",
     "longitude": "7.2796104",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34023,
+    "name": "RUB ID",
+    "latitude": "51.4467161",
+    "longitude": "7.266634",
     "thumbnail_url": ""
   },
   {
@@ -1428,6 +1428,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34035,
+    "name": "Hustadt / Schattbachstr. / U35",
+    "latitude": "51.4521081",
+    "longitude": "7.273121",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34028,
+    "name": "AKAFÖ Stiepeler Str.",
+    "latitude": "51.4520611",
+    "longitude": "7.243767",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33996,
     "name": "Höntrop Bahnhof",
     "latitude": "51.4598815",
@@ -1435,10 +1449,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34132,
+    "name": "Gesundheitscampus",
+    "latitude": "51.4471111",
+    "longitude": "7.251333",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34135,
     "name": "Freigrafendamm",
     "latitude": "51.4747541",
     "longitude": "7.245612",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33777,
+    "name": "Bergbaumuseum",
+    "latitude": "51.4890978",
+    "longitude": "7.2157699",
     "thumbnail_url": ""
   },
   {
@@ -1484,13 +1512,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33782,
-    "name": "Schauspielhaus",
-    "latitude": "51.4729056",
-    "longitude": "7.2167725",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34025,
     "name": "RUB Audimax / Mensa",
     "latitude": "51.4427932",
@@ -1498,10 +1519,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34037,
+    "name": "Lohring / 302/310",
+    "latitude": "51.4763681",
+    "longitude": "7.233505",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34002,
     "name": "Ruhr-Universität U35",
     "latitude": "51.4460201",
     "longitude": "7.259884",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34103,
+    "name": "Auf dem Backenberg",
+    "latitude": "51.4564641",
+    "longitude": "7.270649",
     "thumbnail_url": ""
   },
   {
@@ -1540,13 +1575,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34028,
-    "name": "AKAFÖ Stiepeler Str.",
-    "latitude": "51.4520611",
-    "longitude": "7.243767",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34005,
     "name": "RUB NC",
     "latitude": "51.4451981",
@@ -1554,24 +1582,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34042,
-    "name": "Markstr. / U35",
-    "latitude": "51.4527631",
-    "longitude": "7.246342",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33954,
     "name": "Metternichstraße",
     "latitude": "51.4679241",
     "longitude": "7.127337",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34035,
-    "name": "Hustadt / Schattbachstr. / U35",
-    "latitude": "51.4521081",
-    "longitude": "7.273121",
     "thumbnail_url": ""
   },
   {
@@ -1586,13 +1600,6 @@
     "name": "Kunstmuseum",
     "latitude": "51.4869297",
     "longitude": "7.2213158",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33784,
-    "name": "AKAFÖ Kalwes",
-    "latitude": "51.4437141",
-    "longitude": "7.280826",
     "thumbnail_url": ""
   },
   {
@@ -1624,38 +1631,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34158,
-    "name": "Kirchviertel",
-    "latitude": "51.4524171",
-    "longitude": "7.231889",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33983,
-    "name": "Langendreer West Bahnhof / Lünsender Str.",
-    "latitude": "51.4775121",
-    "longitude": "7.306241",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33780,
-    "name": "Bochum HBF",
-    "latitude": "51.4795007",
-    "longitude": "7.2222931",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36658,
     "name": "Werner Hellweg / Heroldstraße",
     "latitude": "51.4922918",
     "longitude": "7.3095109",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36662,
-    "name": "Am Neggenborn / Kaltehardtstr.",
-    "latitude": "51.4648515",
-    "longitude": "7.3067696",
     "thumbnail_url": ""
   },
   {
@@ -1701,10 +1680,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33995,
-    "name": "Uni-Center West / Hallenbad",
-    "latitude": "51.4480831",
-    "longitude": "7.255783",
+    "id": 33983,
+    "name": "Langendreer West Bahnhof / Lünsender Str.",
+    "latitude": "51.4775121",
+    "longitude": "7.306241",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36662,
+    "name": "Am Neggenborn / Kaltehardtstr.",
+    "latitude": "51.4648515",
+    "longitude": "7.3067696",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34158,
+    "name": "Kirchviertel",
+    "latitude": "51.4524171",
+    "longitude": "7.231889",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34007,
+    "name": "Ruhr Congress Bochum",
+    "latitude": "51.4899247",
+    "longitude": "7.2328586",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34140,
+    "name": "Planetarium Bochum",
+    "latitude": "51.4856891",
+    "longitude": "7.226933",
     "thumbnail_url": ""
   },
   {
@@ -1932,13 +1939,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34003,
-    "name": "RUB CASPO / Botanischer Garten",
-    "latitude": "51.4425121",
-    "longitude": "7.263026",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34061,
     "name": "Technologiequartier",
     "latitude": "51.4507841",
@@ -1953,10 +1953,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33789,
-    "name": "Untere Hochstr.",
-    "latitude": "51.5190361",
-    "longitude": "6.925948",
+    "id": 36379,
+    "name": "Bahnhof Feldhausen",
+    "latitude": "51.614819",
+    "longitude": "6.973504",
     "thumbnail_url": ""
   },
   {
@@ -1967,10 +1967,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36379,
-    "name": "Bahnhof Feldhausen",
-    "latitude": "51.614819",
-    "longitude": "6.973504",
+    "id": 33789,
+    "name": "Untere Hochstr.",
+    "latitude": "51.5190361",
+    "longitude": "6.925948",
     "thumbnail_url": ""
   },
   {
@@ -2037,13 +2037,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36380,
-    "name": "Eloria Erlebnisfabrik",
-    "latitude": "51.518654",
-    "longitude": "6.958226",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36385,
     "name": "Mobilstation Schulze-Delitzsch-Straße",
     "latitude": "51.602852",
@@ -2055,6 +2048,13 @@
     "name": "Fuhlenbrock Markt",
     "latitude": "51.532116",
     "longitude": "6.890796",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36380,
+    "name": "Eloria Erlebnisfabrik",
+    "latitude": "51.518654",
+    "longitude": "6.958226",
     "thumbnail_url": ""
   },
   {
@@ -2142,10 +2142,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34017,
-    "name": "Jugendherberge/Stadion",
-    "latitude": "51.4106375",
-    "longitude": "6.777787",
+    "id": 33890,
+    "name": "Rathaus/Burgplatz",
+    "latitude": "51.4351845",
+    "longitude": "6.761689",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33819,
+    "name": "Landgerichtstr.",
+    "latitude": "51.4333743",
+    "longitude": "6.7684489",
     "thumbnail_url": ""
   },
   {
@@ -2156,10 +2163,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34052,
-    "name": "Bocksbartstrasse/ Düsseldorfer Str.",
-    "latitude": "51.4259992",
-    "longitude": "6.7648365",
+    "id": 36531,
+    "name": "Arndtstr./Friesenstr.",
+    "latitude": "51.4684694",
+    "longitude": "6.7260835",
     "thumbnail_url": ""
   },
   {
@@ -2170,10 +2177,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36550,
-    "name": "Rheinhausen Ost Bf",
-    "latitude": "51.4014617",
-    "longitude": "6.7237254",
+    "id": 33818,
+    "name": "Dellplatz",
+    "latitude": "51.4302316",
+    "longitude": "6.7618863",
     "thumbnail_url": ""
   },
   {
@@ -2184,13 +2191,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34274,
-    "name": "Alte Ruhrorter Str./Duisport",
-    "latitude": "51.4491102",
-    "longitude": "6.7423707",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36566,
     "name": "Bissingheim Dorfplatz",
     "latitude": "51.3922278",
@@ -2198,45 +2198,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34122,
-    "name": "Sternbuschweg/Koloniestr.",
-    "latitude": "51.4207876",
-    "longitude": "6.7841173",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33818,
-    "name": "Dellplatz",
-    "latitude": "51.4302316",
-    "longitude": "6.7618863",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33829,
-    "name": "Meiderich Bahnhof",
-    "latitude": "51.4676512",
-    "longitude": "6.779628",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36562,
-    "name": "Bismarckplatz",
-    "latitude": "51.4503568",
-    "longitude": "6.7078205",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34102,
-    "name": "Blumenkampshof",
-    "latitude": "51.4428378",
-    "longitude": "6.727289",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36525,
-    "name": "Auf dem Damm",
-    "latitude": "51.4656785",
-    "longitude": "6.7728775",
+    "id": 33863,
+    "name": "Uni/Walramsweg",
+    "latitude": "51.4272513",
+    "longitude": "6.7977608",
     "thumbnail_url": ""
   },
   {
@@ -2247,24 +2212,45 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34044,
+    "name": "Bahnhof Schlenk",
+    "latitude": "51.4010637",
+    "longitude": "6.7720819",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34017,
+    "name": "Jugendherberge/Stadion",
+    "latitude": "51.4106375",
+    "longitude": "6.777787",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36562,
+    "name": "Bismarckplatz",
+    "latitude": "51.4503568",
+    "longitude": "6.7078205",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34274,
+    "name": "Alte Ruhrorter Str./Duisport",
+    "latitude": "51.4491102",
+    "longitude": "6.7423707",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33829,
+    "name": "Meiderich Bahnhof",
+    "latitude": "51.4676512",
+    "longitude": "6.779628",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36535,
     "name": "St.Anna-Krankenhaus/U79",
     "latitude": "51.3644402",
     "longitude": "6.752373",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33830,
-    "name": "Landschaftspark",
-    "latitude": "51.4804825",
-    "longitude": "6.7835941",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36531,
-    "name": "Arndtstr./Friesenstr.",
-    "latitude": "51.4684694",
-    "longitude": "6.7260835",
     "thumbnail_url": ""
   },
   {
@@ -2275,17 +2261,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33828,
-    "name": "Yitzhak-Rabin-Platz",
-    "latitude": "51.4384771",
-    "longitude": "6.7645456",
+    "id": 33827,
+    "name": "Harry-Epstein-Platz",
+    "latitude": "51.4315468",
+    "longitude": "6.7750973",
     "thumbnail_url": ""
   },
   {
-    "id": 34044,
-    "name": "Bahnhof Schlenk",
-    "latitude": "51.4010637",
-    "longitude": "6.7720819",
+    "id": 34124,
+    "name": "Brückenplatz",
+    "latitude": "51.4245875",
+    "longitude": "6.7547027",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34052,
+    "name": "Bocksbartstrasse/ Düsseldorfer Str.",
+    "latitude": "51.4259992",
+    "longitude": "6.7648365",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36525,
+    "name": "Auf dem Damm",
+    "latitude": "51.4656785",
+    "longitude": "6.7728775",
     "thumbnail_url": ""
   },
   {
@@ -2300,13 +2300,6 @@
     "name": "Trompet Bf",
     "latitude": "51.4132015",
     "longitude": "6.6684815",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33863,
-    "name": "Uni/Walramsweg",
-    "latitude": "51.4272513",
-    "longitude": "6.7977608",
     "thumbnail_url": ""
   },
   {
@@ -2359,10 +2352,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33827,
-    "name": "Harry-Epstein-Platz",
-    "latitude": "51.4315468",
-    "longitude": "6.7750973",
+    "id": 33820,
+    "name": "HBF Portsmouthplatz",
+    "latitude": "51.4308463",
+    "longitude": "6.7737288",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36550,
+    "name": "Rheinhausen Ost Bf",
+    "latitude": "51.4014617",
+    "longitude": "6.7237254",
     "thumbnail_url": ""
   },
   {
@@ -2370,6 +2370,13 @@
     "name": "Walsum Rathaus/ Kometenplatz",
     "latitude": "51.5267768",
     "longitude": "6.7430046",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33878,
+    "name": "Schemkesweg",
+    "latitude": "51.4276413",
+    "longitude": "6.7851828",
     "thumbnail_url": ""
   },
   {
@@ -2387,13 +2394,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34236,
-    "name": "Heinrich-Lersch-Str.",
-    "latitude": "51.4289148",
-    "longitude": "6.7843312",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34258,
     "name": "Neumarkt Ruhrort",
     "latitude": "51.4536509",
@@ -2401,24 +2401,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33819,
-    "name": "Landgerichtstr.",
-    "latitude": "51.4333743",
-    "longitude": "6.7684489",
+    "id": 34102,
+    "name": "Blumenkampshof",
+    "latitude": "51.4428378",
+    "longitude": "6.727289",
     "thumbnail_url": ""
   },
   {
-    "id": 36544,
-    "name": "Lilienthalstr./Javastr.",
-    "latitude": "51.4360155",
-    "longitude": "6.7258353",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36526,
-    "name": "Haltest.Landschaftspark Nord",
-    "latitude": "51.4796355",
-    "longitude": "6.7929385",
+    "id": 34120,
+    "name": "Uni/Forsthausweg",
+    "latitude": "51.4284108",
+    "longitude": "6.8004466",
     "thumbnail_url": ""
   },
   {
@@ -2429,10 +2422,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33878,
-    "name": "Schemkesweg",
-    "latitude": "51.4276413",
-    "longitude": "6.7851828",
+    "id": 33862,
+    "name": "HBF Verknüpfungshalle Ost",
+    "latitude": "51.4318917",
+    "longitude": "6.7783159",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33828,
+    "name": "Yitzhak-Rabin-Platz",
+    "latitude": "51.4384771",
+    "longitude": "6.7645456",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36546,
+    "name": "Lutherplatz",
+    "latitude": "51.4331699",
+    "longitude": "6.7898586",
     "thumbnail_url": ""
   },
   {
@@ -2443,10 +2450,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33820,
-    "name": "HBF Portsmouthplatz",
-    "latitude": "51.4308463",
-    "longitude": "6.7737288",
+    "id": 33859,
+    "name": "HBF Osteingang",
+    "latitude": "51.4294286",
+    "longitude": "6.7773964",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34236,
+    "name": "Heinrich-Lersch-Str.",
+    "latitude": "51.4289148",
+    "longitude": "6.7843312",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33877,
+    "name": "Kammerstr./Wildstr.",
+    "latitude": "51.4222318",
+    "longitude": "6.7916962",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36526,
+    "name": "Haltest.Landschaftspark Nord",
+    "latitude": "51.4796355",
+    "longitude": "6.7929385",
     "thumbnail_url": ""
   },
   {
@@ -2457,6 +2485,27 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33830,
+    "name": "Landschaftspark",
+    "latitude": "51.4804825",
+    "longitude": "6.7835941",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34141,
+    "name": "Sternbuschweg/Flurstr.",
+    "latitude": "51.4293494",
+    "longitude": "6.7936303",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36544,
+    "name": "Lilienthalstr./Javastr.",
+    "latitude": "51.4360155",
+    "longitude": "6.7258353",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33822,
     "name": "Hansegracht",
     "latitude": "51.4405706",
@@ -2464,17 +2513,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34124,
-    "name": "Brückenplatz",
-    "latitude": "51.4245875",
-    "longitude": "6.7547027",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33826,
     "name": "Kuhtor",
     "latitude": "51.4341642",
     "longitude": "6.7626715",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34122,
+    "name": "Sternbuschweg/Koloniestr.",
+    "latitude": "51.4207876",
+    "longitude": "6.7841173",
     "thumbnail_url": ""
   },
   {
@@ -2492,52 +2541,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36546,
-    "name": "Lutherplatz",
-    "latitude": "51.4331699",
-    "longitude": "6.7898586",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33862,
-    "name": "HBF Verknüpfungshalle Ost",
-    "latitude": "51.4318917",
-    "longitude": "6.7783159",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33970,
     "name": "Friedrichsplatz",
     "latitude": "51.4557651",
     "longitude": "6.7351153",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34141,
-    "name": "Sternbuschweg/Flurstr.",
-    "latitude": "51.4293494",
-    "longitude": "6.7936303",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33877,
-    "name": "Kammerstr./Wildstr.",
-    "latitude": "51.4222318",
-    "longitude": "6.7916962",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33859,
-    "name": "HBF Osteingang",
-    "latitude": "51.4294286",
-    "longitude": "6.7773964",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33890,
-    "name": "Rathaus/Burgplatz",
-    "latitude": "51.4351845",
-    "longitude": "6.761689",
     "thumbnail_url": ""
   },
   {
@@ -2646,13 +2653,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34120,
-    "name": "Uni/Forsthausweg",
-    "latitude": "51.4284108",
-    "longitude": "6.8004466",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33987,
     "name": "Tausendfensterhaus",
     "latitude": "51.4513462",
@@ -2716,17 +2716,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36728,
-    "name": "Rosenhügel",
-    "latitude": "51.543576",
-    "longitude": "7.018639",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36724,
     "name": "Josefkirche",
     "latitude": "51.573088",
     "longitude": "6.951436",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36728,
+    "name": "Rosenhügel",
+    "latitude": "51.543576",
+    "longitude": "7.018639",
     "thumbnail_url": ""
   },
   {
@@ -2842,24 +2842,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36337,
-    "name": "Stadtteilzentrum Nord",
-    "latitude": "51.69062",
-    "longitude": "7.787535",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36333,
-    "name": "Schwimmbad Berge",
-    "latitude": "51.652113",
-    "longitude": "7.836362",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36324,
-    "name": "Herringer Markt",
-    "latitude": "51.659953",
-    "longitude": "7.742565",
+    "id": 36326,
+    "name": "Maxipark",
+    "latitude": "51.685854",
+    "longitude": "7.883841",
     "thumbnail_url": ""
   },
   {
@@ -2870,24 +2856,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36326,
-    "name": "Maxipark",
-    "latitude": "51.685854",
-    "longitude": "7.883841",
+    "id": 36332,
+    "name": "Lippepark",
+    "latitude": "51.663033",
+    "longitude": "7.749861",
     "thumbnail_url": ""
   },
   {
-    "id": 34053,
-    "name": "HSHL Campus Hamm",
-    "latitude": "51.6825641",
-    "longitude": "7.840092",
+    "id": 36324,
+    "name": "Herringer Markt",
+    "latitude": "51.659953",
+    "longitude": "7.742565",
     "thumbnail_url": ""
   },
   {
-    "id": 36331,
-    "name": "Bürgeramt Rhynern",
-    "latitude": "51.629697",
-    "longitude": "7.853137",
+    "id": 36333,
+    "name": "Schwimmbad Berge",
+    "latitude": "51.652113",
+    "longitude": "7.836362",
     "thumbnail_url": ""
   },
   {
@@ -2898,10 +2884,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36332,
-    "name": "Lippepark",
-    "latitude": "51.663033",
-    "longitude": "7.749861",
+    "id": 34043,
+    "name": "Oberlandesgericht Hamm",
+    "latitude": "51.6791421",
+    "longitude": "7.826589",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36331,
+    "name": "Bürgeramt Rhynern",
+    "latitude": "51.629697",
+    "longitude": "7.853137",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36337,
+    "name": "Stadtteilzentrum Nord",
+    "latitude": "51.69062",
+    "longitude": "7.787535",
     "thumbnail_url": ""
   },
   {
@@ -2954,6 +2954,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34053,
+    "name": "HSHL Campus Hamm",
+    "latitude": "51.6825641",
+    "longitude": "7.840092",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36339,
     "name": "Penny Hamm-Ost",
     "latitude": "51.691473",
@@ -2982,13 +2989,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34043,
-    "name": "Oberlandesgericht Hamm",
-    "latitude": "51.6791421",
-    "longitude": "7.826589",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36325,
     "name": "Heessener Markt",
     "latitude": "51.705795",
@@ -3014,13 +3014,6 @@
     "name": "Rathaus Hamm",
     "latitude": "51.6774521",
     "longitude": "7.821826",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34101,
-    "name": "Brüderstrasse",
-    "latitude": "51.6824051",
-    "longitude": "7.819342",
     "thumbnail_url": ""
   },
   {
@@ -3073,13 +3066,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33840,
-    "name": "Kettwig Brücke",
-    "latitude": "51.3613871",
-    "longitude": "6.937236",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33972,
     "name": "M1 - Tenderweg",
     "latitude": "51.4759371",
@@ -3087,17 +3073,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33833,
-    "name": "Viehofer Str. 41",
-    "latitude": "51.4613611",
-    "longitude": "7.013503",
+    "id": 34269,
+    "name": "Weserstraße",
+    "latitude": "51.4371341",
+    "longitude": "7.032763",
     "thumbnail_url": ""
   },
   {
-    "id": 34252,
-    "name": "Eltingstraße",
-    "latitude": "51.4657081",
-    "longitude": "7.015358",
+    "id": 37156,
+    "name": "UDE Sportcampus",
+    "latitude": "51.4746772",
+    "longitude": "7.0077093",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33981,
+    "name": "Mobilstation Florastraße",
+    "latitude": "51.4266041",
+    "longitude": "7.002749",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33948,
+    "name": "Gemarkenplatz SLR",
+    "latitude": "51.4417711",
+    "longitude": "6.997787",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34117,
+    "name": "Schützenbahn",
+    "latitude": "51.4619229",
+    "longitude": "7.0162436",
     "thumbnail_url": ""
   },
   {
@@ -3108,31 +3115,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34084,
+    "name": "Virchowstraße/Lehrzentrum",
+    "latitude": "51.4327881",
+    "longitude": "6.988797",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35129,
     "name": "Heßlerstraße",
     "latitude": "51.5090117",
     "longitude": "7.0075991",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33884,
-    "name": "Rüttenscheider Stern",
-    "latitude": "51.4381931",
-    "longitude": "7.005667",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33839,
-    "name": "Uniklinikum",
-    "latitude": "51.4362101",
-    "longitude": "6.99136",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34270,
-    "name": "Katernberger Markt",
-    "latitude": "51.4974171",
-    "longitude": "7.048187",
     "thumbnail_url": ""
   },
   {
@@ -3143,31 +3136,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33840,
+    "name": "Kettwig Brücke",
+    "latitude": "51.3613871",
+    "longitude": "6.937236",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34270,
+    "name": "Katernberger Markt",
+    "latitude": "51.4974171",
+    "longitude": "7.048187",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33887,
+    "name": "Essen Westbahnhof",
+    "latitude": "51.4537231",
+    "longitude": "6.980782",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34279,
     "name": "Bäuminghausstr. 64-66 Be-MoVe Mobilpunkt",
     "latitude": "51.4797081",
     "longitude": "7.005266",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34185,
-    "name": "Menzelstr. 24",
-    "latitude": "51.4406101",
-    "longitude": "6.986117",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33975,
-    "name": "Vereinstr.",
-    "latitude": "51.4565941",
-    "longitude": "7.006525",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37356,
-    "name": "Essen West 2",
-    "latitude": "51.455067",
-    "longitude": "6.980507",
     "thumbnail_url": ""
   },
   {
@@ -3185,31 +3178,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34066,
-    "name": "Rheinischer Platz",
-    "latitude": "51.4620561",
-    "longitude": "7.011901",
+    "id": 34235,
+    "name": "Cranachhöfen Be-MoVe Mobilpunkt",
+    "latitude": "51.4381341",
+    "longitude": "6.990594",
     "thumbnail_url": ""
   },
   {
-    "id": 33978,
-    "name": "Isenbergstr.",
-    "latitude": "51.4429781",
-    "longitude": "7.016305",
+    "id": 34092,
+    "name": "Ruhrbahn Essen",
+    "latitude": "51.4371491",
+    "longitude": "7.001477",
     "thumbnail_url": ""
   },
   {
-    "id": 34047,
-    "name": "EVAG-Betriebshof Schweriner Str.",
-    "latitude": "51.4408481",
-    "longitude": "6.96162",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33887,
-    "name": "Essen Westbahnhof",
-    "latitude": "51.4537231",
-    "longitude": "6.980782",
+    "id": 33839,
+    "name": "Uniklinikum",
+    "latitude": "51.4362101",
+    "longitude": "6.99136",
     "thumbnail_url": ""
   },
   {
@@ -3220,6 +3206,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37357,
+    "name": "Essen-Altenessen 1",
+    "latitude": "51.484573",
+    "longitude": "7.008769",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33885,
     "name": "Bredeney",
     "latitude": "51.4101951",
@@ -3227,17 +3220,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34089,
-    "name": "Corneliastraße",
-    "latitude": "51.4398881",
-    "longitude": "7.016627",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33977,
-    "name": "Huttropstraße",
-    "latitude": "51.4442081",
-    "longitude": "7.032135",
+    "id": 33975,
+    "name": "Vereinstr.",
+    "latitude": "51.4565941",
+    "longitude": "7.006525",
     "thumbnail_url": ""
   },
   {
@@ -3248,17 +3234,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33976,
-    "name": "Mobilstation Parkfriedhof",
-    "latitude": "51.4475897",
-    "longitude": "7.0436475",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34084,
-    "name": "Virchowstraße/Lehrzentrum",
-    "latitude": "51.4327881",
-    "longitude": "6.988797",
+    "id": 34187,
+    "name": "RWE AG",
+    "latitude": "51.4657361",
+    "longitude": "7.0136",
     "thumbnail_url": ""
   },
   {
@@ -3269,10 +3248,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33913,
-    "name": "Essen Borbeck Bahnhof",
-    "latitude": "51.4728831",
-    "longitude": "6.949319",
+    "id": 34129,
+    "name": "Niederfeldsee",
+    "latitude": "51.4657929",
+    "longitude": "6.9767932",
     "thumbnail_url": ""
   },
   {
@@ -3297,13 +3276,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37357,
-    "name": "Essen-Altenessen 1",
-    "latitude": "51.484573",
-    "longitude": "7.008769",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33942,
     "name": "Gervinusstraße",
     "latitude": "51.4495271",
@@ -3311,10 +3283,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34117,
-    "name": "Schützenbahn",
-    "latitude": "51.4616681",
-    "longitude": "7.016337",
+    "id": 33978,
+    "name": "Isenbergstr.",
+    "latitude": "51.4429781",
+    "longitude": "7.016305",
     "thumbnail_url": ""
   },
   {
@@ -3325,13 +3297,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33832,
-    "name": "Kopstadtplatz",
-    "latitude": "51.4584061",
-    "longitude": "7.011209",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33921,
     "name": "Universität/AStA",
     "latitude": "51.4626741",
@@ -3339,10 +3304,31 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34269,
-    "name": "Weserstraße",
-    "latitude": "51.4371341",
-    "longitude": "7.032763",
+    "id": 34047,
+    "name": "EVAG-Betriebshof Schweriner Str.",
+    "latitude": "51.4408481",
+    "longitude": "6.96162",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33976,
+    "name": "Mobilstation Parkfriedhof",
+    "latitude": "51.4475897",
+    "longitude": "7.0436475",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33832,
+    "name": "Kopstadtplatz",
+    "latitude": "51.4584061",
+    "longitude": "7.011209",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33705,
+    "name": "Essen Hauptbahnhof Nordausgang",
+    "latitude": "51.4520125",
+    "longitude": "7.0142371",
     "thumbnail_url": ""
   },
   {
@@ -3353,6 +3339,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33913,
+    "name": "Essen Borbeck Bahnhof",
+    "latitude": "51.4728831",
+    "longitude": "6.949319",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33842,
     "name": "Werden Bahnhof",
     "latitude": "51.3865821",
@@ -3360,24 +3353,38 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34092,
-    "name": "Ruhrbahn Essen",
-    "latitude": "51.4371491",
-    "longitude": "7.001477",
+    "id": 34252,
+    "name": "Eltingstraße",
+    "latitude": "51.4657081",
+    "longitude": "7.015358",
     "thumbnail_url": ""
   },
   {
-    "id": 34032,
-    "name": "I. Dellbrügge / Kettwiger Str.",
-    "latitude": "51.4545451",
-    "longitude": "7.013016",
+    "id": 33884,
+    "name": "Rüttenscheider Stern",
+    "latitude": "51.4381931",
+    "longitude": "7.005667",
     "thumbnail_url": ""
   },
   {
-    "id": 34271,
-    "name": "Isenbergstraße / Witteringstraße",
-    "latitude": "51.4415171",
-    "longitude": "7.016203",
+    "id": 33833,
+    "name": "Viehofer Str. 41",
+    "latitude": "51.4613611",
+    "longitude": "7.013503",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33915,
+    "name": "Altenessen Bahnhof",
+    "latitude": "51.4844901",
+    "longitude": "7.008773",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34066,
+    "name": "Rheinischer Platz",
+    "latitude": "51.4620561",
+    "longitude": "7.011901",
     "thumbnail_url": ""
   },
   {
@@ -3395,13 +3402,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33915,
-    "name": "Altenessen Bahnhof",
-    "latitude": "51.4844901",
-    "longitude": "7.008773",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33844,
     "name": "Universitätsstr.",
     "latitude": "51.4636411",
@@ -3416,13 +3416,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34081,
-    "name": "Mobilstation Landgericht",
-    "latitude": "51.4364737",
-    "longitude": "6.9985951",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34060,
     "name": "Mobilstation Kronprinzenstrasse",
     "latitude": "51.4453551",
@@ -3430,31 +3423,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33979,
-    "name": "Martinstr.",
-    "latitude": "51.4339991",
-    "longitude": "7.003559",
+    "id": 34081,
+    "name": "Mobilstation Landgericht",
+    "latitude": "51.4364737",
+    "longitude": "6.9985951",
     "thumbnail_url": ""
   },
   {
-    "id": 33916,
-    "name": "Altenessen Mitte",
-    "latitude": "51.4963541",
-    "longitude": "7.008516",
+    "id": 34271,
+    "name": "Isenbergstraße / Witteringstraße",
+    "latitude": "51.4415171",
+    "longitude": "7.016203",
     "thumbnail_url": ""
   },
   {
-    "id": 33948,
-    "name": "Gemarkenplatz SLR",
-    "latitude": "51.4417711",
-    "longitude": "6.997787",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34278,
-    "name": "Zwingliplatz 1 Be-MoVe Mobilpunkt",
-    "latitude": "51.4673671",
-    "longitude": "7.015742",
+    "id": 34089,
+    "name": "Corneliastraße",
+    "latitude": "51.4398881",
+    "longitude": "7.016627",
     "thumbnail_url": ""
   },
   {
@@ -3465,10 +3451,45 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33974,
-    "name": "Universität",
-    "latitude": "51.4649731",
-    "longitude": "7.001703",
+    "id": 34280,
+    "name": "Stankeitsr. 1 Be-MoVe Mobilpunkt",
+    "latitude": "51.4905221",
+    "longitude": "7.009882",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34185,
+    "name": "Menzelstr. 24",
+    "latitude": "51.4406101",
+    "longitude": "6.986117",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37356,
+    "name": "Essen West 2",
+    "latitude": "51.455067",
+    "longitude": "6.980507",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33916,
+    "name": "Altenessen Mitte",
+    "latitude": "51.4963541",
+    "longitude": "7.008516",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34278,
+    "name": "Zwingliplatz 1 Be-MoVe Mobilpunkt",
+    "latitude": "51.4673671",
+    "longitude": "7.015742",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33941,
+    "name": "Frohnhauser Platz",
+    "latitude": "51.4470531",
+    "longitude": "6.9784",
     "thumbnail_url": ""
   },
   {
@@ -3476,13 +3497,6 @@
     "name": "Kleine Lenbachstraße",
     "latitude": "51.4380071",
     "longitude": "6.983702",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34235,
-    "name": "Cranachhöfen Be-MoVe Mobilpunkt",
-    "latitude": "51.4381341",
-    "longitude": "6.990594",
     "thumbnail_url": ""
   },
   {
@@ -3528,38 +3542,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33705,
-    "name": "Essen Hauptbahnhof Nordausgang",
-    "latitude": "51.4520125",
-    "longitude": "7.0142371",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33980,
     "name": "Girardethaus",
     "latitude": "51.4300431",
     "longitude": "7.00321",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 37156,
-    "name": "UDE Sportcampus",
-    "latitude": "51.4746772",
-    "longitude": "7.0077093",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34187,
-    "name": "RWE AG",
-    "latitude": "51.4657361",
-    "longitude": "7.0136",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33941,
-    "name": "Frohnhauser Platz",
-    "latitude": "51.4470531",
-    "longitude": "6.9784",
     "thumbnail_url": ""
   },
   {
@@ -3574,13 +3560,6 @@
     "name": "Stadtwaldplatz",
     "latitude": "51.4198111",
     "longitude": "7.024544",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34280,
-    "name": "Stankeitsr. 1 Be-MoVe Mobilpunkt",
-    "latitude": "51.4905221",
-    "longitude": "7.009882",
     "thumbnail_url": ""
   },
   {
@@ -3605,13 +3584,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33981,
-    "name": "Mobilstation Florastraße",
-    "latitude": "51.4266041",
-    "longitude": "7.002749",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34232,
     "name": "Dahnstraße Be-MoVe Mobilpunkt",
     "latitude": "51.4499981",
@@ -3633,10 +3605,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34091,
-    "name": "Gußmannplatz",
-    "latitude": "51.4267621",
-    "longitude": "7.004449",
+    "id": 33974,
+    "name": "Universität",
+    "latitude": "51.4649731",
+    "longitude": "7.001703",
     "thumbnail_url": ""
   },
   {
@@ -3644,6 +3616,34 @@
     "name": "Boyer Str",
     "latitude": "51.5244074",
     "longitude": "7.0086769",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34091,
+    "name": "Gußmannplatz",
+    "latitude": "51.4267621",
+    "longitude": "7.004449",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33977,
+    "name": "Huttropstraße",
+    "latitude": "51.4442081",
+    "longitude": "7.032135",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34032,
+    "name": "I. Dellbrügge / Kettwiger Str.",
+    "latitude": "51.4545451",
+    "longitude": "7.013016",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33979,
+    "name": "Martinstr.",
+    "latitude": "51.4339991",
+    "longitude": "7.003559",
     "thumbnail_url": ""
   },
   {
@@ -3735,13 +3735,6 @@
     "name": "Mobilstation Steele",
     "latitude": "51.4501001",
     "longitude": "7.07576",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34129,
-    "name": "Niederfeldsee",
-    "latitude": "51.4657929",
-    "longitude": "6.9767932",
     "thumbnail_url": ""
   },
   {
@@ -3948,10 +3941,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36409,
-    "name": "Scherlebecker Straße",
-    "latitude": "51.6187206",
-    "longitude": "7.1424243",
+    "id": 36405,
+    "name": "Herten Mitte",
+    "latitude": "51.5948245",
+    "longitude": "7.1394145",
     "thumbnail_url": ""
   },
   {
@@ -3962,17 +3955,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36405,
-    "name": "Herten Mitte",
-    "latitude": "51.5948245",
-    "longitude": "7.1394145",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36416,
-    "name": "Ewaldstraße",
-    "latitude": "51.5784662",
-    "longitude": "7.1444849",
+    "id": 36409,
+    "name": "Scherlebecker Straße",
+    "latitude": "51.6187206",
+    "longitude": "7.1424243",
     "thumbnail_url": ""
   },
   {
@@ -3994,6 +3980,13 @@
     "name": "Herner Straße",
     "latitude": "51.5848147",
     "longitude": "7.146175",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36416,
+    "name": "Ewaldstraße",
+    "latitude": "51.5784662",
+    "longitude": "7.1444849",
     "thumbnail_url": ""
   },
   {
@@ -4088,17 +4081,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36690,
-    "name": "Markt Resse",
-    "latitude": "51.5816163",
-    "longitude": "7.1054911",
+    "id": 36704,
+    "name": "Almastraße",
+    "latitude": "51.506668",
+    "longitude": "7.1214561",
     "thumbnail_url": ""
   },
   {
-    "id": 36688,
-    "name": "Graf Bismarck",
-    "latitude": "51.5444954",
-    "longitude": "7.0928715",
+    "id": 36703,
+    "name": "Fürstinnenstraße",
+    "latitude": "51.5133028",
+    "longitude": "7.0714346",
     "thumbnail_url": ""
   },
   {
@@ -4106,6 +4099,20 @@
     "name": "Schloss Berge",
     "latitude": "51.568367",
     "longitude": "7.0688724",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33966,
+    "name": "Gelsenkirchen HBF Bahnhofsvorplatz",
+    "latitude": "51.5062751",
+    "longitude": "7.100644",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36685,
+    "name": "Hassel Bahnhof",
+    "latitude": "51.610905",
+    "longitude": "7.0662487",
     "thumbnail_url": ""
   },
   {
@@ -4130,31 +4137,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36958,
-    "name": "Melanchthonplatz",
-    "latitude": "51.520914",
-    "longitude": "7.0571",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36706,
-    "name": "Leipziger Straße",
-    "latitude": "51.519152",
-    "longitude": "7.0988375",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33889,
-    "name": "Buer Nordbahnhof",
-    "latitude": "51.5872101",
-    "longitude": "7.050219",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33858,
-    "name": "Freiheit",
-    "latitude": "51.5815331",
-    "longitude": "7.050809",
+    "id": 36690,
+    "name": "Markt Resse",
+    "latitude": "51.5816163",
+    "longitude": "7.1054911",
     "thumbnail_url": ""
   },
   {
@@ -4165,17 +4151,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34256,
-    "name": "Gelsenwasser",
-    "latitude": "51.5477101",
-    "longitude": "7.066955",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36704,
-    "name": "Almastraße",
-    "latitude": "51.506668",
-    "longitude": "7.1214561",
+    "id": 33858,
+    "name": "Freiheit",
+    "latitude": "51.5815331",
+    "longitude": "7.050809",
     "thumbnail_url": ""
   },
   {
@@ -4186,31 +4165,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36703,
-    "name": "Fürstinnenstraße",
-    "latitude": "51.5133028",
-    "longitude": "7.0714346",
+    "id": 33889,
+    "name": "Buer Nordbahnhof",
+    "latitude": "51.5872101",
+    "longitude": "7.050219",
     "thumbnail_url": ""
   },
   {
-    "id": 33852,
-    "name": "Zoom-Erlebniswelt",
-    "latitude": "51.5417851",
-    "longitude": "7.110326",
+    "id": 36706,
+    "name": "Leipziger Straße",
+    "latitude": "51.519152",
+    "longitude": "7.0988375",
     "thumbnail_url": ""
   },
   {
-    "id": 37159,
-    "name": "Ilse-Kibgis-Platz",
-    "latitude": "51.5311341",
-    "longitude": "7.0223483",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36685,
-    "name": "Hassel Bahnhof",
-    "latitude": "51.610905",
-    "longitude": "7.0662487",
+    "id": 36688,
+    "name": "Graf Bismarck",
+    "latitude": "51.5444954",
+    "longitude": "7.0928715",
     "thumbnail_url": ""
   },
   {
@@ -4228,6 +4200,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 33852,
+    "name": "Zoom-Erlebniswelt",
+    "latitude": "51.5417851",
+    "longitude": "7.110326",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37159,
+    "name": "Ilse-Kibgis-Platz",
+    "latitude": "51.5311341",
+    "longitude": "7.0223483",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34253,
     "name": "Revierpark Nienhausen",
     "latitude": "51.5038021",
@@ -4239,6 +4225,13 @@
     "name": "Schaffrathstraße",
     "latitude": "51.5607028",
     "longitude": "7.0253335",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36687,
+    "name": "Bismarckstraße",
+    "latitude": "51.5242152",
+    "longitude": "7.1022101",
     "thumbnail_url": ""
   },
   {
@@ -4267,13 +4260,6 @@
     "name": "Arenapark",
     "latitude": "51.5571761",
     "longitude": "7.066902",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36687,
-    "name": "Bismarckstraße",
-    "latitude": "51.5242152",
-    "longitude": "7.1022101",
     "thumbnail_url": ""
   },
   {
@@ -4319,6 +4305,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36958,
+    "name": "Melanchthonplatz",
+    "latitude": "51.520914",
+    "longitude": "7.0571",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33854,
     "name": "Schloss Horst",
     "latitude": "51.5365561",
@@ -4337,6 +4330,13 @@
     "name": "Im Brömm",
     "latitude": "51.5920486",
     "longitude": "7.0208338",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34256,
+    "name": "Gelsenwasser",
+    "latitude": "51.5477101",
+    "longitude": "7.066955",
     "thumbnail_url": ""
   },
   {
@@ -4386,13 +4386,6 @@
     "name": "Rotthausen Stadtteilbüro",
     "latitude": "51.4904959",
     "longitude": "7.0839561",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33966,
-    "name": "Gelsenkirchen HBF Bahnhofsvorplatz",
-    "latitude": "51.5062751",
-    "longitude": "7.100644",
     "thumbnail_url": ""
   },
   {
@@ -4487,13 +4480,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36511,
-    "name": "Pantrings Hof",
-    "latitude": "51.570417",
-    "longitude": "7.241306",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34242,
     "name": "Wananas",
     "latitude": "51.5404031",
@@ -4501,10 +4487,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34130,
-    "name": "Herne Rathaus",
-    "latitude": "51.5384211",
-    "longitude": "7.219369",
+    "id": 34181,
+    "name": "Wanner Markt",
+    "latitude": "51.5387151",
+    "longitude": "7.155785",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36511,
+    "name": "Pantrings Hof",
+    "latitude": "51.570417",
+    "longitude": "7.241306",
     "thumbnail_url": ""
   },
   {
@@ -4512,6 +4505,13 @@
     "name": "Auf der Wenge / Sankt-Jörgen-Platz",
     "latitude": "51.5130199",
     "longitude": "7.17909",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34130,
+    "name": "Herne Rathaus",
+    "latitude": "51.5384211",
+    "longitude": "7.219369",
     "thumbnail_url": ""
   },
   {
@@ -4578,17 +4578,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34073,
-    "name": "Archäologie-Museum / Kreuzkirche",
-    "latitude": "51.5361571",
-    "longitude": "7.2263706",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34068,
     "name": "Herne Bahnhof",
     "latitude": "51.5441801",
     "longitude": "7.218114",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34073,
+    "name": "Archäologie-Museum / Kreuzkirche",
+    "latitude": "51.5361571",
+    "longitude": "7.2263706",
     "thumbnail_url": ""
   },
   {
@@ -4648,13 +4648,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34181,
-    "name": "Wanner Markt",
-    "latitude": "51.5387151",
-    "longitude": "7.155785",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34131,
     "name": "Robert-Bosch-Straße",
     "latitude": "51.5554721",
@@ -4711,24 +4704,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37211,
-    "name": "Pferdebachstr./Schlachthofstr.",
-    "latitude": "51.4435842",
-    "longitude": "7.3421284",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34229,
-    "name": "Wiesenviertel",
-    "latitude": "51.4376741",
-    "longitude": "7.333514",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34220,
     "name": "Rathaus/ Innenstadt",
     "latitude": "51.4391541",
     "longitude": "7.336993",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34219,
+    "name": "Stockum",
+    "latitude": "51.4699091",
+    "longitude": "7.369584",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36733,
+    "name": "LWL Zeche Nachtigall",
+    "latitude": "51.4291568",
+    "longitude": "7.3126255",
     "thumbnail_url": ""
   },
   {
@@ -4739,10 +4732,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34211,
-    "name": "Annen",
-    "latitude": "51.4474361",
-    "longitude": "7.374775",
+    "id": 34229,
+    "name": "Wiesenviertel",
+    "latitude": "51.4376741",
+    "longitude": "7.333514",
     "thumbnail_url": ""
   },
   {
@@ -4750,6 +4743,13 @@
     "name": "Pferdebachstr./Ziegelstr.",
     "latitude": "51.4484991",
     "longitude": "7.347902",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34211,
+    "name": "Annen",
+    "latitude": "51.4474361",
+    "longitude": "7.374775",
     "thumbnail_url": ""
   },
   {
@@ -4774,6 +4774,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34072,
+    "name": "HBF Witten",
+    "latitude": "51.4356411",
+    "longitude": "7.330779",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34230,
     "name": "Marienhospital",
     "latitude": "51.4447031",
@@ -4785,13 +4792,6 @@
     "name": "Pestalozziplatz",
     "latitude": "51.4378911",
     "longitude": "7.357558",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34072,
-    "name": "HBF Witten",
-    "latitude": "51.4356411",
-    "longitude": "7.330779",
     "thumbnail_url": ""
   },
   {
@@ -4830,6 +4830,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 37211,
+    "name": "Pferdebachstr./Schlachthofstr.",
+    "latitude": "51.4435842",
+    "longitude": "7.3421284",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34227,
     "name": "Rüdinghausen",
     "latitude": "51.4516091",
@@ -4837,24 +4844,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34219,
-    "name": "Stockum",
-    "latitude": "51.4699091",
-    "longitude": "7.369584",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34212,
     "name": "Bommern",
     "latitude": "51.4178531",
     "longitude": "7.338133",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36733,
-    "name": "LWL Zeche Nachtigall",
-    "latitude": "51.4291568",
-    "longitude": "7.3126255",
     "thumbnail_url": ""
   },
   {
@@ -4872,10 +4865,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36969,
-    "name": "Mühlenstraße",
-    "latitude": "51.7437448",
-    "longitude": "7.1879023",
+    "id": 36424,
+    "name": "Jugendherberge",
+    "latitude": "51.7508954",
+    "longitude": "7.2457886",
     "thumbnail_url": ""
   },
   {
@@ -4886,17 +4879,17 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36969,
+    "name": "Mühlenstraße",
+    "latitude": "51.7437448",
+    "longitude": "7.1879023",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36425,
     "name": "Stadtmühlenbucht",
     "latitude": "51.7539908",
     "longitude": "7.2084089",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36424,
-    "name": "Jugendherberge",
-    "latitude": "51.7508954",
-    "longitude": "7.2457886",
     "thumbnail_url": ""
   },
   {
@@ -4916,29 +4909,15 @@
   {
     "id": 36428,
     "name": "Bahnhof Haltern am See",
-    "latitude": "51.7377454",
-    "longitude": "7.1832281",
+    "latitude": "51.7376056",
+    "longitude": "7.1828599",
     "thumbnail_url": ""
   },
   {
-    "id": 36671,
-    "name": "Busbahnhof Marl",
-    "latitude": "51.6539117",
-    "longitude": "7.0993278",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36681,
-    "name": "Haltestelle Paracelsus-Klinik",
-    "latitude": "51.6640997",
-    "longitude": "7.1231095",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36667,
-    "name": "Bürgerbad an der Loemühle",
-    "latitude": "51.6570953",
-    "longitude": "7.139267",
+    "id": 36674,
+    "name": "Zentraler Betriebshof Stadt Marl",
+    "latitude": "51.6652689",
+    "longitude": "7.0834673",
     "thumbnail_url": ""
   },
   {
@@ -4946,6 +4925,13 @@
     "name": "Marl-Polsum",
     "latitude": "51.6271229",
     "longitude": "7.0523916",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36681,
+    "name": "Haltestelle Paracelsus-Klinik",
+    "latitude": "51.6640997",
+    "longitude": "7.1231095",
     "thumbnail_url": ""
   },
   {
@@ -4970,10 +4956,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36670,
-    "name": "Harkortschule",
-    "latitude": "51.6722142",
-    "longitude": "7.111519",
+    "id": 36667,
+    "name": "Bürgerbad an der Loemühle",
+    "latitude": "51.6570953",
+    "longitude": "7.139267",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36671,
+    "name": "Busbahnhof Marl",
+    "latitude": "51.6539117",
+    "longitude": "7.0993278",
     "thumbnail_url": ""
   },
   {
@@ -5040,13 +5033,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36674,
-    "name": "Zentraler Betriebshof Stadt Marl",
-    "latitude": "51.6722142",
-    "longitude": "7.111519",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36682,
     "name": "Römerstraße",
     "latitude": "51.6657477",
@@ -5061,13 +5047,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34193,
-    "name": "Südliche Innenstadt",
-    "latitude": "51.6107811",
-    "longitude": "7.523826",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34245,
     "name": "Dortmunder Straße",
     "latitude": "51.6119811",
@@ -5075,10 +5054,31 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34207,
+    "name": "Verkehrshof",
+    "latitude": "51.5949081",
+    "longitude": "7.441328",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34191,
+    "name": "Nördliche Innenstadt",
+    "latitude": "51.6172781",
+    "longitude": "7.525709",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34251,
     "name": "Alstedde / Berggarten",
     "latitude": "51.6271071",
     "longitude": "7.485525",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34193,
+    "name": "Südliche Innenstadt",
+    "latitude": "51.6107811",
+    "longitude": "7.523826",
     "thumbnail_url": ""
   },
   {
@@ -5096,10 +5096,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34194,
+    "name": "Schützenhof",
+    "latitude": "51.6223311",
+    "longitude": "7.526536",
+    "thumbnail_url": ""
+  },
+  {
     "id": 34210,
     "name": "Beckinghausen",
     "latitude": "51.6119631",
     "longitude": "7.56275",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34205,
+    "name": "St. Marien Hospital",
+    "latitude": "51.6199461",
+    "longitude": "7.517871",
     "thumbnail_url": ""
   },
   {
@@ -5114,13 +5128,6 @@
     "name": "Preußenstraße",
     "latitude": "51.5928441",
     "longitude": "7.549448",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34205,
-    "name": "St. Marien Hospital",
-    "latitude": "51.6199461",
-    "longitude": "7.517871",
     "thumbnail_url": ""
   },
   {
@@ -5142,13 +5149,6 @@
     "name": "Aurubis",
     "latitude": "51.6065391",
     "longitude": "7.510482",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34207,
-    "name": "Verkehrshof",
-    "latitude": "51.5949081",
-    "longitude": "7.441328",
     "thumbnail_url": ""
   },
   {
@@ -5194,24 +5194,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34191,
-    "name": "Nördliche Innenstadt",
-    "latitude": "51.6172781",
-    "longitude": "7.525709",
-    "thumbnail_url": ""
-  },
-  {
     "id": 34244,
     "name": "Waltroper Straße",
     "latitude": "51.5986471",
     "longitude": "7.437867",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34194,
-    "name": "Schützenhof",
-    "latitude": "51.6223311",
-    "longitude": "7.526536",
     "thumbnail_url": ""
   },
   {
@@ -5271,13 +5257,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36450,
-    "name": "Busbahnhof Dorsten",
-    "latitude": "51.6585701",
-    "longitude": "6.9699877",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36453,
     "name": "Georgplatz",
     "latitude": "51.6599968",
@@ -5289,6 +5268,13 @@
     "name": "Bochumer Str. Dorsten",
     "latitude": "51.6520089",
     "longitude": "6.9804483",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36450,
+    "name": "Busbahnhof Dorsten",
+    "latitude": "51.6585701",
+    "longitude": "6.9699877",
     "thumbnail_url": ""
   },
   {
@@ -5383,10 +5369,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36488,
-    "name": "Eisenstraße",
-    "latitude": "51.4646538",
-    "longitude": "6.6464775",
+    "id": 36287,
+    "name": "Königlicher Hof",
+    "latitude": "51.4511773",
+    "longitude": "6.6297677",
     "thumbnail_url": ""
   },
   {
@@ -5394,6 +5380,20 @@
     "name": "Kirschenallee",
     "latitude": "51.4563049",
     "longitude": "6.6540746",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36503,
+    "name": "Rheinstraße",
+    "latitude": "51.4108382",
+    "longitude": "6.5976822",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36497,
+    "name": "Universumplatz",
+    "latitude": "51.4643918",
+    "longitude": "6.6628464",
     "thumbnail_url": ""
   },
   {
@@ -5411,13 +5411,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36503,
-    "name": "Rheinstraße",
-    "latitude": "51.4108382",
-    "longitude": "6.5976822",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36494,
     "name": "Am Sportzentrum",
     "latitude": "51.4808862",
@@ -5425,24 +5418,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36272,
-    "name": "Moers Bahnhof",
-    "latitude": "51.4505388",
-    "longitude": "6.6408113",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36497,
-    "name": "Universumplatz",
-    "latitude": "51.4643918",
-    "longitude": "6.6628464",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 36287,
-    "name": "Königlicher Hof",
-    "latitude": "51.4511773",
-    "longitude": "6.6297677",
+    "id": 36286,
+    "name": "Wilhelm-Müller-Straße",
+    "latitude": "51.4417949",
+    "longitude": "6.6453546",
     "thumbnail_url": ""
   },
   {
@@ -5460,10 +5439,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36286,
-    "name": "Wilhelm-Müller-Straße",
-    "latitude": "51.4417949",
-    "longitude": "6.6453546",
+    "id": 36272,
+    "name": "Moers Bahnhof",
+    "latitude": "51.4505388",
+    "longitude": "6.6408113",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36488,
+    "name": "Eisenstraße",
+    "latitude": "51.4646538",
+    "longitude": "6.6464775",
     "thumbnail_url": ""
   },
   {
@@ -5565,10 +5551,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33869,
-    "name": "Stadtmitte / Leineweberstr.",
-    "latitude": "51.4268721",
-    "longitude": "6.880124",
+    "id": 34177,
+    "name": "Sültenfuss",
+    "latitude": "51.4508801",
+    "longitude": "6.859346",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34100,
+    "name": "Mülheim an der Ruhr HBF Nordeingang",
+    "latitude": "51.4316211",
+    "longitude": "6.886062",
     "thumbnail_url": ""
   },
   {
@@ -5576,13 +5569,6 @@
     "name": "Klostermarkt",
     "latitude": "51.4028871",
     "longitude": "6.879609",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34177,
-    "name": "Sültenfuss",
-    "latitude": "51.4508801",
-    "longitude": "6.859346",
     "thumbnail_url": ""
   },
   {
@@ -5600,10 +5586,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34195,
-    "name": "HRW/Duisburger Straße",
-    "latitude": "51.4271231",
-    "longitude": "6.857829",
+    "id": 33869,
+    "name": "Stadtmitte / Leineweberstr.",
+    "latitude": "51.4268721",
+    "longitude": "6.880124",
     "thumbnail_url": ""
   },
   {
@@ -5614,6 +5600,20 @@
     "thumbnail_url": ""
   },
   {
+    "id": 34064,
+    "name": "MWB / Friedrich-Ebert-Straße",
+    "latitude": "51.4280391",
+    "longitude": "6.879383",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34195,
+    "name": "HRW/Duisburger Straße",
+    "latitude": "51.4271231",
+    "longitude": "6.857829",
+    "thumbnail_url": ""
+  },
+  {
     "id": 33876,
     "name": "Schloss Broich / Stadthalle",
     "latitude": "51.4277151",
@@ -5621,24 +5621,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33907,
-    "name": "Speldorf-Betriebshof",
-    "latitude": "51.4290591",
-    "longitude": "6.840143",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 34100,
-    "name": "Mülheim an der Ruhr HBF Nordeingang",
-    "latitude": "51.4316211",
-    "longitude": "6.886062",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 33904,
-    "name": "Sportzentrum Südstraße",
-    "latitude": "51.4232091",
-    "longitude": "6.891367",
+    "id": 33868,
+    "name": "Kaiserplatz",
+    "latitude": "51.4280431",
+    "longitude": "6.884463",
     "thumbnail_url": ""
   },
   {
@@ -5663,10 +5649,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34064,
-    "name": "MWB / Friedrich-Ebert-Straße",
-    "latitude": "51.4280391",
-    "longitude": "6.879383",
+    "id": 33907,
+    "name": "Speldorf-Betriebshof",
+    "latitude": "51.4290591",
+    "longitude": "6.840143",
     "thumbnail_url": ""
   },
   {
@@ -5677,17 +5663,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33906,
-    "name": "Gathestr.",
-    "latitude": "51.4564541",
-    "longitude": "6.887248",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33867,
     "name": "Mülheim HBF Westeingang",
     "latitude": "51.4298991",
     "longitude": "6.886137",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 33906,
+    "name": "Gathestr.",
+    "latitude": "51.4564541",
+    "longitude": "6.887248",
     "thumbnail_url": ""
   },
   {
@@ -5719,10 +5705,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33868,
-    "name": "Kaiserplatz",
-    "latitude": "51.4280431",
-    "longitude": "6.884463",
+    "id": 33904,
+    "name": "Sportzentrum Südstraße",
+    "latitude": "51.4232091",
+    "longitude": "6.891367",
     "thumbnail_url": ""
   },
   {
@@ -5831,17 +5817,17 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36396,
-    "name": "Marktplatz Waltrop",
-    "latitude": "51.6237678",
-    "longitude": "7.3992794",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36398,
     "name": "Geschäftsbereich Dortmunder Str.",
     "latitude": "51.6231124",
     "longitude": "7.4114984",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36396,
+    "name": "Marktplatz Waltrop",
+    "latitude": "51.6237678",
+    "longitude": "7.3992794",
     "thumbnail_url": ""
   },
   {
@@ -5887,13 +5873,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36359,
-    "name": "Heidekirche",
-    "latitude": "51.5076206",
-    "longitude": "6.8694276",
-    "thumbnail_url": ""
-  },
-  {
     "id": 33898,
     "name": "Wehrstr. / Mellinghofer Str.",
     "latitude": "51.4705671",
@@ -5901,10 +5880,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36362,
-    "name": "Stadion Niederrhein",
-    "latitude": "51.4946382",
-    "longitude": "6.8553544",
+    "id": 34201,
+    "name": "HBF Oberhausen",
+    "latitude": "51.4737424",
+    "longitude": "6.8536225",
     "thumbnail_url": ""
   },
   {
@@ -5915,17 +5894,24 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36368,
-    "name": "Grenzstr.",
-    "latitude": "51.4650265",
-    "longitude": "6.8486795",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36360,
     "name": "Revierpark Vonderort",
     "latitude": "51.5084465",
     "longitude": "6.9033908",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36362,
+    "name": "Stadion Niederrhein",
+    "latitude": "51.4946382",
+    "longitude": "6.8553544",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36359,
+    "name": "Heidekirche",
+    "latitude": "51.5076206",
+    "longitude": "6.8694276",
     "thumbnail_url": ""
   },
   {
@@ -5950,10 +5936,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34204,
-    "name": "Neue Mitte / CentrO.",
-    "latitude": "51.489015",
-    "longitude": "6.8740953",
+    "id": 33880,
+    "name": "Schloss Oberhausen",
+    "latitude": "51.4926731",
+    "longitude": "6.861165",
     "thumbnail_url": ""
   },
   {
@@ -5982,6 +5968,13 @@
     "name": "Schmachtendorf Mitte",
     "latitude": "51.5412511",
     "longitude": "6.818733",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 36368,
+    "name": "Grenzstr.",
+    "latitude": "51.4650265",
+    "longitude": "6.8486795",
     "thumbnail_url": ""
   },
   {
@@ -6069,13 +6062,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 33880,
-    "name": "Schloss Oberhausen",
-    "latitude": "51.4926731",
-    "longitude": "6.861165",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36369,
     "name": "Theater",
     "latitude": "51.4761822",
@@ -6160,13 +6146,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 34201,
-    "name": "HBF Oberhausen",
-    "latitude": "51.4737424",
-    "longitude": "6.8536225",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36371,
     "name": "Obere Marktstraße",
     "latitude": "51.4684531",
@@ -6178,6 +6157,13 @@
     "name": "Styrum Josefstr.",
     "latitude": "51.4614741",
     "longitude": "6.851864",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 34204,
+    "name": "Neue Mitte / CentrO.",
+    "latitude": "51.489015",
+    "longitude": "6.8740953",
     "thumbnail_url": ""
   },
   {

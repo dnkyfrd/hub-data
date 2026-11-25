@@ -7,6 +7,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35734,
+    "name": "Meritullinkatu 3",
+    "latitude": "60.170803",
+    "longitude": "24.95861",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35685,
     "name": "Urho Kekkosen katu 2",
     "latitude": "60.16905",
@@ -18,13 +25,6 @@
     "name": "Yrjönkatu 9",
     "latitude": "60.1660859",
     "longitude": "24.9416199",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35734,
-    "name": "Meritullinkatu 3",
-    "latitude": "60.170803",
-    "longitude": "24.95861",
     "thumbnail_url": ""
   },
   {
@@ -56,10 +56,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35990,
-    "name": "Kolmas linja 18",
-    "latitude": "60.183136",
-    "longitude": "24.947266",
+    "id": 35787,
+    "name": "Laivasillankatu - Ehrenströmintie",
+    "latitude": "60.160916",
+    "longitude": "24.956339",
     "thumbnail_url": ""
   },
   {
@@ -70,24 +70,10 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35888,
-    "name": "Firdonkatu",
-    "latitude": "60.199099",
-    "longitude": "24.93094",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35619,
     "name": "Hernesaarenranta 3",
     "latitude": "60.152217",
     "longitude": "24.929796",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35787,
-    "name": "Laivasillankatu - Ehrenströmintie",
-    "latitude": "60.160916",
-    "longitude": "24.956339",
     "thumbnail_url": ""
   },
   {
@@ -109,6 +95,20 @@
     "name": "Eteläinen Hesperiankatu 26",
     "latitude": "60.176495",
     "longitude": "24.92176",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35888,
+    "name": "Firdonkatu",
+    "latitude": "60.199099",
+    "longitude": "24.93094",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 37287,
+    "name": "Atlantinkatu",
+    "latitude": "60.1550557",
+    "longitude": "24.910114",
     "thumbnail_url": ""
   },
   {
@@ -154,13 +154,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 36017,
-    "name": "Aleksis Kiven katu 23",
-    "latitude": "60.19283",
-    "longitude": "24.944389",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36004,
     "name": "Fleminginkatu 32",
     "latitude": "60.189977",
@@ -186,6 +179,13 @@
     "name": "Mannerheimintie 6",
     "latitude": "60.166987",
     "longitude": "24.942417",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35990,
+    "name": "Kolmas linja 18",
+    "latitude": "60.183136",
+    "longitude": "24.947266",
     "thumbnail_url": ""
   },
   {
@@ -287,13 +287,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 37287,
-    "name": "Atlantinkatu",
-    "latitude": "60.1550557",
-    "longitude": "24.910114",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35979,
     "name": "Franzéninkatu 5",
     "latitude": "60.186173",
@@ -375,13 +368,6 @@
     "name": "Ratapihantie",
     "latitude": "60.2012741",
     "longitude": "24.9333637",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35614,
-    "name": "Länsisatamankatu 45",
-    "latitude": "60.152786",
-    "longitude": "24.91657",
     "thumbnail_url": ""
   },
   {
@@ -525,13 +511,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35789,
-    "name": "Linnankatu 14",
-    "latitude": "60.164975",
-    "longitude": "24.971618",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35808,
     "name": "Bulevardi 1",
     "latitude": "60.166453",
@@ -564,13 +543,6 @@
     "name": "Sibeliuksenkatu, Topeliuksenpuisto",
     "latitude": "60.181542",
     "longitude": "24.919977",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35691,
-    "name": "Lapinrinne 2",
-    "latitude": "60.165919",
-    "longitude": "24.926973",
     "thumbnail_url": ""
   },
   {
@@ -728,6 +700,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35715,
+    "name": "Kaivokatu 1",
+    "latitude": "60.170559",
+    "longitude": "24.940708",
+    "thumbnail_url": ""
+  },
+  {
     "id": 36204,
     "name": "Villa Gyllenberg ",
     "latitude": "60.1839204",
@@ -798,6 +777,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 36017,
+    "name": "Aleksis Kiven katu 23",
+    "latitude": "60.19283",
+    "longitude": "24.944389",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35976,
     "name": "Linnunlauluntie 11",
     "latitude": "60.182203",
@@ -809,6 +795,13 @@
     "name": "Urheilukatu 2",
     "latitude": "60.184486",
     "longitude": "24.925497",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35691,
+    "name": "Lapinrinne 2",
+    "latitude": "60.165919",
+    "longitude": "24.926973",
     "thumbnail_url": ""
   },
   {
@@ -959,13 +952,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35715,
-    "name": "Kaivokatu 1",
-    "latitude": "60.170559",
-    "longitude": "24.940708",
-    "thumbnail_url": ""
-  },
-  {
     "id": 36210,
     "name": "Tammasaarenkatu 7",
     "latitude": "60.1618385",
@@ -1001,13 +987,6 @@
     "thumbnail_url": ""
   },
   {
-    "id": 35711,
-    "name": "Tekla Hultinin Aukio",
-    "latitude": "60.172638",
-    "longitude": "24.937038",
-    "thumbnail_url": ""
-  },
-  {
     "id": 35735,
     "name": "Kirkkokatu 18",
     "latitude": "60.170752",
@@ -1019,13 +998,6 @@
     "name": "Mechelininkatu 36",
     "latitude": "60.17976",
     "longitude": "24.915941",
-    "thumbnail_url": ""
-  },
-  {
-    "id": 35714,
-    "name": "Elielinaukio",
-    "latitude": "60.171789",
-    "longitude": "24.938952",
     "thumbnail_url": ""
   },
   {
@@ -1050,6 +1022,13 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35789,
+    "name": "Linnankatu 14",
+    "latitude": "60.164975",
+    "longitude": "24.971618",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35834,
     "name": "Siltasaarenkatu 14",
     "latitude": "60.179083",
@@ -1057,10 +1036,24 @@
     "thumbnail_url": ""
   },
   {
+    "id": 35711,
+    "name": "Tekla Hultinin Aukio",
+    "latitude": "60.172638",
+    "longitude": "24.937038",
+    "thumbnail_url": ""
+  },
+  {
     "id": 35857,
     "name": "Veturitori",
     "latitude": "60.199797",
     "longitude": "24.9347",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35614,
+    "name": "Länsisatamankatu 45",
+    "latitude": "60.152786",
+    "longitude": "24.91657",
     "thumbnail_url": ""
   },
   {
@@ -1663,6 +1656,13 @@
     "name": "Mannerheimintie 3",
     "latitude": "60.168887",
     "longitude": "24.940353",
+    "thumbnail_url": ""
+  },
+  {
+    "id": 35714,
+    "name": "Elielinaukio",
+    "latitude": "60.171789",
+    "longitude": "24.938952",
     "thumbnail_url": ""
   },
   {
