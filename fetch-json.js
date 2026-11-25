@@ -48,9 +48,7 @@ export const cities = [
       'https://stables.donkey.bike/api/public/cities/643/hubs/'
     ]
   },
-  { name: 'rotterdam', endpoints: ['https://stables.donkey.bike/api/public/cities/21/hubs/'] },
   { name: 'the-hague', endpoints: ['https://stables.donkey.bike/api/public/cities/306/hubs/'] },
-  { name: 'barcelona', endpoints: ['https://stables.donkey.bike/api/public/cities/8/hubs/'] },
   { name: 'varberg', endpoints: ['https://stables.donkey.bike/api/public/cities/315/hubs/'] },
   { name: 'geneva', endpoints: ['https://stables.donkey.bike/api/public/cities/217/hubs/'] },
   { name: 'kreuzlingen', endpoints: ['https://stables.donkey.bike/api/public/cities/304/hubs/'] },
